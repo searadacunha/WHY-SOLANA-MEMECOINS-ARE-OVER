@@ -2,6 +2,8 @@
 
 Investigation of the token `9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump`, written 2026-11-03. The main on-chain and X claims have a line in [EVIDENCE_LEDGER.csv](EVIDENCE_LEDGER.csv), and `code/check_ledger.py` re-derives the checked ones from the raw transactions and posts saved in `evidence/`. Counts come from `evidence/numbers.json` and `evidence/followups.json`.
 
+> **Post-publication correction: 13 November 2026 (amendment 14).** This report preserves its 3 November historical snapshot. The later [Lead 5 replay](LEAD5_BY4StcU9.md), computed from 1,000 successful transactions up to the deployer's first funding, finds **574 distinct wallet counterparties** under the strict predeclared service threshold (500). The earlier statement below of "248 counterparties in 1,000 transactions" was based on a cited probe containing only **346 transactions** and should **not** be treated as a complete 1,000-transaction test. For the **20 April 2026 funding window**, `BY4StcU9` is therefore a **service stop point under the plan's behavioural rule**, not a personal link. The separate August funding-chain paths were not re-run; no operator is identified. The original report text and evidence remain intact for the audit trail.
+
 ## The answer
 
 **No on-chain or public evidence found here ties Ansem to organising this launch or a network of launches. This does not clear him: chain data cannot see a private agreement or a wallet nobody has tied to him, and some facts stay unexplained.**
