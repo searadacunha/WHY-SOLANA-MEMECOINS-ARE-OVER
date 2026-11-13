@@ -19,3 +19,7 @@ Dated. The plan itself was not rewritten. Items 8 to 12 were found by an indepen
 13. **For the author to decide.** Whether these deviations are acceptable for a published conclusion, and whether `BY4StcU9` should be classified before anything cites it.
 
 Credits used: see `RUN_MANIFEST.json`. The ceiling of 150,000 was not raised.
+
+## 2026-11-13
+
+14. **Lead 5 followed up after the report** ([LEAD5_BY4StcU9.md](LEAD5_BY4StcU9.md)). The plan's 500-counterparty test, run on the 1,000 transactions of `BY4StcU9` up to its funding of the deployer, classifies it as a service: 574 distinct wallet counterparties. This answers item 13 for that window. The samples and a first counting rule were committed before reading (e41244d). A strict rule and a three-way verdict were added after the samples were collected and before any count (2135b2a), after a review of the first rule; both counts are published. Reads went through the public RPC, apart from a few through a Helius key of the research pool; the credit count of `RUN_MANIFEST.json` is unchanged.

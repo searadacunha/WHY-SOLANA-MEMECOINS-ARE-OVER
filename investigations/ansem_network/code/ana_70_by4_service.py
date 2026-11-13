@@ -180,7 +180,7 @@ def sample(sigs: list[str], txs: dict[str, Any], failed: int) -> dict[str, Any]:
         "fee_paid_by_BY4": payer,
         "opened_by_a_durable_nonce": sum(authorities.values()),
         "nonce_authorities": authorities.most_common(3),
-        "other_signers": cosigners.most_common(3),
+        "main_other_signer": cosigners.most_common(1),  # the others are not named: few transactions each
         "counterparties_strict": strict,
         "counterparties_strict_sent_to": len(sent_to),
         "counterparties_strict_received_from": len(got_from),

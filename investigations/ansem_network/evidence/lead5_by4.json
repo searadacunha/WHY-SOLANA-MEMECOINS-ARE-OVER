@@ -1,0 +1,166 @@
+{
+ "test": "PLAN.md: at least 500 distinct counterparties in a sample of 1,000 transactions. Rules in code/ana_70_by4_service.py",
+ "address": "BY4StcU9Y2BpgH8quZzorg31EGE4L1rjomN8FNsCBEcx",
+ "raw_sha256": {
+  "lead5_by4_sigs.json.gz": "acc1691b9a6b8c2df8f3afa3f45fc6784d5e0a3f599a0ab58563a2bdf1432cd4",
+  "lead5_by4_txs.json.gz": "7befe42cface19ae4e2710aaafc772bcf1cffaa8394ac6bab05e58b1588818d6"
+ },
+ "anchor_of_sample_A": {
+  "block_time": 1776690050,
+  "signature": "9czZebqrKvs7HKrdWTbVFa3eUBTnEev2CKLnrwZNJYZGm6DLPfwcWBHE44AEQrSeqYa3Y1nBya3eUzrvJFJjP4f",
+  "slot": 414479402
+ },
+ "A_up_to_the_funding_of_the_deployer": {
+  "failed_skipped": 8,
+  "transactions": 1000,
+  "first_utc": "2026-04-19 23:11:31",
+  "last_utc": "2026-04-20 13:00:49",
+  "span_hours": 13.82,
+  "per_day": 1736.4,
+  "signed_by_BY4": 763,
+  "fee_paid_by_BY4": 763,
+  "opened_by_a_durable_nonce": 959,
+  "nonce_authorities": [
+   [
+    "38QU8LKVK1Ew5uzsqttamNTTFxvnfzgi2ACQvj3ekuom",
+    958
+   ],
+   [
+    "EgQX9R3Qph1dPHE1Ysou1auSYqRGomCNmLDC28Yg77aq",
+    1
+   ]
+  ],
+  "main_other_signer": [
+   [
+    "38QU8LKVK1Ew5uzsqttamNTTFxvnfzgi2ACQvj3ekuom",
+    958
+   ]
+  ],
+  "counterparties_strict": 574,
+  "counterparties_strict_sent_to": 500,
+  "counterparties_strict_received_from": 73,
+  "counterparties_strict_if_failed_count_in_the_1000": 571,
+  "counterparties_first_rule": 576,
+  "counterparties_first_rule_with_dust_edges": 596,
+  "counterparties_broad": 596,
+  "verdict": "service by the plan's test",
+  "verdict_first_rule": "service by the plan's test",
+  "max_transactions_with_one_strict_counterparty": 85,
+  "strict_counterparties_in_one_transaction_only": 489,
+  "sol_sent": 15675.022,
+  "sol_received": 12059.048,
+  "mints_sent": [
+   {
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "transfers": 216,
+    "min": 2.0,
+    "max": 125000.0
+   },
+   {
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "transfers": 34,
+    "min": 47.0787,
+    "max": 347351.818
+   },
+   {
+    "mint": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+    "transfers": 31,
+    "min": 2975.7688,
+    "max": 34217.016983
+   },
+   {
+    "mint": "GbbesPbaYh5uiAZSYNXTc7w9jty1rpg3P9L4JeN4LkKc",
+    "transfers": 28,
+    "min": 2733.53228,
+    "max": 132192.37891
+   },
+   {
+    "mint": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+    "transfers": 25,
+    "min": 2368.9084,
+    "max": 600020.0
+   }
+  ],
+  "token_transfers_with_no_known_owner": 0,
+  "sol_edges_to_the_deployer": 1,
+  "exploratory_X": {
+   "sol_recipients": 276,
+   "sol_recipients_empty_before": 169,
+   "sol_senders": 73,
+   "largest_sender_share_of_sol_received": 0.341
+  },
+  "latest_funding_of_the_deployer": {
+   "signature": "4bv34kJFT2BnsvW7sbCRNPS59Y6Ggjj6REQdpQLZ1DYQh6Zw9AtXoWPoQVBZxQRemDoTt3QyuFSrXfxdAK5Nu7Z7",
+   "utc": "2026-04-20 13:00:49",
+   "sol": 4.431561
+  }
+ },
+ "B_most_recent": {
+  "failed_skipped": 0,
+  "transactions": 1000,
+  "first_utc": "2026-09-19 17:08:48",
+  "last_utc": "2026-11-01 06:57:28",
+  "span_hours": 1021.81,
+  "per_day": 23.5,
+  "signed_by_BY4": 977,
+  "fee_paid_by_BY4": 977,
+  "opened_by_a_durable_nonce": 978,
+  "nonce_authorities": [
+   [
+    "EtKfYWHXTRUJVovWWgGvpWR8XK9dVfC6RUe7bxWi3Y9W",
+    977
+   ],
+   [
+    "38QU8LKVK1Ew5uzsqttamNTTFxvnfzgi2ACQvj3ekuom",
+    1
+   ]
+  ],
+  "main_other_signer": [
+   [
+    "EtKfYWHXTRUJVovWWgGvpWR8XK9dVfC6RUe7bxWi3Y9W",
+    977
+   ]
+  ],
+  "counterparties_strict": 979,
+  "counterparties_strict_sent_to": 977,
+  "counterparties_strict_received_from": 2,
+  "counterparties_strict_if_failed_count_in_the_1000": 979,
+  "counterparties_first_rule": 980,
+  "counterparties_first_rule_with_dust_edges": 996,
+  "counterparties_broad": 996,
+  "verdict": "service by the plan's test",
+  "verdict_first_rule": "service by the plan's test",
+  "max_transactions_with_one_strict_counterparty": 1,
+  "strict_counterparties_in_one_transaction_only": 979,
+  "sol_sent": 1.107,
+  "sol_received": 1.428,
+  "mints_sent": [
+   {
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "transfers": 558,
+    "min": 1.0,
+    "max": 4.0
+   },
+   {
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "transfers": 227,
+    "min": 115870.0,
+    "max": 218838.0
+   },
+   {
+    "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "transfers": 192,
+    "min": 46.0,
+    "max": 87.0
+   }
+  ],
+  "token_transfers_with_no_known_owner": 0,
+  "sol_edges_to_the_deployer": 0,
+  "exploratory_X": {
+   "sol_recipients": 0,
+   "sol_recipients_empty_before": 0,
+   "sol_senders": 2,
+   "largest_sender_share_of_sol_received": 0.7
+  }
+ }
+}
