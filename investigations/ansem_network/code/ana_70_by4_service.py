@@ -112,7 +112,9 @@ def sample(sigs: list[str], txs: dict[str, Any]) -> dict[str, Any]:
         "counterparties": len(full),
         "counterparties_with_dust_edges": len(full) + len(small),
         "verdict": "service by the plan's test" if len(full) >= SERVICE else "not a service by the plan's test",
-        "most_repeated_counterparties": full.most_common(5),
+        # counts only: the counterparties themselves stay in the raw file, unnamed here
+        "max_transactions_with_one_counterparty": max(full.values()) if full else 0,
+        "counterparties_in_one_transaction_only": sum(v == 1 for v in full.values()),
         "sol_sent": round(sent_sol / 1e9, 3),
         "sol_received": round(got_sol / 1e9, 3),
         "mints_sent": sorted(({"mint": k, **v} for k, v in mints.items()), key=lambda r: -r["transfers"])[:5],
