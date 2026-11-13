@@ -132,10 +132,12 @@ def main() -> None:
     todo = [s for s in wanted if s not in have]
 
     def read(s: str) -> tuple[str, Any]:
-        tx = call("getTransaction", [s, {"encoding": "json", "maxSupportedTransactionVersion": 0, "commitment": "confirmed"}])
-        if not tx:
-            raise RuntimeError("empty answer for " + s)
-        return s, tx
+        for _ in range(5):  # the public RPC sometimes answers null for a transaction it serves a moment later
+            tx = call("getTransaction", [s, {"encoding": "json", "maxSupportedTransactionVersion": 0, "commitment": "confirmed"}])
+            if tx:
+                return s, tx
+            time.sleep(5)
+        raise RuntimeError("empty answer for " + s)
 
     with open(CHECKPOINT, "a") as f:
         for s, tx in map(read, todo):
