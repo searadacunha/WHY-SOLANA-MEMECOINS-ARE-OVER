@@ -16,6 +16,7 @@ import tempfile
 import time
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Any
 
@@ -117,20 +118,31 @@ def main() -> None:
         plan_path.write_text(json.dumps(plan))
     have: dict[str, Any] = {}
     if CHECKPOINT.exists():
-        for line in CHECKPOINT.read_text().splitlines():
-            row = json.loads(line)
+        lines = CHECKPOINT.read_text().splitlines()
+        for i, line in enumerate(lines):
+            try:
+                row = json.loads(line)
+            except ValueError:
+                if i < len(lines) - 1:
+                    raise
+                break  # last line cut by an interrupted run: that transaction is read again
             have[row["sig"]] = row["tx"]
-    todo = [s for s in dict.fromkeys(plan["A"]["signatures"] + plan["B"]["signatures"]) if s not in have]
-    with open(CHECKPOINT, "a") as f:
-        for i, s in enumerate(todo):
-            tx = call("getTransaction", [s, {"encoding": "json", "maxSupportedTransactionVersion": 0, "commitment": "confirmed"}])
-            if not tx:
-                raise RuntimeError("empty answer for " + s)
+    wanted = list(dict.fromkeys(plan["A"]["signatures"] + plan["B"]["signatures"]))
+    todo = [s for s in wanted if s not in have]
+
+    def read(s: str) -> tuple[str, Any]:
+        tx = call("getTransaction", [s, {"encoding": "json", "maxSupportedTransactionVersion": 0, "commitment": "confirmed"}])
+        if not tx:
+            raise RuntimeError("empty answer for " + s)
+        return s, tx
+
+    with open(CHECKPOINT, "a") as f, ThreadPoolExecutor(max_workers=3) as pool:  # 3 calls in flight, under the public RPC's per-method limit
+        for s, tx in pool.map(read, todo):
             have[s] = tx
             f.write(json.dumps({"sig": s, "tx": tx}) + "\n")
-            if i % 100 == 0:
-                f.flush()
-                print("read", len(have), "of", len(set(plan["A"]["signatures"] + plan["B"]["signatures"])), flush=True)
+            f.flush()
+            if len(have) % 100 == 0:
+                print("read", len(have), "of", len(wanted), flush=True)
     save_gz("raw/lead5_by4_sigs.json.gz", plan)
     save_gz("raw/lead5_by4_txs.json.gz", have)
     print("anchor", plan["anchor"], "| A failed", plan["A"]["failed_skipped"], "| B failed", plan["B"]["failed_skipped"])
