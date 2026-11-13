@@ -9,6 +9,8 @@ distinct counterparties in a sample of 1,000 transactions. Fixed in this file be
   make an address a counterparty, and invoked programs are never counted. The count that adds smaller SOL edges is
   written beside it and decides nothing.
 - verdict: service by the plan's test at 500 or more, otherwise not a service by this test.
+Exploratory (X), outside the plan and deciding nothing: how many SOL recipients (0.01 SOL or more) held no lamports
+before the transfer, as a wallet factory's would, and how concentrated the SOL senders are.
 Writes evidence/lead5_by4.json.
 """
 from __future__ import annotations
@@ -53,6 +55,7 @@ def sample(sigs: list[str], txs: dict[str, Any]) -> dict[str, Any]:
     cosigners: Counter[str] = Counter()
     mints: dict[str, dict[str, Any]] = {}
     times, signed, payer, sent_sol, got_sol, funding, to_deployer, no_owner = [], 0, 0, 0, 0, None, 0, 0
+    recipients, fresh, senders = set(), set(), Counter()  # exploratory (X): service or wallet factory?
     for s in sigs:
         tx = txs[s]
         d = D.decode(tx)
@@ -92,6 +95,12 @@ def sample(sigs: list[str], txs: dict[str, Any]) -> dict[str, Any]:
                 to_deployer += 1
                 funding = funding or {"signature": s, "utc": utc(d.block_time), "sol": e.lamports / 1e9}
             (here if e.lamports >= DUST else dust).add(other)
+            if e.lamports >= DUST and e.src == BY4:
+                recipients.add(e.dst)
+                if e.dst in d.keys and tx["meta"]["preBalances"][d.keys.index(e.dst)] == 0:
+                    fresh.add(e.dst)
+            elif e.lamports >= DUST:
+                senders[e.src] += e.lamports
         here -= set(d.programs)
         dust -= here | set(d.programs)
         full.update(here)
@@ -120,6 +129,12 @@ def sample(sigs: list[str], txs: dict[str, Any]) -> dict[str, Any]:
         "mints_sent": sorted(({"mint": k, **v} for k, v in mints.items()), key=lambda r: -r["transfers"])[:5],
         "token_transfers_with_no_known_owner": no_owner,
         "sol_edges_to_the_deployer": to_deployer,
+        "exploratory_X": {
+            "sol_recipients": len(recipients),
+            "sol_recipients_empty_before": len(fresh),
+            "sol_senders": len(senders),
+            "largest_sender_share_of_sol_received": round(max(senders.values()) / sum(senders.values()), 3) if senders else None,
+        },
     }
     if funding:
         out["latest_funding_of_the_deployer"] = funding
