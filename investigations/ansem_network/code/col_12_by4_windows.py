@@ -16,7 +16,6 @@ import tempfile
 import time
 import urllib.error
 import urllib.request
-from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Any
 
@@ -28,6 +27,7 @@ FUNDING_TS = 1776690049  # 2026-04-20 13:00:49 UTC
 N = 1000
 SKIPPED = (-32004, -32007, -32009)  # no block at this slot, or not in long-term storage
 CHECKPOINT = Path(os.environ.get("LEAD5_CHECKPOINT", str(Path(tempfile.gettempdir()) / "lead5_by4.jsonl")))
+PACE = float(os.environ.get("LEAD5_PACE", "0.95"))  # seconds between calls: the public RPC served about 11 getTransaction per 10 s
 
 
 class Skipped(Exception):
@@ -37,7 +37,7 @@ class Skipped(Exception):
 def call(method: str, params: list[Any]) -> Any:
     body = json.dumps({"jsonrpc": "2.0", "id": 1, "method": method, "params": params}).encode()
     for attempt in range(8):
-        time.sleep(0.3)
+        time.sleep(PACE)
         req = urllib.request.Request(RPC, data=body, headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"})
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
@@ -45,7 +45,8 @@ def call(method: str, params: list[Any]) -> Any:
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 502, 503, 504):
                 raise
-            time.sleep(min(60, 2 ** attempt))
+            wait = e.headers.get("Retry-After") if e.code == 429 else None  # the public RPC asks for 10 s
+            time.sleep(float(wait) if wait and wait.isdigit() else min(60, 2 ** attempt))
             continue
         except (urllib.error.URLError, TimeoutError, ConnectionError):
             time.sleep(min(60, 2 ** attempt))
@@ -136,8 +137,8 @@ def main() -> None:
             raise RuntimeError("empty answer for " + s)
         return s, tx
 
-    with open(CHECKPOINT, "a") as f, ThreadPoolExecutor(max_workers=3) as pool:  # 3 calls in flight, under the public RPC's per-method limit
-        for s, tx in pool.map(read, todo):
+    with open(CHECKPOINT, "a") as f:
+        for s, tx in map(read, todo):
             have[s] = tx
             f.write(json.dumps({"sig": s, "tx": tx}) + "\n")
             f.flush()
