@@ -1,6 +1,6 @@
 # Why Solana Memecoins Are Over
 
-<p align="center"><img src="assets/readme-hero.svg" width="100%" alt="WHY-SOLANA-MEMECOINS-ARE-OVER project illustration" /></p>
+<p align="center"><img src="assets/readme-hero-photo.jpg" width="100%" alt="WHY-SOLANA-MEMECOINS-ARE-OVER project illustration" /></p>
 
 ## €400 to start. $237,137.87 withdrawn.
 
