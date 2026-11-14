@@ -643,7 +643,7 @@ That is the work I want to keep doing.
 
 ---
 
-## Development credits
+## Contributors and AI assistance
 
 **Benjamin Da Cunha:** research direction, hypotheses, evidence review and final conclusions.
 
