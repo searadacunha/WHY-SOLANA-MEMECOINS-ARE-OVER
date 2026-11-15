@@ -640,15 +640,3 @@ That is the work I want to keep doing.
 1. A [2025 external study on Solana mixers](https://medium.com/@smartgenuise806/the-shadow-economy-a-research-study-on-mixers-in-solana-3eebc60dcd2a) observed funds routed through ChangeNOW arriving at the address used in this investigation. An [earlier public attribution](https://x.com/CrypticZK/status/1616072613356535808) also associates the address with the service. The repository measures what leaves the address; it does not independently establish who operates it.
 
 2. External sources on the ANSEM / Black Bull launch: [Phemex Academy](https://phemex.com/academy/black-bull-ansem-solana-meme-token), [CryptoBriefing](https://cryptobriefing.com/ansem-airdrops-7m-ansem-memecoin-solana/) and [The Defiant](https://thedefiant.io/news/defi/ansem-airdrops-usd7m-of-usdansem-memecoin-in-bid-to-reach-1m-holders). The recurrence of the two wallets is measured in this repository (`docs/out/m4_infra.json`); the slot amounts, the buyer count and the signature count are not, and `code/p1_readme_check.py` lists them as unsourced.
-
----
-
-## Contributors and AI assistance
-
-**Benjamin Da Cunha:** research direction, hypotheses, evidence review and final conclusions.
-
-**Claude Code (Anthropic):** AI-assisted coding and engineering, also acknowledged in relevant commit trailers.
-
-**ChatGPT / OpenAI Codex:** investigation documentation, methodology review, code review, debugging and reproducibility support.
-
-These credits disclose AI assistance; they do not assign human authorship, independently verify research findings or imply that an AI tool is a GitHub account contributor.
