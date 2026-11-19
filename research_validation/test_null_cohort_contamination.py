@@ -48,3 +48,19 @@ def test_loader_excludes_proceeds_and_terminal_addresses(tmp_path):
     ]}
     (tmp_path / "e2_funding_A.json").write_text(json.dumps(raw))
     assert mod.load_pool(tmp_path)[0]["funders"] == {"private"}
+
+
+def test_reused_wallet_across_launches_is_not_a_second_actor():
+    """One address may participate in multiple launches without becoming two wallets."""
+    pool = [
+        {"wallet": "same", "token": "A", "funders": {"shared"}},
+        {"wallet": "same", "token": "B", "funders": {"shared"}},
+    ]
+    assert mod.funder_flags(pool) == (False, False)
+    r = mod.audit(pool, draws=10, group_sizes=(2,))
+    assert r["wallet_observation_count"] == 2
+    assert r["unique_wallet_addresses"] == 1
+    assert r["reused_wallet_observations"] == 1
+    assert r["shared_funder_pairs_within_launch"] == 0
+    assert r["shared_funder_pairs_across_launches"] == 0
+    assert r["sampled_rates_not_true_fpr"]["2"]["any"] == 0
