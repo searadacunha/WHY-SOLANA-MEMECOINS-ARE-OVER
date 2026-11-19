@@ -20,7 +20,7 @@ avec le corpus présent.
 
 - **136 observations wallet × lancement** parmi neuf lancements, mais seulement **132 adresses de wallets distinctes** ; une même adresse apparaît dans cinq lancements (40 et 40 observations dans les deux plus grands).
 - 114 funders non présents dans la liste de six infrastructures exclues.
-- **34 paires wallet × lancement** partageant un funder **et** le même lancement ; elles représentent **25 paires d'adresses distinctes**, certaines répétées dans plusieurs lancements.
+- **25 paires d'adresses distinctes** partageant un funder et participant au **même lancement** (comptage par paire et lancement, sans doublons de financeurs). La première version de la PR #14 annonçait **34** : ce chiffre n'est pas reproduit par le recalcul direct des neuf fichiers archivés et est retiré.
 - **14 paires d'adresses distinctes** partageant un funder sur des lancements différents.
 - Une adresse répétée sur plusieurs tokens ne constitue pas deux wallets indépendants. Le script n'assimile donc pas une auto-répétition de l'adresse à un nouveau lien.
 - La probabilité que deux wallets tirés du pool appartiennent au même
