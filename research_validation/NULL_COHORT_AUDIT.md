@@ -18,10 +18,11 @@ avec le corpus présent.
 
 ## Recalcul descriptif, depuis les neuf fichiers originaux
 
-- 136 wallets de neuf lancements (40 et 40 pour les deux plus grands).
+- **136 observations wallet × lancement** parmi neuf lancements, mais seulement **132 adresses de wallets distinctes** ; une même adresse apparaît dans cinq lancements (40 et 40 observations dans les deux plus grands).
 - 114 funders non présents dans la liste de six infrastructures exclues.
-- 34 paires de wallets partageant un funder **et** le même lancement.
-- 14 paires de wallets partageant un funder, sur **des lancements différents**.
+- **34 paires wallet × lancement** partageant un funder **et** le même lancement ; elles représentent **25 paires d'adresses distinctes**, certaines répétées dans plusieurs lancements.
+- **14 paires d'adresses distinctes** partageant un funder sur des lancements différents.
+- Une adresse répétée sur plusieurs tokens ne constitue pas deux wallets indépendants. Le script n'assimile donc pas une auto-répétition de l'adresse à un nouveau lien.
 - La probabilité que deux wallets tirés du pool appartiennent au même
   lancement est `sum(comb(n_launch, 2)) / comb(136, 2) = 0.1996732026`.
 - Un tirage de 40 wallets contient donc en moyenne 155,745 paires
