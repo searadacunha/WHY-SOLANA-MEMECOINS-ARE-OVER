@@ -4,7 +4,7 @@
 
 ## Three integrated checks
 
-1. [Pooled-wallet null dependence](NULL_COHORT_AUDIT.md) tests why the historical 88.86% pooled-wallet trigger rate should **not** be represented as an independently sampled launch-level false-positive rate. The script quantifies within-launch and across-launch shared-funder pairs; it does not invent a repaired FPR.
+1. [Pooled-wallet null dependence](NULL_COHORT_AUDIT.md) tests why the historical 88.86% pooled-wallet trigger rate should **not** be represented as an independently sampled launch-level false-positive rate. The script quantifies within-launch and across-launch shared-funder pairs and distinguishes 136 launch observations from 132 unique wallet addresses; it does not invent a repaired FPR.
 2. [Historical snipe-log timing audit](../audits/snipe-log-label-timing-20261119/README.md) independently recounts 211 archived rows, finds 32 tokens already above the $100k label threshold at detection, 31 missing positive alert timestamps, and substantial lack of comparable price support. No independent RPC replay or forward-return claim.
 3. [External benchmark map](EXTERNAL_BENCHMARKS_20261118.md) reviews independently published Solana research and proposes falsifiable dataset-linkage/holdout experiments. These studies are **cited as external**; their results were not independently reproduced and their code or datasets were not imported.
 
