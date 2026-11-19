@@ -1,0 +1,32 @@
+name: Solana research validation
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  reproducible-audits:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install pinned audit test runner
+        run: python -m pip install pytest==9.2.0
+      - name: Verify null dependence arithmetic and synthetic controls
+        run: |
+          python research_validation/null_cohort_contamination.py --draws 500 > /dev/null
+          python -m pytest -q research_validation/test_null_cohort_contamination.py
+      - name: Verify 211-row Solana snipe-log metadata and timing gates
+        run: |
+          python audits/snipe-log-label-timing-20261119/recheck.py --self-test
+          python audits/snipe-log-label-timing-20261119/recheck.py --check > /dev/null
