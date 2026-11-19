@@ -28,15 +28,16 @@ KNOWN = frozenset({
 
 def load_pool(folder: Path) -> list[dict]:
     pool = []
-    seen = set()
+    seen_pairs = set()
     for path in sorted(folder.glob("e2_funding_*.json")):
         raw = json.loads(path.read_text(encoding="utf-8"))
         token = raw["label"]
         for wallet in raw.get("wallets", []):
             address = wallet["wallet"]
-            if address in seen:
-                raise ValueError(f"Duplicate wallet in cohort: {address}")
-            seen.add(address)
+            identity = (token, address)
+            if identity in seen_pairs:
+                raise ValueError(f"Duplicate wallet inside launch: {identity}")
+            seen_pairs.add(identity)
             sources = {
                 flow["source"]
                 for flow in wallet.get("inflows", [])
@@ -58,16 +59,19 @@ def funder_flags(group: list[dict]) -> tuple[bool, bool]:
     false positive: the pooled-wallet control fails to remove both dependencies.
     """
     by_source = defaultdict(list)
-    for wallet in group:
-        for source in wallet["funders"]:
-            by_source[source].append(wallet["token"])
+    for row in group:
+        for source in row["funders"]:
+            by_source[source].append((row["token"], row["wallet"]))
     within = across = False
-    for tokens in by_source.values():
-        if len(tokens) < 2:
-            continue
-        different = len(set(tokens))
-        within |= different < len(tokens)
-        across |= different > 1
+    for observations in by_source.values():
+        for a, b in combinations(observations, 2):
+            # One reused address is one wallet, not two independently funded wallets.
+            if a[1] == b[1]:
+                continue
+            within |= a[0] == b[0]
+            across |= a[0] != b[0]
+            if within and across:
+                return True, True
     return within, across
 
 
@@ -86,12 +90,16 @@ def audit(pool: list[dict], *, draws: int = 5000, seed: int = 12345,
         for source in row["funders"]:
             by_source[source].append(row)
     within_edges = set()
+    within_unique_wallet_pairs = set()
     across_edges = set()
     for rows in by_source.values():
         for a, b in combinations(rows, 2):
+            if a["wallet"] == b["wallet"]:
+                continue  # same owner address observed at another token, not two wallets
             key = tuple(sorted((a["wallet"], b["wallet"])))
             if a["token"] == b["token"]:
-                within_edges.add(key)
+                within_edges.add((a["token"], *key))  # pairs per launch
+                within_unique_wallet_pairs.add(key)  # address pairs across all launches
             else:
                 across_edges.add(key)
     rng = random.Random(seed)
@@ -113,7 +121,9 @@ def audit(pool: list[dict], *, draws: int = 5000, seed: int = 12345,
     return {
         "status": "CONTAMINATED_NULL_NOT_AN_INDEPENDENT_FALSE_POSITIVE_RATE",
         "scope": "Criterion C: shared non-allowlisted funder; A/B not re-estimated",
-        "wallet_count": n,
+        "wallet_observation_count": n,
+        "unique_wallet_addresses": len({r["wallet"] for r in pool}),
+        "reused_wallet_observations": n - len({r["wallet"] for r in pool}),
         "launch_count": len(sizes),
         "launch_wallet_counts": dict(sorted(sizes.items())),
         "same_launch_pair_probability_in_pool": same_launch_pairs / all_pairs,
@@ -121,6 +131,7 @@ def audit(pool: list[dict], *, draws: int = 5000, seed: int = 12345,
             comb(40, 2) * same_launch_pairs / all_pairs if n >= 40 else None
         ),
         "shared_funder_pairs_within_launch": len(within_edges),
+        "unique_wallet_pairs_within_launches": len(within_unique_wallet_pairs),
         "shared_funder_pairs_across_launches": len(across_edges),
         "max_launch_independent_wallets": len(sizes),
         "can_construct_40_independent_launch_wallets": len(sizes) >= 40,
