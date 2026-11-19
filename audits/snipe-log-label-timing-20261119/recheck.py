@@ -55,8 +55,11 @@ def load_rows(path):
 
 
 def summarize(rows):
-    num = lambda pred: sum(bool(pred(r)) for r in rows)
-    eligible = lambda r: r["detected_at"] > 0 and r["detect_mc"] < 100000
+    def num(pred):
+        return sum(bool(pred(r)) for r in rows)
+
+    def eligible(r):
+        return r["detected_at"] > 0 and r["detect_mc"] < 100000
     summary = {
         "rows": len(rows),
         "unique_mints": len({r["mint"] for r in rows}),
