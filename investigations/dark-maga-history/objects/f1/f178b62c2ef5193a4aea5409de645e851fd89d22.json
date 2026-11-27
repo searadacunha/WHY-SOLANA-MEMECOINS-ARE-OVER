@@ -1,0 +1,498 @@
+{
+ "token_edges_par_source": {
+  "tx_balances": 45566,
+  "gtba": 57828
+ },
+ "gtba_par_jambes": [
+  {
+   "jambes_dans_trades": "aucune",
+   "aretes": 22853,
+   "jetons_M": 2175.739
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "aretes": 16386,
+   "jetons_M": 1422.731
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "aretes": 12334,
+   "jetons_M": 79.193
+  },
+  {
+   "jambes_dans_trades": "source seule",
+   "aretes": 6255,
+   "jetons_M": 1398.613
+  }
+ ],
+ "gtba_par_jambes_et_bouts": [
+  {
+   "jambes_dans_trades": "aucune",
+   "bouts": "wallet/wallet",
+   "aretes": 8648,
+   "jetons_M": 363.869
+  },
+  {
+   "jambes_dans_trades": "aucune",
+   "bouts": "wallet/hub",
+   "aretes": 8512,
+   "jetons_M": 900.733
+  },
+  {
+   "jambes_dans_trades": "aucune",
+   "bouts": "hub/wallet",
+   "aretes": 4992,
+   "jetons_M": 861.706
+  },
+  {
+   "jambes_dans_trades": "aucune",
+   "bouts": "router/venue",
+   "aretes": 259,
+   "jetons_M": 2.302
+  },
+  {
+   "jambes_dans_trades": "aucune",
+   "bouts": "wallet/venue",
+   "aretes": 167,
+   "jetons_M": 1.347
+  },
+  {
+   "jambes_dans_trades": "aucune",
+   "bouts": "venue/wallet",
+   "aretes": 160,
+   "jetons_M": 1.576
+  },
+  {
+   "jambes_dans_trades": "aucune",
+   "bouts": "venue/router",
+   "aretes": 115,
+   "jetons_M": 44.206
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "bouts": "wallet/wallet",
+   "aretes": 7227,
+   "jetons_M": 396.322
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "bouts": "wallet/hub",
+   "aretes": 3302,
+   "jetons_M": 46.109
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "bouts": "venue/wallet",
+   "aretes": 2941,
+   "jetons_M": 338.371
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "bouts": "router/wallet",
+   "aretes": 2523,
+   "jetons_M": 623.547
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "bouts": "router/hub",
+   "aretes": 161,
+   "jetons_M": 15.335
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "bouts": "venue/router",
+   "aretes": 139,
+   "jetons_M": 2.292
+  },
+  {
+   "jambes_dans_trades": "destination seule",
+   "bouts": "venue/hub",
+   "aretes": 93,
+   "jetons_M": 0.757
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "bouts": "wallet/hub",
+   "aretes": 4594,
+   "jetons_M": 2.277
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "bouts": "router/wallet",
+   "aretes": 4133,
+   "jetons_M": 63.744
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "bouts": "wallet/wallet",
+   "aretes": 2587,
+   "jetons_M": 11.621
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "bouts": "hub/hub",
+   "aretes": 661,
+   "jetons_M": 0.154
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "bouts": "router/hub",
+   "aretes": 307,
+   "jetons_M": 1.249
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "bouts": "hub/router",
+   "aretes": 51,
+   "jetons_M": 0.148
+  },
+  {
+   "jambes_dans_trades": "les deux",
+   "bouts": "hub/wallet",
+   "aretes": 1,
+   "jetons_M": 0.0
+  },
+  {
+   "jambes_dans_trades": "source seule",
+   "bouts": "wallet/router",
+   "aretes": 3440,
+   "jetons_M": 877.362
+  },
+  {
+   "jambes_dans_trades": "source seule",
+   "bouts": "wallet/venue",
+   "aretes": 1708,
+   "jetons_M": 361.683
+  },
+  {
+   "jambes_dans_trades": "source seule",
+   "bouts": "wallet/wallet",
+   "aretes": 961,
+   "jetons_M": 147.622
+  },
+  {
+   "jambes_dans_trades": "source seule",
+   "bouts": "hub/wallet",
+   "aretes": 80,
+   "jetons_M": 0.725
+  },
+  {
+   "jambes_dans_trades": "source seule",
+   "bouts": "hub/router",
+   "aretes": 39,
+   "jetons_M": 10.724
+  },
+  {
+   "jambes_dans_trades": "source seule",
+   "bouts": "hub/venue",
+   "aretes": 27,
+   "jetons_M": 0.497
+  }
+ ],
+ "une_jambe_nature_de_la_jambe_presente": [
+  {
+   "nature_de_la_jambe_presente": "swap",
+   "aretes": 20644,
+   "jetons_M": 2192.122
+  },
+  {
+   "nature_de_la_jambe_presente": "fee_share",
+   "aretes": 690,
+   "jetons_M": 2.227
+  },
+  {
+   "nature_de_la_jambe_presente": "lp_remove",
+   "aretes": 527,
+   "jetons_M": 289.658
+  },
+  {
+   "nature_de_la_jambe_presente": "transfer",
+   "aretes": 421,
+   "jetons_M": 2.124
+  },
+  {
+   "nature_de_la_jambe_presente": "lp_add",
+   "aretes": 252,
+   "jetons_M": 316.353
+  },
+  {
+   "nature_de_la_jambe_presente": "swap_other",
+   "aretes": 107,
+   "jetons_M": 18.86
+  }
+ ],
+ "une_jambe_hors_swap_frais_liquidite": {
+  "n": 421,
+  "jetons_M": 2.124,
+  "exemples": [
+   {
+    "signature": "4zCoQEeiqLLpm84H2HixFnefEHhPDm9xzoAo9tygjHj3HqeU2y3KfseuiKefvu14HK9yRk7FQmpi9RBnr4hjgDiS",
+    "src": "HV1KXxWFaSeriyFvXyx48FqG9BoFbfinB8njCJonqP7K",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 212917.48548,
+    "t": 1757641455,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "PUpXE69A4gEELgaR2akBgmsRMWPWEAEykRgBAy6KD9aWf8tgiZutY756U4naotNzK8Gvmp5yuH8PzjcvvTtynMy",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 128440.186198,
+    "t": 1769093827,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "4LykdMmF4DKGprcRDaGqRGguiBGHGQ8aA6fxjaYm16nt5G7ATrT2Px8gWwyy5qt7oCuV9i37UDqEDK3Vr7mc3HyJ",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 96818.689003,
+    "t": 1774441483,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "3vGmfoL6NG8p98cCEbQaa6mURnuiuTQgyifGEoZqa4GNPMeS4bJxSHHKPrJdPnAVfriudyp25nYcX68YPKeneTvg",
+    "src": "HV1KXxWFaSeriyFvXyx48FqG9BoFbfinB8njCJonqP7K",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 95908.420444,
+    "t": 1757600859,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "2UZtUHY8kSAsEuY7bLnjVjiREd3YB93cDNZYpKFTR2pDZdpU2jg8EJ95gMmYwgpkSj76YqbK9XmasPoGkKGX9uQ1",
+    "src": "HV1KXxWFaSeriyFvXyx48FqG9BoFbfinB8njCJonqP7K",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 90390.557687,
+    "t": 1759214747,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "5GPnjj5zEWtKGn8GxFcbnTWEYzXoBw6FmueGi2oCvK7X99VHZSrbDGGWvfqDPApfgsDoZ2Wyjw5MUXVsu3MP4uXT",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 84959.985416,
+    "t": 1785181464,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "63URpoBMQADdRHX1F5BZzJJaijpv9wma1aWT8AjbYN27nnQ6enUbUiwfroJ1sHSN8sTU255acWnN4q1Afer8dho5",
+    "src": "Djj91zoNW3EDQbBDUhiRvkkGEM69DrdBtoDi9YT85Ssp",
+    "dst": "j1oAbxxiDUWvoHxEDhWE7THLjEkDQW2cSHYn2vttxTF",
+    "qty": 63011.006776,
+    "t": 1728171993,
+    "src_kinds": "transfer",
+    "dst_kinds": null
+   },
+   {
+    "signature": "63URpoBMQADdRHX1F5BZzJJaijpv9wma1aWT8AjbYN27nnQ6enUbUiwfroJ1sHSN8sTU255acWnN4q1Afer8dho5",
+    "src": "j1oAbxxiDUWvoHxEDhWE7THLjEkDQW2cSHYn2vttxTF",
+    "dst": "CnZzdTH1e6ZT3mtgaXqggexCWfubm375UMuFpAycDd1r",
+    "qty": 63011.006776,
+    "t": 1728171993,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "3S9rDkeKtiuR2WPkoVWkuWT5PQMfbwt7uisbH8pQGBK5yn7MXcXDGALnGh8FPVHp6VrTttyGSrZPZ9oVMn2F2Y8k",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 59107.540886,
+    "t": 1762587833,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "hXP3GFZSyf3A6QMxWn9WeUUTSGZ8nDnwUr4URR5hbPgSWcvuCFhW47rdRDPQepPPupJRwjSgU8NcDehEpza9ARb",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 57225.135261,
+    "t": 1767478737,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "4Gv1FrqpcRfUsT67FsmyUbmATkZfDvJ9pYHxcWgM8Li6UkMsLzWyQBAUR37yp5C67D9UBiZvvWNwjmjoaTZg5VmP",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 52505.864843,
+    "t": 1768504970,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "67FFTgxCCRwHS5k5CvWsoGf1sgAqcAbX9LEb9eF6dsStvHCqkk3v836kkBpoBSEsCwSuKbzA1Bh152HjRx28uSaQ",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 43418.52423,
+    "t": 1774993488,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "3hC115TgUugijoovq9tMcW5tg8Ew9LBNmeaLRgGDT1WAvt4oXYnabDKFnKACkDgEx2uFRrY6vo27JZS6LbvmVkSS",
+    "src": "442iECQjnvx7Ap7HrGnPKoQkA8HgVFUSJ6nAWZ7VbHk3",
+    "dst": "j1opmdubY84LUeidrPCsSGskTCYmeJVzds1UWm6nngb",
+    "qty": 25930.575118,
+    "t": 1728177124,
+    "src_kinds": "transfer",
+    "dst_kinds": null
+   },
+   {
+    "signature": "3hC115TgUugijoovq9tMcW5tg8Ew9LBNmeaLRgGDT1WAvt4oXYnabDKFnKACkDgEx2uFRrY6vo27JZS6LbvmVkSS",
+    "src": "j1opmdubY84LUeidrPCsSGskTCYmeJVzds1UWm6nngb",
+    "dst": "CnZzdTH1e6ZT3mtgaXqggexCWfubm375UMuFpAycDd1r",
+    "qty": 25930.575118,
+    "t": 1728177124,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "7VrHt2cQamgSmKwDtbgqK62A33EAthA4efN7gUAErdJey9HMQ3vojrqCYFn7he9A9eVdXs2MLLe8eURvRK7veeH",
+    "src": "HV1KXxWFaSeriyFvXyx48FqG9BoFbfinB8njCJonqP7K",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 25896.254402,
+    "t": 1757533128,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "3HYv4R1F2nUjHLK65hio9Yvi5HZF1mRR9NNF8XXGHckoaihEvpQdicBJxQgVZGiaYxj7nKSreoAPjSH9va6VeLue",
+    "src": "HV1KXxWFaSeriyFvXyx48FqG9BoFbfinB8njCJonqP7K",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 25811.496774,
+    "t": 1759586680,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "56qbEC4ecV2R48WNMSX1pe98AbicVzQFEJyXR7tkAzsPHoF2sXnpVCasr9qQ168rbuK65peL8ZJDjdhtjU1YvmXG",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 25720.230696,
+    "t": 1764157416,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "3PegLRB9DZDsxa7hvbvMsyd35VkNAhbTRpU4KKKgxfeuwgHBVazajY96P9QAa4Xz6cco8YZ63qymYJijyrx7KXY1",
+    "src": "HV1KXxWFaSeriyFvXyx48FqG9BoFbfinB8njCJonqP7K",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 21250.0,
+    "t": 1756356828,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "58AHvAfR3M5JFTyZ6qxS9D3MxbfTaGr9EV2VbeGRXcpfuUWFrNE2AtCzCHgdF4smbXgzSLehsVMbWyyP3vkcE6gm",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 20742.239736,
+    "t": 1763968698,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   },
+   {
+    "signature": "3fwCsTDjhVJvKDK1QsacE6g5fW9YsazvvouMsRH3EHG5hbKX3s4tGyicNEZLYUGWk8sgenbS9Vakv9rugktruN8n",
+    "src": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+    "dst": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf",
+    "qty": 20570.666848,
+    "t": 1761990037,
+    "src_kinds": null,
+    "dst_kinds": "transfer"
+   }
+  ]
+ },
+ "doublons_tx_balances_et_gtba": 52,
+ "aretes_ajoutees_par_ana20_et_positions": {
+  "n": 22853,
+  "jetons_M": 2175.739
+ },
+ "positions_a_la_borne_basse": {
+  "proprietaires_changes_de_plus_d_1_jeton": 6,
+  "ecart_absolu_total_M": 1.002,
+  "soldes_negatifs_hors_venues_ancienne_regle": 0,
+  "soldes_negatifs_hors_venues_nouvelle_regle": 0,
+  "composante_prevent_groups": {
+   "membres": 33,
+   "detenu_M_ancienne_regle": 217.037,
+   "detenu_M_nouvelle_regle": 217.037
+  },
+  "plus_grands_ecarts": [
+   {
+    "owner": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+    "ecart_M": 0.266539,
+    "ancien_M": 2.733461,
+    "nouveau_M": 3.0,
+    "membre": true
+   },
+   {
+    "owner": "6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M",
+    "ecart_M": -0.266539,
+    "ancien_M": 0.266539,
+    "nouveau_M": 0.0,
+    "membre": true
+   },
+   {
+    "owner": "2mQMeQufu56A5joWHvC5fegQrTmh5cozBiEAxFmCjMZK",
+    "ecart_M": -0.134272,
+    "ancien_M": 0.134272,
+    "nouveau_M": 0.0,
+    "membre": false
+   },
+   {
+    "owner": "HCLibUwr9JYtrpt5QgZY2eWfJbphTM7w9t69mGjayC7f",
+    "ecart_M": 0.134272,
+    "ancien_M": 0.0,
+    "nouveau_M": 0.134272,
+    "membre": false
+   },
+   {
+    "owner": "Dpef6tbNvaiNqojTgh214m6JJ7D7wgHoMUBvh5cdiiWw",
+    "ecart_M": 0.1,
+    "ancien_M": 1.9,
+    "nouveau_M": 2.0,
+    "membre": false
+   },
+   {
+    "owner": "5EbMwvyxHhZqHLaAMpSuU2eWUzGKt4pnda7GZVhdDVg1",
+    "ecart_M": -0.1,
+    "ancien_M": 0.6,
+    "nouveau_M": 0.5,
+    "membre": false
+   }
+  ]
+ },
+ "garantie_une_jambe": "dmaga/normalize.py écrit une ligne pour chaque propriétaire hors venue dont le solde net DMAGA change dans une transaction lue : une arête à une seule jambe a donc pour autre bout une venue ou un intermédiaire à solde net nul",
+ "historiques_suivis": {
+  "wallets": 1219,
+  "tronques": 20,
+  "wallets_tronques": [
+   "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+   "3CgvbiM3op4vjrrjH2zcrQUwsqh5veNVRjFCB9N6sRoD",
+   "3LoAYHuSd7Gh8d7RTFnhvYtiTiefdZ5ByamU42vkzd76",
+   "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+   "4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71",
+   "69yhtoJR4JYPPABZcSNkzuqbaFbwHsCkja1sP1Q2aVT5",
+   "6LXutJvKUw8Q5ue2gCgKHQdAN4suWW8awzFVC6XCguFx",
+   "6Tt9iP2YacNi8om4qwwuTsWtrEqsftvoqaG57QqdS3GF",
+   "6cm4vNugtBYGeDJrXYnNC2uGPgVeYBtKQLzPW8HwvFVA",
+   "7gEQ6syDZmyPE4JdfJm4qatawnDqvqdh6i8jJjCXio6h",
+   "7iWnBRRhBCiNXXPhqiGzvvBkKrvFSWqqmxRyu9VyYBxE",
+   "BQ72nSv9f3PRyRKCBnHLVrerrv37CYTHm5h3s9VSGQDV",
+   "Bya5eBy9KgqaXfnLKuvFYBaqzYqxip3JVimhtToKRxLp",
+   "DSN3j1ykL3obAVNv7ZX49VsFCPe4LqzxHnmtLiPwY6xg",
+   "GCvHhEUYQwTJ8jyf8Lc4bv8jBXyZU4LMMsZCobwEPzvM",
+   "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+   "GP8StUXNYSZjPikyRsvkTbvRV1GBxMErb59cpeCJnDf1",
+   "HFqp6ErWHY6Uzhj8rFyjYuDya2mXUpYEk8VW75K9PSiY",
+   "HGs9NdwD2c4mYHb9fYdgp2Due5gbaSEdUV871wAiCkTd",
+   "HU23r7UoZbqTUuh3vA7emAGztFtqwTeVips789vqxxBw"
+  ]
+ },
+ "limite": "les virements entre deux wallets non suivis, ou au-delà du plafond de pages d'un historique, ne sont vus ni par trades ni par token_edges"
+}

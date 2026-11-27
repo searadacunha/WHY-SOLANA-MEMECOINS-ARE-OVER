@@ -1,0 +1,237 @@
+[
+  {
+    "ref": "heads/audit-2026-11-03",
+    "commit": "b6e8cbd20dedf67e0f6ff56410d76ba576ed93ee",
+    "tree_entries": 12343
+  },
+  {
+    "ref": "heads/audit/20261113-debridge-receipt-checks",
+    "commit": "b9f5fc270c74ed635306ed034f25863c19fbce6d",
+    "tree_entries": 10551
+  },
+  {
+    "ref": "heads/audit/dedup-readme-20261104",
+    "commit": "645e7c39620183bd1174974ff5edba3646a428a4",
+    "tree_entries": 9723
+  },
+  {
+    "ref": "heads/audit/reliability-evidence-20261110",
+    "commit": "f9a050f6427ce79bcfeffe4083eb2fa760ad0b9c",
+    "tree_entries": 10539
+  },
+  {
+    "ref": "heads/cursor/astra-addendum-10ed",
+    "commit": "c1ef41e441e56003b7db9b92f630e27dbc3731a8",
+    "tree_entries": 10655
+  },
+  {
+    "ref": "heads/d01-correction",
+    "commit": "6143964e532cb60a7d3938a1f4d175ada895b00c",
+    "tree_entries": 12327
+  },
+  {
+    "ref": "heads/docs/did-musk-know-audit-2026-11-05",
+    "commit": "07acf099deae88ae22db28ea936217a9187c0a7f",
+    "tree_entries": 12341
+  },
+  {
+    "ref": "heads/docs/did-musk-know-main-2026-11-05",
+    "commit": "cc68badb930c74814ec34c3234dfd13b57b216b6",
+    "tree_entries": 9727
+  },
+  {
+    "ref": "heads/docs/dmaga-trump-cover-20261114",
+    "commit": "8ac3283d1a836fcca26dc0e2d71319d742ee5825",
+    "tree_entries": 10553
+  },
+  {
+    "ref": "heads/docs/english-overview-2026-11-04",
+    "commit": "b9728b4b6386c986f3d7c8885cd55a33e86af724",
+    "tree_entries": 9721
+  },
+  {
+    "ref": "heads/docs/musk-overview-audit-2026-11-05",
+    "commit": "e498c7e20ea3baa907f482cb5b2c812bb9879757",
+    "tree_entries": 12341
+  },
+  {
+    "ref": "heads/docs/musk-overview-main-2026-11-05",
+    "commit": "4b42fb804dabddb6880108ace005af1dd5211f9a",
+    "tree_entries": 9727
+  },
+  {
+    "ref": "heads/docs/pass4-public-x-20261107",
+    "commit": "526c12045ad7cce02b278ed7f08e4d0c149078d5",
+    "tree_entries": 10527
+  },
+  {
+    "ref": "heads/docs/reader-conclusions-removal-audit-20261105",
+    "commit": "77c9454723d8b64f01283711d2994665beb3aed9",
+    "tree_entries": 12341
+  },
+  {
+    "ref": "heads/docs/reader-conclusions-removal-main-20261105",
+    "commit": "056c96f968fe0cd4284898fa370f79dc71895b53",
+    "tree_entries": 9727
+  },
+  {
+    "ref": "heads/docs/readme-consolidate-20261107",
+    "commit": "9f3db2a52cbf51743c277e7f624c5d96dd056e64",
+    "tree_entries": 10526
+  },
+  {
+    "ref": "heads/docs/readme-evidence-story-and-grok-pass3-2026-11-06",
+    "commit": "bd60ac89a77bc848994effc6b070aa5be224aaa6",
+    "tree_entries": 10305
+  },
+  {
+    "ref": "heads/docs/readme-investigation-narrative-20261107",
+    "commit": "69301f879581c0a7934d958b30f91c9a95670df8",
+    "tree_entries": 10527
+  },
+  {
+    "ref": "heads/docs/reconcile-investigation-status-20261106",
+    "commit": "555c3b709ec7eed3cd189e0d630fbb659c5f86cc",
+    "tree_entries": 10283
+  },
+  {
+    "ref": "heads/feat/debridge-crosschain-convergence",
+    "commit": "d1fc878d82175f7822da0bd28c17eeb8aefdf1cd",
+    "tree_entries": 9741
+  },
+  {
+    "ref": "heads/feat/debridge-crosschain-synthesis",
+    "commit": "804946e4ccf3317f2d894cad59d4c2a5aa6d5394",
+    "tree_entries": 12328
+  },
+  {
+    "ref": "heads/fix/atomic-trade-export-2026-11-04",
+    "commit": "1933c4dcb45068de70998a7cc7109fc5941e375c",
+    "tree_entries": 12339
+  },
+  {
+    "ref": "heads/fix/audit-reliability-2026-11-04",
+    "commit": "0da4f3d4c23eaed9b7a8c3902dc29afb338dc078",
+    "tree_entries": 12334
+  },
+  {
+    "ref": "heads/fix/d01-scope-2026-11-05",
+    "commit": "0b13820a8c4f8ef36dbe5a253adf47673ecdc524",
+    "tree_entries": 12339
+  },
+  {
+    "ref": "heads/fix/debridge-relay-dln-20261106",
+    "commit": "7a3d3fc9c673ffc3a91e8bfbcaaadeeea6c501b6",
+    "tree_entries": 10143
+  },
+  {
+    "ref": "heads/fix/debridge-source-accounting-20261105",
+    "commit": "636368f203fa726000da6263b319aae8b40684e6",
+    "tree_entries": 12343
+  },
+  {
+    "ref": "heads/fix/dln-topic-validation-20261106",
+    "commit": "5e0b6129fba243c71cc4ae130577a875a6b63c02",
+    "tree_entries": 10146
+  },
+  {
+    "ref": "heads/fix/final-audit-20261107",
+    "commit": "36290cf3192d121cbca6a08c080af7c455542f01",
+    "tree_entries": 10532
+  },
+  {
+    "ref": "heads/fix/forensic-pipeline-integrity-20261106",
+    "commit": "ebe5b4ef83c5e7c86d4797832f434caae4ec4612",
+    "tree_entries": 10141
+  },
+  {
+    "ref": "heads/fix/publication-guard-audit-2026-11-04",
+    "commit": "abf36e9d8f8db1045f6176e68f106cb249636bf4",
+    "tree_entries": 12338
+  },
+  {
+    "ref": "heads/fix/publication-guard-main-2026-11-04",
+    "commit": "82e94953d09d673ba79c2ec690041a0534c5e573",
+    "tree_entries": 9725
+  },
+  {
+    "ref": "heads/fix/retiredio-causal-window-main-20261119",
+    "commit": "cdbfc1f836df6f3cb7e0150a1a3e562c06c5458d",
+    "tree_entries": 10658
+  },
+  {
+    "ref": "heads/fix/retiredio-point-in-time-20261118",
+    "commit": "9fb506608d2477eb0cbc34e61f8e79b91c8c6c71",
+    "tree_entries": 10562
+  },
+  {
+    "ref": "heads/fix/transfer-coverage-reports-20261106",
+    "commit": "d3f14e32e0a71d58e7727eb8ea82e382517c4d76",
+    "tree_entries": 10525
+  },
+  {
+    "ref": "heads/forensics/2026-11-18-launch-network-evidence",
+    "commit": "d9b47ad1369038ad043b3ec236bfe050df50c03a",
+    "tree_entries": 10563
+  },
+  {
+    "ref": "heads/investigate/dmaga-historical-replay-20261106",
+    "commit": "8cd6f32045fe626001be9fa2ee8ef6a8e06ab7ab",
+    "tree_entries": 10509
+  },
+  {
+    "ref": "heads/investigate/dmaga-kekius-cross-token",
+    "commit": "4a57c130f8ce1d4ee968f1094ff4769bb329edfe",
+    "tree_entries": 10276
+  },
+  {
+    "ref": "heads/investigation/creator-links-pump-detection-20261106",
+    "commit": "0d24a80949e55884c59a1721e5713a7830885dc5",
+    "tree_entries": 10140
+  },
+  {
+    "ref": "heads/investigation/debridge-base-bsc-solana-20261106",
+    "commit": "31034c811dbd22b93bf3bd07263bb11b562808f0",
+    "tree_entries": 10139
+  },
+  {
+    "ref": "heads/investigation/evm-recipient-deeptrace-20261105",
+    "commit": "43ca232c67dc9a0a4980c9442b0167ab39cc8f77",
+    "tree_entries": 9797
+  },
+  {
+    "ref": "heads/main",
+    "commit": "15d6abcfe5b0ee708a653bd675eca15bd58e0059",
+    "tree_entries": 10659
+  },
+  {
+    "ref": "heads/publication/final-case-brief-20261118",
+    "commit": "1d201f23b16bf182b07e76320f4418d48bc67674",
+    "tree_entries": 10559
+  },
+  {
+    "ref": "heads/research/debridge-bsc-delivery-20261113",
+    "commit": "892f54dbf167ce4c6b2974dac08e7e27f268bcca",
+    "tree_entries": 10550
+  },
+  {
+    "ref": "heads/research/dmaga-historical-2026-11-06",
+    "commit": "d7e24aaf68fa9c674f0cc9050766337a2133fa3a",
+    "tree_entries": 10290
+  },
+  {
+    "ref": "heads/research/dmaga-historical-x-pass2-2026-11-06",
+    "commit": "063752ef450c4e500d66fb23725dfb91e386ae14",
+    "tree_entries": 10303
+  },
+  {
+    "ref": "heads/research/dmaga-pass3-and-status-20261106",
+    "commit": "de656d28baa9fca53fcbedca365bcc7df6dbb20c",
+    "tree_entries": 10319
+  },
+  {
+    "ref": "heads/research/independent-public-recheck-20261119",
+    "commit": "1e3bff007da186d381e7e5c641e8d47a45d04cc5",
+    "tree_entries": 10659
+  }
+]

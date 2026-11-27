@@ -1,0 +1,41 @@
+name: deBridge Base/BSC/Solana checks
+
+on:
+  pull_request:
+    branches: [main, investigation/evm-recipient-deeptrace-20261105]
+    paths:
+      - 'investigations/2026-11-06_debridge_base_bsc_solana/**'
+      - 'investigations/2026-11-05_evm-recipient-deeptrace/**'
+      - '.github/workflows/debridge-next-trace.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'investigations/2026-11-06_debridge_base_bsc_solana/**'
+      - 'investigations/2026-11-05_evm-recipient-deeptrace/**'
+      - '.github/workflows/debridge-next-trace.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  offline-replay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - name: Check out the candidate
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.12"
+      - name: Offline tests on published fixtures (network blocked)
+        run: python -m unittest discover -s investigations/2026-11-06_debridge_base_bsc_solana/tests -v
+      - name: Report self-check (31 assertions)
+        run: python -I investigations/2026-11-06_debridge_base_bsc_solana/scripts/s99_selfcheck.py
+      - name: Previous EVM deep-trace self-check
+        run: cd investigations/2026-11-05_evm-recipient-deeptrace/scripts && python -I s99_selfcheck.py

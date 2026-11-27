@@ -14,3 +14,7 @@ The case study retains its original directory structure and licenses. Public tra
 
 Two distinct historical research snapshots are preserved separately: [audit branch](dark-maga-archives/audit-2026-11-03/README.md) (source commit `b6e8cbd20dedf67e0f6ff56410d76ba576ed93ee`) and [D01 correction branch](dark-maga-archives/d01-correction/README.md) (source commit `6143964e532cb60a7d3938a1f4d175ada895b00c`). They are archived research versions, not silently merged findings. Their original branch-history-dependent checks require the source Git history.
 
+
+## Historical branches and commit graph
+
+[Full historical archive](dark-maga-history/README.md), including source branch refs, commit ancestry and historical file versions. The active investigation remains the authoritative publication.

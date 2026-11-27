@@ -1,0 +1,5 @@
+# Versions used for the offline regression suite on 2026-11-04 (Python 3.12).
+# The complete research and audit pipelines have additional dependencies.
+pytest==9.2.0
+duckdb==2.0.0
+pyarrow==26.0.1

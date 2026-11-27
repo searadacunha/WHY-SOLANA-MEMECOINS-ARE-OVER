@@ -1,0 +1,43 @@
+# Preuves manquantes, accès refusés, pistes ouvertes
+
+Ce qui n'a pas pu être établi, et pourquoi. Une absence n'est jamais rapportée ici comme une preuve d'absence.
+
+## X et archives
+| Élément | État | Cause | Ce qui débloquerait |
+|---|---|---|---|
+| Recherche X native (tous les posts d'un compte, toutes les réponses) | Non faite | Pas d'accès API X ; crédits Grok épuisés (HTTP 403) ; `twscrape` et `twikit` exigent un compte connecté, non utilisés par choix | Accès API X ou export d'un compte |
+| Posts de @kikisknees du 14 au 26/07/2024 | 1 407 sur 1 419 supprimés. Texte récupéré pour 225 d'entre eux via Wayback | La Wayback a refusé la suite (connexion refusée, 503) | Reprendre la lecture Wayback plus tard, `evidence/x_cdx/kikisknees.json*` liste les identifiants |
+| Images des posts supprimés de @kikisknees, dont la réponse à Musk du 21/07 16:00:08 UTC | Perdues | Médias en 404 sur X, absents de la Wayback (10 essais sur les posts décisifs le 03/11) | Capture d'écran d'époque. **Sans elle, on ne sait pas si le visuel a été publié avant @ChrisWinig** |
+| Thread d'@Aristos_Revenge du 08/10/2024 | Texte lu par Thread Reader seulement | 20 posts supprimés par l'auteur ; compte Wayback vide | Copie originale |
+| Post d'@Aristos_Revenge du 21/07 20:56 UTC | Texte connu par le seul Daily Dot | Supprimé, absent de la Wayback | Capture d'époque |
+| Réponses, citations et portée complètes | Partielles | Les points d'accès publics ne listent pas les réponses | API X |
+| Historique complet des avatars des comptes | Non établi | X ne le fournit pas | Captures datées |
+| Post original de @ai_9684xtpa | Trouvé, id `1815243177475121253` ; d'autres versions citées par la presse non retrouvées | Pas de recherche native | API X |
+| Source sociale du wallet `9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq` | **Non retrouvée** | Ni WebSearch, ni Exa, ni les archives. Les transactions sont vérifiées, la citation d'août 2024 non | Benjamin peut fournir le lien s'il l'a |
+
+## Le DM à Musk
+Le DM revendiqué par @DarkMagaCoin n'est **ni prouvé ni réfuté**. Un DM n'est pas observable sans la capture ou le compte. Le Daily Dot note que le compte n'a pas répondu à la demande de preuve. Le fichier d'origine du visuel n'est pas disponible : seule une capture de l'app Photos, dont la date est modifiable, a été publiée (`IMG_5658`, fuseau inconnu).
+
+## On-chain
+| Élément | État | Cause |
+|---|---|---|
+| API Wallet Helius (`identity`, `funded-by`) | HTTP 403 sur les clés disponibles | Plan ; remplacé par `getTransfersByAddress` et les étiquettes Dune |
+| Étiquettes Solscan et Solana.fm | Inaccessibles | Solana.fm répond 502, l'API publique Solscan 404 ; liste Dune Spellbook utilisée (117 adresses), archivée avec son empreinte dans `evidence/labels/` |
+| Identité des services non étiquetés | Partielle | `3LoAYHuS…`, `HFqp6ErW…`, `GP8StUXN…`, `3CgvbiM3…`, `7iWnBRRh…` sont publiés par Jupiter (`evidence/labels/`). `FERjPVNE…`, `3eGdjMdQ…` et de nombreux hubs restent non nommés : on mesure leur comportement, pas leur marque |
+| Traversée des échanges | **Impossible par construction** | Un dépôt sur un hot wallet coupe la trace. Aucune continuité n'est créée à travers lui |
+| Requêtes de flux tronquées | Partielles sur les wallets très actifs | Plafonds de pages. Chaque fichier de `raw/flows` indique `truncated`, et `exit_flows.parquet` et `funding_edges.parquet` le portent ligne par ligne |
+| Transferts SPL sans référence au mint sur les wallets non tracés | Non vus | Seuls les wallets tracés (`getTransfersByAddress`) les révèlent. Leur réalisé peut donc être surévalué, signalé par la colonne de complétude |
+
+## Enquête secondaire : Wifejak et prototype politique : DÉSACTIVÉE
+Le thread d'@Aristos_Revenge ne nomme aucun contrat. Plusieurs candidats portent le nom (`4y3oUrsJfSp431R3wJrWiaLxRPsnYtpkVJmoV2bYpBiy`, `8AciyqMog6ERxrvu2H8o36CLbzfD6g6pjH3ZKrBrcPAK`, des clones Pump.fun, un site sur Ethereum), mais rien de lu ne les relie au thread. Comparer leurs acheteurs à ceux de DMAGA reviendrait à chercher un lien sur un contrat choisi au hasard. Le wallet créateur de DMAGA n'a créé aucun autre token Pump.fun sur ses 972 transactions. Pour activer cette branche, il faudrait un nom ou un contrat venant d'une source.
+
+## Récit de Benjamin du 02/08/2026
+Des échanges avec des traders « de Bali à Los Angeles », une équipe derrière DMAGA et Kekius, une adresse deBridge récurrente : aucun fichier trouvé sur ce Mac ne le documente. Ces éléments restent des hypothèses. L'ancienne analyse des gros gagnants n'a pas été retrouvée non plus (`docs/PRIOR_WORK.md`).
+
+## Ce qui établirait une connaissance préalable
+1. La conversation d'origine : capture ou export du DM, avec date, expéditeur et destinataire.
+2. Le fichier d'origine du visuel avec ses métadonnées intactes.
+3. Une communication datée entre un wallet identifié et un compte proche de Musk avant 19:03 UTC le 21/07.
+4. Une attribution vérifiable d'un wallet acheteur à un compte du noyau : adresse revendiquée, signature de message, ou réquisition à un échange.
+
+Sans l'un de ces quatre éléments, les données on-chain seules ne peuvent pas démontrer une connaissance préalable.

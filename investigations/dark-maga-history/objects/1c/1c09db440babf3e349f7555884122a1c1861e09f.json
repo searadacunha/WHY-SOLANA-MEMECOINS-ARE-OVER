@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "targets": {
+    "main": {
+      "baseline_commit": "846a0937e6a5d803251de3cec949c5673ca6cbfb",
+      "readme_blob": "6396eedc386ffa4831758ce8d9278dc211629d16",
+      "protocol_locks": [
+        "etude_final/PROTOCOL.lock"
+      ]
+    },
+    "audit-2026-11-03": {
+      "baseline_commit": "16c2396ddb8b80ea109c4f59a03822c1e7a6864e",
+      "readme_blob": "6e20ba9e0897c0d540d81c73639587b310f1fa30",
+      "protocol_locks": [
+        "etude_final/PROTOCOL.lock",
+        "etude_groupe/PROTOCOL.lock"
+      ]
+    }
+  }
+}
