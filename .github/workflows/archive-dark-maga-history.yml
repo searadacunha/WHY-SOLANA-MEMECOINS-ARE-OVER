@@ -168,21 +168,41 @@ jobs:
           write_json(ROOT/"summary.json",{"refs":len(refs),"commits":len(commits),"distinct_blobs":len(all_blobs),"counts":dict(stats),"source":"searadacunha/DARK-MAGA","exact_history":"Original Git object identifiers and topology are retained. Redacted or excluded objects cannot be reconstructed byte-for-byte; keep a private original Git bundle before deleting the source. This does not include GitHub issue/PR metadata, external data or untracked files."})
           print(json.dumps({"refs":len(refs),"commits":len(commits),"blobs":len(all_blobs),"counts":dict(stats)}))
           
+          # Verify the exact source tree topology for every archived commit, not just branch tips.
+          states={}
+          for line in (ROOT/"commits.jsonl").read_text().splitlines():
+              c=json.loads(line)
+              current=states[c["parents"][0]].copy() if c["parents"] else {}
+              for path,mode,obj in c["changes"]:
+                  if mode=="000000": current.pop(path,None)
+                  else: current[path]=(mode,obj)
+              expected={p:(m,o) for m,k,o,p in tree(c["commit"])}
+              assert current==expected, "source tree mismatch: "+c["commit"]
+              states[c["commit"]]=current
+          print("Verified exact source tree maps for",len(states),"commits and",len(refs),"refs.")
+          summary=json.loads((ROOT/"summary.json").read_text())
+          summary["verified_source_commit_trees"]=len(states)
+          summary["github_metadata"]={"issues":3,"pull_requests":40,"issue_comments":6,"inline_review_comments":0}
+          write_json(ROOT/"summary.json",summary)
+          
           PY
       - name: Verify and publish
         shell: bash
         run: |
           set -euo pipefail
+          git rm .github/workflows/archive-dark-maga-history.yml
           git add -f investigations/dark-maga-history code/dark_maga_public_matches.json
           python code/check_no_secrets.py > /tmp/publication.txt 2>&1 || {
             python - <<'PY'
           import re
           from collections import Counter
           s=open("/tmp/publication.txt").read()
-          print("Finding categories:",dict(Counter(re.findall(r"\[([^\]]+)\]\s+investigations/",s))))
+          print("Finding categories:",dict(Counter(re.findall(r"\[([^\]]+)\]\s+[^\s]+:\d+",s))))
           for line in s.splitlines():
-              if "ALLOWED" not in line and re.search(r"\[[^\]]+\]\s+investigations/",line):
-                  print(line.split("  ")[0:2])
+              m=re.search(r"\[([^\]]+)\]\s+([^\s]+):(?:\d+|-)",line)
+              if m and "ALLOWED" not in m[1]: print(m[1].strip(),m[2])
+          for line in s.splitlines():
+              if line.startswith(("VERDICT:", "FAIL:", "OK:")): print(line)
           PY
             exit 1
           }

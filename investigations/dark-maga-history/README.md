@@ -6,6 +6,7 @@ This content-addressed archive preserves the source repository's reachable commi
 - [Archive inventory](summary.json)
 - [Commit graph and file changes](commits.jsonl)
 - [Blob inventory and publication hashes](blobs.jsonl)
+- [Source issues, pull requests and comments](github-metadata.json)
 
 Restore a historical version to an empty directory:
 
@@ -13,4 +14,4 @@ Restore a historical version to an empty directory:
 python investigations/dark-maga-history/restore.py heads/main ./dmaga-restored
 ```
 
-The archive uses the original Git object identifiers and records the publication hash of each available blob. Potential credentials and local identifying paths are redacted. Some objects may be excluded under the publication gate; the original commit graph is not a byte-identical Git clone. Do not interpret old branches as current conclusions. Before removing the source repository, retain a private original mirror or bundle if exact history is needed. GitHub discussions, issues, pull request comments, external data archives and untracked files are not included.
+The archive uses the original Git object identifiers and records the publication hash of each available blob. Potential credentials and local identifying paths are redacted. Some objects may be excluded under the publication gate; the original commit graph is not a byte-identical Git clone. Do not interpret old branches as current conclusions. Before removing the source repository, retain a private original mirror or bundle if exact history is needed. Public issue and pull request metadata and comments are preserved separately; review events, external data archives, GitHub discussions and untracked files are not included.
