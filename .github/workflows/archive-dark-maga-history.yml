@@ -1,0 +1,192 @@
+name: Archive DARK-MAGA historical research
+on:
+  push:
+    branches: [archive-dark-maga-history]
+    paths: ['.github/workflows/archive-dark-maga-history.yml']
+permissions:
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch all source branch and tag histories
+        run: |
+          git remote add dmaga-source https://github.com/searadacunha/DARK-MAGA.git
+          git fetch --no-tags dmaga-source '+refs/heads/*:refs/remotes/dmaga-source/*' '+refs/tags/*:refs/dmaga-source-tags/*'
+      - name: Build deduplicated historical archive
+        run: |
+          python - <<'PY'
+          import hashlib, json, os, re, subprocess, sys
+          from pathlib import Path
+          from collections import Counter
+          sys.path.insert(0, "code")
+          import check_no_secrets as gate
+          
+          ROOT=Path("investigations/dark-maga-history")
+          ROOT.mkdir(parents=True,exist_ok=True)
+          def git(*args):
+              return subprocess.check_output(["git",*args])
+          def digest(raw): return hashlib.sha256(raw).hexdigest()
+          def write_json(path,obj):
+              path.write_text(json.dumps(obj,ensure_ascii=True,indent=2)+"\n")
+          def tree(ref):
+              for row in git("ls-tree","-r","-z",ref).split(b"\0"):
+                  if not row: continue
+                  meta,path=row.split(b"\t",1)
+                  mode,kind,sha=meta.decode().split()
+                  yield mode,kind,sha,path.decode("utf-8","surrogateescape")
+          refs={}
+          for row in git("for-each-ref","--format=%(refname) %(objectname)","refs/remotes/dmaga-source","refs/dmaga-source-tags").decode().splitlines():
+              ref,sha=row.split()
+              if ref.endswith("/HEAD"): continue
+              name=ref.replace("refs/remotes/dmaga-source/","heads/",1).replace("refs/dmaga-source-tags/","tags/",1)
+              refs[name]=sha
+          assert len([x for x in refs if x.startswith("heads/")])>=47, refs.keys()
+          tips=list(refs.values())
+          bases={
+           "6141245d0c45f53b563de160da16f138bedbb426":"investigations/dark-maga",
+           "b6e8cbd20dedf67e0f6ff56410d76ba576ed93ee":"investigations/dark-maga-archives/audit-2026-11-03",
+           "6143964e532cb60a7d3938a1f4d175ada895b00c":"investigations/dark-maga-archives/d01-correction"}
+          known={}
+          for ref,folder in bases.items():
+              for mode,kind,sha,path in tree(ref):
+                  p=Path(folder)/path
+                  if kind=="blob" and p.is_file() and not p.is_symlink():
+                      known.setdefault(sha,str(p))
+          manifest_path=Path("code/dark_maga_public_matches.json")
+          exceptions=json.loads(manifest_path.read_text())
+          known_matches=set()
+          for x in exceptions:
+              p=re.sub(r"^investigations/dark-maga(?:-archives/[^/]+)?/","",x["path"])
+              known_matches.add((p,x["kind"],x["sha256"]))
+          stats=Counter()
+          new_exceptions=set()
+          def public(path,kind,frag,line,m):
+              if (path,kind,digest(frag.encode())) in known_matches: return True
+              if kind in ("telegram reflink","telegram handle"):
+                  return (path.startswith(("evidence/","data/historical_x_pass","data/x_posts","docs/historical/","audits/2026-11-03/work_E/")) or "/evidence/" in path) 
+              if kind=="api key (32 hex)":
+                  if Path(path).name in {"2d86_full_history.csv","base_0xb298_ledger.csv"} and frag.isdecimal(): return True
+                  if "/fixtures/sol/" in path and re.search(r"Program return: [1-9A-HJ-NP-Za-km-z]+ $",line[max(0,m.start()-100):m.start()]): return True
+              if kind=="telegram bot token" and re.search(r"ledger_(7GVC|9Sxm)_20240713_20240725\.csv$",path):
+                  return bool(re.fullmatch(r"\d+:[1-9A-HJ-NP-Za-km-z]{32,44}",frag)) and bool(re.search(r":[1-9A-HJ-NP-Za-km-z]{32,44}>[1-9A-HJ-NP-Za-km-z]{32,44}:-?$",line[:m.start()]))
+              return False
+          def sanitize(raw,path,dest):
+              try: src=raw.decode("utf-8")
+              except UnicodeDecodeError: return raw,0
+              count=0; out=[]
+              for line in src.splitlines(keepends=True):
+                  for kind,rx in gate.PATTERNS:
+                      if kind=="local path":
+                          home=re.compile(r"(?:/Users/|/home/)[A-Za-z0-9_.-]+|[A-Z]:\\Users\\[A-Za-z0-9_.-]+")
+                          line,n=home.subn("REDACTED_HOME",line); count+=n
+                          continue
+                      def sub(m):
+                          nonlocal count
+                          frag=m.group()
+                          if kind.startswith("api key") and (len(set(frag))<=2 or gate.in_url_path(line,m.start())): return frag
+                          if public(path,kind,frag,line,m):
+                              new_exceptions.add((dest,kind,digest(frag.encode())))
+                              return frag
+                          count+=1
+                          return "REDACTED_"+digest(frag.encode())[:12]
+                      line=rx.sub(sub,line)
+                  out.append(line)
+              return "".join(out).encode("utf-8"),count
+          
+          # Full reachable commit graph and first-parent changes. Every tree can be reconstructed
+          # using the original object IDs, file modes and paths plus the blob map below.
+          commits=git("rev-list","--topo-order","--reverse",*tips).decode().splitlines()
+          all_blobs={}
+          with (ROOT/"commits.jsonl").open("w") as out:
+              for sha in commits:
+                  info=git("show","-s","--format=%T%n%P%n%aI%n%cI",sha).decode().splitlines()
+                  parents=info[1].split()
+                  if parents:
+                      raw=git("diff-tree","-r","--no-commit-id","--raw","-z","--no-renames",parents[0],sha)
+                  else:
+                      raw=git("diff-tree","-r","--root","--no-commit-id","--raw","-z","--no-renames",sha)
+                  parts=raw.split(b"\0"); changes=[]
+                  for i in range(0,len(parts)-1,2):
+                      oldmode,mode,oldid,obj,status=parts[i][1:].decode().split()
+                      path=parts[i+1].decode("utf-8","surrogateescape")
+                      changes.append([path,mode,obj])
+                      if mode!="000000" and mode!="160000": all_blobs.setdefault(obj,path)
+                  out.write(json.dumps({"commit":sha,"tree":info[0],"parents":parents,"author_date":info[2],"commit_date":info[3],"changes":changes},ensure_ascii=True,separators=(",",":"))+"\n")
+          # Ensure every branch-tip blob is represented, not just the diff-derived inventory.
+          branch_summary=[]
+          for ref,sha in sorted(refs.items()):
+              items=list(tree(sha))
+              for mode,kind,obj,path in items:
+                  if kind=="blob": all_blobs.setdefault(obj,path)
+              branch_summary.append({"ref":ref,"commit":sha,"tree_entries":len(items)})
+          write_json(ROOT/"refs.json",branch_summary)
+          
+          # A content-addressed store avoids adding duplicate snapshots to main.
+          proc=subprocess.Popen(["git","cat-file","--batch"],stdin=subprocess.PIPE,stdout=subprocess.PIPE)
+          with (ROOT/"blobs.jsonl").open("w") as out:
+              for obj,path in sorted(all_blobs.items()):
+                  if obj in known:
+                      p=Path(known[obj])
+                      record={"blob":obj,"source_path":path,"location":str(p),"published_sha256":digest(p.read_bytes()),"kind":"existing"}
+                      stats["reused"]+=1
+                  else:
+                      proc.stdin.write((obj+"\n").encode());proc.stdin.flush()
+                      head=proc.stdout.readline().decode().split()
+                      if len(head)!=3 or head[1]!="blob": raise RuntimeError("missing Git blob "+obj)
+                      size=int(head[2]); raw=proc.stdout.read(size); assert proc.stdout.read(1)==b"\n"
+                      record={"blob":obj,"source_path":path,"original_sha256":digest(raw),"bytes":size}
+                      ext=Path(path).suffix.lower()
+                      if not re.fullmatch(r"\.[a-z0-9]{1,12}",ext): ext=".txt"
+                      dest=ROOT/"objects"/obj[:2]/(obj+ext)
+                      # Credential-file names and oversized objects are not republished.
+                      if gate.FORBIDDEN_NAMES.search(Path(path).name) and Path(path).name!=".env.example":
+                          record.update(kind="excluded",reason="credential-file name");stats["excluded"]+=1
+                      elif size>60_000_000:
+                          record.update(kind="excluded",reason="exceeds publication size limit");stats["excluded"]+=1
+                      else:
+                          dest.parent.mkdir(parents=True,exist_ok=True)
+                          data,n=sanitize(raw,path,str(dest)) if ext not in gate.BINARY_EXT else (raw,0)
+                          dest.write_bytes(data)
+                          if ext in gate.IMAGE_EXT:
+                              findings=[]
+                              gate.scan_blob(str(dest),gate.image_meta_text(str(dest)),"image metadata",findings,[])
+                              if findings:
+                                  dest.unlink()
+                                  record.update(kind="excluded",reason="potential sensitive image metadata");stats["excluded"]+=1
+                                  out.write(json.dumps(record,ensure_ascii=True,separators=(",",":"))+"\n");continue
+                          record.update(kind="redacted" if n else "unchanged",location=str(dest),published_sha256=digest(data),redactions=n)
+                          stats[record["kind"]]+=1
+                  out.write(json.dumps(record,ensure_ascii=True,separators=(",",":"))+"\n")
+          proc.stdin.close();proc.wait();assert proc.returncode==0
+          exceptions.extend({"path":p,"kind":k,"sha256":h} for p,k,h in sorted(new_exceptions))
+          write_json(manifest_path,exceptions)
+          write_json(ROOT/"summary.json",{"refs":len(refs),"commits":len(commits),"distinct_blobs":len(all_blobs),"counts":dict(stats),"source":"searadacunha/DARK-MAGA","exact_history":"Original Git object identifiers and topology are retained. Redacted or excluded objects cannot be reconstructed byte-for-byte; keep a private original Git bundle before deleting the source. This does not include GitHub issue/PR metadata, external data or untracked files."})
+          print(json.dumps({"refs":len(refs),"commits":len(commits),"blobs":len(all_blobs),"counts":dict(stats)}))
+          
+          PY
+      - name: Verify and publish
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -f investigations/dark-maga-history code/dark_maga_public_matches.json
+          python code/check_no_secrets.py > /tmp/publication.txt 2>&1 || {
+            python - <<'PY'
+          import re
+          from collections import Counter
+          s=open("/tmp/publication.txt").read()
+          print("Finding categories:",dict(Counter(re.findall(r"\[([^\]]+)\]\s+investigations/",s))))
+          for line in s.splitlines():
+              if "ALLOWED" not in line and re.search(r"\[[^\]]+\]\s+investigations/",line):
+                  print(line.split("  ")[0:2])
+          PY
+            exit 1
+          }
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Preserve all DARK-MAGA branch histories in a deduplicated archive"
+          git push origin HEAD:archive-dark-maga-history
