@@ -2613,5 +2613,35 @@
     "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/evidence/x_hist/1818184433498755544.fx.json",
     "kind": "telegram reflink",
     "sha256": "1dca94e385a8b9849be92e2bd2029abc8fa09f1d559b527b2a7f2f451d8868ca"
+  },
+  {
+    "path": "investigations/dark-maga-history/objects/39/39b3d237080b19970bc0868b4da843e8b6419469.jsonl",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-history/objects/39/39b3d237080b19970bc0868b4da843e8b6419469.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-history/objects/39/39b3d237080b19970bc0868b4da843e8b6419469.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-history/objects/ec/ecf3a130fefb387520d34352bf979ac49c3dea23.jsonl",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-history/objects/ec/ecf3a130fefb387520d34352bf979ac49c3dea23.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-history/objects/ec/ecf3a130fefb387520d34352bf979ac49c3dea23.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
   }
 ]

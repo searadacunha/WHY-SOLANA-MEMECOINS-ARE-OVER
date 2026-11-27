@@ -1,0 +1,26 @@
+{
+ "orders": [
+  "0x4b7c7a2fcda576c58c961dee9d35840fba0151a9156cc0c48a0282c2fb024e16",
+  "0xca82377984453a77f40592a694c5ad4c8076acce66b64a25e7c43f119f3cf8a4"
+ ],
+ "amounts": [
+  100048.914457,
+  99989.828367
+ ],
+ "joint_min_from_b947": 100028.638296,
+ "at_allocation": {
+  "0x6a7e85b5": 1000.00011,
+  "0xd6162abe": 99000.01089
+ },
+ "o1_marked": 99046.825443,
+ "o2_marked": 981.812853,
+ "relay_unmarked_max": 100000.011,
+ "s51_individual": [
+  100046.825553,
+  99981.823743
+ ],
+ "corrected_individual": [
+  46.814553,
+  0.0
+ ]
+}

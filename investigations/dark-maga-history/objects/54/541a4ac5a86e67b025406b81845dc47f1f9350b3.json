@@ -1,0 +1,26 @@
+{
+ "DMAGA": {
+  "vault": "5HuEsLbebeuottMsFW3hHcXTrKVsu3WUNSQnSr6aX4eL",
+  "tx": 50138,
+  "breaks": 0,
+  "examples": [],
+  "last": [
+   278952773,
+   19,
+   8470694816067,
+   1721624997
+  ]
+ },
+ "WSOL": {
+  "vault": "3p7DbnWekWjtMQkey6fp1emdwXbAAxecnYuD5eU9ZZPH",
+  "tx": 50141,
+  "breaks": 0,
+  "examples": [],
+  "last": [
+   278952773,
+   19,
+   3079565445199,
+   1721624997
+  ]
+ }
+}

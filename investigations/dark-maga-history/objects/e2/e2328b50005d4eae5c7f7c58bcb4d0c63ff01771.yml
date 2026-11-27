@@ -1,0 +1,26 @@
+name: Forensic code regression tests
+
+on:
+  pull_request:
+    paths:
+      - "dmaga/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/forensic-audit-tests.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  offline-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install test dependencies
+        run: python3 -m pip install "duckdb>=1.2,<2" "pytest>=8,<10"
+      - name: Test deduplication and cost-basis logic
+        run: python3 -m pytest -q tests/test_db_dedup.py tests/test_pnl.py

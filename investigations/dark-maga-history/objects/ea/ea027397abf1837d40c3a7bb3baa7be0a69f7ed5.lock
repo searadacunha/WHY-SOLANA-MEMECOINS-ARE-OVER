@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "etude": "etude_final",
+ "gele_le_utc": "2026-11-02 23:47:06",
+ "plan": "analysis_plan.md",
+ "fichiers": {
+  "analysis_plan.md": "15d6964c7deedcd9298ef24ef24a944c1d03539d6a937b309d50690026703c2b",
+  "code/ana_10_table.py": "a945307126fa18fcc25df1546e0278f73c3147032661cd21c70fcf9af539660c",
+  "code/ana_50_tests.py": "a047f5ff34f2195c01da50a139bed95499afff88b86040159ff1f0c2efd2f6fd",
+  "code/ana_90_verdict.py": "a9f2563aec6ebb15647c74a89c20330d25d2a3e122508a5a9a4852503a13f8e0",
+  "code/chainutil.py": "500d6563140fd3830ad49b48645aee1ba68296d2d82a67d1a805aef5c059e857",
+  "code/col_50_ctrl.py": "f3333164574b7d5903f2fc5ea43ef0744bb64eb1c25290461e01768f44242154",
+  "code/ctl_01_synth.py": "6a98918876c007a9a57c29436d32dd585952209f1e910fc55bc15289e8607e56",
+  "code/ctl_02_e2e.py": "7d39ee64ffc39dbde2bd7a0a33c85c1578c9242be69a8c614dd18bb5df021a97",
+  "code/metrics.py": "8690f00a9dd5c9950b3ddeaa490825fc2b1ae50a0fba3ce1352d0b3eda3d486f",
+  "code/registre.py": "7cf1c70ef1f1ce14dda90be8c00329069432a8e5ce473652d0b33b06601c27a3",
+  "../dmaga/collect.py": "0ab55ba42acba8d752715196c5de99d11bf1709fefb491376d36254785b75572",
+  "../dmaga/helius.py": "fd1945f85e10f8ec6bda6904f7220b18d28cb9e568f8e290cfae2280ea02d754",
+  "../dmaga/config.py": "0bbcfa3ff37e4be5d3e56122ac7f49163366df621b2ebbddd5dcaa16ae78c06f",
+  "../scripts/col_40_controls.py": "0c3773d0934b9c9b6a0cb8e9fe6fc1a689bf8f978151a3b0bd3f2da3ff9ae35c",
+  "controles/synth.md": "820a4e2adbfe52682aec116d74a9e40be543b607e60dcc1edd51446066d8dbf6"
+ },
+ "controles_positifs": "controles/synth.md",
+ "sans_controles_raison": null,
+ "git": {
+  "depot_relatif": "..",
+  "commit_head": "b0445db3e87d0d360b7bb166ef4bc4c0dac95bbb",
+  "fichiers_non_committes": true,
+  "tag": null
+ },
+ "immuable": false,
+ "ajouts": [],
+ "regle": "These files no longer change. Any change of method = a NEW file in amendements/ (resultats_vus: oui|non). Only Benjamin unfreezes."
+}

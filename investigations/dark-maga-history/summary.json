@@ -1,0 +1,19 @@
+{
+  "refs": 47,
+  "commits": 239,
+  "distinct_blobs": 11461,
+  "counts": {
+    "reused": 11145,
+    "unchanged": 314,
+    "redacted": 2
+  },
+  "source": "searadacunha/DARK-MAGA",
+  "exact_history": "Original Git object identifiers and topology are retained. Redacted or excluded objects cannot be reconstructed byte-for-byte; keep a private original Git bundle before deleting the source. This does not include GitHub issue/PR metadata, external data or untracked files.",
+  "verified_source_commit_trees": 239,
+  "github_metadata": {
+    "issues": 3,
+    "pull_requests": 40,
+    "issue_comments": 6,
+    "inline_review_comments": 0
+  }
+}

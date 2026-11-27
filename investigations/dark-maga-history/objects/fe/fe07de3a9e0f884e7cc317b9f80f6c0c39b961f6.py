@@ -1,0 +1,91 @@
+"""Tests du parseur sur des cas synthétiques minimaux. Les vraies transactions sont testées par
+tests/test_real_txs.py, qui a besoin du réseau ou du cache brut."""
+from dmaga.config import BONDING_CURVE, MINT, WSOL
+from dmaga.normalize import RAYDIUM_AUTH as AUTH, parse_tx
+
+VD, VS = "vaultDmaga", "vaultSol"
+
+
+def tx(pre, post, keys=("trader", BONDING_CURVE), pre_l=(0, 0), post_l=(0, 0), err=None):
+    return {
+        "slot": 1, "blockTime": 2, "transactionIndex": 3,
+        "transaction": {"signatures": ["sig"],
+                        "message": {"accountKeys": [{"pubkey": k, "signer": i == 0} for i, k in enumerate(keys)]}},
+        "meta": {"err": err, "fee": 5000, "preBalances": list(pre_l), "postBalances": list(post_l),
+                 "preTokenBalances": pre, "postTokenBalances": post},
+    }
+
+
+def bal(i, mint, owner, amount, dec=6):
+    return {"accountIndex": i, "mint": mint, "owner": owner, "uiTokenAmount": {"amount": str(amount), "decimals": dec}}
+
+
+KEYS = ("trader", VD, VS, "traderAta", "traderWsol")
+
+
+def test_raydium_buy():
+    pre = [bal(1, MINT, AUTH, 1000), bal(2, WSOL, AUTH, 500, 9), bal(3, MINT, "trader", 0)]
+    post = [bal(1, MINT, AUTH, 900), bal(2, WSOL, AUTH, 600, 9), bal(3, MINT, "trader", 100)]
+    rows = parse_tx(tx(pre, post, KEYS, (0,) * 5, (0,) * 5), {VD}, {VS}, "t")
+    assert [r["kind"] for r in rows] == ["swap"]
+    r = rows[0]
+    assert (r["owner"], r["token_delta"], r["sol_lamports"]) == ("trader", 100, -100)
+
+
+def test_raydium_sell():
+    pre = [bal(1, MINT, AUTH, 1000), bal(2, WSOL, AUTH, 500, 9), bal(3, MINT, "trader", 100)]
+    post = [bal(1, MINT, AUTH, 1100), bal(2, WSOL, AUTH, 450, 9), bal(3, MINT, "trader", 0)]
+    r = parse_tx(tx(pre, post, KEYS, (0,) * 5, (0,) * 5), {VD}, {VS}, "t")[0]
+    assert (r["kind"], r["token_delta"], r["sol_lamports"]) == ("swap", -100, 50)
+
+
+def test_failed_tx_gives_nothing():
+    assert parse_tx(tx([], [], err={"x": 1}), {VD}, {VS}, "t") == []
+
+
+def test_pure_transfer():
+    pre = [bal(1, MINT, "a", 100), bal(2, MINT, "b", 0)]
+    post = [bal(1, MINT, "a", 40), bal(2, MINT, "b", 60)]
+    rows = parse_tx(tx(pre, post, ("a", "ata1", "ata2"), (0,) * 3, (0,) * 3), {VD}, {VS}, "t")
+    assert {(r["kind"], r["owner"], r["token_delta"]) for r in rows} == {("transfer", "a", -60), ("transfer", "b", 60)}
+
+
+def test_lp_remove_both_vaults_fall():
+    pre = [bal(1, MINT, AUTH, 1000), bal(2, WSOL, AUTH, 500, 9), bal(3, MINT, "lp", 0)]
+    post = [bal(1, MINT, AUTH, 500), bal(2, WSOL, AUTH, 250, 9), bal(3, MINT, "lp", 500)]
+    rows = parse_tx(tx(pre, post, KEYS, (0,) * 5, (0,) * 5), {VD}, {VS}, "t")
+    assert rows[0]["kind"] == "lp_remove" and rows[0]["pool_sol_delta"] == -250
+
+
+def test_curve_buy_uses_curve_lamports():
+    pre = [bal(1, MINT, BONDING_CURVE, 1000)]
+    post = [bal(1, MINT, BONDING_CURVE, 900), bal(3, MINT, "trader", 100)]
+    keys = ("trader", "ataCurve", BONDING_CURVE, "traderAta")
+    r = parse_tx(tx(pre, post, keys, (10, 0, 7, 0), (5, 0, 12, 0)), {VD}, {VS}, "t")[0]
+    assert (r["kind"], r["venue"], r["token_delta"], r["sol_lamports"]) == ("swap", "pumpfun", 100, -5)
+
+
+def test_other_venue_is_not_a_trader():
+    # vente routée vers un pool CLMM : le trader perd les jetons, le pool paie, aucune fausse arête
+    keys = ("trader", "ata", "clmmDmaga", "clmmWsol")
+    pre = [bal(1, MINT, "trader", 100), bal(2, MINT, "clmm", 0), bal(3, WSOL, "clmm", 500, 9)]
+    post = [bal(1, MINT, "trader", 0), bal(2, MINT, "clmm", 100), bal(3, WSOL, "clmm", 450, 9)]
+    rows = parse_tx(tx(pre, post, keys, (0,) * 4, (0,) * 4), {VD}, {VS}, "t", {"clmm"})
+    assert [(r["kind"], r["owner"], r["token_delta"], r["sol_lamports"]) for r in rows] == [("swap", "trader", -100, 50)]
+
+
+def test_dlmm_one_sided_deposit_is_lp_not_transfer():
+    keys = ("lp", "ata", "dlmmDmaga")
+    pre = [bal(1, MINT, "lp", 100), bal(2, MINT, "dlmm", 0)]
+    post = [bal(1, MINT, "lp", 40), bal(2, MINT, "dlmm", 60)]
+    rows = parse_tx(tx(pre, post, keys, (0,) * 3, (0,) * 3), {VD}, {VS}, "t", {"dlmm"})
+    assert [(r["kind"], r["owner"], r["token_delta"]) for r in rows] == [("lp_add", "lp", -60)]
+
+
+def test_usdc_pool_swap_carries_usdc():
+    from dmaga.normalize import USDC
+    keys = ("trader", "ata", "poolD", "poolU")
+    pre = [bal(1, MINT, "trader", 100), bal(2, MINT, "u", 0), bal(3, USDC, "u", 500)]
+    post = [bal(1, MINT, "trader", 0), bal(2, MINT, "u", 100), bal(3, USDC, "u", 450)]
+    r = parse_tx(tx(pre, post, keys, (0,) * 4, (0,) * 4), {VD}, {VS}, "t", {"u"})[0]
+    assert (r["kind"], r["usdc_raw"], r["sol_lamports"]) == ("swap", 50, 0)
