@@ -40,7 +40,7 @@ jobs:
         run: python code/p1_readme_check.py
 
       - name: Unit tests
-        run: python -m pytest -q --ignore=investigations/dark-maga --ignore=investigations/dark-maga-archives
+        run: python -m pytest -q --ignore=investigations/dark-maga --ignore=investigations/dark-maga-archives --ignore=investigations/dark-maga-history/objects
 
       - name: Type-check the shared libraries and the tooling (mypy --strict)
         run: >
@@ -51,7 +51,7 @@ jobs:
           code/sanitize_data.py
 
       - name: Lint (ruff, config in ruff.toml)
-        run: ruff check . --extend-exclude investigations/dark-maga,investigations/dark-maga-archives
+        run: ruff check . --extend-exclude investigations/dark-maga,investigations/dark-maga-archives,investigations/dark-maga-history/objects
 
       - name: Publication gate (no secrets; working tree clean)
         run: python code/check_no_secrets.py --require-clean
