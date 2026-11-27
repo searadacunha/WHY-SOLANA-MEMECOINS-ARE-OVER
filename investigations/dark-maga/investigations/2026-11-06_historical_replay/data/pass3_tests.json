@@ -1,0 +1,101 @@
+{
+ "L02_9Sxm_1_8M": [
+  {
+   "signature": "2PHU4HTSGRJ6xKncBiVmeqibrmwyA2DqVC2rP6pXcyX2nnWxRpiVN1gDDLkeDcyjSD2WQepVFmHa7JJMFJySNDUV",
+   "slot": 277721456,
+   "utc": "2024-07-15 16:59:20",
+   "dmaga_sold": 1800000.0,
+   "pool_sol_gross": 17.874608396,
+   "net_sol_to_wallet": 17.652820967,
+   "wsol_paid_to_third_parties": [
+    [
+     "ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd",
+     211782429
+    ]
+   ],
+   "matches_display": true
+  },
+  {
+   "signature": "3knxP9mmNBeUG63BfK8PhunSQi8XhoxmzGssRQppbxzFn4FAQUL9Xc55UKja5J97YLkBaS6vRw5j4RrZaAgk4Dqx",
+   "slot": 277721504,
+   "utc": "2024-07-15 16:59:44",
+   "dmaga_sold": 1620000.0,
+   "pool_sol_gross": 19.575572237,
+   "net_sol_to_wallet": 19.369697445,
+   "wsol_paid_to_third_parties": [
+    [
+     "ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd",
+     195869792
+    ]
+   ],
+   "matches_display": false
+  }
+ ],
+ "L01_6QFD": {
+  "ata": "4nHgnzCtt1i938NKypZe3VGy8YSiuUzfcb7WM4P3CjeR",
+  "ata_txs_21_07_to_noah": 0,
+  "last_tx_before_noah": "CirxAS4pSayBRiJowZ6yn2aBBqTwb51hgAN33PkHAVXhMqjK8G1NTQhKNR65pDFXQQJ2tkFUCappEuP5wFA8eDt",
+  "last_tx_utc": "2024-07-16 02:29:41",
+  "balance_raw": 15392092618766,
+  "pct_supply": 1.5392092618766,
+  "display_15_3M_1_53pct_by_truncation": true,
+  "minutes_22_07_until_noah_where_value_is_947_9K": [
+   "03:11",
+   "03:36",
+   "07:43",
+   "08:24",
+   "12:24",
+   "12:58"
+  ],
+  "swaps_scanned": 39264
+ },
+ "L03_BARRON": {
+  "mint": "HmAgiwjjP9CXqK5wQNsHKtjAt2CH3Kv8Q7xH5kGL2nqZ",
+  "metadata": {
+   "metadata_account": "ASiabRUDL3yP2pBHaw92pr5CvZP2FRikrDtaGnz3iQBk",
+   "name": "Time Traveler",
+   "symbol": "Barron"
+  },
+  "create_signature": "veJgufrqRRfWvo6fXNeGL5AnHNMBSU4ZZ5J5FrnTHoa7eVAndjTPS7RgnFznFgrQ1U5S1BKwYFUEHhHyJQ8dXPf",
+  "create_utc": "2024-04-17 08:31:23",
+  "create_programs": [
+   "11111111111111111111111111111111",
+   "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+   "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+   "ComputeBudget111111111111111111111111111111",
+   "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+   "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+  ],
+  "creator": "3DLBntwLgbHx1HsLqJGKqhNtyHbuuoLWet2xhhcTvRuC",
+  "creator_signatures": 2999,
+  "creator_sigs_truncated": false,
+  "dmaga_creator_signatures": 972,
+  "creator_first_funding": {
+   "signature": "2a9YNG2S1sud1aCe1KsB2BzEecxb1XxecHebKQWGu2m2xVGdsjAaZszmWFsNh8cua5Vfb71mjJEY768Yc7379BpN",
+   "utc": "2024-04-12 15:02:57",
+   "funders": [
+    [
+     "DbBnB1dwvHn2R8gbuBUWw72MVjwBvoYVSHhjtLwBLgiS",
+     16071217600
+    ]
+   ]
+  },
+  "creator_and_first_funder_in_dmaga_tables": {
+   "trades": 0,
+   "funding_edges": 0,
+   "exit_flows": 0,
+   "token_edges": 0
+  },
+  "creator_dmaga_ata_sigs": 0,
+  "dmaga_creator_barron_ata_sigs": 0,
+  "transactions_common_to_both_creators": [
+   {
+    "signature": "3wFx6C1HXs1PuKcMQVsjzLX97kVbj45BhjWVuDaxzzF23puFSZBksFLtmTjtGuzWnqpBdx9xPYk94KuMpM3FXcDT",
+    "moves_touching_creators": 0,
+    "signers": [
+     "34r9CKaKrENVfDCXhCCsg93FpoC861uN9MZQ9nLu9SMx"
+    ]
+   }
+  ]
+ }
+}

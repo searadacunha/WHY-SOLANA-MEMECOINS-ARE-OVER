@@ -1,0 +1,4 @@
+{"label": "sigs_curve", "pages_files": 1, "n_lues": 286, "n_curseur": 286, "complete": true, "echouees": 118, "non_monotone": 0, "duree_s": 5}
+{"label": "sigs_pool", "pages_files": 9876, "n_lues": 9875478, "n_curseur": 9875478, "complete": true, "echouees": 8199964, "non_monotone": 0, "duree_s": 323}
+{"label": "sigs_mint", "pages_files": 6625, "n_lues": 6624533, "n_curseur": 6624533, "complete": true, "echouees": 5974078, "non_monotone": 0, "duree_s": 255}
+garde : fini, code 0, pic 262 Mo

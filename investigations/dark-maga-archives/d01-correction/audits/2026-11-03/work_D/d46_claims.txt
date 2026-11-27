@@ -1,0 +1,49 @@
+C01 première tx DMAGA [('fePxr7ER3EDxtkXysbcbbCcaztCHMwKBESs2XQzQee8xkBH2u53ULZMP1gMSK9bgGJKj14NcGwpR64YJR3nPiw6', 277417695, 1720922725, '8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR')]
+C02 écart depuis 22:11:33 UTC le 13/07 14032 s
+C06 Biden 17:46:00 -> borne basse [(13.177, 84.941, 1.291)]
+S1 Winig : SOL 401.52, fenêtres 27, médiane 6.06, >= 0, p 0.0357, max passé 174.0
+S1 avatar : SOL 229.28, fenêtres 28, médiane 6.18, >= 1, p 0.0690, max passé 386.9
+C10 arêtes 40 composante 33
+  arêtes dans mon brut, montant opposé exact [(35, 35)]
+  arêtes absentes de mon brut 5 relues dans le brut réseau de C 5
+C11 somme 217.037 C13 4 wallets ['4wComYHQ', 'Ei5yGz8d', 'Gcyg2jeL', 'HGBiExZR'] 50.926 C12 29 166.111 17.71
+C14 membres avec achat en 1re heure [(17,)]
+C29 acheteurs 60 s (lignes swap), M, SOL [(17, 310.824, 11.916)]
+C29 acheteurs dans le slot de création [('8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR', 7.106, 0.2012)]
+C29 mon brut slot de création [('8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR', 7.1059602649), ('8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR', 7.1059602649)]
+C16 gaz 2025-07-06T02:18:38Z [('5QhJJcFZ', '8YLEuUtZ', 0.032)] ordre 2025-07-06T02:19:13Z écart s 35 progs ordre ['ATokenGP', 'ComputeB', 'DCA265Vj']
+  solde créateur avant gaz 0.001287788 signataires ['5QhJJcFZ']
+C20 périmètre 79
+   H3QsBrri tx 1200 dernière 2024-10-19T01:59:34Z virements SOL avec le périmètre []
+   GXZvXsD6 tx 292 dernière 2024-10-14T16:07:07Z virements SOL avec le périmètre []
+   9PrmF8sf tx 1200 dernière 2024-08-24T14:13:04Z virements SOL avec le périmètre []
+C24 ruptures sur le vault jeton Raydium (mon brut) [(1, 389935)]
+C24 tx distinctes touchant les vaults [(681300, 681308)]
+C23 tx distinctes tout brut touchant DMAGA, échouées [(796897, 0)]
+C23 wallets [(71706,)]
+C28 créateur : swaps vente [(0,)]
+C28 créateur : 1er achat [(7.106, 0.2012, 1720922725)]
+C28 créateur : premier delta négatif de mon brut [(1751768353,)]
+C34 cohortes de premier achat (wallets.parquet) [('avant visuel', 1645), ('fenêtre', 18), ('après', 53893), ('avant Musk', 76)]
+C34 acheteurs de [visuel, borne basse), dont déjà acheteurs avant le visuel, dont dans les 6 h [(183, 107, 51)]
+colonnes vault ['signature', 'slot', 'tx_index', 'block_time', 'vault', 'pre', 'post']
+C35 sommet [(631.36, 1721638906, '09:01:46')]
+C35 5QhJJc réalisé, sortis [(74.17, 76.26)]
+C36 premier financeur (>=0,001 SOL, instruction de 1er niveau) : historiques 33 dans le groupe 12 G41 11 aucun 0 CZsBW8yC ['G41vRrsH']
+C40 mon brut, lignes du groupe de visuel à borne haute [(0,)]
+C42 mouvements du groupe le 21/07 avant visuel, par plage [('03:43:13', '03:43:13', 1, 0.0), ('03:43:44', '03:43:44', 1, 0.0), ('03:44:34', '03:44:34', 1, 0.0), ('03:45:14', '03:45:14', 1, 0.0), ('07:57:16', '07:57:16', 1, 6.5), ('08:05:08', '08:05:08', 1, 5.5), ('08:15:06', '08:15:06', 1, 6.0), ('08:16:07', '08:16:07', 1, 6.5), ('08:17:04', '08:17:04', 1, 4.5), ('08:18:58', '08:18:58', 1, 4.0), ('08:24:02', '08:24:02', 1, 6.5), ('08:25:14', '08:25:14', 1, 5.0), ('08:27:31', '08:27:31', 1, 6.5), ('08:28:20', '08:28:20', 1, 6.0), ('08:30:38', '08:30:38', 1, 6.0), ('08:32:13', '08:32:13', 1, 5.2), ('08:33:36', '08:33:36', 1, 1.0), ('11:10:25', '11:10:25', 1, 6.0), ('13:26:46', '13:26:46', 1, 0.0), ('13:27:18', '13:27:18', 1, 0.0), ('14:01:34', '14:01:34', 1, 0.0), ('14:22:00', '14:22:00', 1, 6.5), ('14:23:52', '14:23:52', 1, 5.5), ('14:24:21', '14:24:21', 1, 6.0), ('14:24:45', '14:24:45', 1, 6.5), ('14:25:44', '14:25:44', 1, 1.5)]
+C43 jours de pic, k+1 84 pairs seuls 84 migrations 13920
+C46 part DMAGA 0.08 k 40 médiane 0.0 >= 2 p 0.07317073170731707
+C47 registre lignes 25 réelles 15 comparaisons réelles 33 Bonferroni 0.0015151515151515152
+  clés registre ['agent', 'code_gele', 'declare_dans_plan', 'donnees', 'lock_sha', 'n', 'n_comparaisons', 'n_effectif', 'n_tirages', 'note', 'p', 'params', 'phase', 'prec', 'script', 'script_sha', 'sortie', 'sortie_sha', 'stat', 't_utc', 'test']
+C49 verrou 17 sur 17 gelé 2026-11-02 23:47:06 ajouts ['2026-11-03 03:25:30'] premier réel registre 2026-11-03 03:25:36
+C51 arêtes de lien avec nœud non wallet [(0,)]
+C51 arêtes avec réserve [(0,)]
+C51 arêtes des 33 dans une tx avec un vault qui bouge [(0,)]
+A-05 somme résiduels (M), hors pool à la fin ? [(937.1, 71706)]
+   7gEQ6syD résiduel (122.284,) dernier solde vu dans mon brut (0.0,)
+   HGs9NdwD résiduel (34.349,) dernier solde vu dans mon brut (0.037,)
+A-05 dernier solde des réserves à la fin (M) [(1171.43, 432.18)]
+B-06 sources périmées hors M6 {'6t2dz4jm': True, '8YrEVPQq': True, '99Xrt5uu': True, 'AW63YBXX': False} AtZjv3Du acheteur courbe False dans M6 True
+   retirer du solde hors M6 :  68.82900000000001
+type hist list [[478058, 4], [478059, 4], [478060, 23], [478061, 6], [478062, 6], [478063, 34], [478064, 37], [478065, 6], [478066, 2],

@@ -1,0 +1,545 @@
+{
+ "data": [
+  {
+   "author_id": "1802573570893303808",
+   "conversation_id": "1812312137219318105",
+   "created_at": "2024-07-14T02:50:16.000Z",
+   "edit_history_tweet_ids": [
+    "1812318667713224939"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 39,
+      "start": 33,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 25,
+      "id": "2760158505",
+      "start": 16,
+      "username": "pattyice"
+     }
+    ]
+   },
+   "id": "1812318667713224939",
+   "in_reply_to_user_id": "770680913571221505",
+   "referenced_tweets": [
+    {
+     "id": "1812316567150985272",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@ChristienPhoto @pattyice We are $DMAGA",
+   "url": "https://x.com/Fudrap96/status/1812318667713224939"
+  },
+  {
+   "author_id": "1802573570893303808",
+   "conversation_id": "1812318541779194152",
+   "created_at": "2024-07-14T02:49:46.000Z",
+   "edit_history_tweet_ids": [
+    "1812318541779194152"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 70,
+      "start": 64,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 29,
+      "id": "2760158505",
+      "start": 20,
+      "username": "pattyice"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/0SvzwvBsr4",
+      "end": 94,
+      "expanded_url": "https://x.com/ChristienPhoto/status/1812316567150985272/photo/1",
+      "media_key": "3_1812316565326503936",
+      "start": 71,
+      "url": "https://t.co/0SvzwvBsr4"
+     }
+    ]
+   },
+   "id": "1812318541779194152",
+   "referenced_tweets": [
+    {
+     "id": "1812316567150985272",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @ChristienPhoto: @pattyice He will rise, higher and stronger $DMAGA https://t.co/0SvzwvBsr4",
+   "url": "https://x.com/Fudrap96/status/1812318541779194152"
+  },
+  {
+   "author_id": "1517152342373658633",
+   "conversation_id": "1812312706826854843",
+   "created_at": "2024-07-14T02:48:08.000Z",
+   "edit_history_tweet_ids": [
+    "1812318131890594282"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 20,
+      "start": 14,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 13,
+      "id": "1800564812889325568",
+      "start": 0,
+      "username": "DarkMagaCoin"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/E8Wmx7U3Gk",
+      "end": 70,
+      "expanded_url": "https://x.com/CryptoOnlyCoims/status/1812318131890594282/video/1",
+      "media_key": "13_1812318082414555136",
+      "start": 47,
+      "url": "https://t.co/E8Wmx7U3Gk"
+     }
+    ]
+   },
+   "id": "1812318131890594282",
+   "in_reply_to_user_id": "1800564812889325568",
+   "referenced_tweets": [
+    {
+     "id": "1812312706826854843",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@DarkMagaCoin $DMAGA Time. Libtards on notice. https://t.co/E8Wmx7U3Gk",
+   "url": "https://x.com/CryptoOnlyCoims/status/1812318131890594282"
+  },
+  {
+   "author_id": "946982681329446912",
+   "conversation_id": "1812312706826854843",
+   "created_at": "2024-07-14T02:46:33.000Z",
+   "edit_history_tweet_ids": [
+    "1812317732911607909"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 20,
+      "start": 14,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 13,
+      "id": "1800564812889325568",
+      "start": 0,
+      "username": "DarkMagaCoin"
+     }
+    ]
+   },
+   "id": "1812317732911607909",
+   "in_reply_to_user_id": "1800564812889325568",
+   "referenced_tweets": [
+    {
+     "id": "1812312706826854843",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@DarkMagaCoin $DMAGA💯",
+   "url": "https://x.com/eseleo/status/1812317732911607909"
+  },
+  {
+   "author_id": "1716631597020311552",
+   "conversation_id": "1812317662124646608",
+   "created_at": "2024-07-14T02:46:16.000Z",
+   "edit_history_tweet_ids": [
+    "1812317662124646608"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 70,
+      "start": 64,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 29,
+      "id": "2760158505",
+      "start": 20,
+      "username": "pattyice"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/0SvzwvBsr4",
+      "end": 94,
+      "expanded_url": "https://x.com/ChristienPhoto/status/1812316567150985272/photo/1",
+      "media_key": "3_1812316565326503936",
+      "start": 71,
+      "url": "https://t.co/0SvzwvBsr4"
+     }
+    ]
+   },
+   "id": "1812317662124646608",
+   "referenced_tweets": [
+    {
+     "id": "1812316567150985272",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @ChristienPhoto: @pattyice He will rise, higher and stronger $DMAGA https://t.co/0SvzwvBsr4",
+   "url": "https://x.com/Jacwin_n/status/1812317662124646608"
+  },
+  {
+   "author_id": "1758610294215938048",
+   "conversation_id": "1812317595237798163",
+   "created_at": "2024-07-14T02:46:00.000Z",
+   "edit_history_tweet_ids": [
+    "1812317595237798163"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 70,
+      "start": 64,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 29,
+      "id": "2760158505",
+      "start": 20,
+      "username": "pattyice"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/0SvzwvBsr4",
+      "end": 94,
+      "expanded_url": "https://x.com/ChristienPhoto/status/1812316567150985272/photo/1",
+      "media_key": "3_1812316565326503936",
+      "start": 71,
+      "url": "https://t.co/0SvzwvBsr4"
+     }
+    ]
+   },
+   "id": "1812317595237798163",
+   "referenced_tweets": [
+    {
+     "id": "1812316567150985272",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @ChristienPhoto: @pattyice He will rise, higher and stronger $DMAGA https://t.co/0SvzwvBsr4",
+   "url": "https://x.com/BoredNap66757/status/1812317595237798163"
+  },
+  {
+   "author_id": "1719776674965794816",
+   "conversation_id": "1812312137219318105",
+   "created_at": "2024-07-14T02:45:54.000Z",
+   "edit_history_tweet_ids": [
+    "1812317568968929454"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 32,
+      "start": 26,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 25,
+      "id": "2760158505",
+      "start": 16,
+      "username": "pattyice"
+     }
+    ]
+   },
+   "id": "1812317568968929454",
+   "in_reply_to_user_id": "770680913571221505",
+   "referenced_tweets": [
+    {
+     "id": "1812316567150985272",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@ChristienPhoto @pattyice $DMAGA",
+   "url": "https://x.com/SpecialBea99061/status/1812317568968929454"
+  },
+  {
+   "author_id": "1719776674965794816",
+   "conversation_id": "1812317549280862582",
+   "created_at": "2024-07-14T02:45:49.000Z",
+   "edit_history_tweet_ids": [
+    "1812317549280862582"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 70,
+      "start": 64,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 29,
+      "id": "2760158505",
+      "start": 20,
+      "username": "pattyice"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/0SvzwvBsr4",
+      "end": 94,
+      "expanded_url": "https://x.com/ChristienPhoto/status/1812316567150985272/photo/1",
+      "media_key": "3_1812316565326503936",
+      "start": 71,
+      "url": "https://t.co/0SvzwvBsr4"
+     }
+    ]
+   },
+   "id": "1812317549280862582",
+   "referenced_tweets": [
+    {
+     "id": "1812316567150985272",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @ChristienPhoto: @pattyice He will rise, higher and stronger $DMAGA https://t.co/0SvzwvBsr4",
+   "url": "https://x.com/SpecialBea99061/status/1812317549280862582"
+  },
+  {
+   "author_id": "1730735560967307265",
+   "conversation_id": "1812317124964057194",
+   "created_at": "2024-07-14T02:44:08.000Z",
+   "edit_history_tweet_ids": [
+    "1812317124964057194"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 70,
+      "start": 64,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 29,
+      "id": "2760158505",
+      "start": 20,
+      "username": "pattyice"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/0SvzwvBsr4",
+      "end": 94,
+      "expanded_url": "https://x.com/ChristienPhoto/status/1812316567150985272/photo/1",
+      "media_key": "3_1812316565326503936",
+      "start": 71,
+      "url": "https://t.co/0SvzwvBsr4"
+     }
+    ]
+   },
+   "id": "1812317124964057194",
+   "referenced_tweets": [
+    {
+     "id": "1812316567150985272",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @ChristienPhoto: @pattyice He will rise, higher and stronger $DMAGA https://t.co/0SvzwvBsr4",
+   "url": "https://x.com/Official67Token/status/1812317124964057194"
+  },
+  {
+   "author_id": "770680913571221505",
+   "conversation_id": "1812312137219318105",
+   "created_at": "2024-07-14T02:41:55.000Z",
+   "edit_history_tweet_ids": [
+    "1812316567150985272"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 50,
+      "start": 44,
+      "tag": "DMAGA"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 9,
+      "id": "2760158505",
+      "start": 0,
+      "username": "pattyice"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/0SvzwvBsr4",
+      "end": 74,
+      "expanded_url": "https://x.com/ChristienPhoto/status/1812316567150985272/photo/1",
+      "media_key": "3_1812316565326503936",
+      "start": 51,
+      "url": "https://t.co/0SvzwvBsr4"
+     }
+    ]
+   },
+   "id": "1812316567150985272",
+   "in_reply_to_user_id": "2760158505",
+   "referenced_tweets": [
+    {
+     "id": "1812312137219318105",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@pattyice He will rise, higher and stronger $DMAGA https://t.co/0SvzwvBsr4",
+   "url": "https://x.com/Murray_Gothbard/status/1812316567150985272"
+  },
+  {
+   "author_id": "1376781064081874948",
+   "conversation_id": "1812314544204882062",
+   "created_at": "2024-07-14T02:33:53.000Z",
+   "edit_history_tweet_ids": [
+    "1812314544204882062"
+   ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 6,
+      "start": 0,
+      "tag": "DMAGA"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "t.me/smart_wallet_b…",
+      "end": 149,
+      "expanded_url": "https://t.me/smart_wallet_buy",
+      "start": 126,
+      "status": 200,
+      "unwound_url": "https://t.me/smart_wallet_buy",
+      "url": "https://t.co/mX2hldfoBQ"
+     },
+     {
+      "display_url": "gmgn.ai/sol/token/SzxH…",
+      "end": 209,
+      "expanded_url": "https://gmgn.ai/sol/token/SzxHkJp2s_7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+      "start": 186,
+      "url": "https://t.co/vvc9hqeWZg"
+     }
+    ]
+   },
+   "id": "1812314544204882062",
+   "text": "$DMAGA (fdv: $97,451)\n\nCA: 7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump\n\nthis message was sent 30seconds ago in vip group\ntg: https://t.co/mX2hldfoBQ\n👇🏻📈点击查看k线(click to view the k-line)\nhttps://t.co/vvc9hqeWZg",
+   "url": "https://x.com/adamjia7/status/1812314544204882062"
+  },
+  {
+   "author_id": "1803156897773551616",
+   "conversation_id": "1812268781680390331",
+   "created_at": "2024-07-14T02:20:05.000Z",
+   "edit_history_tweet_ids": [
+    "1812311074160410989"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 3,
+      "id": "51241574",
+      "start": 0,
+      "username": "AP"
+     }
+    ]
+   },
+   "id": "1812311074160410989",
+   "in_reply_to_user_id": "51241574",
+   "referenced_tweets": [
+    {
+     "id": "1812268781680390331",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@AP And so far not one word about the dead dmaga",
+   "url": "https://x.com/Stopaso375689/status/1812311074160410989"
+  }
+ ],
+ "includes": {
+  "users": [
+   {
+    "created_at": "2024-06-17T05:28:27.000Z",
+    "id": "1802573570893303808",
+    "username": "Fudrap96"
+   },
+   {
+    "created_at": "2022-04-21T14:44:49.000Z",
+    "id": "1517152342373658633",
+    "username": "CryptoOnlyCoims"
+   },
+   {
+    "created_at": "2017-12-30T05:54:00.000Z",
+    "id": "946982681329446912",
+    "username": "eseleo"
+   },
+   {
+    "created_at": "2023-10-24T01:44:28.000Z",
+    "id": "1716631597020311552",
+    "username": "Jacwin_n"
+   },
+   {
+    "created_at": "2024-02-16T21:52:30.000Z",
+    "id": "1758610294215938048",
+    "username": "BoredNap66757"
+   },
+   {
+    "created_at": "2023-11-01T18:15:29.000Z",
+    "id": "1719776674965794816",
+    "username": "SpecialBea99061"
+   },
+   {
+    "created_at": "2023-12-01T23:48:21.000Z",
+    "id": "1730735560967307265",
+    "username": "Official67Token"
+   },
+   {
+    "created_at": "2016-08-30T17:53:43.000Z",
+    "id": "770680913571221505",
+    "username": "Murray_Gothbard"
+   },
+   {
+    "created_at": "2021-03-30T06:19:44.000Z",
+    "id": "1376781064081874948",
+    "username": "adamjia7"
+   },
+   {
+    "created_at": "2024-06-18T20:04:59.000Z",
+    "id": "1803156897773551616",
+    "username": "Stopaso375689"
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "1812318667713224939",
+  "next_token": "b26v89c19zqg8o3frqosudesisrdkf1f0u0gqtn5owmm5",
+  "oldest_id": "1812311074160410989",
+  "result_count": 12
+ }
+}

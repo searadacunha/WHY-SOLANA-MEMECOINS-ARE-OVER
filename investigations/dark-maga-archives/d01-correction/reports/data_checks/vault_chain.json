@@ -1,0 +1,38 @@
+{
+ "DMAGA": {
+  "vault": "5HuEsLbebeuottMsFW3hHcXTrKVsu3WUNSQnSr6aX4eL",
+  "tx": 681300,
+  "breaks": 1,
+  "examples": [
+   [
+    "63VeQhiVDcFGKCKt41WjaM2eLp3t91ptbtHNP2SD5ySDc6gXxtFBKo9ZCLEe7AHLn5uUXa3Nw95j3u166JZRgYUz",
+    289302222,
+    873,
+    1726123234,
+    42169012464818,
+    42169012074883,
+    389935
+   ]
+  ],
+  "last": [
+   464676383,
+   72,
+   432014937223468,
+   1793661329
+  ],
+  "material": 0
+ },
+ "WSOL": {
+  "vault": "3p7DbnWekWjtMQkey6fp1emdwXbAAxecnYuD5eU9ZZPH",
+  "tx": 681308,
+  "breaks": 0,
+  "examples": [],
+  "last": [
+   464676383,
+   72,
+   296566070273,
+   1793661329
+  ],
+  "material": 0
+ }
+}

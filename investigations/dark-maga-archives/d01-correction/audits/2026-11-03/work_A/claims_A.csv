@@ -1,0 +1,34 @@
+id,verdict,valeur_recalculee,preuve
+C01,PASS,"signature fePxr7ER3EDxtkXysbcbbCcaztCHMwKBESs2XQzQee8xkBH2u53ULZMP1gMSK9bgGJKj14NcGwpR64YJR3nPiw6, slot 277417695, blockTime 1720922725 = 14/07/2024 02:05:25 UTC, payeur 8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR","out/a15_named.txt, première transaction du mint et de la courbe"
+C02,PASS,14 065 s depuis 22:11:00 UTC = 3 h 54 min 25 s ; 3 h 53 min 52 s depuis 22:11:33 UTC,out/a20_time.txt ; heure de Butler confirmée hors chaîne par la chronologie CBS News (6:11:33 p.m. EDT)
+C05,PASS,"3,291 ; 145,440 ; 5 377,608 (vault 5 377,788, une transaction de 0,18 SOL classée internal)","out/a15_named.txt, out/a32_small.txt ; 44,7 SOL de la fenêtre sont des allers-retours, voir A-04"
+C06,PASS,"13,177 SOL d'achats, 84,941 SOL de ventes, 42 et 78 lignes, 1,29 h","out/a15_named.txt, identique au vault et à trades"
+C07,PASS,"229,28 SOL, médiane 6,18, p 0,0690, 28 fenêtres ; vault entier 236,56, même p",out/a25_s1.txt
+C08,PASS,"k 211, meilleur p 0,1557 (M6), rang 33 sur 212, verdict recalculé","out/a07_ranks.txt, out/a04_compare.txt"
+C10,PASS,"40 arêtes, composante unique de 33 ; 35 relues dans le brut, montant égal, source signataire ; 5 relues par getTransaction, montant égal","out/a23_group.txt, out/a33_dca_edges.txt, out/a31_network_hidden.json"
+C11,PASS,"301,573 M de derniers soldes moins 84,537 M de transferts vus par les seuls flux = 217,036 M ; hors pools 1 022,54 - 84,54 = 938,0 M ; 23,1 %","out/a23_group.txt, out/a21_ruptures.txt"
+C14,PASS,15 membres achètent en première heure,out/a23_group.txt
+C15,PASS,"groupe 4 524,9 SOL ; marché 190 479,6 SOL au parseur propre, 190 551,2 au rapport ; 2,38 %",out/a23_group.txt
+C21,PASS,"H3QsBr 5 490,86 SOL (cash 5 490,86), 990 744 $, coût 1 086,77 $ ; GXZvX 2 540,10 (cash 2 516,34) ; 9PrmF8 1 747,80 (cash 1 794,58)","out/a14_pnl.txt, out/a15_named.txt, out/named_*.csv ; coût moyen propre, 0 écart sur 71 706 wallets"
+C23,PASS,796 883 ; 919 783 ; 2 699 114 ; 1 181 775 sans delta DMAGA plus 5 sans ligne ; 118 ; 71 706 ; 9 875 478 ; 6 624 533,"out/a11_trades_shape.txt, out/a13_reconcile.txt, out/a18_misc.txt ; réserve : 5 903 lignes doublées (A-01), 118 = courbe seule, 83 % et 90 % d'échecs filtrés à la collecte (A-07)"
+C24,PASS,"WSOL 681 308 tx 0 rupture ; DMAGA 681 300 tx 1 rupture de 389 935 unités = 0,39 jeton ; venues 83 réserves, 215 309 tx, 0 rupture côté DMAGA","out/a13_reconcile.txt, out/a18_misc.txt"
+C25,PASS,"H3QsBr 1 086,77 $ et 16,82 M, capture relue 1 086 $ et 16,8 M ; capitalisation 843 932 $, post relu « $850k » ; GXZvX 48,5 SOL et 14,6988 M, post relu 48,5 SOL et 1469 万, vente 136 717 $ contre 13,6 万 $","out/a15_named.txt, evidence/x_media/1815233925662306427_GTEBRaqWIAAmItc.png, evidence/x_raw/1815243177475121253.fx.json, evidence/x_wayback/1815018442589663572.raw"
+C26,PASS,"97 ruptures DMAGA et 96 WSOL avant, 1 et 0 après","logs/derive.out ligne 5, logs/derive2.out ligne 1, tranche full_pool/t1721777789 ; ce comblement crée le chevauchement de A-01"
+C27,PASS,"coût moyen confirmé ; frais exclus : cash/ligne médiane 1,000, p90 1,017, p99 1,215 ; filtre de coût connu lu dans rep_70_reports.py, top 100 quasi sans ruptures","out/a15_named.txt, out/a21_ruptures.txt ; réserve : limite incomplète, mouvements hors brut et résiduels faux (A-05)"
+C28,PASS,"premier reçu GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE (Coinbase 3 selon Dune), 0,5 SOL, 1 982 s avant le mint ; 7,106 M pour 0,2012 SOL entrés dans la courbe ; 0 vente par swap","out/a29_flows.txt, out/a15_named.txt"
+C29,PASS,"slot de création : créateur seul ; 16 lignes plus le créateur = 17 acheteurs, 310,824 M, 11,916 SOL ; 0 échouée en 60 s",out/a15_named.txt
+C30,INCONCLUSIVE,"13 virements de 0,5 SOL de 01:46:23 à 02:03:38 dans group_split.json ; 10 relus dans raw/flows, 3 non relus faute de flux du destinataire ; 7 sans achat selon le fichier","out/a29_flows.txt, out/a20_time.txt"
+C34,FAIL,"par premier achat 1 644 et 77 (rapport 1 645 et 76), mais 107 des 184 acheteurs de [16:02:29, 19:03:27) avaient acheté avant le visuel ; EARLY_BUYERS n'a qu'un tableau pour les deux périodes","out/a15_named.txt, reports/EARLY_BUYERS.md, A-09"
+C35,FAIL,"5QhJJc 74,17 SOL, 76,26 M sortis : juste. Sommet 631 363,63 SOL : juste, à 09:01:46 et non 09:00. 18 309 sur 53 893 sans les doublons, contre 18 367","out/a14_pnl.txt, out/a15_named.txt, A-01, A-10"
+C36,PASS,"11 dans le groupe, 10 G41, 32 tracés ; identique avec filtre à 0,01 SOL",out/a29_flows.txt
+C40,PASS,0 swap et 0 transfert du groupe de 16:02:29 à 19:30:13 dans le brut,out/a23_group.txt
+C41,PASS,"groupe 48,80 M, 22,49 % ; autres 110 détenteurs, 643,60 M, 224,95 M, 34,95 %",out/a29_flows.txt
+C42,PASS,gestes relus dans le brut : 07:57:16 à 08:33:36 et 14:22:00 à 14:25:44 UTC,"out/a20_time.txt, out/a23_group.txt"
+C43,PASS,"13 920 initialize2 sur 101 702 transactions, toutes retenues ; 84 jours de pic","out/a40_migr.txt, out/a10_selection.txt"
+C44,PASS,"M1 39,867 à M7 0,138, médianes et p identiques ; mesures recalculées depuis le plan, 6 139 valeurs, 1 écart de mon côté sur R3","out/a04_compare.txt, out/a07_ranks.txt"
+C45,PASS,"401,52 SOL, médiane 6,06, p 0,0357, 27 fenêtres ; vault entier 507,93 SOL","out/a25_s1.txt, A-06"
+C47,PASS,"1/212 = 0,00472 sous 0,05/7 = 0,00714, 2/212 = 0,00943 au-dessus ; 33 comparaisons réelles ; 0,05/33 = 0,00152","out/a07_ranks.txt, out/a06_registre.txt"
+C48,PASS,"349 échouées sur 1 719 à S, pics d'échecs chiffrés, plan ligne 8","out/a13_reconcile.txt, out/a04_compare.txt, réserve A-08"
+C49,INCONCLUSIVE,"gel 02/11 23:47:06 UTC, 17 empreintes conformes, metrics.csv à 03:25 ; aucune trace de la reproduction en copie neuve, mais mes recalculs retombent sur les mêmes valeurs","out/a06_registre.txt, out/a04_compare.txt"
+C50,FAIL,"SOL reçu, 12 mois avant le mint : sans étiquette 67,8 %, pools 14,8 %, comptes Jupiter 10,1 %, échanges 7,3 %. Premier financeur : 301 sans étiquette, 244 échange, 198 Jupiter, 4 service. « surtout » non établi ; « un hot wallet coupe la trace » est un raisonnement, non testé","out/a19_gaps.txt, A-03"
+C51,PASS,"link_edges : 0 arête avec service étiqueté, 0 avec venue, 0 intermédiaire étiqueté ; 6 exécutants signent 51 851 des 55 916 transactions DCA ; dans le groupe de 33, aucune arête en transaction d'échange","out/a16_labels.txt, out/a33_dca_edges.txt, out/a39_links.txt ; réserve : bots et escrows non étiquetés restent des wallets (A-04, A-13, A-16)"

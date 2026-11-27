@@ -1,0 +1,13 @@
+pools couverts 243 lignes metrics 877
+comparaisons 6139 écarts 1 [('Ho5k1boxm4sXGpLBfFdd9kBY9gP1QDRB55GRE3T2eTL2', 'R3_S_moins_1h', 'M6', nan, 0.00017026435524066923)]
+parquet identique ligne à ligne 243 / 243 écarts []
+anomalies par pool {'nonmono': 0, 'ruptures_token': 30, 'ruptures_sol': 0, 'err': 0, 'sans_tx_index': 0, 'keys_ne_balances': 0, 'un_seul_vault': 50}
+ruptures vault jeton [(4, 'JXTyyT6kmdQ8bq1mf3CCspDAB5JbjydmxtVYQmA8dn5'), (2, '9NfKxDftb676yFoh4BzUHDyPyCv5kFzRcREspKdVc8UM'), (1, 'HmGqPnrVb7g7YK2k4PBK88zd9igqS7tRYdQw2h9jkomo'), (1, 'HUeFk1DwStiuhC4c22yU4XScTDRjZPSgPJxJAMA1fiHJ'), (1, 'HNjhKczTJfEMvSacDocjffvj23WHfSoxyycV7L49vKrL'), (1, 'GoR2hDv8d8t6C2Pr4QZDYXwTVuahrty6iwEd7xLHVsyL'), (1, 'Fx7Cv6yu7Gh79dFtQF7FxiLxYF7cJE1K9EGzWD3WBjNw'), (1, 'FiHAMyzNuVFXC3WDcAiNpYotSd9qwjqm1LfHS9RwFWPi'), (1, 'EPUj76r5vtgm3Rb81gDXS9heb9UAqPpbTcSG1P4weTDx'), (1, 'E1MJhRuLjnjXr24TD5QgcKH9RFb2JbBJx2GqAwmYX1zh'), (1, 'D233BPjhZiD9Bw7kAhpjeZuGRyuxKQYd57K1a3cJz7oy'), (1, 'CjEHT2mKqE9yZcVxqUWtFdrtZ1NgH3MpGVqNNomVZqZ4')]
+un seul vault [(36682, '4GKStivbdSb4ihTiZE2t38cZqQQs8WC8bqd2LQG6hGFD'), (2718, 'AwMUDru8kEonijrHGnB62wJHb1RvjptCciSEiaoXq38Y'), (2155, 'JXTyyT6kmdQ8bq1mf3CCspDAB5JbjydmxtVYQmA8dn5'), (1490, 'Enh96DNuB9cWsTeJouHePiCjPNoUn8eca1rwqgb7q1R9'), (1210, 'ERWckWaj2y5qTcoE6xnhA8b1aPmN6Fn5muSucXEdD1gy'), (1157, '8fZqVQNJ5wxcXV7TFraNgLgiEkn234ucsQPyx7qhev3F')]
+incomplets [] n curseur != lu []
+filtres de collecte non conformes []
+premier pre vault SOL non nul []
+tmin avant created, tmax après fin []
+pics primaires : réussies à l'heure S sous 500 : 50 / 212 part d'échec à S médiane 0.089 p10 0.0 p90 0.66
+DMAGA [('CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k', 1721588400, 1719, 1370, 1721588400)]
+Sok différent de S 59 Sok absent (au-delà de la collecte ou sans pic) 58

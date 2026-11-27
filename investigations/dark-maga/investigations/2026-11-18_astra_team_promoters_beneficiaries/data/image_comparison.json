@@ -1,0 +1,45 @@
+{
+ "sizes": {
+  "token": [
+   366,
+   366
+  ],
+  "pfp": [
+   366,
+   366
+  ],
+  "murray_0231": [
+   198,
+   255
+  ],
+  "murray_0241": [
+   198,
+   255
+  ],
+  "dmc_0300_thumb": [
+   848,
+   592
+  ]
+ },
+ "phash_distance": {
+  "token|pfp": 0,
+  "token|murray_0231": 36,
+  "token|murray_0241": 36,
+  "token|dmc_0300_thumb": 22,
+  "pfp|murray_0231": 36,
+  "pfp|murray_0241": 36,
+  "pfp|dmc_0300_thumb": 22,
+  "murray_0231|murray_0241": 0,
+  "murray_0231|dmc_0300_thumb": 40,
+  "murray_0241|dmc_0300_thumb": 40
+ },
+ "token_vs_pfp_pixels": {
+  "max_abs_diff_per_channel": [
+   81,
+   38,
+   53
+  ],
+  "mean_abs_diff": 1.877,
+  "share_identical_pixels": 0.2042
+ }
+}

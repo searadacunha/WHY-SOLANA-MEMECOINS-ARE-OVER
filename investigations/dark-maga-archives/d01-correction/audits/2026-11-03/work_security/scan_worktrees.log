@@ -1,0 +1,20 @@
+~/Projects {'fichiers': 129787, 'illisibles': 0, 'lignes': 9}
+Traceback (most recent call last):
+  File "REDACTED_HOME/Projects/Dark-MAGA-Investigation/audits/2026-11-03/tools/scan_keys.py", line 173, in <module>
+    main()
+    ~~~~^^
+  File "REDACTED_HOME/Projects/Dark-MAGA-Investigation/audits/2026-11-03/tools/scan_keys.py", line 168, in main
+    r = scan_git(t, out) if mode == "git" else scan_files(t, out)
+                                               ~~~~~~~~~~^^^^^^^^
+  File "REDACTED_HOME/Projects/Dark-MAGA-Investigation/audits/2026-11-03/tools/scan_keys.py", line 152, in scan_files
+    with tarfile.open(q) as t:
+         ~~~~~~~~~~~~^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8_2/Frameworks/Python.framework/Versions/3.14/lib/python3.14/tarfile.py", line 1975, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method zst: ReadError('not a zstd file')
+- method tar: ReadError('invalid header')
+garde : fini, code 1, pic 82 Mo

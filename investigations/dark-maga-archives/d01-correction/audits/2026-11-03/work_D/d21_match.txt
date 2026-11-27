@@ -1,0 +1,37 @@
+dépôts témoin 120 versements >= 0,01 SOL 6573 expéditeurs distincts 1365
+destinations de balayage les plus reçues par nb de dépôts [('GJRs4FwHte', 115, True, False), ('H8sMJSCQxf', 106, True, False), ('2AQdpHJ2Jp', 100, True, False), ('FpwQQhQQoE', 39, False, True), ('D89hHJT5Aq', 35, False, True), ('DPqsobysNf', 29, False, True), ('9obNtb5GyU', 28, False, True), ('4NyK1AdJBN', 20, False, True), ('5g7yNHyGLJ', 16, False, False), ('GCRJD52pGw', 8, False, False), ('AafGzY9eiC', 6, False, False), ('8JUEoHNMbW', 5, False, True)]
+5g7yNH reçoit du témoin ? True 16 76.722559032
+nb expéditeurs par dépôt quantiles {0: 1, 0.5: 4, 0.75: 11, 0.9: 28, 0.95: 41, 1: 131}
+dépôts où 155 000 lamports est dans le top 3 des frais 105 sur 120
+wallets locaux 87 entrées >= 0,01 SOL 2046
+dépôts 9W9b >= 0,01 SOL 88 non ronds à 0,001 11 [3.82815, 6.8555, 11.5285, 37.3986806, 9.731450263, 22.7375, 7.417451985, 0.0105, 0.9685, 6.576437507, 0.6611]
+correspondances dépôt -> retrait, 30 j, 0 à 1e6 lamports 4
+   2025-01-06T04:44:45Z Ce482neA 10500000 -> 2025-01-11T04:29:03Z EEpSRR12 6ZMaqHjP 10000000 écart 500000
+   2025-01-06T04:44:45Z Ce482neA 10500000 -> 2025-01-21T07:13:53Z 4pKFTQxs Ce482neA 10000000 écart 500000
+   2025-01-06T04:44:45Z Ce482neA 10500000 -> 2025-02-04T18:30:33Z A9PkAtBd B252jsFK 10000000 écart 500000
+   2025-07-10T03:05:01Z 4dYxmSbn 6576437507 -> 2025-07-12T16:43:59Z 5g7yNHyG BuHUkjUy 6576337507 écart 100000
+placebo temps inversé (entrée AVANT le dépôt) 0
+dépôts non ronds >= 1 SOL 8 [3.82815, 6.8555, 11.5285, 37.3986806, 9.731450263, 22.7375, 7.417451985, 6.576437507]
+dépôts témoin non ronds 3237 >=1 SOL 1951
+nul, dépôt témoin contre toutes les entrées du périmètre, écart 0 à 1e6, tous temps : 3132 paires sur 3237 dépôts, soit 0.96756 par dépôt ; dépôts >=1 SOL : 146 paires, 0.07483 par dépôt
+nul, dépôt témoin contre toutes les entrées du périmètre, écart 0 à 1e5, tous temps : 416 paires sur 3237 dépôts, soit 0.12851 par dépôt ; dépôts >=1 SOL : 35 paires, 0.01794 par dépôt
+nul, dépôt témoin contre toutes les entrées du périmètre, écart égal, tous temps : 1 paires sur 3237 dépôts, soit 0.00031 par dépôt ; dépôts >=1 SOL : 0 paires, 0.00000 par dépôt
+nul, écart EXACT 100 000 lamports, dépôts témoin 0 sur 3237
+nul, idem, dépôts >= 1 SOL 0
+nul, écart multiple de 100 000 de 0 à 1e6, dépôts >= 1 SOL 0
+BuHUkjUy tx 1184
+   2025-07-12T16:43:59Z 2hUi9BhncmfYeBkFKLthvde1zKa5Xy3iHnBusNarf22YtsCpqCqWx6HaMaNCuGURMWLz4vtjCxHQDCp9Kr2DW4a1 payeur 5g7yNHyG [('5g7yNHyG', 'BuHUkjUy', 6.576337507)] {}
+   2025-07-12T16:45:10Z cG6sWHuJMaVQFBxx4yP6ojRViUfP1thJ556KXM9w3NB92Q2N15qoFJmC2NK57UZSRP3NwaQXjieHGVoYFme9yvS payeur 9obNtb5G [] {'EPjFWd': 10000000000}
+   2025-07-12T16:57:09Z 2FuCfJWA6DGMwRj2qFDQVoyRZbMvqnTXyNQPJKhoT7k6cSAQgoxmveJ5dY5mxg4qEkGBvxzkHNpiv8NQCdTTH2Tb payeur BuHUkjUy [] {'EPjFWd': -1000000000, '8f1zcc': 26071785427496}
+   2025-07-12T16:57:15Z 8byvm69waHtrz4AmrWwWqqhowDXgqt5EnysqsAfkm5yDZLALwJQMnPFoGgfghdVjSFCQauXe5DmKStYUZ8Fq3Va payeur FLiPgGTX [('FLiPgGTX', 'BBx7GQC3', 1e-09), ('FLiPgGTX', 'Be2r939b', 1e-09), ('FLiPgGTX', 'FXzG38xW', 1e-09)] {}
+   2025-07-12T16:57:15Z tCp9DenkN4PUyC2vAdcx2sZdZhe8fpDy2ZwonU4hWSaUVnwtAUuMAiXgFjTEm3eLJLkxL5AiPjhvaZZvL8tw8bH payeur FLiPGqow [('FLiPGqow', 'BBx7GQC3', 1e-09), ('FLiPGqow', 'Be2r939b', 1e-09), ('FLiPGqow', 'FXzG38xW', 1e-09)] {}
+   2025-07-12T16:58:29Z 65xydB64fs1X3ibWjnipZ8wW4HXfjDWbocVwmD34U9TTmdcVJfCgr1CpAzvWTxwkcEHG1P2C4JizcC9suWRFQhtf payeur 8e6ZSD77 [] {}
+   2025-07-12T17:00:37Z PLkU2eQ3QeL2mZrcSQk1aPKcp5Wa9jTsBLpvo4voGdfPyxG8SRjBTGUA2FCbtzFojdGZuBpcWhgoGfbbDkLgMqv payeur BuHUkjUy [] {'8f1zcc': 25632964038662, 'EPjFWd': -1000000000}
+   2025-07-12T17:08:21Z 5jC7ZSFnxvhbXBVduZ9hh4icTf7innLaSxGpbwpNSYb6GLpZJTQvjSHwtoQwdo9Cxft9yHAzPuBN5SkXTXG1uqnQ payeur BuHUkjUy [] {'8f1zcc': 24880856395089, 'EPjFWd': -1000000000}
+   2025-07-12T17:14:21Z 3XnscNYPD3NZou6C5iQQxzti4c4rGPkSLUYcbC5aRCqsQ41LUXRy1BiRk1qwo8B5fXyiWRVYQDK7fHssoGZ7PTDJ payeur BuHUkjUy [] {'8f1zcc': 25901443134235, 'EPjFWd': -1000000000}
+   2025-07-12T17:18:56Z 2Bz8PogU9s5gmqdWe34y5NHnksWxvUYeznwkTtz6G99p67SHCnak6F8hSWrPkhHqB8fke7dcMNqekQ7kaHLmqUMN payeur BuHUkjUy [] {'8f1zcc': 25726211338882, 'EPjFWd': -1000000000}
+   2025-07-12T17:36:01Z 3d568dNMooArSaHXhtgTc2ob81n5to2aXymKiY4uWi7gFrsAczTdwZnBZxhFcah3bUXVwNhcnU4LFJ7BnJetFZhv payeur BuHUkjUy [] {'8f1zcc': 25232300500769, 'EPjFWd': -1000000000}
+   2025-07-12T17:36:03Z 61fTeSF5dQGhRLppSt9TixSueBuNMbPK5omje4u5JEYmCGjYy3h5krqpcdBZcviBXms5PkmiauLYm5Su7TprByRx payeur 6HMoJqFf [('6HMoJqFf', 'C4pr6PLC', 1e-09), ('6HMoJqFf', '5qTWpnL9', 1e-09), ('6HMoJqFf', 'JDT6haDo', 1e-09)] {}
+   2025-07-12T17:39:54Z 4PSg97xy2segAtHpxfRytxovLuUy9ixB3Gp5LR6bafhLkaCDe1hZ2XczcEP9FvRtZXJJrmZJyBGc3w2Umzh6ktey payeur BuHUkjUy [] {'8f1zcc': 24046224436912, 'EPjFWd': -1000000000}
+   2025-07-12T17:45:53Z H888eDwZtne5y7KQ2VDdbsWmEzwRVX5ynTKDDfRvtBuXQevGcxR7tyTAjGCL5Gc6aTqcBEJwVrsiMSiMvycXaUh payeur BuHUkjUy [] {'8f1zcc': 23438977551280, 'EPjFWd': -1000000000}
+  ... dernière 2025-10-30T15:10:50Z

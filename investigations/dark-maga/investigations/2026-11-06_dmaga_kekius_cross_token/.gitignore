@@ -1,0 +1,11 @@
+# Publiés malgré la règle *.gz du dépôt : transferts bruts nécessaires pour recalculer sans réseau
+!data/eth_kekius_transfers.csv.gz
+!data/eth_kekius_pool_weth.csv.gz
+# Dérivés régénérables, ou signatures brutes du test ATA (une synthèse est publiée à la place)
+data/eth_kekius_ledger.csv.gz
+data/ata_scan.jsonl
+data/ata_scan_h.jsonl
+data/exit_destinations.csv
+# Articles de presse complets et images de tiers : droits d'auteur, gardés hors du dépôt public
+evidence/social/press/
+evidence/social/fx/media/

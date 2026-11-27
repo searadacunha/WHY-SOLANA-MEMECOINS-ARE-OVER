@@ -1,0 +1,9 @@
+33 avant T_LOW (M): achats 359.78892884232 ventes 134.052428244275 transferts internes in 392.917487294465 out 392.917487294465 externes in 0.0 out 8.7 net 217.036500598045
+somme naive achats+recus internes 752.706416136785
+trades fenetre visuel-bascule, ensembles elargis {'B252jsFK': ([('19:26:13', 0.011, '47gqPBtTqGPgPxkWPNUsTbqSJTzy6EWy2s4qyvb2GhUNM5PsZSfQEqjuSdmDPFoXAmg8on6LQTX2mipcztrUNf4b')], 'exp9W'), 'GXZvXsD6': ([('18:10:11', -2.94, '4MmquyEHHbNBLkuBC3AbtPQdxYu95q825Jyg33Q8urku1eABGY2Geg1hrY5s23dHuTVSbDmKNCj2hSSFEZhutS4U')], 'exp9W')}
+H3QsBrri achats M 16.820826468639 SOL 7.27 ventes M 16.820826468639 SOL 5498.13 []
+GXZvXsD6 achats M 14.698760620316 SOL 48.94 ventes M 14.698760620316 SOL 2565.28 []
+9PrmF8sf achats M 81.921898960774 SOL 217.21 ventes M 81.759898960774 SOL 2011.56 []
+G13 achats [('EZXUvi', 1.23), ('4upmFY', 0.71), ('2mW45k', 0.72), ('HkFSNP', 0.69), ('CZsBW8', 0.6), ('ADnZ9N', 0.1), ('2BLSXb', 0.0), ('HB16TN', 0.0), ('C3i6zf', 0.0), ('8xjM4f', 0.0), ('HKXb8L', 0.0), ('HkrGvx', 0.0), ('FjuV7m', 0.0)]
+reduction 33 si on retire 7mdCAs et 9u5JKg [('7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu', 0, 4100000000000, 18000000000000, 0, 0, 0), ('9u5JKgWdLzj4xUiA4sFnaaJeKAJF8zBXExatxeSZHMkP', 0, 0, 2500000000000, 0, 0, 0)]
+garde : fini, code 0, pic 26 Mo

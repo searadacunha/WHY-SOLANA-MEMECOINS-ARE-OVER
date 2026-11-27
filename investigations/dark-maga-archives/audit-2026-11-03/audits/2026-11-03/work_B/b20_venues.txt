@@ -1,0 +1,47 @@
+colonnes ['signature', 'slot', 'tx_index', 'block_time', 'fee_payer', 'signers', 'fee', 'source', 'kind', 'venue', 'owner', 'token_delta', 'sol_lamports', 'usdc_raw', 'pool_token_delta', 'pool_sol_delta', 'n_owners', 'owner_native_delta', 'owner_wsol_delta']
+
+[S−24h,S) (source, venue, kind, lignes, wallets, SOL acheté, M jetons reçus côté acheteur, SOL vendu) :
+   ('pool', 'raydium', 'swap', 1668, 383, 1075.81, 182.956, 999.15)
+   ('pool', 'raydium', 'fee_share', 175, 5, 0.0, 0.234, 0.0)
+   ('mint', None, 'transfer', 91, 43, 0.0, 114.913, 0.0)
+   ('pool', 'raydium', 'lp_add', 1, 1, 0.0, 0.0, 0.0)
+   ('pool', 'raydium', 'lp_remove', 1, 1, 0.0, 0.443, 0.0)
+   ('pool', '5Q544fKr+GpMZbSM2', 'swap_other', 1, 1, 0.0, 0.001, 0.0)
+   ('pool', 'raydium', 'transfer', 6, 1, 0.0, 0.042, 0.0)
+
+[S−96h,S) (source, venue, kind, lignes, wallets, SOL acheté, M jetons reçus côté acheteur, SOL vendu) :
+   ('pool', 'raydium', 'swap', 2598, 486, 1400.7, 294.927, 1302.23)
+   ('pool', 'raydium', 'fee_share', 370, 5, 0.0, 0.449, 0.0)
+   ('pool', 'raydium', 'lp_add', 1, 1, 0.0, 0.0, 0.0)
+   ('mint', None, 'transfer', 183, 83, 0.0, 168.749, 0.0)
+   ('pool', '5Q544fKr+GpMZbSM2', 'swap_other', 5, 4, 0.0, 0.452, 0.0)
+   ('pool', 'raydium', 'transfer', 8, 1, 0.0, 0.046, 0.0)
+   ('pool', 'raydium', 'lp_remove', 1, 1, 0.0, 0.443, 0.0)
+
+[S−3h,S) (source, venue, kind, lignes, wallets, SOL acheté, M jetons reçus côté acheteur, SOL vendu) :
+   ('pool', 'raydium', 'swap', 646, 222, 254.1, 34.929, 363.83)
+   ('pool', 'raydium', 'fee_share', 17, 2, 0.0, 0.02, 0.0)
+   ('pool', 'raydium', 'transfer', 2, 1, 0.0, 0.021, 0.0)
+   ('mint', None, 'transfer', 8, 5, 0.0, 0.038, 0.0)
+   ('pool', '5Q544fKr+GpMZbSM2', 'swap_other', 1, 1, 0.0, 0.001, 0.0)
+
+[création,S) (source, venue, kind, lignes, wallets, SOL acheté, M jetons reçus côté acheteur, SOL vendu) :
+   ('pool', 'raydium', 'swap', 11580, 1730, 6398.8, 2887.674, 6187.1)
+   ('curve', 'pumpfun', 'swap', 167, 106, 128.39, 1193.178, 43.39)
+   ('mint', 'Eqe7fgb5', 'swap', 5, 5, 1.02, 0.15, 0.57)
+   ('curve', 'pumpfun', 'mint_supply', 1, 1, 0.0, 1000.0, 0.0)
+   ('pool', 'raydium', 'lp_remove', 1, 1, 0.0, 0.443, 0.0)
+   ('curve', 'pumpfun', 'fee_share', 1, 1, 0.0, 0.002, 0.0)
+   ('mint', None, 'transfer', 451, 185, 0.0, 546.987, 0.0)
+   ('pool', 'raydium', 'transfer', 40, 1, 0.0, 0.633, 0.0)
+   ('pool', '5Q544fKr+GpMZbSM2', 'swap_other', 13, 9, 0.0, 2.151, 0.0)
+   ('pool', 'raydium', 'lp_add', 2, 2, 0.0, 0.0, 0.0)
+   ('curve', 'pumpfun', 'lp_remove', 1, 1, 0.0, 206.9, 0.0)
+   ('mint', 'Eqe7fgb5', 'lp_remove', 3, 2, 0.0, 2.563, 0.0)
+
+[S,S+1h) (source, venue, kind, lignes, wallets, SOL acheté, M jetons reçus côté acheteur, SOL vendu) :
+   ('pool', 'raydium', 'swap', 1369, 576, 3769.88, 207.885, 3382.09)
+   ('pool', '5Q544fKr+GpMZbSM2', 'swap', 1, 1, 0.03, 0.002, 0.0)
+   ('pool', 'raydium', 'transfer', 8, 1, 0.0, 0.242, 0.0)
+   ('pool', 'raydium', 'fee_share', 174, 3, 0.0, 0.287, 0.0)
+   ('mint', None, 'transfer', 33, 25, 0.0, 12.027, 0.0)

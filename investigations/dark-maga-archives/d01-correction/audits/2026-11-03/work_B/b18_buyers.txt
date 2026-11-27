@@ -1,0 +1,7 @@
+lignes (74570, 212, 62034)
+wallets présents sur k tokens : [('1', 57964, 99370.0), ('2-4', 3550, 22417.0), ('20+', 146, 16980.0), ('5-19', 374, 9687.0)]
+part du SOL acheté sur 24 h par des wallets vus sur >=2, >=5, >=20 tokens : médianes {'p2': 0.296, 'p5': 0.123, 'p20': 0.071}
+DMAGA : [{'p2': 0.416, 'p5': 0.228, 'p20': 0.174}]
+wallets du top 5 présents dans le top 5 de plusieurs tokens : 37 sur 974 ; max 10
+top 20 DMAGA vus sur au moins un autre token de la population : 8
+paires de tokens : (nombre de wallets communs hors bots >=20 tokens, nombre de paires), plus hautes : [(98, 1), (95, 1), (83, 1), (59, 1), (58, 1), (56, 1), (55, 2), (53, 1)]

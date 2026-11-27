@@ -1,0 +1,1226 @@
+[
+ {
+  "wallet": "EYykLfeAjyXCH1QojDeRFgoXmv3MfS24gZa8AordnezX",
+  "first_buy_ts": 1720922725,
+  "first_buy_utc": "2024-07-14T02:05:25Z",
+  "n_prior_sigs_seen": 2877,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-07-14T01:10:59Z",
+  "funders": []
+ },
+ {
+  "wallet": "Edq7kG2NREc5Z2HsiFBHbGiiUneprcpWg6Qodh4GPPy8",
+  "first_buy_ts": 1720922728,
+  "first_buy_utc": "2024-07-14T02:05:28Z",
+  "n_prior_sigs_seen": 2984,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-07-13T21:04:40Z",
+  "funders": []
+ },
+ {
+  "wallet": "E1mh1Wfm7JK78fJSh3Ta8XwV43tuuAkhoikVCvvDWmeg",
+  "first_buy_ts": 1720922739,
+  "first_buy_utc": "2024-07-14T02:05:39Z",
+  "n_prior_sigs_seen": 2998,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-06-28T22:49:35Z",
+  "funders": []
+ },
+ {
+  "wallet": "Dj2a99M9EHGaxfQDqWmkp5y5mjbdg7nXWGeFK5GjQoqt",
+  "first_buy_ts": 1720922743,
+  "first_buy_utc": "2024-07-14T02:05:43Z",
+  "n_prior_sigs_seen": 85,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-03T04:02:11Z",
+  "funders": [
+   {
+    "utc": "2024-07-03T04:02:11Z",
+    "source": "2gi5rcieqzXh7MjKgagBWYx8ND5gJ1qETk4wu6WpzN3N",
+    "label": null,
+    "sol": 0.025,
+    "signature": "3ibct5yjzoPe38JEosVreNjQmYuLN9T97WtgWxHwxVyfrcvPxkXq1s3MhnWhxvqsF4qnREPYhnhyMK3U1EP7Q76U"
+   }
+  ]
+ },
+ {
+  "wallet": "BNHsrnuv72vo91szVHnahB2eGYXPMcxWdFyPC4Xge4Fk",
+  "first_buy_ts": 1720922746,
+  "first_buy_utc": "2024-07-14T02:05:46Z",
+  "n_prior_sigs_seen": 1973,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-06-23T00:34:15Z",
+  "funders": [
+   {
+    "utc": "2024-06-23T00:34:15Z",
+    "source": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+    "label": "MEXC",
+    "sol": 0.99,
+    "signature": "54mTsTcTR2cEapgoXEYoKpAa7DReNuRw4hMZZvdexypeCmX8kEuTifbx2P6iG8c2ENwnWsNJV6WiR2s9b7jmQ6rT"
+   }
+  ]
+ },
+ {
+  "wallet": "8D2AGAGPMZaPtZRyTgCSHnFfffAJ43RB1WBE6FaQ4FFw",
+  "first_buy_ts": 1720922750,
+  "first_buy_utc": "2024-07-14T02:05:50Z",
+  "n_prior_sigs_seen": 1683,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-06-25T11:32:34Z",
+  "funders": [
+   {
+    "utc": "2024-06-25T11:32:34Z",
+    "source": "ARYcGyMFq4ndCQ8Wf4Fg6xsTJznea5hG3ubNrrQcJVxf",
+    "label": null,
+    "sol": 1.0,
+    "signature": "5Lk5vc7Z8i7EwarfxSwbcDgb9J4jarkBy1FhYspWfKEpvmY69RukxVmtjJQXgQ7av8PvS3U8KcPi1CggWhgeatVg"
+   },
+   {
+    "utc": "2024-07-14T00:47:21Z",
+    "source": "36wa29XuSfY7rD2H2326MszUWeSKvBmbeYefjdk3qTws",
+    "label": null,
+    "sol": 0.103756275,
+    "signature": "s9HZSJJaYUrU8Z29HfxxrpXEoBa7jajfGR54BXFE3jHExEkLo89VUYEGj7ncqgycWEXyRkPHpdxzXZbkaHpP7zj"
+   },
+   {
+    "utc": "2024-07-14T01:48:35Z",
+    "source": "FMRp5xqEEmAAkaWxCXSj5ycmnFA2yNHVCoSGUdpFhjaY",
+    "label": null,
+    "sol": 0.161323824,
+    "signature": "XGBcsddecQtcSpBA5FQsAee1uNF15gRzoEAsWpcteWtPsyoDiyu4WTLTsv13vGjRhDfQSHAwtEGjTQyx6BpFAH9"
+   },
+   {
+    "utc": "2024-07-14T01:48:40Z",
+    "source": "GrJPdEQRjdhaNki4EXBeGwd7VqkbzmN3bNCZJFVx4z8P",
+    "label": null,
+    "sol": 0.161323824,
+    "signature": "4pJff11sY5wFsiMuvXX1zFM1xeD7LiTHNEqhknogphKk9222FHyeoTDdnXXowGpNtRT2eswRc6egRayRQ6NSDo1y"
+   }
+  ]
+ },
+ {
+  "wallet": "GySdM4D2PcQGMubGgGmpbMPVX82Ys84pyvhYvyax8q16",
+  "first_buy_ts": 1720922751,
+  "first_buy_utc": "2024-07-14T02:05:51Z",
+  "n_prior_sigs_seen": 4,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-12T13:33:51Z",
+  "funders": [
+   {
+    "utc": "2024-07-12T13:33:51Z",
+    "source": "99qqoEfuXsGC2pfvSqF1e5VrxpbDnf2TCxa8aSDLzz8P",
+    "label": null,
+    "sol": 0.00665849,
+    "signature": "pQPCd3uorRRbgZTW79NMnq1N4ZF8U9Lgr8CRBg7E7qAUEfFcRuZJn1D4jyftRPGobYPcSPg3HS4AM7yttwVFVvj"
+   },
+   {
+    "utc": "2024-07-14T01:54:59Z",
+    "source": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+    "label": "Coinbase 2",
+    "sol": 0.0135318,
+    "signature": "6vYN3FmFQdKTg3K7mnAxmmHbCATaeQbMGgqQAPQgzvthppSc8qdgAtn76gXYDdvBeQPJQ9z9FDrCrc9NagC4iEJ"
+   }
+  ]
+ },
+ {
+  "wallet": "DrKPLzTLWsk9w9ifHjr2QDkQ7nfJYoLmpXYtBhSoXe5g",
+  "first_buy_ts": 1720922754,
+  "first_buy_utc": "2024-07-14T02:05:54Z",
+  "n_prior_sigs_seen": 918,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-04T00:31:57Z",
+  "funders": [
+   {
+    "utc": "2024-07-04T00:31:57Z",
+    "source": "5VCwKtCXgCJ6kit5FybXjvriW3xELsFDhYrPSqtJNmcD",
+    "label": "OKX",
+    "sol": 2.492,
+    "signature": "5ZNvhYW91B8RhgMyUVTBVCExe593Hmsp4FvDQhxZtwhXQ8QpjSchAkh8UcgPMPPGMGAj7qi4wLvDWnGF96GxkzUU"
+   }
+  ]
+ },
+ {
+  "wallet": "BE5S5w9KyC9nrYhGWNQuRunKwP9avhubpiAaQMzf3DTD",
+  "first_buy_ts": 1720922754,
+  "first_buy_utc": "2024-07-14T02:05:54Z",
+  "n_prior_sigs_seen": 514,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-13T23:14:08Z",
+  "funders": [
+   {
+    "utc": "2024-07-13T23:14:08Z",
+    "source": "2uSTFjrNxizw9FxhUYY2DCFJ3V2AnFDYekFtAX7xaDW1",
+    "label": null,
+    "sol": 10.0,
+    "signature": "jMwxxJg6zRaw1w1vDJVhbt4nS1LsdHMGZo4Nqw2PtzCobVwktHQBtMSX1ohXbxXwCigQjMhZCqG59zid4B9M5uH"
+   }
+  ]
+ },
+ {
+  "wallet": "gYVsQ5UG6du5zjXnamSkgQrQoKbwn36cEYSuteEVbUx",
+  "first_buy_ts": 1720922756,
+  "first_buy_utc": "2024-07-14T02:05:56Z",
+  "n_prior_sigs_seen": 2930,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-07-14T01:16:39Z",
+  "funders": []
+ },
+ {
+  "wallet": "HcnutbkSQTwWutqn15XGvSB4jATpQbRxMGzm7sK4ecaT",
+  "first_buy_ts": 1720922757,
+  "first_buy_utc": "2024-07-14T02:05:57Z",
+  "n_prior_sigs_seen": 2993,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-07-10T18:40:44Z",
+  "funders": []
+ },
+ {
+  "wallet": "GS7aGEQc5NomZsmm6qfN8WUNE8z7B9Lqgb5cv6aKdeS2",
+  "first_buy_ts": 1720922764,
+  "first_buy_utc": "2024-07-14T02:06:04Z",
+  "n_prior_sigs_seen": 2997,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-04-25T06:25:05Z",
+  "funders": []
+ },
+ {
+  "wallet": "6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M",
+  "first_buy_ts": 1720922767,
+  "first_buy_utc": "2024-07-14T02:06:07Z",
+  "n_prior_sigs_seen": 87,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-06-30T02:57:50Z",
+  "funders": [
+   {
+    "utc": "2024-06-30T02:57:50Z",
+    "source": "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb",
+    "label": null,
+    "sol": 0.331308528,
+    "signature": "2cYQeUEoLifZBnyNYbN2qsvksAEBTYqhJXAEKE6oaAcLxbe3aw8CDVHXtNXcvtAwnvDEr62EuprPkpNhJ6Lwp27i"
+   },
+   {
+    "utc": "2024-07-14T01:52:25Z",
+    "source": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+    "label": null,
+    "sol": 1.5,
+    "signature": "5TjD684TrYsN74wiZCWNC4B5e4JiBgZJ5XuhAagLhepHXgGNow2ga2RsFzi6t2moXMZhW2WQyKxgD2MGAM7Ec3Yj"
+   }
+  ]
+ },
+ {
+  "wallet": "GZVLzg7NH1VKUiqutUXMRHYbtQzSATJuyNH7AEznbaor",
+  "first_buy_ts": 1720922775,
+  "first_buy_utc": "2024-07-14T02:06:15Z",
+  "n_prior_sigs_seen": 2,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:27:10Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:27:10Z",
+    "source": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+    "label": "MEXC",
+    "sol": 0.59,
+    "signature": "477uP9ZRw6iBvasWY4par5vEK1gEwRbsJc9LTqftVZqMVbBHx6q8NvtjEBVV84cMHJNyMKPWEXxMRq8TkLfNzdSW"
+   }
+  ]
+ },
+ {
+  "wallet": "2W83fCmMoUXWnuMJmLnmp1aQwqHdvsvStcZNY772wA2d",
+  "first_buy_ts": 1720922781,
+  "first_buy_utc": "2024-07-14T02:06:21Z",
+  "n_prior_sigs_seen": 51,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-10T02:47:18Z",
+  "funders": [
+   {
+    "utc": "2024-07-10T02:47:18Z",
+    "source": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+    "label": "Binance 2",
+    "sol": 1.92729814,
+    "signature": "4Wv9H4FfY8qYU1mGMzULQDzKegtUcQA3zn5PdFzcJ1PGpwf2TwqtK4iRjewHzdtv58NFyAZM5YL7TmBYgK8vd42B"
+   }
+  ]
+ },
+ {
+  "wallet": "D9iUhx1x1pA1Uq55JsYmoetUcYGFeLfmUB6HTdNF1nRD",
+  "first_buy_ts": 1720922784,
+  "first_buy_utc": "2024-07-14T02:06:24Z",
+  "n_prior_sigs_seen": 2997,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-07-12T12:59:34Z",
+  "funders": []
+ },
+ {
+  "wallet": "Ei1uVf6KvvctoUxXmF1ao1jYi9kSe84iUxH63nDAfB7b",
+  "first_buy_ts": 1720922786,
+  "first_buy_utc": "2024-07-14T02:06:26Z",
+  "n_prior_sigs_seen": 2998,
+  "history_complete": false,
+  "oldest_seen_utc": "2024-06-01T19:41:37Z",
+  "funders": []
+ },
+ {
+  "wallet": "8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh",
+  "first_buy_ts": 1720922786,
+  "first_buy_utc": "2024-07-14T02:06:26Z",
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T00:59:41Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T00:59:41Z",
+    "source": "6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M",
+    "label": null,
+    "sol": 1.980417484,
+    "signature": "hiJ6Tcf3nAqJWyZKBYgp5wPFyAzgwDGBXJhjry6FxLLrH7uyRK64iG6tD8bVzG9aYxbYZ41G96AXqbvcCCXQF7W"
+   }
+  ]
+ },
+ {
+  "wallet": "H4bVhVzQyen8VA1oughQzXrP3uw7iCS6svKuUpUzMiEU",
+  "first_buy_ts": 1720922789,
+  "first_buy_utc": "2024-07-14T02:06:29Z",
+  "n_prior_sigs_seen": 495,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-03T06:16:04Z",
+  "funders": [
+   {
+    "utc": "2024-07-03T06:16:04Z",
+    "source": "3C84rPdYhweqpCL41adZfBxSTB3g6X4f5ySnjdQXxcGw",
+    "label": null,
+    "sol": 0.11,
+    "signature": "4ThxWAG2V9Jr156K2pafb6PW3E6HN1nohUiww8kKbjjZiVTJTGLsKqTuV8p5rWzDnGdaMbeaY7PMLCeCC6t2TaWS"
+   }
+  ]
+ },
+ {
+  "wallet": "Hk74YpjsPbYxtTxaxcfXL3wgdJeo5gZ48U9Mc1NhJD4M",
+  "first_buy_ts": 1720922798,
+  "first_buy_utc": "2024-07-14T02:06:38Z",
+  "n_prior_sigs_seen": 2,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:02:43Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:02:43Z",
+    "source": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+    "label": "Coinbase 2",
+    "sol": 0.689485013,
+    "signature": "53VoyQcWzgHoeJTtGEyHhckR6fHVob2X6BmhCdHrafsfnJ39j8DtGoRCH1EFJAd21HQEnLwHkoHkC4iXxhBUA21L"
+   }
+  ]
+ },
+ {
+  "wallet": "543jATiP6NHiMRRyKuk1LU2ZHVfgyurUP4rdvvF2yhGr",
+  "first_buy_ts": 1720922806,
+  "first_buy_utc": "2024-07-14T02:06:46Z",
+  "n_prior_sigs_seen": 1544,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-06-20T18:36:35Z",
+  "funders": [
+   {
+    "utc": "2024-06-20T18:36:35Z",
+    "source": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+    "label": "Binance 2",
+    "sol": 4.73132717,
+    "signature": "2qno59yHWECqwBsTFiamBkuTgPVvenmwnEr77VAPDoGqaJ2Z2TkjfmL2cozrRdi73fFQya6AyAV9h3aZUkuM4Vp2"
+   }
+  ]
+ },
+ {
+  "wallet": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+  "first_buy_ts": 1720922813,
+  "first_buy_utc": "2024-07-14T02:06:53Z",
+  "n_prior_sigs_seen": 2,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:33:05Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:33:05Z",
+    "source": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+    "label": "Coinbase 3",
+    "sol": 0.5,
+    "signature": "4QxgQHNQtkWzir3nr5qZr6CfaWJf7ZUzw3wMoksBUUjLS8nofh9jGT3yDxSrDdMLt3fpUirEPehcHjkA13PKGYky"
+   }
+  ]
+ },
+ {
+  "wallet": "CEzjbQqAa5741cJHDstH5Czt4xNiPgLHwax6av449Jyy",
+  "first_buy_ts": 1720922818,
+  "first_buy_utc": "2024-07-14T02:06:58Z",
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T00:01:26Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T00:01:26Z",
+    "source": "DQ5JWbJyWdJeyBxZuuyu36sUBud6L6wo3aN1QC1bRmsR",
+    "label": null,
+    "sol": 2.85311123,
+    "signature": "2r6A8wAkVuzErMbcXS83iETgVZjauD7QTWSmSBEGJJ5By6h3TF6Kt9SgTer2nmn5Am39hJRJ9swYTuYoR9F7xxev"
+   }
+  ]
+ },
+ {
+  "wallet": "3uVdau2jzFZ3mc4Hwri3XsVVce5iRyC2Wzw2fc7r336z",
+  "first_buy_ts": 1720922820,
+  "first_buy_utc": "2024-07-14T02:07:00Z",
+  "n_prior_sigs_seen": 388,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-04-24T17:51:09Z",
+  "funders": [
+   {
+    "utc": "2024-04-24T17:51:09Z",
+    "source": "CcAdMF5S3xVMMVzuK42zefKbe7ohrZfpUc6oVqnxHaGJ",
+    "label": null,
+    "sol": 2.5,
+    "signature": "3LorstvEofiAMzZHfszvLLr7AffHk4hk5ucR7eb8kTi5iobwvi2DQZQVjjb9ZHYQCKwYDqhmV1PygoUKn6NvsnCx"
+   }
+  ]
+ },
+ {
+  "wallet": "6Lomz4sdWdAwCKmjc8wHFhEHAPDwa5KEmxi1ziEWXp9G",
+  "first_buy_ts": 1720922826,
+  "first_buy_utc": "2024-07-14T02:07:06Z",
+  "n_prior_sigs_seen": 1320,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-03-10T22:57:13Z",
+  "funders": [
+   {
+    "utc": "2024-03-10T22:57:13Z",
+    "source": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+    "label": "Binance 2",
+    "sol": 0.42885,
+    "signature": "c5P7jTxYWjrN1maxjXPYuyR6FJpo1sRhtCimdjkoRn3NJwTDsqdaQRWg24PanqbeWfJgp5db2gKKMwRodR8t5Tk"
+   }
+  ]
+ },
+ {
+  "wallet": "8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR",
+  "first_buy_ts": 1720922725,
+  "first_buy_utc": "2024-07-14T02:05:25Z",
+  "n_prior_sigs_seen": 1,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:32:23Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:32:23Z",
+    "source": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+    "label": "Coinbase 3",
+    "sol": 0.5,
+    "signature": "5Ys6ggx4Fr3eYA4fdaDwowiuZg4HEbcRd6MYcPfspDX3g9KzLKMuKVh7ukUNVy3bpZwwhFT9ZLe2tQFMunHea4Dd"
+   }
+  ]
+ },
+ {
+  "wallet": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+  "first_buy_ts": 1720922846,
+  "first_buy_utc": "2024-07-14T02:07:26Z",
+  "n_prior_sigs_seen": 80,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-04-10T17:02:43Z",
+  "funders": [
+   {
+    "utc": "2024-04-10T17:02:43Z",
+    "source": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+    "label": null,
+    "sol": 1.5,
+    "signature": "33oFXPALPwc6Ce4Hqx8v1zwQvFoDBGFp7Lc5qUvBtTAUCJp69o5JGXYNMVgpzQiTFtYk6rd9X5SQCHkQLPnshvqu"
+   },
+   {
+    "utc": "2024-07-14T02:06:57Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 5.0,
+    "signature": "vBwvyXoZo6CX5j2gsD5mvVxPaxXcYRgKSq32y9zaPCrT5ZLStr8mrZBvEctZNqyxp6feD8qBHWJwUh4Cv9HN1Jj"
+   }
+  ]
+ },
+ {
+  "wallet": "99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb",
+  "first_buy_ts": 1720922859,
+  "first_buy_utc": "2024-07-14T02:07:39Z",
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:00:08Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:00:08Z",
+    "source": "6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M",
+    "label": null,
+    "sol": 2.088986109,
+    "signature": "mAC1B5aCBzxn6dEzkb5Q8ovgLUcp85hhLmGnsoso7mKAduWkKWz6GDxCH4cDbF52Kb5ZRjGLuUmYcwMnSzHpFBS"
+   }
+  ]
+ },
+ {
+  "wallet": "BteHCeVLvbSDYy9X5ZUZLyfLLzE7MrQ4jcrWSF7F65D2",
+  "first_buy_ts": 1720922913,
+  "first_buy_utc": "2024-07-14T02:08:33Z",
+  "n_prior_sigs_seen": 5,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:23:01Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:23:01Z",
+    "source": "BKscDVDfQzRHMa8Q3NoUQpBMdCZ4n2gt9tuhesDNSLBY",
+    "label": null,
+    "sol": 10.0,
+    "signature": "5rHjvFArFhFMVBYKUvSz2GMCHa3Xg6XwypA3PbzNhS3XHwmEf5oLQ1PDfrmAcp53gaeAn8qn8P2FXKoJsrYvTsqd"
+   }
+  ]
+ },
+ {
+  "wallet": "6b29tKMdF8QZ67v4eSgKywQwJrmH9998eGRp4XBirnbJ",
+  "first_buy_ts": 1720922978,
+  "first_buy_utc": "2024-07-14T02:09:38Z",
+  "n_prior_sigs_seen": 266,
+  "history_complete": true,
+  "oldest_seen_utc": "2022-01-31T01:25:07Z",
+  "funders": [
+   {
+    "utc": "2022-01-31T01:25:07Z",
+    "source": "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS",
+    "label": "Coinbase 1",
+    "sol": 40.0,
+    "signature": "218UJvoFuE5GNhv1DwtYp7iP1byK1vUJcDbFyDY3zFQzJJJTshHnJR28bBPof8sv4LAab1uEW3gpS87q1ZBWrVsA"
+   }
+  ]
+ },
+ {
+  "wallet": "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+  "first_buy_ts": 1720923011,
+  "first_buy_utc": "2024-07-14T02:10:11Z",
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:40:50Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:40:50Z",
+    "source": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+    "label": "Coinbase 2",
+    "sol": 1.05,
+    "signature": "RpB7AKeKUJMiJ3rRKBtdxuuHsFvGrDN8gVKNxKFCaBQ64A5rxB2YuVVv5KnvWvw3asdg5ZGmq1KWob1wuhPPVdR"
+   }
+  ]
+ },
+ {
+  "wallet": "AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5",
+  "first_buy_ts": 1720923116,
+  "first_buy_utc": "2024-07-14T02:11:56Z",
+  "n_prior_sigs_seen": 1,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:11:17Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:11:17Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 2.0,
+    "signature": "63f5Ajy4BND4ZxrkBdHft3pRricQM57MbrqpJaFgFqU8xbLLnUPimkryWkobxAf8fwjNgs8GX5NbY5NFgq1G9htj"
+   }
+  ]
+ },
+ {
+  "wallet": "EZXUvi4X5k3Aj99rGzNQoBtAzFqzYUjGhHNu8A1Ty8s4",
+  "first_buy_ts": 1720923147,
+  "first_buy_utc": "2024-07-14T02:12:27Z",
+  "n_prior_sigs_seen": 13,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-06-16T07:51:54Z",
+  "funders": [
+   {
+    "utc": "2024-06-16T07:51:54Z",
+    "source": "mjJySNDnhe1xMWCSvtivMnV3Dkizs4qn5Q385xbX2ze",
+    "label": null,
+    "sol": 2.76,
+    "signature": "3svgP77cGbZyVC6S7EnXJxTbJP4UjKNgyeiQRQ21K3XUjSDhANj3zmVspjxopmheQY6Sru1d5qAYz2Q6EcavqCtx"
+   },
+   {
+    "utc": "2024-07-01T00:14:47Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 3.0,
+    "signature": "z3s9TL2U8sTVUVLZH7Fh37ktbSX7kFwh6bdDdx5RDBwyhZ4MrgoaB9mjgMddEDzVckrqShs5pMdneRzHs82MvGT"
+   },
+   {
+    "utc": "2024-07-14T01:46:23Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "2raMmNDhdkps29twoAGY8XwVuWDJX5rhnuyb444MKqKXcfRAzkdBqgGL7uoUqUVbiNjRpprutBj439VLhcvzoC4h"
+   }
+  ]
+ },
+ {
+  "wallet": "GXZvXsD6hxaLeFvQisWpdAwsayJxga7w9EeafhFZG2Ra",
+  "first_buy_ts": 1720923341,
+  "first_buy_utc": "2024-07-14T02:15:41Z",
+  "n_prior_sigs_seen": 19,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-05T03:00:33Z",
+  "funders": []
+ },
+ {
+  "wallet": "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+  "first_buy_ts": 1720923476,
+  "first_buy_utc": "2024-07-14T02:17:56Z",
+  "n_prior_sigs_seen": 1,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:38:58Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:38:58Z",
+    "source": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+    "label": "Coinbase 3",
+    "sol": 1.05,
+    "signature": "2sPrsWKLgo452VgDLu7QJWFAF3VRHw2jmGJpB6ZLLsxHe9oyisyUkJ6H8WaLLWaR9UCJLFcdYu1zJ84rejJgDiKz"
+   }
+  ]
+ },
+ {
+  "wallet": "Ei5yGz8dPndr1aCeHZsfqJBcS3VBbz75VHEhxxJKLy3V",
+  "first_buy_ts": 1720923483,
+  "first_buy_utc": "2024-07-14T02:18:03Z",
+  "n_prior_sigs_seen": 60,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-03-30T13:18:25Z",
+  "funders": [
+   {
+    "utc": "2024-03-30T13:18:25Z",
+    "source": "RRbvsvJHLJe8Gynex6FbWTZruturMV2iLrEP5Ma9SdB",
+    "label": null,
+    "sol": 0.004356,
+    "signature": "2BwVKHXBbCg6Lgg1p4uwvv5TdSj36BgEZacp2HwwYi9FtC1DTtQY4sgEatazN9kygAXAN8UfgJshp4mnHpNAFwu"
+   }
+  ]
+ },
+ {
+  "wallet": "4upmFYy6SpmCwdSRfG9akN2gRRn3DksLpDyN5YAmohbx",
+  "first_buy_ts": 1720923636,
+  "first_buy_utc": "2024-07-14T02:20:36Z",
+  "n_prior_sigs_seen": 4,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:46:41Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:46:41Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "3uPFrKc46ZnxkeABVdGy7yJEp1N6WJXdi98t7pajgx6pTPNYTMVWFk1k3sWUdfYANARtrkW6uoTpMrVNHZW53md5"
+   }
+  ]
+ },
+ {
+  "wallet": "2mW45kXp4Wd4xRkF2mmh5rKdzjnjbJR2o53skWcxGa2d",
+  "first_buy_ts": 1720923661,
+  "first_buy_utc": "2024-07-14T02:21:01Z",
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:52:15Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:52:15Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "46z6pt7wxxZE2jqopbLYnHBsTcGNGJjpkarAqDBwtM69F6NWJ2ieRSM64SiRR1wvBdERDJakUXwapN5qNydhpDoU"
+   }
+  ]
+ },
+ {
+  "wallet": "HkFSNPjNFUVtdykP8kSyWCKhocY85k1S4MyjXHNqesvv",
+  "first_buy_ts": 1720923709,
+  "first_buy_utc": "2024-07-14T02:21:49Z",
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:52:34Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:52:34Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "dm7hUBrEefnSyQHJQwTYebwZyoxDrx26bzny9zSu7H9wDKh7wJML1Rv3x7u4U57qmshG268oLx2ssHGbncy5kMw"
+   }
+  ]
+ },
+ {
+  "wallet": "CZsBW8yCGAiWwQ16VAokXE7h7qYL8spMA582X7F7g2jW",
+  "first_buy_ts": 1720923761,
+  "first_buy_utc": "2024-07-14T02:22:41Z",
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:52:57Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:52:57Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "4orBM3TXymFdtJLsdCvoi63wbj9UdCPWpan1adUAvuR21UyMDWeoHvxhUufqFtDeRvaeemm6uEcEnzNDKNmcuYMU"
+   }
+  ]
+ },
+ {
+  "wallet": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+  "first_buy_ts": 1720923933,
+  "first_buy_utc": "2024-07-14T02:25:33Z",
+  "n_prior_sigs_seen": 114,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-06-05T10:13:44Z",
+  "funders": [
+   {
+    "utc": "2024-06-05T10:13:44Z",
+    "source": "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb",
+    "label": null,
+    "sol": 0.01,
+    "signature": "28AmwGWw8ziizsFUAUxmdG7o3mZX7jnCJjwjfqF2dxxuTa3sjbVP4Wv7Mg2q2ESLbm4xEpYYtZrYnPvHZo9mPKSd"
+   },
+   {
+    "utc": "2024-07-14T01:31:26Z",
+    "source": "6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M",
+    "label": null,
+    "sol": 1.48,
+    "signature": "2KfJYWtCYt3fD4thFrjzSGBo5FM1wwDzMxwuCgPPQNuMUjju6xeetheQ2hBupsyH7FaFfGPa8v3h6AX8pEEjtmdr"
+   }
+  ]
+ },
+ {
+  "wallet": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+  "first_buy_ts": 1720924106,
+  "first_buy_utc": "2024-07-14T02:28:26Z",
+  "n_prior_sigs_seen": 168,
+  "history_complete": true,
+  "oldest_seen_utc": "2023-12-26T17:17:02Z",
+  "funders": [
+   {
+    "utc": "2023-12-26T17:17:02Z",
+    "source": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+    "label": "MEXC",
+    "sol": 3.97,
+    "signature": "3BRXqbdMivoxordf9XkfWotkA3cTU7hausrP4twYFrpaGinyGGa8kqVCAV6NwyQHCD2cdaDtyR764GoiC5Sxbjrj"
+   }
+  ]
+ },
+ {
+  "wallet": "9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq",
+  "first_buy_ts": 1720924136,
+  "first_buy_utc": "2024-07-14T02:28:56Z",
+  "n_prior_sigs_seen": 523,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-01-30T11:28:05Z",
+  "funders": [
+   {
+    "utc": "2024-01-30T11:28:05Z",
+    "source": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+    "label": "Coinbase 3",
+    "sol": 5.560348391,
+    "signature": "312SeqAXNEfDdT7XymWtcKrHRxztSd9UgFYt6AVU8UUBSyXY8vypdC3wcQtf5iUk7AFhmXZumTaiLab4M3gJSb77"
+   }
+  ]
+ },
+ {
+  "wallet": "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae",
+  "first_buy_ts": 1720925013,
+  "first_buy_utc": "2024-07-14T02:43:33Z",
+  "n_prior_sigs_seen": 676,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-05-23T22:59:03Z",
+  "funders": [
+   {
+    "utc": "2024-05-23T22:59:03Z",
+    "source": "EyDA1Ekdvu1LgJhy7nteafnPYUkg3enbQYy3RjWb5arZ",
+    "label": null,
+    "sol": 20.0,
+    "signature": "fit2cezCHhn7ktFwcKU8s19MGEPyfhWc3SxUBagrKQUspw7QhpCWFKgwQ6spQnoJxeaDWMSh5sNUnihJYGBE3sV"
+   }
+  ]
+ },
+ {
+  "wallet": "4JrabSska1B3eJyhVkrjQXQ5FVDT1xV3gES5PVrPouvX",
+  "first_buy_ts": 1720925179,
+  "first_buy_utc": "2024-07-14T02:46:19Z",
+  "n_prior_sigs_seen": 1437,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-04-16T10:52:01Z",
+  "funders": [
+   {
+    "utc": "2024-04-16T10:52:01Z",
+    "source": "CY3swNHbkESJJe53YkqVmG69ygr9KQogPmYmB9VuWqyD",
+    "label": null,
+    "sol": 0.38,
+    "signature": "4ipMCBF1yxL8X99ddx3tNz3c22w3ceBGe1z8sUJYLoX6J71pAUhbQSFUFNF4Hk8eRrwK1ehgr6ewgfzpi3QPo62c"
+   },
+   {
+    "utc": "2024-07-13T09:58:26Z",
+    "source": "9yMwSPk9mrXSN7yDHUuZurAh1sjbJsfpUqjZ7SvVtdco",
+    "label": null,
+    "sol": 0.009895,
+    "signature": "4bNyxhWyb3eN3Yr9CJmFxZ5Bah5oJ1jkj2zTJ2CGace8TnvitrjNA6sWpTEbxQUkWVHyLusUdjH9NVTYf1GgThVi"
+   }
+  ]
+ },
+ {
+  "wallet": "EEdq9Cw2GBXoVieSm2nRnCu81KRS5rNCzpKbKVeUXeD",
+  "first_buy_ts": 1720939714,
+  "first_buy_utc": "2024-07-14T06:48:34Z",
+  "n_prior_sigs_seen": 289,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-05-11T14:20:33Z",
+  "funders": [
+   {
+    "utc": "2024-05-11T14:20:33Z",
+    "source": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+    "label": "Binance 2",
+    "sol": 0.43924411,
+    "signature": "2xH4Aq3X3eYipgVMH7VudRJR4W2qpGKjyVUMyTgrytpHcVS5fAN6SdZ43V7kr5vbL5CYFHj9P75wb1N5ofJhttdP"
+   },
+   {
+    "utc": "2024-07-10T02:57:52Z",
+    "source": "2qyz7CvLhzBRW1VyKpYAk1D7YHZPW19shJSNYNw4TBj6",
+    "label": null,
+    "sol": 0.15,
+    "signature": "4TdRyfh2JCN9aGLJTZ5bGYXeEWwtdUToiXoSnTFmGAeTxyDF43ja4CJC8Y8HJZoNP33yJMgwHSMec6SyNVYXtxeu"
+   }
+  ]
+ },
+ {
+  "wallet": "DouvvAiw55ReYsT635zmo4CwQ1gsGzw7jGhjxwPGHLb3",
+  "first_buy_ts": 1720955671,
+  "first_buy_utc": "2024-07-14T11:14:31Z",
+  "n_prior_sigs_seen": 150,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-03-14T20:19:58Z",
+  "funders": [
+   {
+    "utc": "2024-06-29T03:29:05Z",
+    "source": "HseKBoWm4YQgnhyNf1gTJkPxrgxS1aWt5xgCUwjxrBZf",
+    "label": null,
+    "sol": 1.544847052,
+    "signature": "2jnQd6CKkaoxBzRHjW655zxatT3tZpVSMRr7AV12kemPxErmuTHLyf6pKPvFxZWNgtPfuEMyJcTV9hwPfzYPNPHD"
+   }
+  ]
+ },
+ {
+  "wallet": "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb",
+  "first_buy_ts": 1720956108,
+  "first_buy_utc": "2024-07-14T11:21:48Z",
+  "n_prior_sigs_seen": 285,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-03-11T23:00:55Z",
+  "funders": [
+   {
+    "utc": "2024-03-11T23:00:55Z",
+    "source": "45i7PmS9TvZAsrDjJY5sGo6ATiD8aPi2jCxCyaGMVTHy",
+    "label": null,
+    "sol": 0.13,
+    "signature": "45iPEm8cdYi3m4Ho4iEN731MHs4gpuSZXaYjVyd6zJ6iwgzuJ3Tr9ejtk5F8pm4urfnU1wQfsX38hcWynCSAfago"
+   },
+   {
+    "utc": "2024-07-14T00:48:39Z",
+    "source": "7FfB2zQRYUQwpPzkRxAeg2mCBGeCRKp4PCEeULJA9xTo",
+    "label": null,
+    "sol": 5.960409988,
+    "signature": "QU3Q4x26d881qiaYP59W5J2tFdHzoX4AwWUkZcVUWunsoh3AcnyBAUkLDjXN1QZGG5VHSkFjoe7L7VuDWk3U59s"
+   },
+   {
+    "utc": "2024-07-14T00:49:08Z",
+    "source": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+    "label": null,
+    "sol": 0.2,
+    "signature": "4XUMnjtyqhnnf8BU1Rkx8UtuvNxVJZXXQkh3iP6yuefeMSRa1HFhZ4ZrdmDCzNfuBvxuPBkhFtpLeaepF3mgyZrx"
+   },
+   {
+    "utc": "2024-07-14T03:48:20Z",
+    "source": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+    "label": null,
+    "sol": 0.025304413,
+    "signature": "65NxZ2ouh2XUP17fMcNETvXcaPW5fXJV8j9MzLUTnGGsMncVDpkAxLv8jA1ogPAq56rr3sGdXDBYp6snoN7pNzN4"
+   }
+  ]
+ },
+ {
+  "wallet": "9cfRU5RKRjUKGumdVRAehiu9PtEY8vDd4wejkpdUP7vw",
+  "first_buy_ts": 1720961989,
+  "first_buy_utc": "2024-07-14T12:59:49Z",
+  "n_prior_sigs_seen": 670,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-02-08T21:36:54Z",
+  "funders": [
+   {
+    "utc": "2024-02-08T21:36:54Z",
+    "source": "7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx",
+    "label": null,
+    "sol": 0.5,
+    "signature": "3GHZff8bqv14w6W3wcCTEaUZQrFyiz73nPdwgd4emQa5QVjhnW8tK6upsmbWCqee9h1ftHgBSxhmy5WncZ5hNzdL"
+   },
+   {
+    "utc": "2024-07-14T02:18:29Z",
+    "source": "7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx",
+    "label": null,
+    "sol": 4.0,
+    "signature": "4au2J2Bgmy63GhysZXtEQQUZVYZ1wZP1oRzZENq6oHoUXR81L135HzJ1s1Y9Zzd64Gmyq6Gt4JTmL7ZWVoZGMJA3"
+   }
+  ]
+ },
+ {
+  "wallet": "H3QsBrrivimFJmSpTXuvig2n1Bh7JuYxrriRSEszT6cc",
+  "first_buy_ts": 1720975438,
+  "first_buy_utc": "2024-07-14T16:43:58Z",
+  "n_prior_sigs_seen": 281,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-03-12T01:48:00Z",
+  "funders": [
+   {
+    "utc": "2024-03-12T01:48:00Z",
+    "source": "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS",
+    "label": "Coinbase 1",
+    "sol": 0.833960874,
+    "signature": "3Yx9k4AtRaeXYL3Cm4w9KeUDBzBJNuNNtVx6DBqwkCMNpJAry9EUEoCxnnQL18WpJvJKqVVTkXLLkE4fBFXwQg6n"
+   }
+  ]
+ },
+ {
+  "wallet": "B252jsFK2BKMfHRFzrHcxyVayPvC32h4ZXU8jmsm4Gsp",
+  "first_buy_ts": 1720993699,
+  "first_buy_utc": "2024-07-14T21:48:19Z",
+  "n_prior_sigs_seen": 241,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-04-23T15:44:57Z",
+  "funders": []
+ },
+ {
+  "wallet": "DfJHvjBpbyDbr7ofsx8L8WNZcJ6WexiYN7xgnqPfAr2h",
+  "first_buy_ts": 1721057419,
+  "first_buy_utc": "2024-07-15T15:30:19Z",
+  "n_prior_sigs_seen": 110,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-03-13T02:05:15Z",
+  "funders": [
+   {
+    "utc": "2024-03-13T02:05:15Z",
+    "source": "HmsNtCa4F9QnTW6FY6fPtNYtesfVsbNRLhYTtsqMAAR5",
+    "label": null,
+    "sol": 0.1,
+    "signature": "5ot3UU5p6teJLh65npWyWRZr1rSefNhESKBMHqLDRRnmsgjfCL5AVu7ugC8Dsxmp8dqQeU8UNwUTpGkGKve4E1wy"
+   }
+  ]
+ },
+ {
+  "wallet": "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": false,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T01:58:48Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T01:58:48Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "UQ5VEv315ou5SrYNwa27i7En7iqkHYuxTnNnUMof7N4qfvwy7DUKLJeoEFMbZRyeAnSV74YrQ6KncDJQPXxhPsr"
+   }
+  ]
+ },
+ {
+  "wallet": "2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:00:51Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:00:51Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "5nsFsCir8Gfcr22J4pYXwgQ6FRTm9iLpsKPadKiEq97DyzYChAFD5ee4xxnfEjVWn1sVcpUWNNrcLxqbqt8z4P8z"
+   }
+  ]
+ },
+ {
+  "wallet": "HB16TNghDeEjrSJ7MZw7dTYddLhUq1RXJ3Kxf2RV5Qi8",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:01:18Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:01:18Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "4NhwYABFzmq12QnDSuqqqTiCovPGeSgj4hJngy3NVBkDjpA7234aTv1Zei94CED39atwQPtLapBbeBakFV16jEBF"
+   }
+  ]
+ },
+ {
+  "wallet": "C3i6zfhv9Bvr1QxzNEURzasSvyXPLTeMipS9hJmjGu3L",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:01:45Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:01:45Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "hgnwXjWCUWLuVDzctQh225npk79MH1Ut5iHrggQH7ohcwgJAfGTkcJ1EXkv2xrBoSMHedhrY1ViqnDw3Xf8v4tQ"
+   }
+  ]
+ },
+ {
+  "wallet": "8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:02:18Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:02:18Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "9nAp8gU9FdGHsUBcXhjJHx568fY3nWzSFQ5gQYuBGTk634ArCs6DhqRu5wPz9XVuUDr4Z22EsehTWus7ENRdi4K"
+   }
+  ]
+ },
+ {
+  "wallet": "HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:02:57Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:02:57Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "3HagJEswRbBdAjnUyQpfqLCaRJNddNbuGnxgnwA4z41j3k6D7KzmFJJpwxj5TnfND94LtoEycKyW2P3icmesmLff"
+   }
+  ]
+ },
+ {
+  "wallet": "HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:03:23Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:03:23Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "612aPJCvejBt3BLdwZtGJLLYmEJ2a5ZVJDJTLykLD2MmPy5MMhv6brMq9CkjAWwLHMmBEWStdJcdK6bTFzRCVzWg"
+   }
+  ]
+ },
+ {
+  "wallet": "FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 3,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-07-14T02:03:38Z",
+  "funders": [
+   {
+    "utc": "2024-07-14T02:03:38Z",
+    "source": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+    "label": null,
+    "sol": 0.5,
+    "signature": "3EW9Lb9WeqX5Ltk8GB2f4mi3wVtzX8orfNBjNCU7kMKmut7BG9RVypG7Yp56QfF2k9hbQGSKFV9YbjWRc3PaWQoD"
+   }
+  ]
+ },
+ {
+  "wallet": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": false,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "35nAuv6jGTVMnr7qdiRAV5PbZ3QgTJcLzBFzxGFm6Xw8",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 45,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-05-22T20:22:21Z",
+  "funders": [
+   {
+    "utc": "2024-05-22T20:22:21Z",
+    "source": "7FfB2zQRYUQwpPzkRxAeg2mCBGeCRKp4PCEeULJA9xTo",
+    "label": null,
+    "sol": 0.020672536,
+    "signature": "4Qm3AjvbNGoPNJjQY234i7jDyMUwizBtBWXv3uKGm3PHKGAFfDmuJpmZ2GrSV9aJRp6J4zbwk5WD98knjrpfKADv"
+   },
+   {
+    "utc": "2024-07-14T03:05:09Z",
+    "source": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+    "label": null,
+    "sol": 0.05,
+    "signature": "qS5a4EcFT2vYwgGzNqgKRqMFd8Wrtb762vGboE9FSjpvXWvXkAMTjS8SPeF1jGktnH7mv7zBWGtpJKWNipafiPj"
+   }
+  ]
+ },
+ {
+  "wallet": "4wComYHQbydc9DZHsDu3t2MaTLNe7Y3ukdymrkqh9ftC",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": false,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 41,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-04-24T14:52:00Z",
+  "funders": [
+   {
+    "utc": "2024-04-24T14:52:00Z",
+    "source": "BKgz559PTmrxkWt4FQNLHoxfLCBntQudshcfNThrvH96",
+    "label": null,
+    "sol": 4.05671,
+    "signature": "5r3ToDgaDVmmL7otHT4PaWMaCX72ioQoYko8Z3qktxypzQNF27afsxMGUQ11viY3sE7572TFwtYpu8ftYgZnEaZB"
+   },
+   {
+    "utc": "2024-05-29T13:29:13Z",
+    "source": "BKgz559PTmrxkWt4FQNLHoxfLCBntQudshcfNThrvH96",
+    "label": null,
+    "sol": 6.5,
+    "signature": "4BHZdKyGdEixjGCSG5WtGRfkN4TYzDaeN8cCS1CDc6SuNFb29haPiG4TBb4HZgMjJHsmuX6gGEAU4LTWz6uresJ9"
+   }
+  ]
+ },
+ {
+  "wallet": "9u5JKgWdLzj4xUiA4sFnaaJeKAJF8zBXExatxeSZHMkP",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 40,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-05-22T18:33:29Z",
+  "funders": []
+ },
+ {
+  "wallet": "Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": false,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": false,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "C7i9beNHXYonZYB5riXE6kaLpFWLj9BPzh2FSBoUUePK",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 129,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-02-20T08:13:56Z",
+  "funders": [
+   {
+    "utc": "2024-02-20T08:13:56Z",
+    "source": "Cvw9RG2zouDQy5Ukgh12N9deJCt5erfsNNtAWKpJbWUG",
+    "label": null,
+    "sol": 0.07,
+    "signature": "einM9sRMbG5fKq4MjLVSAqs5W5MaRccV8YU69xyto9cjEMNsL82cQW99vPBaqpK5FoawTKjDPtmsZg5CD441Cbt"
+   }
+  ]
+ },
+ {
+  "wallet": "GPMYCuusSYfgdXXYHLyCBhBdhP9fJeXrSGUou6XAxHgm",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": false,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "Gcyg2jeLfSY9gxxHf5za5QU74ijtxBb1dB2mdGSPZH3m",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": false,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "HGBiExZRtD2TZdQLWHE9azkTSmE2z7ygKqZMtehJDKYU",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 0,
+  "history_complete": true,
+  "oldest_seen_utc": null,
+  "funders": []
+ },
+ {
+  "wallet": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 113,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-03-26T00:37:02Z",
+  "funders": [
+   {
+    "utc": "2024-03-26T00:37:02Z",
+    "source": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+    "label": "MEXC",
+    "sol": 1.36,
+    "signature": "2sVqDmXywVbcN4c9vHwkkkLGSEm4htnq9VjrA2Ukr5iTAj5baXxH4a8CmSVdBhAhjBvQRayy1XEaxa6XWYdasF34"
+   },
+   {
+    "utc": "2024-06-26T15:34:41Z",
+    "source": "7FfB2zQRYUQwpPzkRxAeg2mCBGeCRKp4PCEeULJA9xTo",
+    "label": null,
+    "sol": 6.087025342,
+    "signature": "4zgxaDUpwfV66XbtzDFZ2VbaDxRjrhiCUAry8D2TUM81HqPYbQQZNNcdyVBB7Cq1xNnKqSFvhVRh3PrVQAG4aS9u"
+   }
+  ]
+ },
+ {
+  "wallet": "HMVYeTjsoaM1txP9NUcbkcowVj2F1JeGrZPx6ivJackF",
+  "first_buy_ts": null,
+  "first_buy_utc": null,
+  "n_prior_sigs_seen": 182,
+  "history_complete": true,
+  "oldest_seen_utc": "2024-04-30T16:01:55Z",
+  "funders": []
+ }
+]

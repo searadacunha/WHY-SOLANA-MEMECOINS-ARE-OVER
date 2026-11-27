@@ -1,0 +1,35 @@
+{
+ "n_tokens": 54,
+ "sampling": "every 35th slot in [277409000, 277426500) (~\u00b158 min around the DMAGA create slot); pump.fun Create instructions without error",
+ "tokens_with_non_creator_buy_in_first_6_successful_txs": 53,
+ "first_buy_delay_s_median": 2,
+ "first_buy_delay_s_p90": 4,
+ "first_buy_slot_delta_median": 3,
+ "tx_within_60s_median": 22.0,
+ "failed_within_60s_median": 13.0,
+ "dmaga_tx_within_60s": 74,
+ "dmaga_tx_within_60s_share_of_sample_below": 0.944,
+ "dmaga_failed_within_60s": 50,
+ "dmaga_failed_within_60s_share_of_sample_below": 0.963,
+ "dmaga_first_non_creator_buy_delay_s": 0,
+ "g41v_attempts": [
+  {
+   "utc": "2024-07-14T02:05:54Z",
+   "delay_s": 29,
+   "slot_delta": 67,
+   "error": "TooMuchSolRequired",
+   "sol_limit": 0.51005,
+   "token_amount": 14354926.048169
+  },
+  {
+   "utc": "2024-07-14T02:06:10Z",
+   "delay_s": 45,
+   "slot_delta": 100,
+   "error": "TooMuchSolRequired",
+   "sol_limit": 0.40804,
+   "token_amount": 8008435.101172
+  }
+ ],
+ "g41v_rank_among_distinct_non_creator_signers": 13,
+ "distinct_non_creator_signers_pump_phase": 182
+}

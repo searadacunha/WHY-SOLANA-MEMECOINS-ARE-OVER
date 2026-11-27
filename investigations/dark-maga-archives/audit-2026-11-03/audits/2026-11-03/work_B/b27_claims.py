@@ -1,0 +1,29 @@
+"""Écrit claims_B.csv et vérifie le sceau et l'absence de tirets longs dans les livrables."""
+import csv, hashlib, re
+from pathlib import Path
+H = Path(__file__).parent
+rows = [
+ ("C07", "PASS", "étude 229,28 SOL, médiane 6,18, p 2/29 = 0,0690 ; B 229,14 SOL, médiane 6,175, p 0,0690. La seule fenêtre au-dessus (386,9 SOL) est l'épisode de Winig", "work_B/b16_s1.py, b16_s1.txt ; B-07"),
+ ("C08", "PASS", "verdict reproduit ; k 211 ; meilleur p 0,15566 (M6), 32 pairs au-dessus, 33e sur 212 ; Holm : aucune ; même résultat avec le parseur de B", "work_B/b11_tests.txt, b04_ranks_blind.csv, b13_power.txt (différence symétrique 0). Le libellé dit plus que le test : B-05"),
+ ("C09", "PASS", "un détenteur passif ne change ni M1 à M5 ni M7 ; 76 acheteurs de la courbe sur 106 (845,72 M jetons) sont hors de M6 ; 30 % d'offre en plus détenue dès les 24 h : M6 0,316, p 0,0755, ne passe pas", "work_B/b21_exclus.txt, b13_power.txt ; l'assertion est même trop modeste : B-01, B-06"),
+ ("C43", "PASS", "101 702 tx brutes, 13 920 initialize2, 13 920 pools et mints distincts, du 15/06/2024 00:02:43 au 31/08/2024 23:49:56 ; S identique sur 13 920 ; 84 jours de pic sur k 211. Capitalisation de 731 tokens non vérifiable (B-14), sans effet possible sur le verdict", "work_B/b24_divers.txt, b10_compare.txt, b11_tests.txt"),
+ ("C44", "PASS", "M1 39,867 ; M2 9,371 ; M3 0,680 ; M4 0,308 ; M5 433,798 ; M6 0,205 ; M7 0,138 ; médianes et p conformes aux 3 décimales. B : écarts sur DMAGA de 0 à 0,147 %, mêmes p", "work_B/b11_dmaga_table.csv, b10_compare.txt, b23_repro.txt (6 134 valeurs, écart 0)"),
+ ("C45", "PASS", "401,52 SOL (B 400,50), médiane 6,06, p 1/28 = 0,0357, 27 fenêtres passées ; p minimal possible 0,0357 > 0,0125 : ne pouvait pas passer. 28,9 % des pairs ont ce profil à S", "work_B/b16_s1.txt, b24_divers.txt ; B-07"),
+ ("C46", "INCONCLUSIVE", "p 3/41 = 0,0732, k 40, médiane 0, 0,08 relus dans le JSON ; la mesure n'est pas recalculable : pas de brut pour getTransfersByAddress, service défini par l'activité récente de l'adresse", "work_B/b24_divers.txt ; B-16"),
+ ("C47", "PASS", "1/212 = 0,00472 <= 0,00714 < 2/212 : c = 0 exigé à la première marche ; c maximaux par rang 0, 0, 1, 1, 2, 4, 9 ; registre 7 + 4 + 3 x 7 + 1 = 33 ; 0,05/33 = 0,001515. M3 et M4 ne peuvent même pas ouvrir", "work_B/b06_power_analytic.txt, b15_gel.txt, b25_seuils.txt ; B-04, B-15"),
+ ("C48", "PASS", "plan lignes 3 à 9 et 58 à 62 ; col_40 sans filtre de statut sur les signatures ; DMAGA 1 370 tx réussies touchant le vault pour 1 719 signatures dans l'heure S ; 11 pairs sous 20 %", "scripts/col_40_controls.py lu ; work_B/b25_seuils.txt ; B-11"),
+ ("C49", "FAIL", "gel vrai : verrou 23:47:06, 17 empreintes conformes, 1re ligne réelle 03:25:36. Chiffres des contrôles reproduits : 2/40, 40/40. Mais les effets ne valent pas pour les vraies données : moyen 3,3 %, fort 7,1 % ; nul réel 2,4 % ; IC du nul 2/40 de 0,6 à 16,9 %. Copie neuve de l'étude sans trace sur le disque ; ma reproduction du dernier étage est identique (6 134 valeurs)", "work_B/b19_controls.txt, b13_scenarios.csv, b15_gel.txt, b23_repro.txt ; B-02"),
+]
+with open(H / "claims_B.csv", "w", newline="") as f:
+    w = csv.writer(f); w.writerow(["id", "verdict", "valeur_recalculee", "preuve"]); w.writerows(rows)
+# sceau
+ok = True
+for line in (H / "SEAL.txt").read_text().splitlines()[1:]:
+    sha, n = line.split("  ")
+    cur = hashlib.sha256((H / n).read_bytes()).hexdigest()
+    if cur != sha:
+        ok = False; print("DIFFERENT", n)
+print("sceau conforme :", ok)
+# tirets
+for p in [H.parent / "AUDIT_B_STATISTICS.md", H / "claims_B.csv", H / "blind_ambiguites.md"]:
+    t = p.read_text(); print(p.name, "cadratin", t.count("—"), "demi-cadratin", t.count("–"))

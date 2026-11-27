@@ -1,0 +1,20 @@
+lignes 25
+champs ['agent', 'code_gele', 'declare_dans_plan', 'donnees', 'lock_sha', 'n', 'n_comparaisons', 'n_effectif', 'n_tirages', 'note', 'p', 'params', 'phase', 'prec', 'script', 'script_sha', 'sortie', 'sortie_sha', 'stat', 't_utc', 'test']
+chaînage rompu 0 (champ lu : ['prec'] )
+Counter({'reelles': 15, 'synthetiques': 10})
+réelles : scripts, gelé Counter({('code/ana_50_tests.py', None): 14, ('../scripts/exp_70_funder_share.py', None): 1})
+synthétiques : scripts, heure [('code/ctl_01_synth.py', '2026-11-02 23:41:02'), ('code/ctl_01_synth.py', '2026-11-02 23:45:00')]
+n_comparaisons réelles 33
+{'agent': 'analyse-principale', 'code_gele': True, 'declare_dans_plan': True, 'donnees': 'reelles', 'lock_sha': '0649063a6f46409343a9e3138db5b047cc9cb3f6503b7ad14cedcb9f9bb0f05d', 'n': 211, 'n_comparaisons': 1, 'n_effectif': 84, 'n_tirages': None, 'note': None, 'p': 0.16981132075471697, 'params': {}, 'phase': 'apres_gel', 'prec': 'bb8a73a0f5f0b03fc01c312e845dd8d4c341ff020d6b131985092d64f3e56eca', 'script': 'code/ana_50_tests.py', 'script_sha': 'a047f5ff34f2195c01da50a139bed95499afff88b86040159ff1f0c2efd2f6fd', 'sortie': 'tables/tests.json', 'sortie_sha': '7f9f7a1cb4787ce4ff37c1ecc19ca953c41f473b4d23d00efdeb75af9ee441b1', 'stat': 39.86686096588437, 't_utc': '2026-11-03 03:25:36', 'test': 'primary_M1'}
+{'agent': 'analyse-principale', 'code_gele': True, 'declare_dans_plan': True, 'donnees': 'reelles', 'lock_sha': '0649063a6f46409343a9e3138db5b047cc9cb3f6503b7ad14cedcb9f9bb0f05d', 'n': 211, 'n_comparaisons': 1, 'n_effectif': 84, 'n_tirages': None, 'note': None, 'p': 0.18396226415094338, 'params': {}, 'phase': 'apres_gel', 'prec': 'c4cbf30b89b39c62ea7d6fdf21f95b7029258956e521d1cec36465b000631596', 'script': 'code/ana_50_tests.py', 'script_sha': 'a047f5ff34f2195c01da50a139bed95499afff88b86040159ff1f0c2efd2f6fd', 'sortie': 'tables/tests.json', 'sortie_sha': '7f9f7a1cb4787ce4ff37c1ecc19ca953c41f473b4d23d00efdeb75af9ee441b1', 'stat': 9.370579076222857, 't_utc': '2026-11-03 03:25:36', 'test': 'primary_M2'}
+{'agent': 'analyse-principale', 'code_gele': True, 'declare_dans_plan': True, 'donnees': 'reelles', 'lock_sha': '0649063a6f46409343a9e3138db5b047cc9cb3f6503b7ad14cedcb9f9bb0f05d', 'n': 210, 'n_comparaisons': 7, 'n_effectif': None, 'n_tirages': None, 'note': None, 'p': None, 'params': {}, 'phase': 'apres_gel', 'prec': 'e1ed2c082cd0610ee2f1fb86b92f376715ae43f940e7d90c5f66dccca51bf144', 'script': 'code/ana_50_tests.py', 'script_sha': 'a047f5ff34f2195c01da50a139bed95499afff88b86040159ff1f0c2efd2f6fd', 'sortie': 'tables/tests.json', 'sortie_sha': '7f9f7a1cb4787ce4ff37c1ecc19ca953c41f473b4d23d00efdeb75af9ee441b1', 'stat': None, 't_utc': '2026-11-03 03:25:36', 'test': 'robustesse_R3_S_moins_1h'}
+{'agent': 'analyse-exploratoire', 'code_gele': False, 'declare_dans_plan': False, 'donnees': 'reelles', 'lock_sha': '0649063a6f46409343a9e3138db5b047cc9cb3f6503b7ad14cedcb9f9bb0f05d', 'n': 40, 'n_comparaisons': 1, 'n_effectif': None, 'n_tirages': None, 'note': 'hors plan, financeur commun des 50 premiers gros acheteurs', 'p': 0.07317073170731707, 'params': {}, 'phase': 'apres_gel', 'prec': '270dd96fb0ba46ca01711aa5ae9e125ec0e051be210b9ea56c3c693f7d0d796c', 'script': '../scripts/exp_70_funder_share.py', 'script_sha': 'dde59038b3f6dd08fe310edbd3018240c5921bb091604337831b41298e60dcd9', 'sortie': 'tables/funder_share.json', 'sortie_sha': '2339021bf9829ef68cfa036ac85d6935b11b4b0c94df914311536f11d30fdaea', 'stat': 0.08, 't_utc': '2026-11-03 03:33:09', 'test': 'exp_financeur_commun'}
+gel 2026-11-02 23:47:06 ajouts [('2026-11-03 03:25:30', ['derived/metrics.csv', 'derived/selection_counts.json'])]
+empreintes du gel relues 17
+références à etude/ dans le code gelé : []
+pools de metrics.csv, longueur min/max 43 44
+pools non base58 [] mints non base58 []
+tests.json k 211 {
+ "verdict": "DMAGA NON DISTINGUABLE DE SES PAIRS"
+}
+chaînage par sha256 de la ligne brute : ok 25 rompus []

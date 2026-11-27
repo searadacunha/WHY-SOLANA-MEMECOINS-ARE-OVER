@@ -1,0 +1,5 @@
+échantillon 31 écarts > 0,1 % 0 []
+DMAGA ('CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k', 1294134.77, 1294134.77, 1721584681, 1721588400, 6)
+décimales vues [6]
+S - t (s) max 16134
+garde : fini, code 0, pic 51 Mo

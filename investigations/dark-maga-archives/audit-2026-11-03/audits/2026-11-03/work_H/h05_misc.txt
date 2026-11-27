@@ -1,0 +1,16 @@
+autres ordres [('2025-01-18 09:43:43', '7SEoKiBL', '11211.9'), ('2025-03-20 20:38:25', '8YSi5yNR', '971.61'), ('2025-03-20 20:39:05', '8YSi5yNR', '8941.21'), ('2024-05-07 18:57:51', 'DfYyxDNE', '606.4'), ('2024-05-21 22:17:10', 'DfYyxDNE', '1914.74'), ('2024-05-25 20:20:40', 'DfYyxDNE', '500.86'), ('2024-09-01 22:26:14', 'J2EuNwCS', '10.93'), ('2024-09-01 22:28:39', 'J2EuNwCS', '20451.58')]
+par wallet {'C73Yv9iH': 527600.41, 'Ei5yGz8d': 228326.04, 'HGBiExZR': 157849.93, 'Gcyg2jeL': 60460.53, 'J2EuNwCS': 20462.51, '7SEoKiBL': 11211.9, '8YSi5yNR': 9912.82, 'EZXUvi4X': 3234.17, 'DfYyxDNE': 3022.0, '74qFhHyp': 1010.21, '5QhJJcFZ': 634.18, 'C7i9beNH': 208.81}
+signatures doublées []
+lignes pont 26 Counter({'P2 groupe de 33 et salve du 23/07': 20, 'hors périmètres': 3, 'P1 créateur et dépôt 9W9b': 3}) actifs Counter({'USDC ordre inter-chaînes': 26}) montant 1026542.68 sol_eq 5766.7 n 77
+hors périmètres 41587.24 5
+P2 groupe de 33 et salve du 23/07 981299.27 68
+P1 créateur et dépôt 9W9b 3656.17 4
+ARu4 traced True [(42.683251354456, 43.008513123857, 0, 43.662551550731, 0.979300196275, 0, 0, 'partiel: jetons reçus sans coût')]
+ARu4 comptes (0,) aretes [('gtba', 2951, 1053.9448821526776, 1761758652, 1793661329)] src top [('CcF9hmX3wZm9mL6JFqh9ChsYyzRR3avBvBcC129gLusn', 'ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn', 116.25631481549699, '26/03/2026'), ('ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn', 'CcF9hmX3wZm9mL6JFqh9ChsYyzRR3avBvBcC129gLusn', 35.563587340598005, '25/03/2026'), ('ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn', 'CcF9hmX3wZm9mL6JFqh9ChsYyzRR3avBvBcC129gLusn', 34.356942904175995, '25/03/2026'), ('H54MVujig2hALdRkfbAhJcEZjfn5JEDUt4wMjXEqjF29', 'ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn', 30.284223459695, '17/11/2025')]
+créateur lignes [('swap', 'pumpfun', 7.1059602649, -0.20123192, '14/07/2024 02:05:25'), ('transfer', None, -7.1059602649, 0.0, '06/07/2025 02:19:13'), ('swap', 'raydium', 0.548725914273, -1.855356069, '13/07/2025 04:19:28'), ('swap', 'raydium', 0.54041764949, -1.855759245, '13/07/2025 04:28:31'), ('swap', 'raydium', 0.52404770952, -1.851926208, '13/07/2025 04:37:33'), ('swap', 'raydium', 0.507647018919, -1.851541533, '13/07/2025 04:46:31'), ('swap', 'raydium', 0.495575511983, -1.851388891, '13/07/2025 04:55:31'), ('swap', 'raydium', 0.490121956661, -1.85273006, '13/07/2025 05:04:32')]
+slot création (1,) (17, 310.824235752961, 11.915840798)
+ventes créateur avant 2025 (0,)
+gestes 20 {'src': '74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb', 'dst': 'AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk', 'M': 9.0, 't': 1721515280, 'sig': '4xQpXD9yRQpTtjH5HutQZRMioFDrj6tXcusVdhn3yWiuGnhH8e5qo1ArdfLsezQoCCVGiJexBadqCfG8JJxxeYnT'}
+transferts 14:22-14:25 [('FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV', 'C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae', 6.5), ('HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a', 'C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae', 5.5), ('HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV', 'BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3', 6.0), ('8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv', 'BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3', 6.5), ('2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT', 'BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3', 1.5)]
+avant_pmarca 1720923331 1721512043 163.53
+pmarca_a_winig 1721512043 1721577749 18.25

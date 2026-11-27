@@ -1,0 +1,12 @@
+dépôts témoins 120 expéditeurs distincts 1365
+expéditeurs versant à au moins 2 dépôts 25 max 10
+recouvrement maximal entre deux dépôts [(4, 'B81oFSuoiWSpJSoodnFUrb4ZVavWQvLyzPfrgZqP1tiC', 'FSecGDLfqkG6RfnzxyrnsktKrJ2ok7N1P6wCEeVC5bap', 14, 34), (3, 'FSecGDLfqkG6RfnzxyrnsktKrJ2ok7N1P6wCEeVC5bap', '4knw5Romcm3UQFJpqRBDoXbchSxBfGHYtytWs8dvi1NG', 34, 11), (3, '5q7m3yaq18yJUZ8sV1yA6XAL8ifPQpeMHAxrU5ybTzbW', 'FSecGDLfqkG6RfnzxyrnsktKrJ2ok7N1P6wCEeVC5bap', 3, 34), (3, '5q7m3yaq18yJUZ8sV1yA6XAL8ifPQpeMHAxrU5ybTzbW', 'B81oFSuoiWSpJSoodnFUrb4ZVavWQvLyzPfrgZqP1tiC', 3, 14), (3, '5q7m3yaq18yJUZ8sV1yA6XAL8ifPQpeMHAxrU5ybTzbW', '3CgEVgrNSfdW94NNBpmkofj7SrgzTuJmQ1ebQPvof3Pt', 3, 11), (3, '5GpFo8mz5nPp9ip1ZgKGivmLDiwJ3zEhefcU8BqwR89x', 'FSecGDLfqkG6RfnzxyrnsktKrJ2ok7N1P6wCEeVC5bap', 6, 34)]
+paires de dépôts à recouvrement >= 2 32 >= 5 0 sur 7140
+destinations des balayages, dépôts témoins distincts, SOL [('GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 115, 10129.8), ('H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS', 106, 9916.5), ('2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 100, 5225.8), ('FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q', 39, 971.0), ('D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf', 35, 418.3), ('DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo', 29, 352.6), ('9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE', 28, 236.7), ('4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw', 20, 211.6), ('5g7yNHyGLJ7fiQ9SN9mf47opDnMjc585kqXWt6d7aBWs', 16, 76.7), ('GCRJD52pGwcCSs4oswYxTBCPatxY1P6WpxCC9R9zty6r', 8, 122.7), ('AafGzY9eiC5Ud3YFZQwkaKApp48cVBAT2kksGvEjhUvH', 6, 12.9), ('8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF', 5, 59.6)]
+   94xmX5J92nZLanLvRstmxhgiS8kN8SVfFQ2zPKYB3Ynb balayé par témoins : 0
+   AafGzY9eiC5Ud3YFZQwkaKApp48cVBAT2kksGvEjhUvH balayé par témoins : 6
+   4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw balayé par témoins : 20
+   9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE balayé par témoins : 28
+   8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF balayé par témoins : 5
+   6hXrioEsSShDPJ6fFzA9YUErimddZUVWYvwiwbffgZLW balayé par témoins : 0
+   33RuC2ig9ZtdDUHj9YWs3Qbi2pSqQGd4dxs7NuNGemZw balayé par témoins : 0

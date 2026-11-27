@@ -1,0 +1,19 @@
+== HW5MqvM1kDySFUtynMtzsWCU6VcFfpeCXsbRyLq6iHk6
+ tx 300 2024-01-31T15:23:22 2024-02-07T05:35:51 premier signataire ['2ymSGYZm3SXAL7H6ZNjiPFuunm3ZWh3ditZJptsyVyyW']
+   2024-01-31T20:49:57 DMAGA 0.0 SOL -28.0 WSOL 0.0 dépôt ['8N4A'] signe HW5MqvM1 contre [] BHeHW9YCDNfwCS9t
+   2024-01-31T21:13:30 DMAGA 0.0 SOL -59.5 WSOL 0.0 dépôt ['8N4A'] signe HW5MqvM1 contre [] 2mTPbfcWgzxrWhrg
+   2024-02-05T14:51:52 DMAGA 0.0 SOL -58.0 WSOL 0.0 dépôt ['8N4A'] signe HW5MqvM1 contre [] 3kkWPwTiTVSXqSb2
+== HKzkNSH2DmfyowntFnoa1xdUuVH4Yh6bg7z8fer4JSRP
+ tx 45 2024-07-21T23:00:23 2024-11-03T14:02:45 premier signataire ['GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC']
+   2024-07-21T23:00:23 DMAGA 1000000.0 SOL 0.0 WSOL 0.0 dépôt [] signe GoPCTrS3 contre ['GoPCTrS3'] 2bHLM1r9t7YAih6r
+   2024-07-26T14:22:40 DMAGA -1000000.0 SOL 28.9 WSOL 0.0 dépôt [] signe HKzkNSH2 contre ['5Q544fKr'] 2jgmmDe7ap288f8F
+   2024-09-30T03:13:01 DMAGA 0.0 SOL -54.8 WSOL 0.0 dépôt ['8N4A'] signe HKzkNSH2 contre [] 2Jkz5aWG2a87AMCU
+   2024-10-01T14:54:50 DMAGA 0.0 SOL -54.0 WSOL 0.0 dépôt ['8N4A'] signe HKzkNSH2 contre [] 3H3DVGf5AXq1DvES
+
+Dépôts GXZ : expéditeurs >= 0,01 SOL
+8N4A [('GXZvXsD6', 518.87, '2024-07-05'), ('AB1Ub6PA', 450.75, '2024-11-04'), ('9jYbLKaT', 320.99, '2024-10-06'), ('HW5MqvM1', 152.4, '2024-01-31'), ('HYe3jpwz', 125.0, '2024-11-20'), ('5vdECE7Q', 118.3, '2025-01-08'), ('HKzkNSH2', 108.8, '2024-09-30'), ('FB8241Dx', 96.0, '2024-07-04'), ('C3So4cdy', 77.87, '2025-03-31'), ('AbLzAvob', 68.73, '2024-10-09'), ('GR5UQseo', 62.18, '2025-07-24'), ('2962vE3X', 40.76, '2025-03-08'), ('Bg39h2L4', 21.3, '2024-10-09'), ('8XNJJjvC', 4.75, '2024-10-10'), ('ASTyfSim', 2.4, '2024-08-05'), ('GkfKT1cg', 2.4, '2025-03-29'), ('2ymSGYZm', 0.84, '2024-12-31')]
+42MS [('Co3zTr2M', 1060.1, '2024-07-23'), ('GXZvXsD6', 459.26, '2024-07-05'), ('AverrTRT', 352.1, '2024-07-25'), ('HW5MqvM1', 95.0, '2024-07-25'), ('FB8241Dx', 69.5, '2024-07-08'), ('BMBVwNJs', 31.89, '2024-08-04')]
+9kqT [('GXZvXsD6', 145.02, '2024-10-06'), ('HW5MqvM1', 81.5, '2024-08-28'), ('AbLzAvob', 27.5, '2024-10-05'), ('EV6RQwb6', 25.39, '2024-10-06'), ('8RCFkmQg', 20.0, '2024-10-27'), ('ASTyfSim', 10.22, '2024-10-05'), ('GXraBPRg', 7.04, '2024-11-03')]
+8N4A signées 62 sorties [('ASTyfSima4', 2063.32), ('5PAhQiYdLB', 45.99)]
+42MS signées 19 sorties [('94xmX5J92n', 2067.85)]
+9kqT signées 11 sorties [('94xmX5J92n', 316.66)]

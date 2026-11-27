@@ -1,0 +1,5 @@
+pic identique sur réussies k 152 {'M1': 0.1503, 'M2': 0.183, 'M3': 0.2288, 'M4': 0.549, 'M5': 0.2549, 'M6': 0.1569, 'M7': 0.1895}
+au moins 500 réussies à S k 161 {'M1': 0.1481, 'M2': 0.1728, 'M3': 0.2222, 'M4': 0.5309, 'M5': 0.2531, 'M6': 0.1481, 'M7': 0.1852}
+exemple WoJNKvLTCsxdcnS3xrwMTsTJAmSdQEkzjAYePNJgG7ADChDWV5ZwrjjWpCFX68HTzY7MiGS8TAfAZnXMa67s54y dt 0 ds 1281788 programmes ['11111111', '675kPX9M', 'ATokenGP', 'ComputeB', 'Tokenkeg'] deltas [('So111', '5Q544f', 1281788)]
+exemple 4swCBFtKTjo2DREVrNiccVVAr3XvjZXxwmn4KgLCNmp51ZiRvYYAZHcrHFfPpRDKKvm4h7Vhj76FVWga7TxJZsqw dt 0 ds 7573911 programmes ['675kPX9M', 'ATokenGP', 'Tokenkeg'] deltas [('So111', '5Q544f', 7573911), ('7Th1p', '6K74HJ', -1000000), ('So111', '6K74HJ', -7573911), ('7Th1p', 'F53joa', 1000000)]
+garde : fini, code 0, pic 0 Mo

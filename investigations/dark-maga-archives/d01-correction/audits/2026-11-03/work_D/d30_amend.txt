@@ -1,0 +1,45 @@
+lignes 13920 {'hors_bande': 453, 'reporte_budget': 278, 'pas_de_pic': 12809, 'retenu_superset': 245, 'tronque_sans_pic': 135}
+{'primary': 212, 'R3_S_moins_1h': 211, 'R1_10x': 213, 'R2_bande_large': 241}
+principal bande 213 dont reporté 0
+R1 max avec DMAGA 233 collectés 214 reportés 19
+R2 max avec DMAGA 500 collectés 242 reportés 258
+reporté par raison : sans S20 19 tronque_sans_S20 vrai 5 dont statut {'hors_bande': 0, 'reporte_budget': 5, 'pas_de_pic': 0, 'retenu_superset': 0, 'tronque_sans_pic': 0}
+primary k 211 {'M1': 0.1698, 'M2': 0.184, 'M3': 0.2406, 'M4': 0.5472, 'M5': 0.2642, 'M6': 0.1557, 'M7': 0.1792} meilleur (0.15566037735849056, 'M6')
+R3_S_moins_1h k 210 {'M1': 0.1422, 'M2': 0.1659, 'M3': 0.2048, 'M4': 0.5571, 'M5': 0.2488, 'M6': 0.1517, 'M7': 0.1571} meilleur (0.14218009478672985, 'M1')
+R1_10x k 212 kmax 232
+    M1 {'k': 212, 'c': 34, 'p': 0.1643, 'p_si_tous_reportes_sous': 0.1502, 'p_si_tous_reportes_au_dessus': 0.2361}
+    M2 {'k': 212, 'c': 38, 'p': 0.1831, 'p_si_tous_reportes_sous': 0.1674, 'p_si_tous_reportes_au_dessus': 0.2532}
+    M3 {'k': 212, 'c': 51, 'p': 0.2441, 'p_si_tous_reportes_sous': 0.2232, 'p_si_tous_reportes_au_dessus': 0.309}
+    M4 {'k': 212, 'c': 112, 'p': 0.5305, 'p_si_tous_reportes_sous': 0.485, 'p_si_tous_reportes_au_dessus': 0.5708}
+    M5 {'k': 212, 'c': 54, 'p': 0.2582, 'p_si_tous_reportes_sous': 0.2361, 'p_si_tous_reportes_au_dessus': 0.3219}
+    M6 {'k': 212, 'c': 33, 'p': 0.1596, 'p_si_tous_reportes_sous': 0.1459, 'p_si_tous_reportes_au_dessus': 0.2318}
+    M7 {'k': 212, 'c': 42, 'p': 0.2019, 'p_si_tous_reportes_sous': 0.1845, 'p_si_tous_reportes_au_dessus': 0.2704}
+   meilleur p possible 0.1459 seuil Holm 0,00714 ne passe pas ; c=32..33 sur M6 exige k >= 4759
+R2_bande_large k 240 kmax 499
+    M1 {'k': 240, 'c': 49, 'p': 0.2075, 'p_si_tous_reportes_sous': 0.1, 'p_si_tous_reportes_au_dessus': 0.618}
+    M2 {'k': 240, 'c': 51, 'p': 0.2158, 'p_si_tous_reportes_sous': 0.104, 'p_si_tous_reportes_au_dessus': 0.622}
+    M3 {'k': 240, 'c': 67, 'p': 0.2822, 'p_si_tous_reportes_sous': 0.136, 'p_si_tous_reportes_au_dessus': 0.654}
+    M4 {'k': 240, 'c': 133, 'p': 0.556, 'p_si_tous_reportes_sous': 0.268, 'p_si_tous_reportes_au_dessus': 0.786}
+    M5 {'k': 240, 'c': 67, 'p': 0.2822, 'p_si_tous_reportes_sous': 0.136, 'p_si_tous_reportes_au_dessus': 0.654}
+    M6 {'k': 240, 'c': 33, 'p': 0.1411, 'p_si_tous_reportes_sous': 0.068, 'p_si_tous_reportes_au_dessus': 0.586}
+    M7 {'k': 240, 'c': 44, 'p': 0.1867, 'p_si_tous_reportes_sous': 0.09, 'p_si_tous_reportes_au_dessus': 0.608}
+   meilleur p possible 0.068 seuil Holm 0,00714 ne passe pas ; c=32..33 sur M6 exige k >= 4759
+R1_10x déjà dans le principal 210 sur 213 ajouts 3
+R2_bande_large déjà dans le principal 212 sur 241 ajouts 29
+ajouts R2 : création de 15/06 à 23/06 cap de 10324.4 à 94497.53
+    M1 ajouts médiane 17.255 principal 3.755
+    M2 ajouts médiane 7.773 principal 1.464
+    M3 ajouts médiane 0.761 principal 0.45
+    M4 ajouts médiane 0.403 principal 0.347
+    M5 ajouts médiane 325.403 principal 176.327
+    M6 ajouts médiane 0.047 principal 0.075
+    M7 ajouts médiane 0.099 principal 0.074
+hors principal, retenus + reportés 310 Spearman position/création 0.9995
+clés activité ['mint', 'pool', 'created', 'pages', 'truncated', 'n_late_first_page', 'hist']
+Spearman position/activité activité non lue
+hors principal collectés 32 reportés 278
+collectés création médiane 18/06 S20 médian 09/07 cap médiane 48391 activité médiane 0.0
+reportés création médiane 22/07 S20 médian 06/08 cap médiane 32537 activité médiane 0.0
+cap > 10 M$ reportés 3 collectés 0
+part des hors-principal R2 couverte 10.1 %
+signatures des reportés 0

@@ -1,0 +1,108 @@
+{
+ "n_transfers": 607,
+ "n_distinct_recipients": 573,
+ "by_round_amount": {
+  "0.5": {
+   "all": 7,
+   "to_9W9b_senders": 4
+  },
+  "1.0": {
+   "all": 12,
+   "to_9W9b_senders": 2
+  },
+  "1.05": {
+   "all": 5,
+   "to_9W9b_senders": 5
+  }
+ },
+ "recipients_later_sending_to_9W9b": [
+  {
+   "hot_wallet": "Coinbase 3",
+   "utc": "2024-07-14T01:32:23Z",
+   "dst": "8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR",
+   "sol": 0.5,
+   "signature": "5Ys6ggx4Fr3eYA4fdaDwowiuZg4HEbcRd6MYcPfspDX3g9KzLKMuKVh7ukUNVy3bpZwwhFT9ZLe2tQFMunHea4Dd",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 3",
+   "utc": "2024-07-14T01:33:05Z",
+   "dst": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+   "sol": 0.5,
+   "signature": "4QxgQHNQtkWzir3nr5qZr6CfaWJf7ZUzw3wMoksBUUjLS8nofh9jGT3yDxSrDdMLt3fpUirEPehcHjkA13PKGYky",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 3",
+   "utc": "2024-07-14T01:33:30Z",
+   "dst": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+   "sol": 0.5,
+   "signature": "67gZiXkLDwerix8bnJCoPfY73SRAqK5DzyRALZjdWaz47zWTAoNd2HN7SN9rnNpELpZTaBjEaCG4W3kzGDqAd3PG",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 3",
+   "utc": "2024-07-14T01:34:15Z",
+   "dst": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+   "sol": 0.5,
+   "signature": "4918LwRUfs95omfpgBKMToNq7DYi98Fh1sVMWgo8zLVxTusHRoVZyoQhA65f7aRxwjowKnmSrDNGwLwSpSG4GaWh",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 2",
+   "utc": "2024-07-14T01:35:40Z",
+   "dst": "ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH",
+   "sol": 1.0,
+   "signature": "5NUDHAsyv7tMN8wi6Tb4AvCHDo1uUhjeQbxB2v5E6zML8YizAVdPNxBxSVv49ZQbDPV9s6ASSurMszxPkZXvNWYF",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 2",
+   "utc": "2024-07-14T01:36:14Z",
+   "dst": "HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ",
+   "sol": 1.0,
+   "signature": "gUQjZXYWfo5paEpR8ep2zCk9EEeGuftqUL8cEyv1VkQrsrMYzPFjCZo7yWM4JLZfH18fPWzo729TMXyqC3CtKg1",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 3",
+   "utc": "2024-07-14T01:37:49Z",
+   "dst": "5s3ogzsq8cvwHtS1B6MhwUUp9CyzugJ6y3WqLPM9Ee3C",
+   "sol": 1.05,
+   "signature": "3xgsew5Ua5zxFwZ7HcVLhDAvzBoGrSmha9dZQV9GzXe4Tpqw5bkAUP3CaKisGWghBf9drGJhFApgUyFBLsPTKpUY",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 3",
+   "utc": "2024-07-14T01:38:58Z",
+   "dst": "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+   "sol": 1.05,
+   "signature": "2sPrsWKLgo452VgDLu7QJWFAF3VRHw2jmGJpB6ZLLsxHe9oyisyUkJ6H8WaLLWaR9UCJLFcdYu1zJ84rejJgDiKz",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 3",
+   "utc": "2024-07-14T01:39:38Z",
+   "dst": "Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd",
+   "sol": 1.05,
+   "signature": "4VdpfqKkCBzeEMF7LXibn4j7UydVsrpiCDLGDpS896HYMHHbXLwX9ENV61PZXPGmmudqMhdnLXbHa4pXJefyTkXg",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 2",
+   "utc": "2024-07-14T01:40:13Z",
+   "dst": "4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g",
+   "sol": 1.05,
+   "signature": "2r6gBypSxfzq8yT3Y7qQ5SNpqT3XiYs175BEthroK5ZtKnoGTewwaQhDqZeK12YzoBZhE7vzCHfApNuXKvEraNoG",
+   "dst_later_sends_to_9W9b": true
+  },
+  {
+   "hot_wallet": "Coinbase 2",
+   "utc": "2024-07-14T01:40:50Z",
+   "dst": "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+   "sol": 1.05,
+   "signature": "RpB7AKeKUJMiJ3rRKBtdxuuHsFvGrDN8gVKNxKFCaBQ64A5rxB2YuVVv5KnvWvw3asdg5ZGmq1KWob1wuhPPVdR",
+   "dst_later_sends_to_9W9b": true
+  }
+ ]
+}

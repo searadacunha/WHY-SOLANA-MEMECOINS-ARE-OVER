@@ -1,0 +1,44 @@
+C03 Tue Jun 11 16:25:03 +0000 2024
+C04 archives ['twitter.com_20240721190327.html']
+C10 arêtes>=1M groupe avant LOW [(40, 40, 391.398753375448, 37)]
+C10 relues {'n': 40} ['group', 'n', 'n_direct', 'gaz_vers_createur', 'deplacement_createur']
+C16 0.032 35
+C18 48 94.46 18 Counter({'26/01/2025': 14, '23/07/2024': 4})
+C20 arêtes directes [(0,)] []
+C22 social [('mention_tierce', 3), ('interaction_sociale', 29), ('declaration_publique', 18)]
+C22 adresses publiées par le noyau [('7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump', 16), ('CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k', 1)]
+C26 journaux [('derive.out', 2), ('derive2.out', 0), ('derive3.out', 0)]
+C34 [(184, 107)] [(51,)]
+C35 Q [(74.17074246375562, 76.25916006888, 37.792020724455)]
+C36 {'dans_le_groupe': 11, 'g41': 10, 'n': 32}
+C38 [(0, 345, 'B'), (1, 51, 'B')]
+C41 groupe sortants [(34, 32.101796349994, 16)]
+C43 13920
+C51 kinds [(None, None, 17153), ('wallet', 'wallet', 13574), (None, 'wallet', 2517), ('wallet', None, 2028)]
+N01 hot wallets
+cb_window lignes 2517 destinataires 2201 dans 9W9b 13 2024-07-14T00:05:29Z 2024-07-14T02:06:23Z heures ['01:32:23'] ['01:40:50']
+N05 [(0,)]
+N03 work_D/d43_perim.txt occurrences 1 témoin : paires, expéditeurs distincts [(1452, 1365)]
+N04 work_D/d21_match.txt occurrences 1    2025-07-12T16:43:59Z 2hUi9BhncmfYeBkFKLthvde1zKa5Xy3iHnBusNarf22YtsCpqCqWx6HaMaNCuGURMWLz4vtjCxHQDCp9Kr2DW4a1 payeur 5g7yNHyG [('5g7yNHyG', 'BuHUkj
+N14 work_A/out/a01_sigs.log occurrences 2 {"label": "sigs_pool", "pages_files": 9876, "n_lues": 9875478, "n_curseur": 9875478, "complete": true, "echouees": 8199964, "non_monotone": 0, "duree_
+N15 work_D/d20_series.txt occurrences 3    2024-06-26T23:37:51Z 9z697N4uVjBmSt6jL5kWAcuVdzQWGRb3k5HyJVw91J7S 0.75 CB2
+N02 work_D/d49_small.txt occurrences 0 
+X image 18:46:37 ['audits/2026-11-03/work_E/evidence/x_media_wb_new/GTCEEQ2WoAAm65s_20240723081618.png']
+X avatar ['1814954001227821426_GTADC5eaYAAym_l.jpg', 'GTA4BXyXQAAKegR_20240723095034.png', 'GTAytGIW4AE9_93_20240723023716.png']
+visual_wb lignes 17 fichier V3 [('GTCEEQ2WoAAm65s_20240723081618.png', '26', '32', '0')] V1 []
+g31 48cVBAT2kksGvEjhUvH balayé par témoins : 6
+   4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw balayé par témoins : 20
+   9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE balayé par témoins : 28
+   8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF balayé par témoins : 5
+   6hXrioEsSShDPJ6fFzA9YUErimddZUVWYvwiwbffgZLW balayé par témoins : 0
+   33RuC2ig9ZtdDUHj9YWs3Qbi2pSqQGd4dxs7NuNGemZw balayé par témoins : 0
+
+# pics distincts etude_groupe
+k 48 avec S 48 jours de pic 30
+# anciens doublons
+N11 doublons ancien [(5903,)]
+# allers-retours, code propre
+total 787109.5 AR 106254.0 13.5 {'envoi_haute': (145.44, 44.66), '24h': (194421.46, 29085.79)}
+plus de 50 % et 100 SOL 103 106047.8
+top3 [('5V97uEb4', 32832.7, 100.0), ('AD65fgYt', 16739.8, 100.0), ('BmanDqQE', 12869.3, 98.7)]
+garde : fini, code 0, pic 440 Mo

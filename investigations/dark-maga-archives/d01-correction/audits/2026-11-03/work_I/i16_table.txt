@@ -1,0 +1,38 @@
+lignes 1113 colonnes ['wallet_source', 'destination', 'actif', 'montant', 'sol_eq', 'n', 'date_debut', 'date_fin', 'type_frontiere', 'precision', 'niveau', 'signature_exemple', 'perimetre_source']
+périmètres Counter({'P2 groupe de 33 et salve du 23/07': 546, 'P1 créateur et dépôt 9W9b': 324, 'H3QsBr': 96, 'hors périmètres': 82, 'balayage de dépôt': 47, '9PrmF8': 12, 'GXZvX': 6})
+P1 créateur et dépôt 9W9b
+    3138.6 compte de dépôt balayé vers Coinbase
+    827.7 interne
+    428.3 wallet non suivi
+    30.8 service ou pool non nommé
+    22.1 pont, ordre inter-chaînes
+    6.2 wallet sondé, trace arrêtée
+   dénominateur 3626.0
+P2 groupe de 33 et salve du 23/07
+    5464.9 pont, ordre inter-chaînes
+    3561.9 wallet sondé, trace arrêtée
+    2582.8 wallet non suivi
+    510.6 interne
+    368.3 pool ou route
+    334.6 service ou pool non nommé
+    176.9 compte de dépôt balayé vers Coinbase
+    143.0 compte balayé vers autre plate-forme
+    28.2 autre périmètre P1
+   dénominateur 12292.2
+H3QsBr
+    4038.9 wallet sondé, trace arrêtée
+    774.3 pool ou route
+    648.8 wallet non suivi
+    382.9 service ou pool non nommé
+   dénominateur 5070.6
+GXZvX
+    1530.3 wallet sondé, trace arrêtée
+    1123.1 compte balayé vers autre plate-forme
+    16.0 wallet non suivi
+   dénominateur 2669.5
+9PrmF8
+    2051.9 compte de dépôt balayé vers Coinbase
+    26.9 pool ou route
+    25.1 wallet non suivi
+   dénominateur 2077.0
+clé wallet ['wallet_source']

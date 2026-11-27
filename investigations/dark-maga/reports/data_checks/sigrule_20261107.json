@@ -1,0 +1,221 @@
+{
+ "avant_ref_git": "a65e71c4acc27cef81fd71d116f8fc02d535a92e",
+ "trades_parquet": {
+  "lignes_avant": 913880,
+  "cles_en_double_avant": 0,
+  "lignes_apres": 913880
+ },
+ "pnl_totaux": {
+  "avant": {
+   "wallets": 71706,
+   "realise_sol": 98189.925,
+   "achete_sol": 787071.734,
+   "vendu_sol": 782244.099,
+   "residuel_M": 906.457,
+   "achats": 321497,
+   "ventes": 280936,
+   "virements": 207913
+  },
+  "apres": {
+   "wallets": 71695,
+   "realise_sol": 98189.925,
+   "achete_sol": 787071.734,
+   "vendu_sol": 782244.099,
+   "residuel_M": 862.254,
+   "achats": 321497,
+   "ventes": 280936,
+   "virements": 207212
+  }
+ },
+ "pnl_wallets_changes_plus_de_0_01_sol": 0,
+ "pnl_plus_grands_ecarts": [],
+ "residuel_wallets_changes_d_au_moins_1_jeton": 8,
+ "residuel_plus_grands_ecarts_M": [
+  {
+   "owner": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+   "avant": 43.008513,
+   "apres": 0.0
+  },
+  {
+   "owner": "HV1KXxWFaSeriyFvXyx48FqG9BoFbfinB8njCJonqP7K",
+   "avant": 0.539837,
+   "apres": 0.0
+  },
+  {
+   "owner": "KLeePHjXpUeJdyzB1fGueHs68ZiLAWaBeMWDKtbE5Ww",
+   "avant": 0.391287,
+   "apres": 0.0
+  },
+  {
+   "owner": "6eT6tdrCxKLb58B4imgeRJ2eSzYidjdxMrZKGHkNok9w",
+   "avant": 0.121404,
+   "apres": 0.0
+  },
+  {
+   "owner": "74yhJNwET8mLYw3F7qn8bixJEu3GXMr1DybmTGuhSP5M",
+   "avant": 0.110435,
+   "apres": 0.0
+  },
+  {
+   "owner": "Ei5qHPh29AW577TJSqzSGYFVaRGnm8K7m5RwCqCJGmm7",
+   "avant": 0.027042,
+   "apres": 0.0
+  },
+  {
+   "owner": "9cj62apsaozUHg2SZh66RAMEaHH8Pg56UuFGBgziaSkV",
+   "avant": 0.005144,
+   "apres": 0.0
+  },
+  {
+   "owner": "35dszeQQQzkMvjcmyrPWPnN5ZyK9ZjYkNp9kKXZWMvji",
+   "avant": 1.5e-05,
+   "apres": 0.0
+  }
+ ],
+ "composantes_coordination": {
+  "membres_identiques": true,
+  "avant": [
+   {
+    "wallets": 33,
+    "aretes": 40,
+    "detenu_avant_musk_M": 217.0,
+    "achete_M": 426.2,
+    "sol_engage": 831.9,
+    "realise_sol": 5472,
+    "flux_net_sol": 5314,
+    "pnl_usd": 969158
+   },
+   {
+    "wallets": 3,
+    "aretes": 2,
+    "detenu_avant_musk_M": 45.3,
+    "achete_M": 59.2,
+    "sol_engage": 18.0,
+    "realise_sol": 22,
+    "flux_net_sol": 6,
+    "pnl_usd": 1009
+   },
+   {
+    "wallets": 2,
+    "aretes": 1,
+    "detenu_avant_musk_M": 36.8,
+    "achete_M": 37.2,
+    "sol_engage": 25.1,
+    "realise_sol": 101,
+    "flux_net_sol": 90,
+    "pnl_usd": 24601
+   },
+   {
+    "wallets": 3,
+    "aretes": 3,
+    "detenu_avant_musk_M": 25.0,
+    "achete_M": 25.2,
+    "sol_engage": 33.1,
+    "realise_sol": 6,
+    "flux_net_sol": -27,
+    "pnl_usd": -4399
+   },
+   {
+    "wallets": 5,
+    "aretes": 4,
+    "detenu_avant_musk_M": 18.3,
+    "achete_M": 45.5,
+    "sol_engage": 619.2,
+    "realise_sol": 979,
+    "flux_net_sol": 501,
+    "pnl_usd": 92252
+   },
+   {
+    "wallets": 2,
+    "aretes": 1,
+    "detenu_avant_musk_M": 17.1,
+    "achete_M": 24.6,
+    "sol_engage": 1216.5,
+    "realise_sol": 1500,
+    "flux_net_sol": 1299,
+    "pnl_usd": 236640
+   }
+  ],
+  "apres": [
+   {
+    "wallets": 33,
+    "aretes": 40,
+    "detenu_avant_musk_M": 217.0,
+    "achete_M": 426.2,
+    "sol_engage": 831.9,
+    "realise_sol": 5472,
+    "flux_net_sol": 5314,
+    "pnl_usd": 969158
+   },
+   {
+    "wallets": 3,
+    "aretes": 2,
+    "detenu_avant_musk_M": 45.3,
+    "achete_M": 59.2,
+    "sol_engage": 18.0,
+    "realise_sol": 22,
+    "flux_net_sol": 6,
+    "pnl_usd": 1009
+   },
+   {
+    "wallets": 2,
+    "aretes": 1,
+    "detenu_avant_musk_M": 36.8,
+    "achete_M": 37.2,
+    "sol_engage": 25.1,
+    "realise_sol": 101,
+    "flux_net_sol": 90,
+    "pnl_usd": 24601
+   },
+   {
+    "wallets": 3,
+    "aretes": 3,
+    "detenu_avant_musk_M": 25.0,
+    "achete_M": 25.2,
+    "sol_engage": 33.1,
+    "realise_sol": 6,
+    "flux_net_sol": -27,
+    "pnl_usd": -4399
+   },
+   {
+    "wallets": 5,
+    "aretes": 4,
+    "detenu_avant_musk_M": 18.3,
+    "achete_M": 45.5,
+    "sol_engage": 619.2,
+    "realise_sol": 979,
+    "flux_net_sol": 501,
+    "pnl_usd": 92252
+   },
+   {
+    "wallets": 2,
+    "aretes": 1,
+    "detenu_avant_musk_M": 17.1,
+    "achete_M": 24.6,
+    "sol_engage": 1216.5,
+    "realise_sol": 1500,
+    "flux_net_sol": 1299,
+    "pnl_usd": 236640
+   }
+  ]
+ },
+ "group_split_changements": [],
+ "heritage_non_regenere": {
+  "reports/COORDINATION.md et reports/ATTRIBUTION.md (rep_72)": "lectures Helius getTransfersByAddress ; tableau des composantes : voir composantes_coordination.apres ; ventes du marché en 24 h : group_split_changements",
+  "data/collector.json (ana_65)": "lectures Helius de 9W9b3zg ; le réalisé des expéditeurs vient de l'ancien wallets.parquet",
+  "reports/data_checks/group_edges_check.json (chk_63)": "relecture Helius des 40 arêtes ; membres et arêtes inchangés, contrôle toujours valable"
+ },
+ "trades_stats_apres": {
+  "tx": 2699114,
+  "kind_mint_supply": 2,
+  "kind_swap": 1042690,
+  "tx_failed": 118,
+  "kind_fee_share": 135172,
+  "kind_lp_remove": 21373,
+  "kind_internal": 393166,
+  "tx_no_dmaga_flow": 1181780,
+  "kind_transfer": 101133,
+  "kind_swap_other": 7957,
+  "kind_lp_add": 8930
+ }
+}

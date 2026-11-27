@@ -1,0 +1,23 @@
+principal_G1 med 49 lignes 8.0 med 48 pairs 8.0 lignes 49
+principal_G2 med 49 lignes 0.037715269311871 med 48 pairs 0.0356279458785765 lignes 49
+principal_G3 med 49 lignes 23.0 med 48 pairs 22.5 lignes 49
+membres table 33 33
+ordres avant mint 18 4632.19 dont 33 15 1610.19
+ordres 33 après mint 53 977714.09
+ordres 33 sous 7 j de Musk 21 607826.6
+top ordres [(156089.02, '2024-07-22 01:00:34', 'HGBiExZR', '1'), (106223.39, '2024-11-14 05:38:07', 'Ei5yGz8d', '1'), (60443.99, '2024-07-22 00:57:18', 'Gcyg2jeL', '1'), (47023.61, '2024-07-22 01:04:12', 'Ei5yGz8d', '1'), (36697.69, '2024-07-22 00:38:24', 'C73Yv9iH', '1')]
+ecart cible 5246.33 []
+non USDC [('0000000000', 70), ('a0b86991c6', 4), ('af88d065e7', 1), ('833589fcd6', 1)]
+types Counter({'P2 groupe de 33 et salve du 23/07': 546, 'P1 créateur et dépôt 9W9b': 324, 'H3QsBr': 96, 'hors périmètres': 82, 'balayage de dépôt': 47, '9PrmF8': 12, 'GXZvX': 6})
+P2 denominateur 12292.2 {'pont, ordre inter-chaînes': (5464.9, 44.5), 'wallet sondé, trace arrêtée': (3561.9, 29.0), 'wallet non suivi': (2582.8, 21.0), 'interne': (510.6, 4.2), 'pool ou route': (368.3, 3.0), 'service ou pool non nommé': (334.6, 2.7), 'compte de dépôt balayé vers Coinbase': (176.9, 1.4), 'compte balayé vers autre plate-forme': (143.0, 1.2), 'autre périmètre P1': (28.2, 0.2)} entierement avant mint {'wallet non suivi': 470.4, 'pont, ordre inter-chaînes': 57.4, 'interne': 86.6, 'compte de dépôt balayé vers Coinbase': 6.0, 'autre périmètre P1': 1.3, 'service ou pool non nommé': 0.6}
+33 exacts denominateur 12133.8 {'pont, ordre inter-chaînes': (5468.8, 45.1), 'wallet sondé, trace arrêtée': (3483.0, 28.7), 'wallet non suivi': (2510.6, 20.7), 'interne': (564.6, 4.7), 'pool ou route': (368.3, 3.0), 'service ou pool non nommé': (334.6, 2.8), 'compte de dépôt balayé vers Coinbase': (165.7, 1.4), 'compte balayé vers autre plate-forme': (143.0, 1.2), 'autre périmètre P1': (28.2, 0.2), 'autre périmètre P2': (0.0, 0.0)} entierement avant mint {'wallet non suivi': 457.5, 'pont, ordre inter-chaînes': 57.4, 'interne': 74.1, 'compte de dépôt balayé vers Coinbase': 6.0, 'autre périmètre P1': 1.3, 'service ou pool non nommé': 0.6}
+DCA p1 47 113.37 1292.4 p1 et g33 ['7FGoCB63', '7FGoCB63', '7FGoCB63', '5QhJJcFZ', '5QhJJcFZ'] g33 hors p1 0.0
+kanpai 1813004360592552354 2024-07-15T22:56:01Z 2024-07-16T00:14:58Z Wild PA on $DMAGA while I was asleep, but we're sending this
+kanpai 1813220461867573395 2024-07-16T05:40:46Z 2024-07-16T14:33:40Z There’s a scenario in which $dmaga becomes *the* Trump coin 
+kanpai 1813392678337310866 2024-07-16T23:14:22Z 2024-07-17T01:58:00Z #NewProfilePic #DarkMAGA $dmaga  @DarkMagaCoin
+koreanjewcrypto 1815170798304530809 2024-07-16T02:43:07Z 2024-07-21T23:43:37Z I haven’t sold a single $dmaga , bought more actually   Some
+koreanjewcrypto 1812894015785746445 2024-07-15T16:56:29Z 2024-07-15T16:56:29Z Patriots in control  The ticker is $dmaga
+koreanjewcrypto 1815169216489885910 2024-07-16T02:43:07Z 2024-07-21T23:37:20Z I haven’t sold a single $dmaga , bought more actually   Some
+new koreanjewcrypto 1813041645899649082 2024-07-16T02:43:07Z I haven’t sold a single $dmaga , bought more actually   Some
+wb lignes 1277 avec texte 1248 [('kikisknees', 1277)]
+recovered [('kikisknees', 234), ('DarkMagaCoin', 21)]

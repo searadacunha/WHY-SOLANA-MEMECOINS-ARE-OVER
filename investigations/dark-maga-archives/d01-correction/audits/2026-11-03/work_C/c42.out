@@ -1,0 +1,42 @@
+price cols ['hour_utc', 'open_sol', 'high_sol', 'low_sol', 'close_sol', 'n']
+07-14 02:27:51 6t2dz4j > AtZjv3D 13.19 back 1.5 -2126 gaz 1.48 dst1er 2024-06-05T10:13
+07-14 02:42:13 6t2dz4j > AtZjv3D 13.19 back 1.5 -2988 gaz 0.0 dst1er 2024-06-05T10:13
+07-14 02:42:55 AW63YBX > AtZjv3D 15.44 back 0.0  gaz 0.0 dst1er 2024-06-05T10:13
+07-14 02:46:05 AtZjv3D > NxtXcmE 41.0 back 0.0  gaz 0.0 dst1er 2024-03-26T00:37
+07-14 02:46:40 8YrEVPQ > AtZjv3D 23.41 back 0.0  gaz 0.0 dst1er 2024-06-05T10:13
+07-14 02:47:00 99Xrt5u > AtZjv3D 19.03 back 0.0  gaz 0.0 dst1er 2024-06-05T10:13
+07-14 02:58:20 AtZjv3D > 35nAuv6 1.0 back 2.45 188128 gaz 0.05 dst1er 2024-05-22T20:22
+07-14 02:59:22 AtZjv3D > 35nAuv6 20.0 back 2.45 188066 gaz 0.05 dst1er 2024-05-22T20:22
+07-14 03:47:53 AtZjv3D > 74qFhHy 22.47 back 0.0  gaz 0.0253 dst1er 2024-03-11T23:00
+07-14 15:59:18 5QhJJcF > 9u5JKgW 2.5 back 0.0  gaz 0.0 dst1er 2024-05-22T18:33
+07-15 01:14:34 NxtXcmE > 5QhJJcF 8.0 back 0.0  gaz 0.0 dst1er 2024-07-14T01:40
+07-15 08:31:02 Ei5yGz8 > HGBiExZ 20.0 back 0.0  gaz 0.0 dst1er 2024-07-15T08:30
+07-15 08:31:48 Ei5yGz8 > Gcyg2je 20.0 back 0.0  gaz 0.0 dst1er 2024-07-15T08:31
+07-16 02:50:16 74qFhHy > GPMYCuu 3.0 back 3.0 413740 gaz 0.0 dst1er 2024-07-16T02:49
+07-16 05:39:16 Ei5yGz8 > 4wComYH 10.0 back 0.0  gaz 0.0 dst1er 2024-07-16T05:39
+07-16 17:25:53 NxtXcmE > 7FGoCB6 6.0 back 0.0  gaz 0.0 dst1er 2024-07-14T01:38
+07-18 21:05:52 5QhJJcF > 7mdCAs8 18.0 back 23.0 515 gaz 0.0 dst1er 2024-04-24T14:52
+07-18 23:02:23 Gcyg2je > 4wComYH 5.0 back 0.0  gaz 0.0 dst1er 2024-07-16T05:39
+07-18 23:12:43 4wComYH > 74qFhHy 15.0 back 0.0  gaz 0.0 dst1er 2024-03-11T23:00
+07-18 23:34:34 74qFhHy > C7i9beN 4.96 back 0.0  gaz 0.0 dst1er 2024-02-20T08:13
+07-20 22:41:20 74qFhHy > AtZjv3D 9.0 back 0.225 -586380 gaz 0.0 dst1er 2024-06-05T10:13
+07-21 07:57:16 GFpqfjE > FjuV7mJ 6.5 back 0.0  gaz 0.0 dst1er 2024-07-14T02:03
+07-21 08:05:08 GFpqfjE > HkrGvxa 5.5 back 0.0  gaz 0.0 dst1er 2024-07-14T02:03
+07-21 08:15:06 GFpqfjE > HKXb8Lf 6.0 back 0.0  gaz 0.0 dst1er 2024-07-14T02:02
+07-21 08:16:07 GFpqfjE > 8xjM4fG 6.5 back 0.0  gaz 0.0 dst1er 2024-07-14T02:02
+07-21 08:17:04 GFpqfjE > ADnZ9Nd 4.5 back 0.0  gaz 0.0 dst1er 2024-07-14T01:58
+07-21 08:18:58 GFpqfjE > 2BLSXbe 4.0 back 0.0  gaz 0.0 dst1er 2024-07-14T02:00
+07-21 08:24:02 GFpqfjE > ADnZ9Nd 6.5 back 0.0  gaz 0.0 dst1er 2024-07-14T01:58
+07-21 08:25:14 ADnZ9Nd > CZsBW8y 5.0 back 0.0  gaz 0.0 dst1er 2024-07-14T01:52
+07-21 08:27:31 GFpqfjE > HkFSNPj 6.5 back 0.0  gaz 0.0 dst1er 2024-07-14T01:52
+07-21 08:28:20 GFpqfjE > 2mW45kX 6.0 back 0.0  gaz 0.0 dst1er 2024-07-14T01:52
+07-21 08:30:38 GFpqfjE > 4upmFYy 6.0 back 0.0  gaz 0.0 dst1er 2024-07-14T01:46
+07-21 08:32:13 GFpqfjE > EZXUvi4 5.2 back 0.0  gaz 0.0 dst1er 2024-06-16T07:51
+07-21 08:33:36 NxtXcmE > GFpqfjE 1.0 back 0.0  gaz 0.0 dst1er 2024-04-10T17:02
+07-21 11:10:25 AtZjv3D > Akp46Di 6.0 back 0.0  gaz 0.1 dst1er 2024-07-21T11:09
+07-21 14:22:00 FjuV7mJ > C73Yv9i 6.5 back 0.0  gaz 0.0 dst1er 2024-05-23T22:59
+07-21 14:23:52 HkrGvxa > C73Yv9i 5.5 back 0.0  gaz 0.0 dst1er 2024-05-23T22:59
+07-21 14:24:21 HKXb8Lf > BuBXTWE 6.0 back 0.0  gaz 0.0 dst1er 2024-07-21T14:24
+07-21 14:24:45 8xjM4fG > BuBXTWE 6.5 back 0.0  gaz 0.0 dst1er 2024-07-21T14:24
+07-21 14:25:44 2BLSXbe > BuBXTWE 1.5 back 0.0  gaz 0.0 dst1er 2024-07-21T14:24
+rejoues ok 40

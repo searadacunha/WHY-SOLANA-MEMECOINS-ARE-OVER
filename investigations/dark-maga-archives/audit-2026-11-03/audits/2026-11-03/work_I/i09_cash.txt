@@ -1,0 +1,6 @@
+encaissé par actif {'EPjFWd': 218621.809}
+SOL éq total 1292.36 dont exécution/clôture {'fill': 1292.36} SOL natif reçu >0,1 hors 208.584
+prix par M vendus 26.61
+top wallets [('D8syomxN', 338.9), ('EEpSRR12', 198.5), ('HqwpWyvb', 171.5), ('Fp6kgqHU', 152.0), ('5s3ogzsq', 101.5), ('HQzyBQN8', 85.4), ('Cv3p9Wu1', 70.6), ('8SaiGWJn', 57.0)]
+cours Binance dernier 1m {'2024-07-21': '184.49000000', '2024-07-22': '178.90000000'} sol_daily {'2024-07-21': 184.49, '2024-07-22': 178.9}
+cours Binance dernier 1m {'2025-01-26': '240.50000000'} sol_daily {'2025-01-26': 240.5}

@@ -1,0 +1,10 @@
+"""Écart de token_edges entre l'ancien dérivé et data_v2 : quelles arêtes disparaissent. Lecture seule."""
+import duckdb
+OLD = "/Volumes/VERBATIM HD/Dark-MAGA-Investigation/data"; NEW = OLD + "_v2"
+con = duckdb.connect(":memory:", config={"memory_limit": "500MB", "threads": 2, "temp_directory": "/Volumes/VERBATIM HD/Dark-MAGA-Investigation/tmp/duck"})
+o, n = f"read_parquet('{OLD}/token_edges.parquet')", f"read_parquet('{NEW}/token_edges.parquet')"
+print("par how", con.execute(f"SELECT 'ancien',how,count(*) FROM {o} GROUP BY 2 UNION ALL SELECT 'nouveau',how,count(*) FROM {n} GROUP BY 2 ORDER BY 2,1").fetchall())
+print("absentes du nouveau, par how et par étiquette (nouvelle lecture des clés)", con.execute(f"""SELECT a.how, count(*), sum(a.qty)/1e6 FROM {o} a ANTI JOIN {n} b ON a.signature=b.signature AND a.src=b.src AND a.dst=b.dst AND abs(a.qty-b.qty)<1e-6 GROUP BY 1""").fetchall())
+print("absentes, plus fréquentes par src ou dst préfixe JD/DCAK", con.execute(f"""SELECT sum((a.src LIKE 'JD%' OR a.dst LIKE 'JD%' OR a.src LIKE 'DCAK%' OR a.dst LIKE 'DCAK%')::int), sum((a.block_time<1721588607)::int), count(*) FROM {o} a ANTI JOIN {n} b ON a.signature=b.signature AND a.src=b.src AND a.dst=b.dst AND abs(a.qty-b.qty)<1e-6""").fetchall())
+print("présentes dans le nouveau seul", con.execute(f"""SELECT b.how, count(*), sum(b.qty)/1e6 FROM {n} b ANTI JOIN {o} a ON a.signature=b.signature AND a.src=b.src AND a.dst=b.dst AND abs(a.qty-b.qty)<1e-6 GROUP BY 1""").fetchall())
+print("transferts ajoutés au PnL : ancien, nouveau (gtba sans ligne trades, sans (multiple))", con.execute(f"""SELECT (SELECT count(*) FROM {o} e WHERE how='gtba' AND dst<>'(multiple)' AND NOT EXISTS (SELECT 1 FROM read_parquet('{OLD}/trades.parquet') t WHERE t.signature=e.signature AND (t.owner=e.src OR t.owner=e.dst))),(SELECT count(*) FROM {n} e WHERE how='gtba' AND dst<>'(multiple)' AND NOT EXISTS (SELECT 1 FROM read_parquet('{NEW}/trades.parquet') t WHERE t.signature=e.signature AND (t.owner=e.src OR t.owner=e.dst)))""").fetchall())

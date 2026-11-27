@@ -1,0 +1,16 @@
+fichiers 3231 octets 826029116
+garde : fini, code 0, pic 36 Mo
+verrou obtenu après 4 s
+manifeste : 33033 lignes ; data/ avec empreinte : 3472 ; raw/ en taille seule : 29561 ; data/*.parquet à la racine : 8 sur 8 conformes
+non conformes : 0
+data/ à la racine : ['cohorts.parquet', 'controls', 'exit_flows.parquet', 'funding_edges.parquet', 'hops_level1.csv', 'hops_level1.json', 'hops_level2.csv', 'hops_level2.json', 'hublike_nodes.json', 'link_edges.parquet', 'nodes.parquet', 'priority_wallets.csv', 'token_edges.parquet', 'trace_levels.json', 'trades.parquet', 'trades_shards', 'trades_stats.json', 'vault_shards', 'wallets.parquet']
+garde : fini, code 0, pic 45 Mo
+--- K02 : chk_90 sur l'ancien dérivé, sans DMAGA_BIG, doit échouer
+verrou obtenu après 6 s
+lignes de trades doublées : 5903 (groupes 5903)
+références vérifiées: 1707, absentes des données: 7
+docs/CASE_REPORT.md ['3GMsedVPsXjWR7HYUvwm1YUpvBC2bTgSkXixm4gMXnPk']
+reports/TOP_TRADERS.md ['45wPVSFEiEyqRiMWjkqdrZLddb5fqiuP3haKU9DAFWMP', '5YBiKeEKz9PrDcdLkdQL89gVW7re3S3KVpUcbEhHBigz', 'ChXs7eqjAKr8qrsGHcnp7sBKzrDU2JE2RjMqX59ATSeH', 'E6YoRP3adE5XYneSseLee15wJshDxCs
+garde : fini, code 1, pic 533 Mo
+code chk_90 ancien: 1
+FIN

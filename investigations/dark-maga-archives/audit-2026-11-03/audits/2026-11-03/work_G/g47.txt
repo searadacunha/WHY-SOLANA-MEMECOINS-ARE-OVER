@@ -1,0 +1,12 @@
+déployeur FyC5nr3W parmi les 45 signataires False tx signées (0,)
+jambes 3826 slots 1913 paires achat puis vente même bloc, quantité à 1 % 967 achats sans paire dans le bloc 946
+marge SOL par paire : somme 9.44 médiane 8e-05 paires positives 967 négatives 0
+écart d'index dans le bloc : médiane 2 achat SOL médian 5.55 plus gros 623.4
+paires avec au moins une autre tx DMAGA entre les jambes 967 sur 967 avec au moins un achat tiers entre les jambes 967 SOL d'achats tiers intercalés 12068.1
+par fenêtre : paires, SOL d'achat
+  avant 19:03:27 21/07 40 213.4
+  19:03:27 21/07 à 19:30:13 0 0
+  24 h après 153 3833.6
+  ensuite 774 10511.1
+arêtes directes signataires ou 4ToQp55m avec les wallets cibles []
+4ToQp55m : sorties de SOL hors signataires (raw/flows tronqué) [('5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1', 2212.6, 307), ('8aHVf4T3t4Z2kjnNojLh87zswhH21EU2iFnVoadN3MXx', 500.0, 4), ('DfXygSm4jCyNCybVYYK6DwvWqjKee8pbDmJGcLWNDXjh', 1.8, 2), ('DttWaMuVvTiduZRnguLF7jNxTgiMBZ1hyAumKUiL2KRL', 0.5, 2), ('HFqU5x63VTqvQss8hp11i4wVV8bD44PvwucfZ2bU7gRe', 0.2, 1), ('ADuUkR4vqLUMWXxW9gh6D6L8pMSawimctcNZ5pGwDcEt', 0.1, 1), ('DN6qAnKzFh77Ra2uNnUQoBVdX4cGgVncwTbCZHP7EbjM', 0.1, 1)]

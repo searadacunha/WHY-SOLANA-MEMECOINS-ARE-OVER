@@ -1,0 +1,32 @@
+C73Yv9iH 0x2d86499a USDC ordre inter-chaîn G montant 496371.59 n 27 G soleq 2820.88 | moi 496371.59 n 27 soleq 2820.88 | P2
+Ei5yGz8d 0xb29826d8 USDC ordre inter-chaîn G montant 170817.36 n 15 G soleq 881.53 | moi 170817.36 n 15 soleq 881.53 | P2
+HGBiExZR 0xb947bf7f USDC ordre inter-chaîn G montant 156089.02 n 1 G soleq 872.49 | moi 156089.02 n 1 soleq 872.49 | P2
+Gcyg2jeL 0xb947bf7f USDC ordre inter-chaîn G montant 60460.53 n 2 G soleq 337.96 | moi 60460.53 n 2 soleq 337.96 | P2
+Ei5yGz8d 0xb947bf7f USDC ordre inter-chaîn G montant 47023.61 n 1 G soleq 262.85 | moi 47023.61 n 1 soleq 262.85 | P2
+C73Yv9iH 0x86f99097 USDC ordre inter-chaîn G montant 31228.81 n 2 G soleq 177.1 | moi 31228.81 n 2 soleq 177.1 | P2
+J2EuNwCS 0xe2f04020 USDC ordre inter-chaîn G montant 20462.51 n 2 G soleq 159.24 | moi 20462.51 n 2 soleq 159.24 | ho
+8YSi5yNR 0xfb2ec4e5 USDC ordre inter-chaîn G montant 9912.83 n 2 G soleq 77.69 | moi 9912.83 n 2 soleq 77.69 | ho
+Ei5yGz8d 7DyZQw3iV5 USDC ordre inter-chaîn G montant 7855.5 n 1 G soleq 47.28 | moi 0 n 0 soleq 0 | P2
+7SEoKiBL 0x703bf8c2 USDC ordre inter-chaîn G montant 11211.9 n 1 G soleq 42.8 | moi 11211.9 n 1 soleq 42.8 | ho
+Ei5yGz8d 0x2ac17414 USDC ordre inter-chaîn G montant 5238.78 n 2 G soleq 22.71 | moi 5238.78 n 2 soleq 22.71 | P2
+EZXUvi4X 0xe8293b6b USDC ordre inter-chaîn G montant 2843.0 n 1 G soleq 19.91 | moi 2843.0 n 1 soleq 19.91 | P2
+DfYyxDNE 0x21f3a0e2 USDC ordre inter-chaîn G montant 2415.59 n 2 G soleq 14.54 | moi 2415.59 n 2 soleq 14.54 | P1
+HGBiExZR 0xb29826d8 USDC ordre inter-chaîn G montant 1760.91 n 1 G soleq 12.1 | moi 1760.91 n 1 soleq 12.1 | P2
+5QhJJcFZ 0x93822e77 USDC ordre inter-chaîn G montant 634.18 n 1 G soleq 3.95 | moi 634.18 n 1 soleq 3.95 | P1
+DfYyxDNE 0xe8e9b172 USDC ordre inter-chaîn G montant 606.4 n 1 G soleq 3.65 | moi 606.4 n 1 soleq 3.65 | P1
+EZXUvi4X 0x221c4998 USDC ordre inter-chaîn G montant 391.17 n 1 G soleq 2.73 | moi 391.17 n 1 soleq 2.73 | P2
+C7i9beNH 0x08a5736f USDC ordre inter-chaîn G montant 171.22 n 4 G soleq 1.03 | moi 171.22 n 4 soleq 1.03 | P2
+74qFhHyp 0x921b3135 USDC ordre inter-chaîn G montant 161.73 n 2 G soleq 0.97 | moi 161.73 n 2 soleq 0.97 | P2
+74qFhHyp 0xc7be7114 USDC ordre inter-chaîn G montant 160.32 n 1 G soleq 0.96 | moi 160.32 n 1 soleq 0.96 | P2
+74qFhHyp 0xae7f7047 USDC ordre inter-chaîn G montant 152.77 n 1 G soleq 0.92 | moi 152.77 n 1 soleq 0.92 | P2
+74qFhHyp 0xf1b0fb98 USDC ordre inter-chaîn G montant 152.74 n 1 G soleq 0.92 | moi 152.74 n 1 soleq 0.92 | P2
+74qFhHyp 0x059091a3 USDC ordre inter-chaîn G montant 137.76 n 1 G soleq 0.83 | moi 137.76 n 1 soleq 0.83 | P2
+74qFhHyp 0xbc411c57 USDC ordre inter-chaîn G montant 137.52 n 1 G soleq 0.83 | moi 137.52 n 1 soleq 0.83 | P2
+74qFhHyp 0xb805b3bf USDC ordre inter-chaîn G montant 107.36 n 1 G soleq 0.65 | moi 107.36 n 1 soleq 0.65 | P2
+C7i9beNH 0x73df8d29 USDC ordre inter-chaîn G montant 37.59 n 2 G soleq 0.23 | moi 37.59 n 2 soleq 0.23 | P2
+non vus dans la table de G []
+G SOL éq. {'P2': 5464.9, 'ho': 279.7, 'P1': 22.1}
+moi SOL éq. {'P2': 5417.6, 'ho': 279.7, 'P1': 22.1}
+moi USD {'P2': 973443.77, 'ho': 41587.24, 'P1': 3656.17}
+P2 part corrigée 44.24
+total table part pont corrigée 21.14

@@ -1,0 +1,15 @@
+destinataires vendeurs 3 973.326 part 2.886
+autres 110 643.6 {'swap': 224.95, 'transfer': 43.99, 'lp_add': 0.01} 56.3 6.47 swap % 34.95 bas 40.78 haut 43.7
+G7 [('GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC', 'HKzkNSH2DmfyowntFnoa1xdUuVH4Yh6bg7z8fer4JSRP', 1.0, '21/07/2024 23:00:23'), ('ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH', 'HW5MqvM1kDySFUtynMtzsWCU6VcFfpeCXsbRyLq6iHk6', 1.5, '15/07/2024 18:39:06')]
+H9X expéditeurs 10 touchent (8,)
+26/01/2025 vers 9W9b 15 [('17:17:13', '6ZMaqHjP'), ('17:19:04', '9Dxk6iLz'), ('17:21:56', 'Cv3p9Wu1')]
+P1 3626.0 {'compte de dépôt balayé vers Coinbase': 3138.6, 'interne': 827.7, 'wallet non suivi': 428.3, 'pont, ordre inter-chaînes': 22.1, 'service ou pool non nommé': 30.8, 'wallet sondé, trace arrêtée': 6.2, 'autre périmètre P2': 0.0}
+g31_ctrl_overlap.txt ['expéditeurs versant à au moins 2 dépôts 25 max 10', "recouvrement maximal entre deux dépôts [(4, 'B81oFSuoiWSpJSoodnFUrb4ZVavWQvLyzPfrgZqP1tiC', 'FSecGDLfqkG6RfnzxyrnsktKrJ2ok7N1P6wCEeVC5bap', 14, 34), (", 'paires de dépôts à recouvrement >= 2 32 >= 5 0 sur 7140']
+g53.txt ['blocs 1913 jambes par bloc [(2, 1913)]']
+g22_all.txt ['== Caw4RrwkmxqtbLSFzgSs6id3XiFxWQxs2t1mrn5a3mME lab= tx=508 complet=True 2024-07-02 18:10 -> 2026-08-05 17:43']
+XHEILIGX 30/03/2024 02:01:36
+twicrates 23/07/2024 22:17:15
+kiki1250 21/07/2024 12:50:45
+kanpai orig 15/07/2024 22:56:01
+jours 106.00265046296296
+garde : fini, code 0, pic 112 Mo

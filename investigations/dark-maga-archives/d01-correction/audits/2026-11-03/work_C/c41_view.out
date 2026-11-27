@@ -1,0 +1,39 @@
+absents [] incomplets ['7mdCAs8C', 'EZXUvi4X', 'GFpqfjEQ', 'C73Yv9iH', 'Ei5yGz8d']
+{'held_T0h': 206.872, 'held_Tlow': 217.037, 'held_Thigh': 217.037, 'held_T24': 136.718, 'buy1h_tokens': 206871964.372, 'buy1h_sol': 52.545, 'sell24_tokens': 48803511.649, 'sell24_sol': 4408.703, 'sell24_usdc': 18935.216, 'xferout24_tokens': 43113992.307, 'xferin24_tokens': 11599493.907, 'buys_total_tokens': 393084458.452, 'buys_total_sol': 499.795, 'sells_total_tokens': 294571362.374, 'sells_total_sol': 5532.072, 'xfer_in_total': 454675493.525, 'xfer_out_total': 537346322.588}
+acheteurs 1h 15 ['AtZjv3', '4upmFY', '2mW45k', '6t2dz4', '7FGoCB', 'HkFSNP', 'EZXUvi', 'CZsBW8', '8YrEVP', 'GFpqfj', '5QhJJc', 'AW63YB', 'C73Yv9', '99Xrt5', 'Ei5yGz']
+trades winig-high []
+NxtXcmEW3g 26.23 T24 26.23 sell24 0.0 0.0 out24 0.0 in24 0.0 ff ASTyfSim 1.36 503
+HGBiExZRtD 20.1 T24 3.05 sell24 7050000.0 849.1 out24 10000000.0 in24 0.0 ff Ei5yGz8d 10.0 156
+5QhJJcFZu2 19.274 T24 19.27 sell24 0.0 0.0 out24 0.0 in24 0.0 ff 2AQdpHJ2 1.05 403
+Ei5yGz8dPn 15.826 T24 3.08 sell24 2750000.0 288.0 out24 10000000.0 in24 0.0 ff RRbvsvJH 0.004 1200
+Gcyg2jeLfS 15.0 T24 2.4 sell24 2900000.0 339.1 out24 9700000.0 in24 0.0 ff Ei5yGz8d 0.05 46
+C73Yv9iHmT 14.856 T24 0.0 sell24 19691066.13 1412.6 out24 1763992.31 in24 6599493.91 ff EyDA1Ekd 20.0 1200
+BuBXTWECG8 14.0 T24 5.0 sell24 0.0 0.0 out24 9000000.0 in24 0.0 ff C73Yv9iH 3.0 28
+7mdCAs8CWY 13.9 T24 13.9 sell24 0.0 0.0 out24 0.0 in24 0.0 ff BKgz559P 4.056 1200
+74qFhHypY1 9.272 T24 6.97 sell24 0.0 0.0 out24 2300000.0 in24 0.0 ff 45i7PmS9 0.13 274
+HkFSNPjNFU 7.191 T24 7.19 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 10
+7FGoCB63x3 6.747 T24 6.75 sell24 0.0 0.0 out24 0.0 in24 0.0 ff GJRs4FwH 1.05 88
+2mW45kXp4W 6.715 T24 6.72 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 81
+4upmFYy6Sp 6.713 T24 6.71 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 23
+EZXUvi4X5k 6.432 T24 6.43 sell24 0.0 0.0 out24 0.0 in24 0.0 ff mjJySNDn 2.76 1200
+Akp46DicpT 6.0 T24 0.0 sell24 5700000.0 159.3 out24 300000.0 in24 0.0 ff AtZjv3Du 0.1 367
+ADnZ9NdL9r 6.0 T24 6.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 27
+CZsBW8yCGA 5.603 T24 5.6 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 27
+C7i9beNHXY 4.964 T24 1.13 sell24 3830000.0 325.2 out24 0.0 in24 0.0 ff Cvw9RG2z 0.07 640
+AtZjv3DuV9 3.0 T24 0.0 sell24 3000000.0 327.3 out24 0.0 in24 0.0 ff 74qFhHyp 0.01 216
+2BLSXbea4a 2.5 T24 2.5 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 348
+9u5JKgWdLz 2.5 T24 2.5 sell24 0.0 0.0 out24 0.0 in24 0.0 ff 6aWmxmeQ 3.29 409
+GPMYCuusSY 2.455 T24 0.0 sell24 2455266.78 324.7 out24 0.0 in24 0.0 ff 35nAuv6j 0.5 151
+GFpqfjEQFh 1.756 T24 1.28 sell24 427178.74 30.3 out24 50000.0 in24 0.0 ff NxtXcmEW 1.0 1200
+8xjM4fGgPC 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 6
+6t2dz4jm3S 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff 74qFhHyp 0.331 99
+HkrGvxapoq 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 6
+4wComYHQby 0.0 T24 4.0 sell24 0.0 0.0 out24 0.0 in24 4000000.0 ff Ei5yGz8d 0.043 11
+8YrEVPQqhs 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff 6t2dz4jm 1.980 8
+HKXb8Lfyzx 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 8
+FjuV7mJUyj 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 0.5 6
+AW63YBXXsG 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff G41vRrsH 2.0 11
+35nAuv6jGT 0.0 T24 0.0 sell24 1000000.0 353.1 out24 0.0 in24 1000000.0 ff 7FfB2zQR 0.020 139
+99Xrt5uuu2 0.0 T24 0.0 sell24 0.0 0.0 out24 0.0 in24 0.0 ff 6t2dz4jm 2.088 12
+premier financeur dans groupe 11 G41 11 none 0
+4 wallets ['4wComYHQ', 'Ei5yGz8d', 'Gcyg2jeL', 'HGBiExZR'] 50.926 29 166.111

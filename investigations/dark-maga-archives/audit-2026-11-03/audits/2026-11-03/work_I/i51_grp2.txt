@@ -1,0 +1,72 @@
+DMAGA fenêtre created->S en jours 7.698
+(a) égalités de plus grande composante [('4KWXEUDB', 3), ('FDcq9Swb', 3), ('85pr8E41', 4), ('9v5TRd1p', 3), ('Gd8xDg8W', 3), ('8Spk8Bgg', 3)]
+(b) fenêtre pairs : médiane 7.545 min 4.02 max 51.08 ; pairs à fenêtre plus courte que DMAGA 24
+Spearman fenêtre et G1, pairs 0.287 ; fenêtre et G3 0.329
+G1 {'DMAGA': 34, 'med': 8.0, 'maxi': 77, 'pairs_ge': 6, 'p_rang': 0.143}
+G3 {'DMAGA': 50, 'med': 22.5, 'maxi': 114, 'pairs_ge': 8, 'p_rang': 0.184}
+G1 fenêtre fixe {'DMAGA': 34, 'med': 8.0, 'maxi': 48, 'pairs_ge': 3, 'p_rang': 0.082}
+G3 fenêtre fixe {'DMAGA': 50, 'med': 21.0, 'maxi': 75, 'pairs_ge': 3, 'p_rang': 0.082}
+pairs >= DMAGA en G1 fenêtre fixe [('95qmJL2q', 48, 75, 27.93, True), ('HNMhwV9n', 38, 47, 4.12, False), ('DMks7an9', 39, 62, 27.58, True)]
+pairs >= DMAGA en G3 fenêtre fixe [('95qmJL2q', 48, 75, 27.93, True), ('ELuUnxUk', 8, 58, 4.92, True), ('DMks7an9', 39, 62, 27.58, True)]
+pairs de fenêtre <= 2 x DMAGA : n 37 G1>=34 parmi eux 1
+(c) étiquettes dans les arêtes : pairs concernés 0 DMAGA 0 ; G1 sans étiquettes {'DMAGA': 34, 'med': 8.0, 'maxi': 77, 'pairs_ge': 6, 'p_rang': 0.143}
+
+(d) DMks7an9uaX27YUTvKSjcqQTZPDZSGb4Sz32rzfzyJkA mint BFUadco9hktp8wrLas34DL5jmVYE17qYmfxZykV7pump created 07-13T10:11 S 08-10T00:00 fenêtre 27.6 j G1 77 G3 114 retirés [] cohorte dans composante 2
+   GBPiMh9xjpeS5YvXU2ATaJiX9aa9W6XVZqsBMY71osXa sort 2 entre 12 M envoyés 10.0 tx ATA 449    signé par soi 435 période 07-20T19:24 07-25T08:57
+   3obDjgKXMTwvZ3xspLu4kzqGbjV7afe6meo2B8EP4Sky sort 13 entre 1 M envoyés 159.67 tx ATA 35    signé par soi 34 période 07-22T21:00 07-22T21:09
+   5oB7UMnMsYE8MzWJXJHxiYK2DCLNygRRUY6aDbMXw6Pj sort 5 entre 7 M envoyés 22.59 tx ATA 17    signé par soi 9 période 07-18T22:20 08-09T19:29
+   9TEaGMw4ZyU3St5hNcSuUWvyxss5aHa2LaA2nJcH1egu sort 1 entre 11 M envoyés 10.0 tx ATA 17    signé par soi 5 période 07-18T16:44 07-18T16:44
+   6D9bfrXNh8xg97n116aK29UmkHzRvgYKTf5HzgabHFUL sort 9 entre 2 M envoyés 18.4 tx ATA 118    signé par soi 116 période 07-19T14:31 08-09T17:31
+   5WG6F5jHuNYst3urXHBboD8eTA8isk44cs3GSTpcRCGn sort 7 entre 1 M envoyés 26.4 tx ATA 25    signé par soi 24 période 07-18T08:17 07-21T08:08
+   GQMZPT1fUphkFgGpFfYbmWJkcc35gB9UsER8cTnFsrZw sort 1 entre 6 M envoyés 10.0 tx ATA 143    signé par soi 132 période 08-01T22:44 08-01T22:44
+   EHChS75nF4W3SaogJhGxfSnpshcfdzAvh6MWuQL4irGQ sort 4 entre 3 M envoyés 50.81 tx ATA 128    signé par soi 125 période 07-20T14:53 08-01T21:48
+   6564jS9QzKZR1yFt4DdrTCo3YZwpMYbwe6KV5WZ7kM2i sort 3 entre 3 M envoyés 16.2 tx ATA 80    signé par soi 76 période 07-20T22:26 07-22T01:54
+   4PZumMvUvvyGvEcSyLLNWRaq4bnHSC5jaQy8wYcCuoYR sort 3 entre 3 M envoyés 12.0 tx ATA 33    signé par soi 30 période 07-19T00:12 07-19T02:45
+   montants les plus répétés (M) : [(10.0, 16), (5.0, 16), (1.0, 9), (2.0, 8), (3.5, 6), (3.0, 4), (12.0, 4), (1.5, 3)]
+   arêtes avant created 2 sur 130 ; par semaine depuis created [(-1, 2), (0, 47), (1, 65), (2, 10), (3, 6)]
+   tx ATA des 30 de la cohorte, médiane 7.0 ; wallets avec 400+ tx ATA 2
+
+(d) 9NfKxDftb676yFoh4BzUHDyPyCv5kFzRcREspKdVc8UM mint iUTxa3m6JedGj6XTGwYEe324M5iWrBvnWzpUhXopump created 07-25T23:33 S 08-28T03:00 fenêtre 33.1 j G1 65 G3 90 retirés ['FfnpqoAuFMtnzsVFRv51MiRaSZLuAnZN7rNjaamZuMpP'] cohorte dans composante 24
+   6W53j8wi4mcUx6ihxe94ZJKdQNzfBaNqFrL9m1kiRRa7 sort 7 entre 17 M envoyés 175.47 tx ATA 45 cohorte   signé par soi 15 période 07-26T20:07 08-27T18:01
+   EXe7eKksa9kddWoocSnVsWCi4kDiEgXLc9wmBHUdZuJb sort 10 entre 10 M envoyés 46.78 tx ATA 382    signé par soi 306 période 08-06T16:52 08-23T18:55
+   5rbAq8M3Q8gwLQbNGeBVMzXeXwrY2sN6b9jQgG4V8Qcw sort 2 entre 15 M envoyés 54.0 tx ATA 23  PDA  signé par soi 0 période 08-07T00:39 08-19T15:17
+   E2rk5jp4N5BCh2hLHwTJaSz4VMq9tvXvv2VXMGVUVkBw sort 10 entre 5 M envoyés 27.5 tx ATA 21    signé par soi 15 période 07-22T03:01 08-21T07:47
+   BFkErXkUMX43xSDibteibct7jS4YshanG7uHxBfwPACJ sort 0 entre 14 M envoyés 0.0 tx ATA 17    signé par soi 2 période  
+   EuCk8TNBfZHni81fXvywd1x4QHAi2PhqvCc8MmiJnHJS sort 5 entre 6 M envoyés 107.5 tx ATA 84 cohorte   signé par soi 76 période 07-22T05:52 08-18T21:38
+   ZpJFTVgSS3n5PRYqngWUm4rzKAamGemn7qAMmHWMRP4 sort 7 entre 3 M envoyés 68.25 tx ATA 20 cohorte   signé par soi 17 période 07-23T04:16 08-17T12:22
+   3ATNnVUqKeGNx24utvoVQ2qkEsN7W6RBhAbx6NjuKNwZ sort 4 entre 6 M envoyés 18.33 tx ATA 43    signé par soi 8 période 08-14T19:05 08-25T05:46
+   6ofyNiFi3bnMBzfXVDRoad7K1cUUcsDhpyiMsDmCc1EE sort 7 entre 2 M envoyés 14.86 tx ATA 12 cohorte   signé par soi 10 période 07-26T15:57 08-10T22:34
+   DVP39htmdCp3sDRXYhVo7aBpGnEwxQp9WfvXnDioWnCD sort 4 entre 4 M envoyés 81.49 tx ATA 18    signé par soi 8 période 08-04T05:49 08-07T06:08
+   montants les plus répétés (M) : [(5.0, 23), (2.5, 15), (32.745, 9), (1.0, 8), (4.0, 6), (2.0, 6), (24.0, 5), (20.0, 5)]
+   arêtes avant created 41 sur 147 ; par semaine depuis created [(-1, 41), (0, 23), (1, 18), (2, 19), (3, 38), (4, 8)]
+   tx ATA des 30 de la cohorte, médiane 4.0 ; wallets avec 400+ tx ATA 1
+
+(d) 95qmJL2qUDkKtvaXuvCqv84NDEEjbjfH7cXFPjsmGbH9 mint 4xqQAEBeMH1MJ85MsuWiVwRTc4F7AC2UikttcVvcpump created 07-17T03:39 S 08-14T02:00 fenêtre 27.9 j G1 48 G3 109 retirés ['DEn4ESenUtDgzmtHUCViPGrE16BX9sp475kSxHGc68ht', 'BjeKJEk3p5s7rp1akFyWTQ7aEh5f3oGLiisQx3q9ES9q', 'Gsivammo1c53AhUN2XiYvczDJPSCmGHT3TCcmtRdqcCv'] cohorte dans composante 12
+   CAJCkR6oCLUFoKqhc43QbAg1nr7NYJMr4M5EcxKV5Dip sort 10 entre 2 M envoyés 65.67 tx ATA 14 cohorte   signé par soi 12 période 07-15T04:53 07-30T00:32
+   FGXgxyu3m96Uydskd9YEGc3VECJUv5Pw8mHCGcUgeCGh sort 4 entre 5 M envoyés 9.46 tx ATA 10    signé par soi 4 période 07-27T05:33 07-30T00:45
+   D734nBKLqAhoS3GCZ963Uw8e6CLSLTZS4w2yorTert9B sort 5 entre 2 M envoyés 14.28 tx ATA 22 cohorte   signé par soi 20 période 07-17T05:23 07-30T00:47
+   7gax8pjc3Ejk1Pw5qp8Y2nk2CrhYN4cUi9tMJ9fog8Wk sort 6 entre 1 M envoyés 101.51 tx ATA 47 cohorte   signé par soi 46 période 07-15T03:58 07-22T01:01
+   At7ohTibkZNsS7UbG7W8RVn7UmaGV4qNZmTfVuurXAvc sort 2 entre 3 M envoyés 3.54 tx ATA 7 cohorte   signé par soi 4 période 07-17T06:19 07-22T01:02
+   FKE6xy7tfyrFJQBrhVWABBKW7kj6D3yWQtit4HxjmGCV sort 3 entre 2 M envoyés 8.99 tx ATA 6    signé par soi 4 période 07-29T14:46 07-30T00:43
+   GNLioWPRoWZTFCwLip76bLqLEkqhQS9GsRgQAeaPVGeW sort 3 entre 2 M envoyés 7.56 tx ATA 30 cohorte   signé par soi 28 période 07-17T06:14 07-30T00:30
+   7rXhtVj5yPhtdTMdSNyk4AYvsJB4Tf6Dbgewe6nh1G9M sort 3 entre 2 M envoyés 6.2 tx ATA 149    signé par soi 139 période 07-17T05:46 07-23T01:49
+   DQxwvobih9Q1zKHiLhpisRRxb1gTy15tkyFHra249osh sort 2 entre 2 M envoyés 14.65 tx ATA 5    signé par soi 3 période 07-16T19:04 07-30T00:37
+   Fpgc8gJWYhjoRztvN5Mx5Upd4PvQiJbpUCfCtUCD9XTf sort 0 entre 4 M envoyés 0.0 tx ATA 7    signé par soi 2 période  
+   montants les plus répétés (M) : [(5.0, 19), (4.0, 14), (1.0, 13), (2.0, 9), (9.0, 7), (10.0, 6), (3.0, 6), (2.5, 4)]
+   arêtes avant created 57 sur 187 ; par semaine depuis created [(-1, 57), (0, 58), (1, 44), (2, 10), (3, 18)]
+   tx ATA des 30 de la cohorte, médiane 13.5 ; wallets avec 400+ tx ATA 0
+
+(d) CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k mint 7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump created 07-14T02:15 S 07-21T19:00 fenêtre 7.7 j G1 34 G3 50 retirés [] cohorte dans composante 7
+   GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p sort 11 entre 1 M envoyés 63.2 tx ATA 25 cohorte   signé par soi 24 période 07-21T07:57 07-21T08:32
+   AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk sort 5 entre 6 M envoyés 90.47 tx ATA 15    signé par soi 8 période 07-14T02:46 07-21T11:10
+   74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb sort 3 entre 2 M envoyés 16.96 tx ATA 9    signé par soi 7 période 07-16T02:50 07-20T22:41
+   NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7 sort 3 entre 1 M envoyés 15.0 tx ATA 6    signé par soi 3 période 07-15T01:14 07-21T08:33
+   5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd sort 3 entre 1 M envoyés 28.5 tx ATA 217 cohorte   signé par soi 42 période 07-14T15:59 07-18T21:05
+   Ei5yGz8dPndr1aCeHZsfqJBcS3VBbz75VHEhxxJKLy3V sort 3 entre 0 M envoyés 50.0 tx ATA 80 cohorte   signé par soi 80 période 07-15T08:31 07-16T05:39
+   ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft sort 1 entre 2 M envoyés 5.0 tx ATA 3    signé par soi 1 période 07-21T08:25 07-21T08:25
+   4wComYHQbydc9DZHsDu3t2MaTLNe7Y3ukdymrkqh9ftC sort 1 entre 2 M envoyés 15.0 tx ATA 3    signé par soi 1 période 07-18T23:12 07-18T23:12
+   BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3 sort 0 entre 3 M envoyés 0.0 tx ATA 3    signé par soi 0 période  
+   C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae sort 0 entre 2 M envoyés 0.0 tx ATA 6    signé par soi 4 période  
+   montants les plus répétés (M) : [(6.0, 7), (6.5, 6), (2.0, 5), (20.0, 4), (5.0, 3), (5.5, 2), (1.0, 2), (30.0, 2)]
+   arêtes avant created 1 sur 58 ; par semaine depuis created [(-1, 1), (0, 38), (1, 19)]
+   tx ATA des 30 de la cohorte, médiane 6.0 ; wallets avec 400+ tx ATA 0

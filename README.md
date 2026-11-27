@@ -18,6 +18,14 @@ This repository follows that trail: the pattern I traded, the launches I reconst
 
 ---
 
+## DARK-MAGA — On-chain event investigation
+
+My Solana research also covers the July 2024 $DMAGA launch and the trading activity surrounding a public profile-picture change. I reconstructed early wallet accumulation, funding and token transfers, realized trading PnL, public-source chronology and bridge flows across Solana, Ethereum, Base and BSC. Financial links between addresses are not proof of common ownership or advance information.
+
+[Full investigation](investigations/dark-maga/README.md) · [Research index, evidence and historical audit versions](investigations/README.md)
+
+---
+
 ## What this repository demonstrates
 
 This is not a tutorial and it is not a collection of screenshots.

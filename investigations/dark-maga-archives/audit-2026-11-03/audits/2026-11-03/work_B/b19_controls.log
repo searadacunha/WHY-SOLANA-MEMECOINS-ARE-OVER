@@ -1,0 +1,25 @@
+k=150, 40 graines, nul: 2/40
+k=150, 40 graines, moyen: 40/40
+k=150, 40 graines, fort: 40/40
+k=150, 40 graines, baleine: 40/40
+k=150, 40 graines, precoces: 40/40
+nul k=150, 150 graines : 6 verdicts inhabituels, taux 0.040, IC95 [0.015, 0.085] ; attendu si mesures indépendantes 1-(k/(k+1))^7 = 0.045
+nul k=211, 150 graines : 8 verdicts inhabituels, taux 0.053, IC95 [0.023, 0.102] ; attendu si mesures indépendantes 1-(k/(k+1))^7 = 0.033
+rapport : nul 2/40 = 0,05, IC95 [0.006, 0.169]
+  mesure  synth_med  synth_p90  synth_max  synth_max_sur_med  reel_med  reel_p90   reel_max  reel_max_sur_med
+0     M1      0.851      1.982     10.424             12.248     3.755   163.089  26825.430          7144.705
+1     M2      0.802      1.185      2.500              3.118     1.464    64.565  17040.652         11643.375
+2     M3      0.010      0.060      0.312             32.470     0.450     0.863      1.000             2.223
+3     M4      0.410      0.644      0.928              2.265     0.347     0.784      1.000             2.884
+4     M5      0.000      0.000    140.260                NaN   176.327  1115.392  16290.909            92.391
+5     M6      0.632      0.674      0.771              1.219     0.075     0.263      0.474             6.284
+6     M7      0.021      0.045      0.326             15.356     0.074     0.223      4.977            66.813
+moyen médiane cible / médiane fond : {'M1': np.float64(17.5), 'M2': np.float64(2.8), 'M3': np.float64(65.2), 'M4': np.float64(1.4), 'M5': None, 'M6': np.float64(1.0), 'M7': np.float64(4.0)}  médiane cible / max du fond : {'M1': np.float64(1.43), 'M2': np.float64(0.89), 'M3': np.float64(2.01), 'M4': np.float64(0.61), 'M5': np.float64(2.12), 'M6': np.float64(0.81), 'M7': np.float64(0.26)}
+   la même cible synthétique face aux 211 vrais comparateurs : 40/40 verdicts inhabituels
+fort médiane cible / médiane fond : {'M1': np.float64(182.9), 'M2': np.float64(19.3), 'M3': np.float64(98.9), 'M4': np.float64(1.0), 'M5': None, 'M6': np.float64(1.0), 'M7': np.float64(18.9)}  médiane cible / max du fond : {'M1': np.float64(14.94), 'M2': np.float64(6.19), 'M3': np.float64(3.05), 'M4': np.float64(0.42), 'M5': np.float64(18.25), 'M6': np.float64(0.81), 'M7': np.float64(1.23)}
+   la même cible synthétique face aux 211 vrais comparateurs : 40/40 verdicts inhabituels
+baleine médiane cible / médiane fond : {'M1': np.float64(24.5), 'M2': np.float64(25.0), 'M3': np.float64(99.9), 'M4': np.float64(2.4), 'M5': None, 'M6': np.float64(1.0), 'M7': np.float64(31.6)}  médiane cible / max du fond : {'M1': np.float64(2.0), 'M2': np.float64(8.01), 'M3': np.float64(3.08), 'M4': np.float64(1.05), 'M5': np.float64(0.0), 'M6': np.float64(0.81), 'M7': np.float64(2.06)}
+   la même cible synthétique face aux 211 vrais comparateurs : 40/40 verdicts inhabituels
+precoces médiane cible / médiane fond : {'M1': np.float64(1.2), 'M2': np.float64(0.9), 'M3': np.float64(0.8), 'M4': np.float64(1.0), 'M5': None, 'M6': np.float64(1.6), 'M7': np.float64(1.0)}  médiane cible / max du fond : {'M1': np.float64(0.09), 'M2': np.float64(0.28), 'M3': np.float64(0.03), 'M4': np.float64(0.43), 'M5': np.float64(0.0), 'M6': np.float64(1.3), 'M7': np.float64(0.07)}
+   la même cible synthétique face aux 211 vrais comparateurs : 40/40 verdicts inhabituels
+garde : fini, code 0, pic 175 Mo

@@ -1,0 +1,112 @@
+== images
+avatar                 (400, 400) 19370 sha256 bc40a049c2a40aabd93e2aaa511b0588fd6dc9d5cece2c0b86bdd46eda73d792
+Winig16:02             (1024, 1024) 76287 sha256 3d5a2718ed63ff2a73b22358bd557dfe97d279e5dec6618f691fd09fa888b895
+V1_kiki12:50           (900, 900) 865662 sha256 dc2bed87096844d67d765b631ade81a3d9d896067175dda44839d5916566d812
+V2_Franco16:00:59      (1024, 1024) 53991 sha256 ad1e48a6f01d5076221f0a48c0aae80191d892d53a15218a7ae7864353d5c22f
+V1_EeOo                (900, 900) 54000 sha256 2b06fed973b5ddc070646003408e8aa28d54115070c87c3782be750609fd9b4b
+V1_GB15:58             (900, 900) 53370 sha256 769d62ef2851b6265e2c662a23b69894062a0b1d22fdf5dc3ca1374a19685a82
+V3_GB16:32             (900, 900) 68320 sha256 9f9c2e47648ccb012e2d3e51ec9295489dd93f9f0f2fce92310b132be4bad9cb
+V3_kiki18:46           (900, 900) 1043049 sha256 0b59ba6ac603749f62829003c5a72dab7da831ae589d3657ee65eba98f5ee2dc
+V0_Franco16/07         (1125, 1003) 90038 sha256 b18592ff6b5d946c7a41bf4012a31999eb675bbe69137687626ea0324bbe7d55
+V0_kiki18/07           (1125, 1003) 108897 sha256 78c5f5746f552be3f6d5d489a783ad72636704bbad9add02b2d43927ea80e0f3
+V0_kiki21/07           (1125, 1003) 109685 sha256 48e4ebc81ffec63bad958c689fe3dd4a6eb2ddd9c631229e8626f52e38f0c267
+Trump_kiki16:00:08     (2202, 2060) 3450290 sha256 cce3b01b864a264dac2c02ceff2dce50365a7e0b2adaa0a39d471d30c3eecccb
+Trump_kiki20:07        (2202, 2060) 3450290 sha256 cce3b01b864a264dac2c02ceff2dce50365a7e0b2adaa0a39d471d30c3eecccb
+Franco18:31            (1024, 1024) 53991 sha256 ad1e48a6f01d5076221f0a48c0aae80191d892d53a15218a7ae7864353d5c22f
+Murray18:40            (1024, 1024) 53991 sha256 ad1e48a6f01d5076221f0a48c0aae80191d892d53a15218a7ae7864353d5c22f
+DMC_V1_16:12           (900, 900) 834340 sha256 898c752573c08a4ebafa79bf9c5229f4fd1365d7a758117ac0cc7a358993ef94
+== distances (DCT maison / imagehash phash / dhash) à l'avatar
+  avatar                   0   0   0
+  Winig16:02               0   0   2
+  V1_kiki12:50            14  14  12
+  V2_Franco16:00:59        0   0   0
+  V1_EeOo                 16  16  12
+  V1_GB15:58              16  16  12
+  V3_GB16:32              26  26  23
+  V3_kiki18:46            26  26  23
+  V0_Franco16/07          22  22  29
+  V0_kiki18/07            22  22  29
+  V0_kiki21/07            22  22  30
+  Trump_kiki16:00:08      28  28  30
+  Trump_kiki20:07         28  28  30
+  Franco18:31              0   0   0
+  Murray18:40              0   0   0
+  DMC_V1_16:12            16  16  11
+== distances à V1_kiki
+  avatar                  14  14
+  Winig16:02              14  14
+  V1_kiki12:50             0   0
+  V2_Franco16:00:59       14  14
+  V1_EeOo                  2   2
+  V1_GB15:58               2   2
+  V3_GB16:32              34  34
+  V3_kiki18:46            34  34
+  V0_Franco16/07          24  24
+  V0_kiki18/07            24  24
+  V0_kiki21/07            24  24
+  Trump_kiki16:00:08      30  30
+  Trump_kiki20:07         30  30
+  Franco18:31             14  14
+  Murray18:40             14  14
+  DMC_V1_16:12             2   2
+== distances à V0_Franco
+  avatar                  22  22
+  Winig16:02              22  22
+  V1_kiki12:50            24  24
+  V2_Franco16:00:59       22  22
+  V1_EeOo                 24  24
+  V1_GB15:58              24  24
+  V3_GB16:32              28  28
+  V3_kiki18:46            28  28
+  V0_Franco16/07           0   0
+  V0_kiki18/07             0   0
+  V0_kiki21/07             0   0
+  Trump_kiki16:00:08      32  32
+  Trump_kiki20:07         32  32
+  Franco18:31             22  22
+  Murray18:40             22  22
+  DMC_V1_16:12            24  24
+
+== posts
+-- 1815006501896872388 snowflake 2024-07-21T12:50:45.899
+  fichier evidence/x_wayback/1815006501896872388.raw sha256 cdfce2180a4e4b60e2b39856a19e2275f954f0d7e8ca8a053d8a74ab8c8d5651 octets 4776
+  created_at 2024-07-21T12:50:45.000Z author_id 1474749663039401987 user ['kikisknees']
+  text '@pmarca Is Elon mooning with us? https://t.co/AsWYl82uSz'
+  media_keys ['3_1815006400151478273'] refs [{'type': 'replied_to', 'id': '1814954001227821426'}] in_reply_to_user 5943622
+  media 3_1815006400151478273 https://pbs.twimg.com/media/GTAytGIW4AE9_93.png 900 900 clé->heure 2024-07-21T12:50:21.641 id->heure 2024-07-21T12:50:21.641
+-- 1815054374982324401 snowflake 2024-07-21T16:00:59.732
+  fx audits/2026-11-03/work_E/evidence/x_raw_new/1815054374982324401.fx.json sha256 7bcb8e343cbb7338325ff2e62c71680043cf2baa23667bc3fb6c14b7ec647ebb auteur FrancoAppr created Sun Jul 21 16:00:59 +0000 2024 replying_to elonmusk text '@elonmusk They tried to kill our president through negligence. Time to join Dark MAGA'
+  fx media https://pbs.twimg.com/media/GTBeVcVXAAAVa3o.jpg?name=orig 1024 1024
+-- 1815054158367432804 snowflake 2024-07-21T16:00:08.087
+  fichier evidence/x_wayback/1815054158367432804.raw sha256 4cef76b46548624ca0f1e3afd9204867e06c79f2604418646641fb9cf74335dd octets 13222
+  created_at 2024-07-21T16:00:08.000Z author_id 1474749663039401987 user ['kikisknees']
+  text "@elonmusk He survived, they didn't expect that. https://t.co/uui3cUK2NQ"
+  media_keys ['3_1815054082064744448'] refs [{'type': 'replied_to', 'id': '1815053281925767571'}] in_reply_to_user 44196397
+  media 3_1815054082064744448 https://pbs.twimg.com/media/GTBeEjGXgAAbn4S.jpg 2202 2060 clé->heure 2024-07-21T15:59:49.895 id->heure 2024-07-21T15:59:49.895
+-- 1814063148917256375 snowflake 2024-07-18T22:22:13.022
+  fichier audits/2026-11-03/work_E/evidence/wb_status/1814063148917256375.raw sha256 2c2feb1b87684b7098791ffb39db90f3975acf811b88748352ea78c5e707e3d3 octets 10373
+  created_at 2024-07-18T22:22:13.000Z author_id 1474749663039401987 user ['kikisknees']
+  text '@elonmusk "Freedom &amp; merit is what America should be about."\nWe are building an army for you for that purpose.\n$DMAGA https://t.co/IXCPosLPxC'
+  media_keys ['3_1814063045527699456'] refs [{'type': 'replied_to', 'id': '1814057109056598382'}] in_reply_to_user 44196397
+  media 3_1814063045527699456 https://pbs.twimg.com/media/GSzYuoTXgAA63zz.jpg 1125 1003 clé->heure 2024-07-18T22:21:48.372 id->heure 2024-07-18T22:21:48.372
+-- 1815116385414209876 snowflake 2024-07-21T20:07:24.171
+  fichier evidence/x_wayback/1815116385414209876.raw sha256 d0accaaa9e9a3ff9babf84bdfd58d0de74ba296bf04d4ca1f617bffe8b47b8f9 octets 7509
+  created_at 2024-07-21T20:07:24.000Z author_id 1474749663039401987 user ['kikisknees']
+  text "@notthreadguy That's a $DMAGA pfp, made by me. https://t.co/ujHqZwHeLV"
+  media_keys ['3_1815116305592176640'] refs [{'type': 'replied_to', 'id': '1815113676862722136'}] in_reply_to_user 1426732252768182281
+  media 3_1815116305592176640 https://pbs.twimg.com/media/GTCWqbzXUAAYsUP.jpg 2202 2060 clé->heure 2024-07-21T20:07:05.140 id->heure 2024-07-21T20:07:05.140
+-- 1813683527575302497 snowflake 2024-07-17T21:13:44.241
+-- 1814719737378607482 snowflake 2024-07-20T17:51:15.910
+-- 1813310692243480937 snowflake 2024-07-16T20:32:13.371
+  fx audits/2026-11-03/work_E/evidence/x_raw_new/1813310692243480937.fx.json sha256 5a0d17d6b05bc9dce8ed6ef1dcba0f1eedcfdac7cec581a342c62fd9fe64073e auteur FrancoAppr created Tue Jul 16 20:32:13 +0000 2024 replying_to elonmusk text '@elonmusk'
+  fx media https://pbs.twimg.com/media/GSosdsSWYAACOIC.jpg?name=orig 1125 1003
+-- 1815053713330876681 snowflake 2024-07-21T15:58:21.982
+  fx audits/2026-11-03/work_E/evidence/x_raw_new/1815053713330876681.fx.json sha256 d3ec6bdac37b5b62b3fa94d4905b4edf6963fd08d1211272f4cfad5ca2544740 auteur GreatBambin0 created Sun Jul 21 15:58:21 +0000 2024 replying_to elonmusk text '@elonmusk @libsoftiktok There’s only one option Elon'
+  fx media https://pbs.twimg.com/media/GTBdu7vXgAARcaz.jpg?name=orig 900 900
+-- 1815054381823221968 snowflake 2024-07-21T16:01:01.363
+  fx audits/2026-11-03/work_E/evidence/x_raw_new/1815054381823221968.fx.json sha256 fbe0e49b781ae2c9c93e6927303836a1408e8ed810f4c7d31bd1c3b8c657b068 auteur EeOo111_ created Sun Jul 21 16:01:01 +0000 2024 replying_to elonmusk text '@elonmusk Whoa, ELON IN DARK MAGA'
+  fx media https://pbs.twimg.com/media/GTBeVlkXsAAgbTW.jpg?name=orig 900 900
+
+== sha256 Trump
+evidence/x_media/1813683527575302497_GSt_gY7WUAAS6ue.jpg cce3b01b864a264dac2c02ceff2dce50365a7e0b2adaa0a39d471d30c3eecccb
+evidence/x_media/1814719737378607482_GS8t8LtWcAE8314.jpg cce3b01b864a264dac2c02ceff2dce50365a7e0b2adaa0a39d471d30c3eecccb

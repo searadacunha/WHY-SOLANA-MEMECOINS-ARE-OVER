@@ -1,0 +1,711 @@
+{
+ "address": "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+ "n_in": 88,
+ "n_out": 59,
+ "tronque": false,
+ "expediteurs": 48,
+ "total_in_sol": 956.520770355,
+ "total_out_sol": 956.512241957,
+ "vers_coinbase_sol": 903.486859058,
+ "part_coinbase_pct": 94.45638220055487,
+ "detail_coinbase": {
+  "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE": 187.65184184799998,
+  "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm": 161.73879401000002,
+  "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS": 554.0962232
+ },
+ "autres_sorties": [
+  [
+   "D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf",
+   null,
+   20.4
+  ],
+  [
+   "9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE",
+   null,
+   11.44
+  ],
+  [
+   "FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q",
+   null,
+   10.08
+  ],
+  [
+   "DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo",
+   null,
+   8.47
+  ],
+  [
+   "8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF",
+   null,
+   1.97
+  ],
+  [
+   "4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw",
+   null,
+   0.66
+  ]
+ ],
+ "delai_median_s": 126,
+ "premier_t": 1714285091,
+ "dernier_t": 1756199322,
+ "wallets_de_l_enquete": [
+  {
+   "wallet": "B252jsFK2BKMfHRFzrHcxyVayPvC32h4ZXU8jmsm4Gsp",
+   "sol": 16.0,
+   "n": 1,
+   "first": 1719605182,
+   "sig": "XiARYj61RFsHw6HcMfy66aiuA2Miiirc26jDGfW584HPr8caZ9nVZU7ETwJbnNXf1S1931QaPsnx78nGByYTwo2",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 24.89456584386861
+  },
+  {
+   "wallet": "EGtyQEgMKGKXjppDqj9sYy97e9m7nvu1US4SfFXNakMy",
+   "sol": 7.9,
+   "n": 1,
+   "first": 1721700846,
+   "sig": "2mC7gPb89CVz5aZ2sn86v3XmFxYFxsWrTE5Nt2mF6WQdZz3R5k3joi9xMCUwUXg2DZrunuZ1DJdS8q5fNZ1Ubozg",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 158.82688498127902
+  },
+  {
+   "wallet": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+   "sol": 8.0,
+   "n": 1,
+   "first": 1721700907,
+   "sig": "4e3Pg7TvkWucWVKUM5Mymc88jApjREYNsUGk9gSH9gqGWCSEBUQHPdaboYRoMTCP6hPEhw693BGh7iHnZsr3fgZN",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 30.25052296673891
+  },
+  {
+   "wallet": "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae",
+   "sol": 8.0,
+   "n": 1,
+   "first": 1721700977,
+   "sig": "25u4vvqJkg7CTmCnEZQSRwjXG6tbjBYMq4tLtZEQqWYg6r8HfqDAuUutacKtYs1PQgce8ikjHq9vREX7PtyGrGt6",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 1686.0519199153048
+  },
+  {
+   "wallet": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+   "sol": 8.0,
+   "n": 1,
+   "first": 1721701010,
+   "sig": "KJDdVPyYmAUHioiv1Cf6ihJLLX6jhgieTqnUp7hobUWGEVbd5ysM2SXZY8ewBd8Mx7YBnm8gjFGYqXVJ9ZT9u73",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 327.33280036
+  },
+  {
+   "wallet": "6ZMaqHjPYpPdYor9qNGJP7bmunaFCuWcDVjDkR5H3b1J",
+   "sol": 95.6006806,
+   "n": 6,
+   "first": 1721784344,
+   "sig": "43n9B2PWjk7g4wjD3AGVCMKVSKecXR6jE6tmRZEhFnSvXjuBdjGGhLzDJ3hvQjpDw9b9cYosSPSxFZVdXAgKe1sd",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 124.490254033
+  },
+  {
+   "wallet": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+   "sol": 66.766950263,
+   "n": 4,
+   "first": 1721784370,
+   "sig": "45cbQaFCauisAfjqGdAd1WjQF573bANt6rJ3unYLWpD9VqKQdkqAEmYQejBmc1tXLTjKmJEJPQgHC7VpMbGcWLtu",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 78.98756583288191
+  },
+  {
+   "wallet": "7udH6KquEj4qECfrfoNHci2ut3fo8NS21aVu9tQiJQp5",
+   "sol": 52.488,
+   "n": 4,
+   "first": 1722799698,
+   "sig": "2gQ9KZKDWkMYQ9EuWCUKKqrFVUpAqiQnuaspqutMGBQMkGn5mbBvaRqMd2xVTNv3TXB5VaJsgnaUr6kUmNu4R31K",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 37.947812031
+  },
+  {
+   "wallet": "5s3ogzsq8cvwHtS1B6MhwUUp9CyzugJ6y3WqLPM9Ee3C",
+   "sol": 37.71,
+   "n": 2,
+   "first": 1723008118,
+   "sig": "51itiLqSnnG2X1z1usBVasyLmeKgESkwvXh4d4NabFKUxaHwrcRbyeuAEKTGDxKw2bnMaDJVXX7uE5R3825QYAZ1",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 37.689734404
+  },
+  {
+   "wallet": "Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd",
+   "sol": 40.765,
+   "n": 2,
+   "first": 1723517257,
+   "sig": "4h9suR6hmjcuAAQseUtmNby1KpAVsNN4TcFV2qKVdq9ixfFEaLCriMff79i1oZMWCBpRdD5DexUsBdhQ7UhBkose",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 8.915525449
+  },
+  {
+   "wallet": "HMVYeTjsoaM1txP9NUcbkcowVj2F1JeGrZPx6ivJackF",
+   "sol": 3.258,
+   "n": 1,
+   "first": 1723570010,
+   "sig": "4U8xMJu7GsaeGtmaqhtS1P7ydUtcJBXruJwat7SK9MtWtD9WBfiAG5Krt3Gm7e9ZNK1Q4QrxeF6m3XsKwdmWbEGp",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+   "sol": 31.71,
+   "n": 3,
+   "first": 1723570047,
+   "sig": "44Sj6LVzdd9B7dLPzm3EqJ4BpKFRV9MdEzfQ88YiCCDAXYiXJUK7huCAgRJsTQEFR2VeHYCH6hYHPsVspCK2erX1",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 35.276921190198564
+  },
+  {
+   "wallet": "9XtmxHeJBPEgdegnBJB7zDSDjrDW3VrWBPvgLDayYCpE",
+   "sol": 61.33,
+   "n": 2,
+   "first": 1723829127,
+   "sig": "3PXKDqSLXYWvQRebZoQ55nVzjx1YWCZf8DkggWyRCb4N5vLVvR7wqmZsy1v27DJ4u3HKWXSrHEQeHQyEjk6uZT6X",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "HR3oD1C3DX5CfKyZ13xBQF2pJFTWWYfgxadFiYuvJNeM",
+   "sol": 7.333,
+   "n": 2,
+   "first": 1724606245,
+   "sig": "2j5Y7m2EEcJmvAbV9Qdj33DyXLFnVUHygU6TAvyoMYC9H2C2kz2GKoUK8UTfPVnYN92DbpHST1PYBeKimvS2xhgC",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 1.448786827
+  },
+  {
+   "wallet": "6ty9DM4s2mNvsMpMrcaXBDVguFHapfwK9g7WdD9DBLgM",
+   "sol": 29.4111,
+   "n": 2,
+   "first": 1725977087,
+   "sig": "3bD61r7nKY3MJeiT8R2NTdgGNr1KpLBFkP8X6cCvjfS3LXufNGdGrYeNDYxgSub5YuaiGWEN9Up3z4YRXXKxT1Hb",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 50.309554941084414
+  },
+  {
+   "wallet": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+   "sol": 8.022,
+   "n": 3,
+   "first": 1727012723,
+   "sig": "5WPLBXNdNYq7tThyysq5VTbL3vYjAxG8kXru1uAsqHPhvp42GwUMdgoGBANKc6JFMhF2ZVyR22Fd4sGus7ufJPDm",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 25.173632539
+  },
+  {
+   "wallet": "Cv3p9Wu1Ftib8Xm9vwWnR7d9tCYSMrHbFRLpT1pqQ5Cd",
+   "sol": 6.917999999999999,
+   "n": 2,
+   "first": 1727611731,
+   "sig": "2qwYyqigP6adLVPd4RQfjHo7FMBqTZiqvSyZsccRwAHfpHPFm9nCJJkMLP3MWNsYANDmwiyeffNRtvGmRJTgD1n9",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "HQzyBQN8XVcGBRyAaRat96tkrfdzma9aLmesPiL8wqwA",
+   "sol": 35.94,
+   "n": 1,
+   "first": 1727611847,
+   "sig": "2JWSwDNmVg1doTiLD31YAc2Z9xEw3K8oJLDryGEjaUv3Qn1iMUWsjGrSLn2MqyyFNPwhVAwL8DrPTSmEWZvMW8ap",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 6.63347202
+  },
+  {
+   "wallet": "D8syomxNoztm1v7kKzkHyDZiGNqtH3S1wnpMKZ2cRgmW",
+   "sol": 28.485,
+   "n": 1,
+   "first": 1727611915,
+   "sig": "3sudX68NiLnVAZschVfGqZ4DAqjyiFU3uZE1zcBeB9gqo2PMFSSYttTGWhqQ47ZBmi1bRHDbJbgatrUuHwCkPWsV",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 43.830590135118285
+  },
+  {
+   "wallet": "DDcEfNQf5L7TgSN6vR3FVhBBHNV8zu4vrWoYf4mK6EUX",
+   "sol": 1.0,
+   "n": 1,
+   "first": 1727612073,
+   "sig": "2i6AYeTvuJBRsZ8SaZsoSjjt3gC6vJ2tdH2NjGWDqCR67We2zrHCZ7pjQFLvLSKULosphoxRHXdTg5HZY3261ZxZ",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "2k3AwMQcFL5bRe2e3i2LUEhf26n2XxUbmGbJQSCBmRDY",
+   "sol": 10.085,
+   "n": 1,
+   "first": 1735273201,
+   "sig": "3a2J53WgLajU2rw7EFb8pDo5cLkaMMH7Ey9mtrh7znXPxBBARonuVcaqc9mpjhAp4KayYK38MzmefoyYAzrZLJUv",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "C7qEaB6aqkqRxW3BvVKiShjumPUNXRKR9pWYToNqD1QN",
+   "sol": 7.417451985,
+   "n": 1,
+   "first": 1735276899,
+   "sig": "4VTyhR35ffV3WBDivVmV9xTtBeAJ8LnoJudHJTnUh5JkMc1MYuxw1Dg1o5un3jZ6f2meJJTiqwjxsEQT6E6BoYNv",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "A9PkAtBdN5AdopmmNqcwCEohiTneuwQLG7EYhkHWZFJ9",
+   "sol": 0.013,
+   "n": 1,
+   "first": 1735644239,
+   "sig": "5yars5Rc6unNcfERyHJSX2e8KsiHdnhWXG18icCX9N9BxeSornvFHCmx96n5EqdGgkqXJXHCpE9dBUdKBDFoBj58",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 9.800855623535695
+  },
+  {
+   "wallet": "8SaiGWJnpcMNbnqa84op76MuRVkJPx4uZN77mZDb9g5F",
+   "sol": 36.795,
+   "n": 5,
+   "first": 1737833120,
+   "sig": "4JUkkuFGT4EvtbZm4TPzrYZie3g5bydzRAqJiJSjyh2Qmf2eTmM3hCRW87u158Z6odmKZm1wQjTGsNUsoyMfw7gJ",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 4.013663393
+  },
+  {
+   "wallet": "8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR",
+   "sol": 0.593,
+   "n": 1,
+   "first": 1737907884,
+   "sig": "65aNPjoC8nb4yUu3oD5HGzSvyC9DLJZEK1LrkDD8hEXPzdv8Y4FJRgJEXZXXbDuHtYi8UNU7XYdmycKwNi2BS3g2",
+   "groupe": false,
+   "createur": true,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g",
+   "sol": 0.1,
+   "n": 1,
+   "first": 1737908039,
+   "sig": "pqvUAXC3n51dFM1XsEjRo6ebiBhzwMAmquPZmDYB8N22wYUBNM2Kn9qYkUR6YJUHW6MdgczW21KAPhJUeFk5TRW",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 7.736422973740649
+  },
+  {
+   "wallet": "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+   "sol": 0.125,
+   "n": 1,
+   "first": 1737908074,
+   "sig": "1Ae21aJQzoAv6aa6pxkUVAXaCYHXXah5sUopKdEBJ1n5rgtDkfveDvxvdJHW6awLo1PjTJ7ERBWNhp3EEEsTMmi",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 74.17074246375562
+  },
+  {
+   "wallet": "9PoYaK2NZziWAswo5eNCaLbdqh6t28pq89qMnS5C3m5n",
+   "sol": 0.141,
+   "n": 1,
+   "first": 1737911599,
+   "sig": "WQ44rsdxJorCnxxnh6QZExQ97Hb9y7cPLvxXsEAcqgxjU7PykSjNAXzZZwsr9cNucvzC1HyiJp8nEP3EAimFKrH",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 7.390323211
+  },
+  {
+   "wallet": "ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH",
+   "sol": 0.109,
+   "n": 1,
+   "first": 1737911762,
+   "sig": "36b2qawqdK2zuSRt1mXriKA1zBdJh8ZFBFnJyBsntiLmxcGoryz29d3LtyzCb6bnNX2m7KGmjpX9Rr53kDNj8kfG",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ",
+   "sol": 0.276,
+   "n": 1,
+   "first": 1737911795,
+   "sig": "V9VJtMmbGG4Kdv8bWf8QQ3MJuQqRjvwae9matym1wM4zR8JV5n4HbrxNFz4ATd27A8xqewR1NoBv8yUxo79TBZA",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+   "sol": 0.9685,
+   "n": 1,
+   "first": 1748402303,
+   "sig": "2VZ65QxrfNd7ubhe8T3vfSZfgwtwwPLLBge8UDsTkppECpELTpbcQ1RAvA3Z5eveTobGmD2meXqpxTcnr4mwqCuK",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  }
+ ],
+ "salves": [
+  {
+   "salve": "23/07/2024",
+   "wallet": "EGtyQEgMKGKXjppDqj9sYy97e9m7nvu1US4SfFXNakMy",
+   "sol": "7.9",
+   "t": 1721700846,
+   "signature": "2mC7gPb89CVz5aZ2sn86v3XmFxYFxsWrTE5Nt2mF6WQdZz3R5k3joi9xMCUwUXg2DZrunuZ1DJdS8q5fNZ1Ubozg",
+   "signataires": [
+    "EGtyQEgMKGKXjppDqj9sYy97e9m7nvu1US4SfFXNakMy"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111",
+    "ComputeBudget111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "23/07/2024",
+   "wallet": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+   "sol": "8",
+   "t": 1721700907,
+   "signature": "4e3Pg7TvkWucWVKUM5Mymc88jApjREYNsUGk9gSH9gqGWCSEBUQHPdaboYRoMTCP6hPEhw693BGh7iHnZsr3fgZN",
+   "signataires": [
+    "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111",
+    "ComputeBudget111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "23/07/2024",
+   "wallet": "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae",
+   "sol": "8",
+   "t": 1721700977,
+   "signature": "25u4vvqJkg7CTmCnEZQSRwjXG6tbjBYMq4tLtZEQqWYg6r8HfqDAuUutacKtYs1PQgce8ikjHq9vREX7PtyGrGt6",
+   "signataires": [
+    "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111",
+    "ComputeBudget111111111111111111111111111111"
+   ],
+   "groupe": true,
+   "createur": false
+  },
+  {
+   "salve": "23/07/2024",
+   "wallet": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+   "sol": "8",
+   "t": 1721701010,
+   "signature": "KJDdVPyYmAUHioiv1Cf6ihJLLX6jhgieTqnUp7hobUWGEVbd5ysM2SXZY8ewBd8Mx7YBnm8gjFGYqXVJ9ZT9u73",
+   "signataires": [
+    "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111",
+    "ComputeBudget111111111111111111111111111111"
+   ],
+   "groupe": true,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR",
+   "sol": "0.593",
+   "t": 1737907884,
+   "signature": "65aNPjoC8nb4yUu3oD5HGzSvyC9DLJZEK1LrkDD8hEXPzdv8Y4FJRgJEXZXXbDuHtYi8UNU7XYdmycKwNi2BS3g2",
+   "signataires": [
+    "8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": true
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+   "sol": "1.225",
+   "t": 1737907953,
+   "signature": "3g492tmEQGG1M923UHFHwia4DWVy5Ast2LHRocmuGmGdEcjEHgaTBUFRqQBe1R5ie8B5Cgcb8j7sNaEeo4xNc6Zo",
+   "signataires": [
+    "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+   "sol": "0.1",
+   "t": 1737907990,
+   "signature": "4geocgyKWbAfcV7rpgEMYU8G7zoKCYwGeRVwL3QEJUNbUQPTgpmoLGak87yF6nMUK8gsK6bWqF2TbrsHGbBxXXsZ",
+   "signataires": [
+    "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": true,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g",
+   "sol": "0.1",
+   "t": 1737908039,
+   "signature": "pqvUAXC3n51dFM1XsEjRo6ebiBhzwMAmquPZmDYB8N22wYUBNM2Kn9qYkUR6YJUHW6MdgczW21KAPhJUeFk5TRW",
+   "signataires": [
+    "4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+   "sol": "0.125",
+   "t": 1737908074,
+   "signature": "1Ae21aJQzoAv6aa6pxkUVAXaCYHXXah5sUopKdEBJ1n5rgtDkfveDvxvdJHW6awLo1PjTJ7ERBWNhp3EEEsTMmi",
+   "signataires": [
+    "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": true,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "HBsgbpsM1j1YsNYqtCXcFU4mCRofwcor2qFwifNqddmH",
+   "sol": "0.322",
+   "t": 1737908109,
+   "signature": "YyU6PFfUJeS1Qz6s8a6ehWDJhic6gJJhMX9GjbQHN5mn1oJdpQ9T3ERPY5B4Xf95jcXvRz3tnHsRioV6x7XWjfS",
+   "signataires": [
+    "HBsgbpsM1j1YsNYqtCXcFU4mCRofwcor2qFwifNqddmH"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "9PoYaK2NZziWAswo5eNCaLbdqh6t28pq89qMnS5C3m5n",
+   "sol": "0.141",
+   "t": 1737911599,
+   "signature": "WQ44rsdxJorCnxxnh6QZExQ97Hb9y7cPLvxXsEAcqgxjU7PykSjNAXzZZwsr9cNucvzC1HyiJp8nEP3EAimFKrH",
+   "signataires": [
+    "9PoYaK2NZziWAswo5eNCaLbdqh6t28pq89qMnS5C3m5n"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "HR3oD1C3DX5CfKyZ13xBQF2pJFTWWYfgxadFiYuvJNeM",
+   "sol": "0.524",
+   "t": 1737911650,
+   "signature": "5i6xdmAmkBr7yg1edy5NyPJypSxAGm62k8czbtbxSja11sUmp3HnnUeoAcLKhq4GVS7CtLhBdxapfx5VdXPP4Znx",
+   "signataires": [
+    "HR3oD1C3DX5CfKyZ13xBQF2pJFTWWYfgxadFiYuvJNeM"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "G9uiJWzsPUoDuZKXEWSBvEtCi5NtU6iCQc6SeBPSRScT",
+   "sol": "0.4",
+   "t": 1737911685,
+   "signature": "2cHX7CBv2pmAayFTUSYqL7nRf1tJeKDpFYr77KgCh1WbC3cG3tz2Lx1DNGFdtk3Fy4se5MJsQpmxC2gmpQ87AndW",
+   "signataires": [
+    "G9uiJWzsPUoDuZKXEWSBvEtCi5NtU6iCQc6SeBPSRScT"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "9iDacNdyxnETd5FHGhzTF3TFmviy4dxKFnW7kgb9bwyQ",
+   "sol": "0.285",
+   "t": 1737911724,
+   "signature": "2ambyDw623xAQ7L1BjY3Q8c7iDf1dQNNLgZtNemXUNjCrrKniSR9ukvMwwD3wKRGBZNmeH4Dg2LM85aPSbWWQi4L",
+   "signataires": [
+    "9iDacNdyxnETd5FHGhzTF3TFmviy4dxKFnW7kgb9bwyQ"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH",
+   "sol": "0.109",
+   "t": 1737911762,
+   "signature": "36b2qawqdK2zuSRt1mXriKA1zBdJh8ZFBFnJyBsntiLmxcGoryz29d3LtyzCb6bnNX2m7KGmjpX9Rr53kDNj8kfG",
+   "signataires": [
+    "ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ",
+   "sol": "0.276",
+   "t": 1737911795,
+   "signature": "V9VJtMmbGG4Kdv8bWf8QQ3MJuQqRjvwae9matym1wM4zR8JV5n4HbrxNFz4ATd27A8xqewR1NoBv8yUxo79TBZA",
+   "signataires": [
+    "HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "6ZMaqHjPYpPdYor9qNGJP7bmunaFCuWcDVjDkR5H3b1J",
+   "sol": "1.07",
+   "t": 1737911833,
+   "signature": "42amhNKv2GCwHsHAETZiET45yXBbmuhEEH9DwytEX3wDvybrCwXsTGvfA9gRC8MJ9zjaaizHDKdHdexTPHuNtzFB",
+   "signataires": [
+    "6ZMaqHjPYpPdYor9qNGJP7bmunaFCuWcDVjDkR5H3b1J"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  },
+  {
+   "salve": "26/01/2025",
+   "wallet": "9Dxk6iLz9Dazwy6E8DEEjnGyDMSgj4DyfVERVfwXZMMo",
+   "sol": "0.139",
+   "t": 1737911944,
+   "signature": "hSnBpr3CPuqckzzzbvzpEkG6bHGMFUP5qBYPNQCyV52EUfkWbSnGqWFQu2ZgzgL9fyaJabA4N4NBHwH7GfR9uLr",
+   "signataires": [
+    "9Dxk6iLz9Dazwy6E8DEEjnGyDMSgj4DyfVERVfwXZMMo"
+   ],
+   "signe_par_expediteur": true,
+   "programmes": [
+    "11111111111111111111111111111111"
+   ],
+   "groupe": false,
+   "createur": false
+  }
+ ],
+ "groupes_touches": [
+  {
+   "n": 33,
+   "held_M": 217.036500598045,
+   "realized_sol": 5593.99515525452,
+   "expediteurs": [
+    "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+    "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+    "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+    "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae"
+   ]
+  },
+  {
+   "n": 5,
+   "held_M": 18.283653773241,
+   "realized_sol": 978.6367683785644,
+   "expediteurs": [
+    "4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g"
+   ]
+  },
+  {
+   "n": 2,
+   "held_M": 13.048283633259,
+   "realized_sol": 762.7923185376501,
+   "expediteurs": [
+    "6ty9DM4s2mNvsMpMrcaXBDVguFHapfwK9g7WdD9DBLgM"
+   ]
+  },
+  {
+   "n": 2,
+   "held_M": 7.256391444992,
+   "realized_sol": 158.60034118199997,
+   "expediteurs": [
+    "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC"
+   ]
+  },
+  {
+   "n": 3,
+   "held_M": 3.0,
+   "realized_sol": 206.542296196,
+   "expediteurs": [
+    "Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd"
+   ]
+  },
+  {
+   "n": 2,
+   "held_M": 1.754069935959,
+   "realized_sol": 92.679583719,
+   "expediteurs": [
+    "ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH"
+   ]
+  }
+ ],
+ "ensemble_elargi_held_M": 260.37889938549597
+}

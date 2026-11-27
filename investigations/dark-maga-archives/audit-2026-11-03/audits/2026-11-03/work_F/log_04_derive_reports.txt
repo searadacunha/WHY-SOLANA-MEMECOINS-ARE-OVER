@@ -1,0 +1,479 @@
+=== 13:53:39 scripts/ana_20_pnl.py
+transferts ajoutés depuis les flux 22853
+lignes=828097 wallets=71706 sans_prix_usd=9 prix_ref=0.0000006865 SOL à t=1793661329 usd_sol=None
+garde : fini, code 0, pic 892 Mo
+=== 13:54:22 scripts/ana_60_clusters.py
+arêtes={'sol_direct': 2839, 'sol_petit': 183, 'funder_commun': 305, 'token_direct': 5655, 'sink_commun': 26290} clusters=964 services=683
+0 345 tok 772 sol 830 2 sens 122 réalisé 18724 B 21F1zQ2gGiDVHWqmE1vLm5Pwbnx4KvbeTHY7fmh3jbau,21uREBiRmkXgyTW
+209 3 tok 327 sol 0 2 sens 0 réalisé 8182 B 9VrLXkFPkJPtn7sJ2FqFS3y3vj7thvUAZHtsBJUbpeZa,Bya5eBy9KgqaXfn
+40 10 tok 514 sol 0 2 sens 0 réalisé 1413 B 2ckxfKGvyJb7hbNvPHzD7faNrnqas3Rf2dUn3ANEPK6Y,3Gom55XHa724uhs
+42 9 tok 10 sol 65 2 sens 4 réalisé 1611 B 5dMEW7mpizfdKCzVsu5PV7S5eERdsKLnbEdUq9PAvya8,67cU3qpnKBBUZ48
+407 2 tok 5 sol 0 2 sens 0 réalisé -6 B 6cm4vNugtBYGeDJrXYnNC2uGPgVeYBtKQLzPW8HwvFVA,7gEQ6syDZmyPE4J
+397 2 tok 38 sol 0 2 sens 1 réalisé 152 B 4Rhtb2gCLM8RpMaJuSAeCUqGAwkeSYqDuAdFkJFHbH46,6gQcuF837nbbquG
+1 51 tok 63 sol 110 2 sens 21 réalisé 3954 B 14TCBpkGCsDJLYE5ukENiJ3uckvKRJcdtbPjK1TJ3BDT,2U13dtcoPfxNBhk
+689 2 tok 2 sol 0 2 sens 0 réalisé 50 C 8gUN3mYPysrvwJQzABKNR8FmBDTejjtHeiRKsFui7L8r,CcF9hmX3wZm9mL6
+garde : fini, code 0, pic 442 Mo
+=== 13:54:32 scripts/ana_61_prevent.py
+arêtes 70 groupes 19 wallets 77
+jetons détenus par tous les non-pools avant la borne basse (M) 938.0
+33 arêtes 40 détenu M 217.0 acheté M 426.4 SOL 833.4 réalisé 5470 net 5313 1er achat 14/07 02:06 | 2BLSXb,2mW45k,35nAuv,4upmFY,4wComY,5QhJJc,6t2dz4,74qFhH,7FGoCB
+3 arêtes 2 détenu M 45.3 acheté M 59.2 SOL 18.0 réalisé 22 net 6 1er achat 14/07 02:08 | 72B3u4,BteHCe,Eaoxyx
+2 arêtes 1 détenu M 36.8 acheté M 37.2 SOL 25.1 réalisé 101 net 90 1er achat 14/07 02:07 | 9SHtoD,APfA9d
+3 arêtes 3 détenu M 25.0 acheté M 25.2 SOL 33.1 réalisé 6 net -27 1er achat 14/07 02:37 | 5aQ6dD,CVhCtt,FSzufL
+5 arêtes 4 détenu M 18.3 acheté M 45.5 SOL 619.2 réalisé 979 net 501 1er achat 14/07 02:10 | 4JrabS,4pKFTQ,5w2evc,EWM5mE,HRRq3j
+2 arêtes 1 détenu M 17.1 acheté M 24.6 SOL 1216.5 réalisé 1500 net 1299 1er achat 15/07 17:07 | 5k829f,9Sxmf2
+2 arêtes 1 détenu M 14.2 acheté M 15.1 SOL 51.6 réalisé 479 net 466 1er achat 15/07 15:28 | DfJHvj,tdNaNG
+2 arêtes 1 détenu M 13.0 acheté M 18.7 SOL 205.2 réalisé 754 net 715 1er achat 14/07 06:47 | 6ty9DM,JCDpQ6
+3 arêtes 2 détenu M 11.5 acheté M 28.2 SOL 83.5 réalisé 455 net 448 1er achat 14/07 02:09 | 7zgjeB,AVqS3v,FiHTMN
+2 arêtes 1 détenu M 7.3 acheté M 7.5 SOL 22.4 réalisé 159 net 158 1er achat 14/07 02:06 | E3Gwv4,GoPCTr
+2 arêtes 1 détenu M 3.3 acheté M 51.3 SOL 1081.5 réalisé 833 net 165 1er achat 15/07 15:44 | 31PVhz,D12r2U
+3 arêtes 2 détenu M 3.0 acheté M 3.6 SOL 21.0 réalisé 207 net 186 1er achat 14/07 02:12 | 2BArxy,Gmc1EG,MTeBmY
+3 arêtes 2 détenu M 2.2 acheté M 10.9 SOL 247.0 réalisé 338 net 127 1er achat 15/07 15:42 | 5mjNfF,GhY9fK,dQyiUn
+2 arêtes 1 détenu M 1.8 acheté M 1.8 SOL 0.9 réalisé 93 net 92 1er achat 14/07 02:54 | ERMtiL,HW5Mqv
+garde : fini, code 0, pic 410 Mo
+=== 13:54:40 scripts/ana_62_exits.py
+wallets 65
+93522 SOL éq. service non nommé (vu par ≥ 15 wallets tracés)
+25766 SOL éq. hot présumé, famille Coinbase, non vérifié
+8523 SOL éq. Bybit 2
+8051 SOL éq. Binance 1
+3284 SOL éq. Coinbase 3
+2589 SOL éq. Coinbase 1
+2038 SOL éq. Coinbase 2
+garde : fini, code 0, pic 0 Mo
+=== 13:54:42 scripts/ana_64_group_split.py
+strict [19, 14] [145.3, 71.8] pont {'a': 'NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7', 'b': 'AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk', 'M': 41.0, 'autres_candidats': [(50.9, 4), (35.7, 3)]}
+sous-ensembles [(14, 71.8, 7, 79.5), (14, 76.6, 6, 120.3), (5, 68.7, 2, 7.1)]
+SOL entre sous-ensembles [('NxtXcmEW', 'GFpqfjEQ', 5.0, 1719416826), ('NxtXcmEW', 'GFpqfjEQ', 0.9, 1720923035)]
+G41 G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E 1re tx 1703611022 récentes 416 True avant mint 18
+ vers [('45ruCyfd', '0.191365646', 1720886126, False, False), ('EZXUvi4X', '0.5', 1720921583, True, True), ('4upmFYy6', '0.5', 1720921601, True, True), ('2mW45kXp', '0.5', 1720921935, True, True), ('HkFSNPjN', '0.5', 1720921954, True, True), ('CZsBW8yC', '0.5', 1720921977, True, True), ('ADnZ9NdL', '0.5', 1720922328, True, True), ('2BLSXbea', '0.5', 1720922451, True, False), ('HB16TNgh', '0.5', 1720922478, False, False), ('C3i6zfhv', '0.5', 1720922505, False, False), ('8xjM4fGg', '0.5', 1720922538, True, False), ('HKXb8Lfy', '0.5', 1720922577, True, False), ('HkrGvxap', '0.5', 1720922603, True, False), ('FjuV7mJU', '0.5', 1720922618, True, False), ('GFpqfjEQ', '5', 1720922817, True, True), ('AW63YBXX', '2', 1720923077, True, True), ('AW63YBXX', '4', 1720923360, True, True), ('5Q544fKr', '4', 1720924106, False, False)]
+ventes {'groupe_sol': 4524.9, 'groupe_M': 48.8, 'marche_sol': 190546.5, 'part_pct': 2.4, 'part_du_detenu_pct': 22.5, 'transferts_hors_groupe_M': 32.1, 'autres_detenteurs_n': 110, 'autres_vendu_M': 225.0, 'autres_detenu_M': 643.5, 'autres_part_pct': 35.0}
+60 s {'acheteurs': 17, 'M': 310.824235752961, 'sol': 11.915840798} fenêtres {'borne_basse_a_envoi': {'sol': 3.290551083, 'wallets': 4}, 'envoi_a_borne_haute': {'sol': 145.439552458, 'wallets': 46}} 1er financeur {'dans_le_groupe': 11, 'g41': 10, 'n': 32} gestes 20
+garde : fini, code 0, pic 335 Mo
+=== 13:54:49 scripts/ana_66_collector_local.py
+groupes touchés 6 élargi M 260.4
+garde : fini, code 0, pic 0 Mo
+=== 13:54:51 scripts/ana_70_audit_facts.py
+{
+"lignes": {
+"avant": 919783,
+"avant_sig": 796883,
+"doublees": 5903,
+"doublees_pool": 4966,
+"doublees_venue": 937,
+"unique_avant": 913880,
+"apres": 913880,
+"apres_sig": 796883,
+"doublees_avant_musk": 0,
+"swap_other_avant": 3982,
+"swap_other_apres": 1983,
+"pool_doublon_de": 1721779211,
+"pool_doublon_a": 1721799386
+},
+"soldes": {
+"total_M": 999.76121147384,
+"pools_M": 61.99635237643,
+"hors_pools_M": 937.76485909741,
+"hid_M": 84.771137013687,
+"hid_n": 8
+},
+"perimetres": {
+"groupe": {
+"avec_solde": 33,
+"M": 217.036500598045,
+"pct": 23.144021498837205,
+"taille": 33
+},
+"serie15": {
+"avec_solde": 14,
+"M": 61.356670112434,
+"pct": 6.542863012748125,
+"taille": 15
+},
+"expediteurs48": {
+"avec_solde": 20,
+"M": 92.078531309053,
+"pct": 9.818935996138492,
+"taille": 48
+},
+"union": {
+"avec_solde": 50,
+"M": 266.697261652338,
+"pct": 28.43967323631978,
+"taille": 79
+},
+"groupe_serie": 2,
+"groupe_expediteurs": 4,
+"serie_expediteurs": 13,
+"createur_dans_groupe": false,
+"aretes_createur_groupe": 0,
+"coeur_n": 29,
+"coeur_M": 166.1108207299,
+"coeur_pct": 17.7134831955401,
+"coeur_sans_faibles_M": 149.7108207299,
+"coeur_sans_faibles_pct": 15.964643937926539,
+"faibles4_n": 4,
+"faibles4_M": 50.925679868145004
+},
+"expediteurs": {
+"touchent_dmaga": 31,
+"hors_serie_groupe_touchent": 16,
+"hors_serie_groupe": 33
+},
+"ventes24": {
+"marche_sol": 190546.466673811,
+"groupe_sol": 4524.914100277,
+"groupe_M": 48.80351164895,
+"part_pct": 2.3747037556057244,
+"transferts_n": 34,
+"transferts_M": 32.101796349994,
+"destinataires": 16,
+"destinataires_vendeurs": 3,
+"dest_vente_sol": 973.326374763,
+"dest_plafonne_sol": 973.326374763,
+"part_elargie_pct": 2.8855116397682785,
+"groupe_sortie_pct": 37.277281828636696,
+"groupe_swap_pct": 22.48631521171403,
+"autres_n": 110,
+"autres_M": 643.600239344131,
+"autres_swap_M": 224.951216030366,
+"autres_transfert_M": 43.993591072358,
+"autres_edges_M": 56.304487284584,
+"autres_internes_M": 6.47,
+"autres_swap_pct": 34.95200938079287,
+"autres_sortie_bas_pct": 40.78227307221052,
+"autres_sortie_haut_pct": 43.70037270364709,
+"cachees_autres": 0,
+"cachees_groupe": 0
+},
+"angles_morts": {
+"acheteurs_hors_m6": 76,
+"achat_brut_M": 845.724901027964,
+"solde_S_M": 158.877014599687,
+"deja_sortis_M": 69.09442638077,
+"stock_M": 89.78258821891698,
+"transferts_recus_M": 114.955444187342,
+"wallets_recus": 35,
+"recus_groupe_M": 110.2,
+"nets_M": 76.298663509484,
+"nets_wallets": 28,
+"achats_heure_S_sol": 2762.246206362,
+"achats_heure_S_n": 826
+},
+"ruptures": {
+"n": 27196,
+"comptes": 1168,
+"entrees_M": 1508.535755645513,
+"sorties_M": 1336.939675621364,
+"total_M": 2845.475431266877,
+"avant_low_n": 5,
+"avant_low_M": 84.736865243824,
+"cheval_n": 15,
+"cheval_M": 1.010058810415,
+"h24_n": 243,
+"h24_M": 3.984146467645,
+"h24_sorties_M": 1.831010176553,
+"ensuite_M": 2756.754419555408,
+"traces": [
+21919,
+42,
+2168.86586752479
+],
+"non_traces": [
+5277,
+1122,
+676.609563742087
+],
+"non_traces_1M": {
+"apres": [
+102,
+274.442688371927
+]
+},
+"nommes": 0,
+"compense_AtZjv3Du_M": 84.536865243824
+},
+"residuels": {
+"somme_flux_M": 906.4573497846094,
+"somme_soldes_M": 656.0433067567787,
+"ancien_flux_M": 937.1396512443516,
+"wallets_partiels_rupture": 502,
+"wallets_avec_rupture": 1163,
+"7gEQ6syD": [
+122.27909346334,
+0.0
+],
+"HGs9NdwD": [
+34.348825652494995,
+0.0
+],
+"dmaga_all_tronques": 20,
+"cas_6t2dz4jm": [
+0.0,
+0.0
+],
+"pools_fin_M": 432.175894442776,
+"offre_hors_pools_fin_M": 567.824105557224
+},
+"fonds": {
+"parts": {
+"sans_etiquette": {
+"n": 16936,
+"wallets": 392,
+"sol": 558722.5287544818,
+"pct": 42.44018523586029
+},
+"jupiter": {
+"n": 7064,
+"wallets": 205,
+"sol": 270546.91479846643,
+"pct": 20.5505605879783
+},
+"service": {
+"n": 33,
+"wallets": 10,
+"sol": 904.6123185499998,
+"pct": 0.06871373962937785
+},
+"pool": {
+"n": 41715,
+"wallets": 334,
+"sol": 291438.62324222055,
+"pct": 22.13748062541271
+},
+"echange": {
+"n": 2209,
+"wallets": 186,
+"sol": 194881.4069733119,
+"pct": 14.803059811119327
+}
+},
+"total_sol": 1316494.0860870306,
+"premier_financeur": {
+"echange": 189,
+"sans_etiquette": 184,
+"jupiter": 114,
+"service": 4
+},
+"cles_doublees_apres_k08": 0,
+"plus_de_100k_sol": 3,
+"sortie_plus_de_100k": 1
+},
+"sorties": {
+"wallets": 65,
+"tronques": 12,
+"service_non_nomme_sol": 93521.6,
+"hot_presume_sol": 25765.7,
+"echanges": {
+"Coinbase 3": 3284.1,
+"Coinbase 1": 2589.2999999999997,
+"Coinbase 2": 2037.6000000000001,
+"Bybit 2": 8523.4,
+"Binance 1": 8051.0
+},
+"echanges_sol": 24485.399999999998,
+"service_avant_sol": 175427.1,
+"sortis_de_la_liste": [
+[
+"4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S",
+82193.59999999999
+],
+[
+"7dY2yLDbFxUCdBUMLiNJVz9Mq1PfetrDjr9GXAMnMM4J",
+612.3
+]
+],
+"entres_dans_la_liste": [
+[
+"7uRDe43iDncwEESfHvyxqYw3tzaVZgvCQn67x3xYyQeY",
+1145.8
+],
+[
+"BBcYhznjGjWVNVhaVGC5oBdkipydkjmqsiNciadXBXbY",
+0.7
+]
+]
+},
+"cohortes_tous": {
+"wallets": 71706,
+"apres_musk": 53960,
+"apres_musk_realise_pos": 18247,
+"apres_musk_plus_01": 9816,
+"apres_musk_poussiere": 876,
+"avant_visuel": 1645,
+"avant_musk": 77,
+"fenetre": 18
+},
+"cohortes_rapports": {
+"wallets": 71682,
+"apres_musk": 53956,
+"apres_musk_realise_pos": 18247,
+"apres_musk_plus_01": 9816,
+"apres_musk_poussiere": 876,
+"avant_visuel": 1645,
+"avant_musk": 77,
+"fenetre": 18
+},
+"k03": {
+"swap_other_vault_mobile_n": 0,
+"swap_other_vault_mobile_tx": 0,
+"swap_other_vault_mobile_sol": 0.0,
+"swap_gpmz_n": 0,
+"swap_gpmz_ecart_sol": 0.0
+},
+"deja_acheteurs": {
+"acheteurs": 184,
+"deja": 107,
+"dans_6h": 51
+},
+"sommet": {
+"capitalisation_sol": 631363.6344070145,
+"t": 1721638906,
+"heure": "09:01:46"
+},
+"totaux": {
+"wallets": 71706,
+"realise": 97163.12689221205,
+"achete": 788489.3260996883,
+"vendu": 784000.7734228747,
+"avant": {
+"wallets": 71706,
+"realise": 100128.34515383246,
+"achete": 790223.124394038,
+"vendu": 785853.8200931353
+}
+},
+"groupe": {
+"realise": 5469.823394159433,
+"realise_avant": 5593.99515525452,
+"achete_sol_avant_musk": 158.53931498,
+"achete_M_avant_musk": 359.78892884232
+},
+"wallets": {
+"H3": {
+"apres": 5490.857501978003,
+"avant": 5490.857501978003
+},
+"GX": {
+"apres": 2540.1018791340052,
+"avant": 2540.1018791340052
+},
+"P9": {
+"apres": 1747.8044769645671,
+"avant": 1747.8044769645671
+},
+"Q": {
+"apres": 74.17074246375562,
+"avant": 74.17074246375562
+},
+"C": {
+"apres": 0.0,
+"avant": 0.0
+},
+"ET8ZG5zA": {
+"apres": 203.632332354,
+"avant": 359.140285007
+},
+"Akp46Dic": {
+"apres": 268.704904648,
+"avant": 364.491401232
+},
+"C7i9beNH": {
+"apres": 378.0059738709999,
+"avant": 404.54612845899993
+},
+"5FzhCSWL": {
+"apres": 187.90619123800042,
+"avant": 144.5770238061237
+},
+"DswkYbBh": {
+"apres": 4.410889210000084,
+"avant": 93.61341513555085
+}
+},
+"top100": {
+"communs": 97,
+"top10_identique": true,
+"entrants": [
+[
+"7uRDe43iDncwEESfHvyxqYw3tzaVZgvCQn67x3xYyQeY",
+16
+],
+[
+"BBcYhznjGjWVNVhaVGC5oBdkipydkjmqsiNciadXBXbY",
+32
+],
+[
+"CQQqZgro3PwGgD23vtWCeneQzVBYQ9Yn4bqBdyYpYeDR",
+94
+]
+],
+"sortants": [
+[
+"D4zVhwuUsFbcaty7wJhNEZ7VEwPHXQ5d2heXPxM5yWhL",
+98
+],
+[
+"9Q2iQTt6wPSCF3PddwWgMJceFmgtKa9Dqz3MSyhYp35D",
+99
+],
+[
+"CtXRQVs2iNvufASRLGatP8xjaKQFen9QxKtHojwgaxGw",
+100
+]
+]
+},
+"habp": {
+"aretes_avec_groupe": 1,
+"wallets": 34,
+"aretes": 41,
+"solde_T_M": 0.0
+},
+"hx": {
+"M_vers_createur": 7.397559349597001,
+"qty_jetons": 7397559.349597001
+},
+"labels": {
+"noeuds": {
+"cex": 2,
+"router": 18,
+"venue": 30,
+"wallet": 23811,
+"hub": 41,
+"service": 4
+},
+"noeuds_avant": {
+"cex": 12,
+"router": 18,
+"venue": 30,
+"wallet": 23811,
+"hub": 41
+},
+"etiquettes": 158
+},
+"groupe_inchange": {
+"membres_identiques": true,
+"aretes_identiques": true
+}
+}
+garde : fini, code 0, pic 707 Mo
+=== 13:55:29 scripts/rep_70_reports.py
+TOP_TRADERS 100 EARLY_BUYERS 1000 6 h avant visuel 25 visuel à Musk 25
+garde : fini, code 0, pic 0 Mo
+=== 13:55:31 scripts/rep_72_links.py
+COORDINATION et ATTRIBUTION écrits 5 virements de préparation, 5 lignes de lien
+garde : fini, code 0, pic 0 Mo
+=== 13:55:33 scripts/rep_75_timeline.py
+lignes 37 sommet 22/07 09:01 631364
+garde : fini, code 0, pic 972 Mo
+=== 13:55:54 scripts/rep_80_viz.py
+viz/index.html 116 Ko posts 170 noeuds 98 arêtes 199
+garde : fini, code 0, pic 128 Mo
+=== 13:55:58 scripts/rep_90_case.py
+CASE_REPORT 24544 ; butler 3.91 h ; comparaisons 33 ; n05 13 ; rang 33
+garde : fini, code 0, pic 0 Mo
+=== 13:56:00 scripts/chk_90_selfcheck.py
+lignes de trades doublées : 0 (groupes 0)
+références vérifiées: 1707, absentes des données: 0
+garde : fini, code 0, pic 728 Mo
+=== 13:56:06 FIN_OK

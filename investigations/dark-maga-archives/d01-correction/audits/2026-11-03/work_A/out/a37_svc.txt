@@ -1,0 +1,12 @@
+signataires 45 [('CPUvH6fYkpYBK5raccquTMNJAGc6eQ37VVqBgHq3hwjp', 326, 1721237375, 1728227493), ('CYSX1Etwgq2hUut2gkGULWUTVKy4rFL8xgY54isDhL3E', 104, 1721242199, 1728171011), ('E2gLDCZUkbALZgmK4EVAbJCtp7VD4nAXFtun4zqLV8Wz', 98, 1721159608, 1728177429), ('6r8CqiPG63qFwHoPyUhrnz2DtMNyiKrkFQC6BZ2V4Xe8', 96, 1720965081, 1728207283), ('6aNfYRTCrBSTAYtt1ePan8nbEHMcoxMkE1VuCGqkWK6H', 94, 1721591314, 1728226037), ('7fvngpeCKuqePiUMBNV7iPE7uH3NA21tAkSZzLtn6j9W', 92, 1721159502, 1728181128), ('GdBYTTD2WLhaG8tnN4ZpeghpqUU97Kn76ZbryNYoboEM', 90, 1721093618, 1728199363), ('WjjW5SeH4t4RAgMVcrmx5mrzqHhuFjZ7r6k5sstxFaV', 88, 1721067946, 1728228964), ('Dd8RiJ8ANjbi61Ap8WwLD4VVrKewZgPKBac7A8XraRch', 88, 1721082248, 1728204810), ('C9Wxwm81vc5vZ2KdkGAeC4PprDxyNsiLqPvccfu175qh', 88, 1720928488, 1728225944), ('933LWDrvp2nmEZLLff75yyVHpJ7vRMiYhgavTRkf6BYh', 86, 1721240128, 1728187222), ('9s5E1e91nLQDfjH8uwU6MvAckt5cAgLekNJg7dXJ46NW', 86, 1721605967, 1728166031)]
+dans le groupe de 33 []
+wallets nommés []
+dans le top 100 réalisés []
+réalisé cumulé des signataires, nb (9.0, 14635.0, 14645.0, 45, 1720927663)
+top [('CPUvH6fYkpYBK5raccquTMNJAGc6eQ37VVqBgHq3hwjp', 1.0, 2219.0, 2219.0, 85, 85, 1721237375), ('4AVe3VMDWnfwxo3Ydi4N8m411TvPwe3BjXmPnRg4GU4a', 0.0, 1017.0, 1018.0, 19, 19, 1721061194), ('CRkHxYzDzR2yJpJUH2fEiMV3Vfo2yJ4t2kPBygvn85cZ', 0.0, 573.0, 573.0, 19, 19, 1721338335), ('5TjNWUQRtXpsNRgtxonLbUNgB39uYfKutSJsyajpfgsj', 0.0, 569.0, 569.0, 22, 22, 1721602796), ('8kfdvbYMZJY3vF7yZfomN1dPwkzTJVxSmYgex7hE4Rmh', 0.0, 496.0, 496.0, 16, 16, 1721603493), ('8fqhaeWt3q4T2ty1aa8ZNsuizQBYdbm9AGsYMHe6Rc6h', 0.0, 436.0, 437.0, 24, 24, 1721622537), ('AMbH5m2Kvmm2y2qcFBi2anXVQu1z7iAtvrA2t5K2Fm3n', 0.0, 384.0, 384.0, 26, 26, 1721593322), ('7fvngpeCKuqePiUMBNV7iPE7uH3NA21tAkSZzLtn6j9W', 0.0, 379.0, 379.0, 23, 23, 1721159502), ('9yxEQsmpYZWBhWXFUcpAMguUzNDxg3nUBQEcmNSrakDf', 0.0, 374.0, 374.0, 22, 22, 1721580864), ('8fkDb3TRbtkFNbFyYUfwPXoF1Boqp2xQrePbpqh5csB5', 0.0, 338.0, 338.0, 26, 26, 1720939743)]
+3 h avant S achats SOL en tx 3GMsedVP, total, part %, propriétaires (11.3, 254.1, 4.44, 2)
+24 h avant S achats SOL en tx 3GMsedVP, total, part %, propriétaires (26.2, 1075.8, 2.44, 5)
+3 h avant Winig achats SOL en tx 3GMsedVP, total, part %, propriétaires (15.0, 507.9, 2.95, 4)
+24 h après borne haute achats SOL en tx 3GMsedVP, total, part %, propriétaires (7619.9, 194421.5, 3.92, 44)
+toute l'histoire achats SOL en tx 3GMsedVP, total, part %, propriétaires (24537.4, 787109.3, 3.12, 46)
+garde : fini, code 0, pic 314 Mo

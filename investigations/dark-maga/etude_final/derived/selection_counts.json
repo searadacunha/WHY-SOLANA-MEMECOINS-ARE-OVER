@@ -1,0 +1,24 @@
+{
+ "retenu_superset": 245,
+ "pas_de_pic": 12809,
+ "hors_bande": 453,
+ "tronque_sans_pic": 135,
+ "reporte_budget": 278,
+ "moins_de_20_swaps_primary": 1,
+ "moins_de_20_swaps_R3_S_moins_1h": 2,
+ "moins_de_20_swaps_R1_10x": 1,
+ "moins_de_20_swaps_R2_bande_large": 1,
+ "swaps_manquants": 0,
+ "parse": {
+  "ruptures": 0,
+  "tx": 15852824,
+  "lp": 3458,
+  "sens_opposes_ignores": 21559,
+  "parts_de_frais": 469433,
+  "swaps": 11878474,
+  "sans_vault": 3581605,
+  "non_signataire_deux_cotes": 394814,
+  "sans_beneficiaire": 389287,
+  "qty_differente_du_vault": 14461
+ }
+}

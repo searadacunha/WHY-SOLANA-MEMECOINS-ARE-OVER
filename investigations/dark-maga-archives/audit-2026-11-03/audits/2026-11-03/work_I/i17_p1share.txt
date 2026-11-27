@@ -1,0 +1,9 @@
+P1 entier, 46 wallets: dénominateur 3479.2 ; vers les 2 dépôts 3138.6 = 90.2 % (9W9b 878.6, Caw4 2260.0) ; wallets 46
+P1 après le mint: dénominateur 3066.6 ; vers les 2 dépôts 2876.4 = 93.8 % (9W9b 648.0, Caw4 2228.4) ; wallets 44
+P1 avant le mint: dénominateur 412.6 ; vers les 2 dépôts 262.3 = 63.6 % (9W9b 230.6, Caw4 31.6) ; wallets 15
+série + créateur, seuls définis sans le dépôt: dénominateur 1225.4 ; vers les 2 dépôts 1185.8 = 96.8 % (9W9b 312.2, Caw4 873.6) ; wallets 15
+série + créateur après le mint: dénominateur 1225.2 ; vers les 2 dépôts 1185.8 = 96.8 % (9W9b 312.2, Caw4 873.6) ; wallets 15
+hors série : expéditeurs de 9W9b, définis par le dépôt: dénominateur 2253.8 ; vers les 2 dépôts 1952.8 = 86.6 % (9W9b 566.4, Caw4 1386.4) ; wallets 31
+destinations hors dépôts de série + créateur [('6dtexZ9Emu', 17.0), ('7Gw3gL8mq7', 5.51), ('EvatZzJchV', 5.02), ('3uheHerVJu', 4.5), ('Bt7SaDU6WF', 2.25), ('7rMagzrQ4v', 1.23), ('FnG4wB33kj', 1.0), ('5u1e8jpBD4', 1.0), ('41AB3kqsKJ', 1.0), ('HWXgY2X4sU', 0.32), ('HJdxrQ1roo', 0.29), ('9iVx8sZJ4d', 0.2)]
+série lue 15 sur 15 hors P1 []
+destinations hors dépôts de P1 [('DxWHHkJeWH', 43.3), ('9AwHqxhUtn', 25.0), ('Cr8oGfjwRn', 23.86), ('B2nimzEFTX', 20.0), ('DxY7bGdsGk', 20.0), ('Da34aTRNs6', 17.58), ('6dtexZ9Emu', 17.0), ('Afw81rvvhB', 13.17), ('9gvgy4vDJv', 12.03), ('4JrabSska1', 11.5), ('7xqSQnbFbJ', 10.0), ('4oaoAUdacK', 9.8)]

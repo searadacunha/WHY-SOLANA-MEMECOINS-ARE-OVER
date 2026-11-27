@@ -1,0 +1,26 @@
+activity.jsonl 12265211 2026-11-03 00:47:04
+migrations.jsonl 5338635 2026-11-02 23:06:24
+selection.jsonl 5038694 2026-11-03 03:24:24
+swaps dir 2026-11-03 03:23:40
+swaps_stats.jsonl 65125 2026-11-03 03:23:46
+13920 Counter({'pas_de_pic': 12809, 'hors_bande': 453, 'reporte_budget': 278, 'retenu_superset': 245, 'tronque_sans_pic': 135})
+primaire au sens du plan 213 Counter({'retenu_superset': 213})
+primaire tronque 64
+tronque_sans_S20 5 Counter({'reporte_budget': 5})
+DMAGA {'pool': 'CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k', 'mint': '7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump', 'created': 1720923331, 'S20': 1721588400, 'S10': 1721588400, 'truncated': True, 'vault_token': '5HuEsLbebeuottMsFW3hHcXTrKVsu3WUNSQnSr6aX4eL', 'vault_sol': '3p7DbnWekWjtMQkey6fp1emdwXbAAxecnYuD5eU9ZZPH', 'tronque_sans_S20': False, 'fdv_s20': 1294134.7747934193, 'fdv_s10': 1294134.7747934193, 'status': 'retenu_superset'}
+migrations 13920 ['mint', 'pool', 'vault_token', 'vault_sol', 'created', 'slot', 'signature'] 1718409763 1725148196 2024-06-15 00:02:43 2024-08-31 23:49:56
+Counter({'R2_bande_large': 241, 'R1_10x': 213, 'primary': 212, 'R3_S_moins_1h': 211})
+k 211 jours 84
+M1 39.867 0.1698 rang 36
+M2 9.371 0.184 rang 39
+M3 0.68 0.2406 rang 51
+M4 0.308 0.5472 rang 116
+M5 433.798 0.2642 rang 56
+M6 0.205 0.1557 rang 33
+M7 0.138 0.1792 rang 38
+meilleur p 0.15566037735849056 rang 33
+Holm seuil 0.05/7 0.0071428571428571435
+mints uniques 212 pools uniques 212
+hist selection fenetre plan: created min/max 2024-06-16 2024-08-31
+DMAGA S 1721588400 created 1720923331 fdv 1294134.77 n_swaps 2575 n_buyers 288
+fdv hors bande primary 0

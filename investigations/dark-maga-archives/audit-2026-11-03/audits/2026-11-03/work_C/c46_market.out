@@ -1,0 +1,30 @@
+comptes (1844, 1084.532348487527)
+par proprietaires services [('raydium', 1, 61.996352376325), ('hub', 11, 33.343700886079), ('migration', 1, 0.0), ('curve', 1, 0.0), ('venue', 1, 1.05e-10), ('router', 2, 0.000994991233)]
+top proprietaires [('5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1', 61.996352376325), ('6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M', 26.653925365216), ('EaoxyxgjUZvksR57aNy2jHWno3DCBNQU4dd4BWhgk66w', 26.354876), ('NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7', 26.23), ('8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh', 23.40850492081), ('CEzjbQqAa5741cJHDstH5Czt4xNiPgLHwax6av449Jyy', 22.668689882618), ('6Lomz4sdWdAwCKmjc8wHFhEHAPDwa5KEmxi1ziEWXp9G', 20.100000198667), ('HGBiExZRtD2TZdQLWHE9azkTSmE2z7ygKqZMtehJDKYU', 20.1), ('5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd', 19.274396344425), ('99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb', 19.031996094744), ('APfA9dgxbnLGw4gexrJNDMU7XdS1juHP4fbATDi84sK', 18.879206), ('9SHtoDswbWxmqyFm2CYj6fcJgnQMgefG1ZtwerEg2BZZ', 17.905738706896)]
+non pools (brut, hors raydium, courbe, venues, migration) 1022.535996111097
+non pools hors tous services 989.191300233785
+groupe brut (ta) (33, 301.573365841869)
+report trades pos (298.573365841869, 217.03650059804502)
+ventes marche trades [('raydium', 22494, 22494, 145520.918761897, 0.0), ('5Q544fKr+9UsmwVmb', 506, 506, 18096.694337755, 0.0), ('5Q544fKr+Eqe7fgb5', 207, 207, 10389.62742245, 0.0), ('9UsmwVmb', 1320, 1320, 5771.207834867, 0.0), ('5Q544fKr+7UsfbqGu', 118, 118, 3664.745522681, 0.0), ('Eqe7fgb5', 450, 450, 3140.902547275, 0.0), ('9UsmwVmb+Eqe7fgb5', 21, 21, 1432.785578549, 0.0), ('5Q544fKr+D55ba7tz', 60, 60, 826.877455807, 0.0), ('7UsfbqGu', 173, 173, 421.637722384, 0.0), ('7UsfbqGu+9UsmwVmb', 15, 15, 233.442934927, 0.0), ('5Q544fKr+7UsfbqGu+Eqe7fgb5', 4, 4, 168.085118702, 0.0), ('7UsfbqGu+Eqe7fgb5', 6, 6, 117.935463015, 0.0), ('5Q544fKr+EsBR4VnY', 10, 10, 116.176115613, 0.0), ('5Q544fKr+9UsmwVmb+Eqe7fgb5', 3, 3, 105.515100784, 0.0), ('D55ba7tz', 297, 297, 103.295138733, 0.0), ('5Q544fKr+7UsfbqGu+9UsmwVmb', 2, 2, 101.038101962, 0.0), ('9UsmwVmb+D55ba7tz', 5, 4, 63.511831972, 0.0), ('5Q544fKr+FvMop2PX', 6, 6, 52.003391758, 0.0), ('5Q544fKr+9bFaJGwK', 2, 2, 39.337396911, 0.0), ('5Q544fKr+D55ba7tz+Eqe7fgb5', 3, 3, 38.306743829, 0.0), ('Eqe7fgb5+FvMop2PX', 2, 2, 37.504025736, 0.0), ('FvMop2PX', 57, 57, 29.708640303, 0.0), ('5Q544fKr+Eqe7fgb5+FvMop2PX', 1, 1, 18.195791055, 0.0), ('5Q544fKr+9mywe6w1', 2, 2, 16.80494116, 0.0), ('EsBR4VnY', 24, 24, 12.279208931, 0.0), ('7UsfbqGu+FvMop2PX', 1, 1, 9.168316565, 0.0), ('7UsfbqGu+D55ba7tz', 1, 1, 8.451646313, 0.0), ('9UsmwVmb+FvMop2PX', 1, 1, 6.693106526, 0.0), ('5Q544fKr+EF6Qsnor', 1, 1, 5.241136031, 101.38933), ('D2r7Vt8B', 67, 67, 1.335391181, 0.0), ('3YrfVhVF', 1, 1, 0.524817092, 0.0), ('28LBcWbC', 2, 2, 0.445977462, 0.0), ('HMYYpkME', 6, 6, 0.338072309, 0.0), ('9mywe6w1', 1, 1, 0.254431722, 0.0), ('4A4m6Kb7', 13, 13, 0.12390705, 0.0), ('5HL59XiC', 1, 1, 0.036755795, 0.0), ('CniCMWDG', 3, 3, 0.016190587, 0.0), ('2Tnk6rgU', 4, 4, 0.0, 194.693842), ('GiN2Ke54', 7, 7, 0.0, 0.474484), ('EF6Qsnor', 6, 6, 0.0, 109.496193)]
+tx multi-lignes (1, 38.070645054)
+sol vault raydium trades (None,)
+achats meme fenetre (194396.973038884,)
+detenteurs >=1 M hors services (137, 945.1736051860001, 301.5733658418691, 27)
+24h par groupe/kind (sorties, entrees, wallets) [(False, 'lp_add', 0.013803711608, 0.0, 1), (False, 'lp_remove', 0.0, 0.305090059436, 1), (False, 'swap', 224.951216030366, 17.435863066447997, 66), (False, 'transfer', 43.993591072357994, 21.995658583439997, 23), (True, 'swap', 47.80351164894999, 0.0, 9), (True, 'transfer', 43.113992307305, 6.599493906545, 8)]
+held par groupe [(False, 110, 643.600239344131), (True, 27, 301.5733658418691)]
+EaoxyxgjUZ 26.35 0.0 0.0
+CEzjbQqAa5 22.67 20.2 0.0
+6Lomz4sdWd 20.1 13.78 0.0
+APfA9dgxbn 18.88 0.0 0.0
+9SHtoDswbW 17.91 0.0 0.0
+H3QsBrrivi 16.82 15.69 0.0
+EEdq9Cw2GB 16.35 1.6 0.0
+4GVoqTXYLR 16.23 16.23 0.0
+BteHCeVLvb 15.61 0.0 0.0
+6QFDe4yu9m 15.39 0.0 0.0
+8Jzeow7v4h 15.26 11.14 0.0
+8LCVMEQaJ8 15.0 1.0 13.0
+7GVCZAYG5N 14.24 0.0 0.0
+DfJHvjBpby 14.24 2.24 0.0
+FSzufLkuim 13.0 0.0 0.0
+garde : fini, code 0, pic 50 Mo

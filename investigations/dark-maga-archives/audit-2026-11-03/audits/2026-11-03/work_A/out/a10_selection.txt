@@ -1,0 +1,42 @@
+migrations lignes 13920 pools distincts 13920 mints distincts 13920
+créations min/max 1718409763 1725148196
+mints finissant par pump 12241
+DMAGA migration {'mint': '7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump', 'pool': 'CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k', 'vault_token': '5HuEsLbebeuottMsFW3hHcXTrKVsu3WUNSQnSr6aX4eL', 'vault_sol': '3p7DbnWekWjtMQkey6fp1emdwXbAAxecnYuD5eU9ZZPH', 'created': 1720923331, 'slot': 277419045, 'signature': '2zmB9nbUp6FJrymbnHJ8f4sxzqtkGTiaCCb3VHABS6UC9nkjvWb4mnbftzBtUoTxpNvwEuWC19hmfqhchEiCuTMc'}
+activity lignes 13920 pools distincts 13920 invalides 0
+tronqués 253 avec n_late>=500 2178 n_late==1000 1699 pages max 150
+écart de création migrations/activity voir plus bas
+écart de création 0
+selection lignes 13920 pools distincts 13920
+statuts Counter({'pas_de_pic': 12809, 'hors_bande': 453, 'reporte_budget': 278, 'retenu_superset': 245, 'tronque_sans_pic': 135})
+DMAGA S20 1721588400 S10 1721588400 sel 1721588400 1721588400 fdv 1294134.7747934193 1294134.7747934193 tronqué True pages 150 statut retenu_superset
+  heure 1721566800 n 119 med72 7.0 ratio 17.0
+  heure 1721570400 n 269 med72 7.0 ratio 38.4
+  heure 1721574000 n 112 med72 7.0 ratio 16.0
+  heure 1721577600 n 296 med72 7.0 ratio 42.3
+  heure 1721581200 n 289 med72 7.0 ratio 41.3
+  heure 1721584800 n 95 med72 7.5 ratio 12.7
+  heure 1721588400 n 1719 med72 8.0 ratio 214.9
+  heure 1721592000 n 2463 med72 8.0 ratio 307.9
+écarts S20 0 S10 0 []
+S20 dans la bande principale, tous statuts Counter({'retenu_superset': 213}) total 213
+fdv_s20_absent 0 fdv_s10_absent 0
+swaps_stats lignes 245 pools distincts 245
+fichiers swaps 245
+retenus sans parquet 0
+parquets hors retenus []
+ruptures>0 []
+metrics lignes 877 Counter({'R2_bande_large': 241, 'R1_10x': 213, 'primary': 212, 'R3_S_moins_1h': 211})
+metrics pools hors migrations 0 mints incohérents 
+mints incohérents 0 S incohérents primary 0
+primary dans la bande mais absent de metrics ['9zYTt7NmwcNSt6NpFthERmQJSi3xDQ3ZXZ2aFe8DbyvL']
+primary sans vs avec n_swaps 31 201992
+DMAGA ligne [{'pool': 'CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k', 'mint': '7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump', 'variant': 'primary', 'S': '1721588400', 'created': '1720923331', 'fdv_usd': '1294134.77', 'is_dmaga': 'True', 'M1': '39.86686096588437', 'M2': '9.370579076222857', 'M3': '0.6797082407082011', 'M4': '0.30786986634760455', 'M5': '433.79790940766554', 'M6': '0.2045728546549359', 'M7': '0.13786639019626648', 'n_swaps_before': '11482', 'n_swaps_96h': '2575', 'n_buyers_24h': '288'}]
+jours distincts de pic 84 S min/max 1718949600 1728943200
+tronqués retenus primary 64
+stats sur primary {'ruptures': 0, 'tx': 14883168, 'lp': 3374, 'sens_opposes_ignores': 21346, 'parts_de_frais': 414272, 'swaps': 11289474, 'sans_vault': 3228116, 'non_signataire_deux_cotes': 367300, 'sans_beneficiaire': 362204, 'qty_differente_du_vault': 13962}
+DMAGA stats {'pool': 'CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k', 'ruptures': 0, 'tx': 13080, 'lp': 3, 'sens_opposes_ignores': 48, 'parts_de_frais': 1222, 'swaps': 12800, 'sans_vault': 25, 'non_signataire_deux_cotes': 252, 'sans_beneficiaire': 252, 'qty_differente_du_vault': 27}
+sans_vault part par pool : médiane 0.0047 p90 0.2599 DMAGA 0.0019 rang DMAGA 140
+non_signataire_deux_cotes part par pool : médiane 0.0195 p90 0.0772 DMAGA 0.0193 rang DMAGA 107
+sans_beneficiaire part par pool : médiane 0.0195 p90 0.0762 DMAGA 0.0193 rang DMAGA 107
+qty_differente_du_vault part par pool : médiane 0.0008 p90 0.0042 DMAGA 0.0021 rang DMAGA 55
+parts_de_frais part par pool : médiane 0.0504 p90 0.1286 DMAGA 0.0934 rang DMAGA 39

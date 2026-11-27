@@ -1,0 +1,6 @@
+REDACTED_HOME/Projects/Dark-MAGA-Investigation/audits/2026-11-03/work_A/a04_metrics.py:89: UserWarning: Arrow output on a DB-API result makes an extra copy of the rows, use con.sql(query).to_arrow_table() instead.
+  tb = con.execute(f"SELECT t, slot, tx_index, owner, qty, sol, vault_pre FROM read_parquet('{A}/a03_lines.parquet') WHERE pool=? ORDER BY slot, tx_index", [pool]).to_arrow_table()
+REDACTED_HOME/Projects/Dark-MAGA-Investigation/audits/2026-11-03/work_A/a04_metrics.py:89: UserWarning: Arrow output on a DB-API result makes an extra copy of the rows, use con.sql(query).to_arrow_table() instead.
+  tb = con.execute(f"SELECT t, slot, tx_index, owner, qty, sol, vault_pre FROM read_parquet('{A}/a03_lines.parquet') WHERE pool=? ORDER BY slot, tx_index", [pool]).to_arrow_table()
+fini
+garde : fini, code 0, pic 823 Mo

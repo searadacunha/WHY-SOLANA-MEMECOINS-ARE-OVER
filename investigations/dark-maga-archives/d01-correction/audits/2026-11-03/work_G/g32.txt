@@ -1,0 +1,75 @@
+== G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E
+  avant_mint in {'SOL': 41.32} contreparties 7 ; top [('4EishudC', '', 1, 21.76), ('ASTyfSim', 'MEXC 1', 2, 5.95), ('3CAbLBvB', '', 1, 4.0), ('Ex5UkpSm', '', 1, 4.0), ('6TDHRomj', '', 1, 2.5), ('Fbyt3nao', '', 1, 2.0), ('NxtXcmEW', '', 1, 1.11)]
+  avant_mint out {'SOL': 57.4} contreparties 18 ; top [('AQVgyg8P', '', 2, 23.0), ('Fbyt3nao', '', 3, 8.0), ('NxtXcmEW', '', 2, 8.0), ('GFpqfjEQ', '', 2, 5.0), ('7h4A6tLt', '', 1, 3.9), ('EZXUvi4X', '', 2, 3.5), ('4upmFYy6', '', 1, 0.5)]
+  mint_a_musk in {} contreparties 0 ; top []
+  mint_a_musk out {'SOL': 11.0} contreparties 2 ; top [('AW63YBXX', '', 2, 6.0), ('GFpqfjEQ', '', 1, 5.0)]
+  premier financeur 2023-12-26 17:17:02 ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ MEXC 1 3.97 3BRXqbdMivoxordf9XkfWotkA3cTU7hausrP4twYFrpaGinyGGa8kqVCAV6NwyQHCD2cdaDtyR764GoiC5Sxbjrj
+== 74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb
+  avant_mint in {'SOL': 118.75} contreparties 5 ; top [('DYH5edZK', '', 18, 79.02), ('AtZjv3Du', '', 3, 20.84), ('35nAuv6j', '', 3, 10.27), ('5tzFkiKs', 'Binance 1', 3, 8.48), ('45i7PmS9', '', 2, 0.15)]
+  avant_mint out {'SOL': 214.5, 'USDC': 2820.0} contreparties 12 ; top [('9FTWDMJz', '', 7, 65.22), ('DYH5edZK', '', 23, 61.73), ('By6Dao4Q', '', 1, 54.0), ('AtZjv3Du', '', 4, 21.11), ('6t2dz4jm', '', 2, 6.67), ('2voRiLKP', '', 2, 2.72), ('C7i9beNH', '', 1, 1.5)]
+  mint_a_musk in {'SOL': 3.03} contreparties 2 ; top [('GPMYCuus', '', 1, 3.0), ('AtZjv3Du', '', 1, 0.03)]
+  mint_a_musk out {'SOL': 4.0} contreparties 1 ; top [('By6Dao4Q', '', 1, 4.0)]
+  premier financeur 2024-03-11 23:00:55 45i7PmS9TvZAsrDjJY5sGo6ATiD8aPi2jCxCyaGMVTHy None 0.13 45iPEm8cdYi3m4Ho4iEN731MHs4gpuSZXaYjVyd6zJ6iwgzuJ3Tr9ejtk5F8pm4urfnU1wQfsX38hcWynCSAfago
+== AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk
+  avant_mint in {'SOL': 21.11, 'USDC': 2820.0} contreparties 2 ; top [('74qFhHyp', '', 4, 21.11), ('74qFhHyp', '', 2, 2820.0)]
+  avant_mint out {'SOL': 50.18} contreparties 10 ; top [('74qFhHyp', '', 3, 20.84), ('DYH5edZK', '', 4, 10.3), ('6t2dz4jm', '', 3, 10.29), ('A8Ym6zQU', '', 1, 4.0), ('83mQ1eNN', '', 2, 2.5), ('By6Dao4Q', '', 1, 2.0), ('96gYZGLn', '', 2, 0.1)]
+  mint_a_musk in {'SOL': 2.45} contreparties 1 ; top [('35nAuv6j', '', 1, 2.45)]
+  mint_a_musk out {'SOL': 0.18} contreparties 3 ; top [('Akp46Dic', '', 1, 0.1), ('35nAuv6j', '', 1, 0.05), ('74qFhHyp', '', 1, 0.03)]
+  premier financeur 2024-06-05 10:13:44 74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb None 0.01 28AmwGWw8ziizsFUAUxmdG7o3mZX7jnCJjwjfqF2dxxuTa3sjbVP4Wv7Mg2q2ESLbm4xEpYYtZrYnPvHZo9mPKSd
+== NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7
+  avant_mint in {'SOL': 12.28} contreparties 3 ; top [('G41vRrsH', '', 2, 8.0), ('GFpqfjEQ', '', 2, 2.92), ('ASTyfSim', 'MEXC 1', 1, 1.36)]
+  avant_mint out {'SOL': 34.98} contreparties 7 ; top [('GFpqfjEQ', '', 4, 12.5), ('Fbyt3nao', '', 4, 10.4), ('AQVgyg8P', '', 1, 6.0), ('SfBv8u9t', '', 1, 2.0), ('5ZBfaWKt', '', 2, 1.64), ('2VTfi1DK', '', 1, 1.33), ('G41vRrsH', '', 1, 1.11)]
+  mint_a_musk in {} contreparties 0 ; top []
+  mint_a_musk out {'SOL': 0.9} contreparties 1 ; top [('GFpqfjEQ', '', 1, 0.9)]
+  premier financeur 2024-03-26 00:37:02 ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ MEXC 1 1.36 2sVqDmXywVbcN4c9vHwkkkLGSEm4htnq9VjrA2Ukr5iTAj5baXxH4a8CmSVdBhAhjBvQRayy1XEaxa6XWYdasF34
+== GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p
+  avant_mint in {'SOL': 17.5} contreparties 2 ; top [('NxtXcmEW', '', 4, 12.5), ('G41vRrsH', '', 2, 5.0)]
+  avant_mint out {'SOL': 2.92} contreparties 1 ; top [('NxtXcmEW', '', 2, 2.92)]
+  mint_a_musk in {'SOL': 5.9} contreparties 2 ; top [('G41vRrsH', '', 1, 5.0), ('NxtXcmEW', '', 1, 0.9)]
+  mint_a_musk out {} contreparties 0 ; top []
+  premier financeur 2024-04-10 17:02:43 NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7 None 1.0 2PZpeHJCpqgoaDjdVphfanCvrXAjD94Pv3mjHx8hktNNXM3JEEqfMLfNTd3N7cv4BSHYXbi4YE94fyJceVnEyD1Z
+composantes à Musk (cibles, pur SOL>=0,05, USD>=5, DMAGA>=100k) [50, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+   G41vRrsH taille comp. 50
+   74qFhHyp taille comp. 50
+   AtZjv3Du taille comp. 50
+   NxtXcmEW taille comp. 50
+   GFpqfjEQ taille comp. 50
+composantes avant mint [['2BLSXbea', '2VTfi1DK', '2mW45kXp', '3ZnQ1fzf', '3jNNcVbH', '4dYxmSbn', '4upmFYy6', '5rTDZb5k', '8xjM4fGg', '9iDacNdy', 'A9PkAtBd', 'ADnZ9NdL', 'B252jsFK', 'CZsBW8yC', 'Cv3p9Wu1', 'D8syomxN', 'DDcEfNQf', 'DfYyxDNE', 'EZXUvi4X', 'F5h42EJq', 'FjuV7mJU', 'G41vRrsH', 'G9uiJWzs', 'GFpqfjEQ', 'HKXb8Lfy', 'HMVYeTjs', 'HQzyBQN8', 'HR3oD1C3', 'HkFSNPjN', 'HkrGvxap', 'NxtXcmEW'], ['35nAuv6j', '6t2dz4jm', '74qFhHyp', 'AtZjv3Du', 'C7i9beNH'], ['9PrmF8sf', 'H9Xezqfd']]
+arêtes du 21/07 dans les 40 19
+   07:57:16 GFpqfjEQ -> FjuV7mJU 6.5 3veEUrS3QLEX
+   08:05:08 GFpqfjEQ -> HkrGvxap 5.5 4dpeM7SmazH2
+   08:15:06 GFpqfjEQ -> HKXb8Lfy 6.0 5WwzrXfzoGFb
+   08:16:07 GFpqfjEQ -> 8xjM4fGg 6.5 5Y8xw5RNMKw8
+   08:17:04 GFpqfjEQ -> ADnZ9NdL 4.5 4o48RsVcAk2v
+   08:18:58 GFpqfjEQ -> 2BLSXbea 4.0 4nZfXnxLLbAq
+   08:24:02 GFpqfjEQ -> ADnZ9NdL 6.5 4vrxTAL9rxMK
+   08:25:14 ADnZ9NdL -> CZsBW8yC 5.0 2SchdeAaMz6E
+   08:27:31 GFpqfjEQ -> HkFSNPjN 6.5 38k1RSPdjmDa
+   08:28:20 GFpqfjEQ -> 2mW45kXp 6.0 sybo7NWx8CnN
+   08:30:38 GFpqfjEQ -> 4upmFYy6 6.0 5VLZXvLgbZhF
+   08:32:13 GFpqfjEQ -> EZXUvi4X 5.2 5LT1iXn8RFaf
+   08:33:36 NxtXcmEW -> GFpqfjEQ 1.0 2epM63ZTNSNS
+   11:10:25 AtZjv3Du -> Akp46Dic 6.0 3hksjHdcYBFM
+   14:22:00 FjuV7mJU -> C73Yv9iH 6.5 27eg3oXLNmEs
+   14:23:52 HkrGvxap -> C73Yv9iH 5.5 3Bo2GkFUGiaF
+   14:24:21 HKXb8Lfy -> BuBXTWEC 6.0 4jCSn4tyzEJs
+   14:24:45 8xjM4fGg -> BuBXTWEC 6.5 2Suy76fcGaPb
+   14:25:44 2BLSXbea -> BuBXTWEC 1.5 5fCYXrqB3Sow
+wallets des gestes 17
+  2BLSXbea ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties [('BuBXTWEC', 'DMAGA', 1500000.0)]
+  2mW45kXp ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties []
+  4upmFYy6 ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties []
+  8xjM4fGg ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties [('BuBXTWEC', 'DMAGA', 6500000.0)]
+  ADnZ9NdL ventes 7 j : n 6 jetons M -325000.0 SOL 18.43 USD 0 | sorties [('CZsBW8yC', 'DMAGA', 5000000.0)]
+  Akp46Dic ventes 7 j : n 51 jetons M -7700000.0 SOL 268.7 USD 0 | sorties [('FQWxzAaw', 'DMAGA', 300000.0), ('7SEoKiBL', 'SOL', 82.1), ('72Pgt5Mr', 'SOL', 50.1), ('C7i9beNH', 'SOL', 0.3), ('FQWxzAaw', 'SOL', 0.1)]
+  AtZjv3Du ventes 7 j : n 8 jetons M -3000000.0 SOL 327.33 USD 0 | sorties [('Akp46Dic', 'DMAGA', 8000000.0), ('Akp46Dic', 'SOL', 100.1), ('72Pgt5Mr', 'SOL', 100.0), ('35nAuv6j', 'SOL', 70.0), ('2UycxkDJ', 'SOL', 28.2), ('83mQ1eNN', 'SOL', 14.1)]
+  BuBXTWEC ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties [('C73Yv9iH', 'DMAGA', 11500000.0), ('FZLmLkf9', 'DMAGA', 2500000.0), ('C73Yv9iH', 'SOL', 2.5)]
+  C73Yv9iH ventes 7 j : n 57 jetons M -19882831.906 SOL 1466.07 USD 0 | sorties [('FZLmLkf9', 'DMAGA', 1713992.3), ('8xEWTFzV', 'SOL', 80.0), ('6tftNakE', 'SOL', 70.0), ('8uLh1gTj', 'SOL', 60.0), ('HAMtTiV3', 'SOL', 50.0), ('GTP8D5bk', 'SOL', 50.0)]
+  CZsBW8yC ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties []
+  EZXUvi4X ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties []
+  FjuV7mJU ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties [('C73Yv9iH', 'DMAGA', 6500000.0)]
+  GFpqfjEQ ventes 7 j : n 5 jetons M -427178.744 SOL 30.28 USD 0 | sorties [('ADnZ9NdL', 'DMAGA', 11000000.0), ('FjuV7mJU', 'DMAGA', 6500000.0), ('HkFSNPjN', 'DMAGA', 6500000.0), ('8xjM4fGg', 'DMAGA', 6500000.0), ('HKXb8Lfy', 'DMAGA', 6000000.0), ('4upmFYy6', 'DMAGA', 6000000.0)]
+  HKXb8Lfy ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties [('BuBXTWEC', 'DMAGA', 6000000.0)]
+  HkFSNPjN ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties []
+  HkrGvxap ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties [('C73Yv9iH', 'DMAGA', 5500000.0)]
+  NxtXcmEW ventes 7 j : n 0 jetons M 0 SOL 0 USD 0 | sorties [('GFpqfjEQ', 'DMAGA', 1000000.0)]

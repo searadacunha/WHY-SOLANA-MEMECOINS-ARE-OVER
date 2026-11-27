@@ -1,0 +1,1828 @@
+{
+ "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC": {
+  "n_sigs_total_seen": 65,
+  "history_complete": true,
+  "n_in_window": 9,
+  "decoded": 9,
+  "rows": [
+   {
+    "utc": "2024-07-14T01:33:05Z",
+    "signature": "4QxgQHNQtkWzir3nr5qZr6CfaWJf7ZUzw3wMoksBUUjLS8nofh9jGT3yDxSrDdMLt3fpUirEPehcHjkA13PKGYky",
+    "ok": true,
+    "signer": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+    "dmaga_delta": 0,
+    "sol_delta": 0.5,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+      "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+      0.5
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T02:06:13Z",
+    "signature": "4rfjA7UXK3xkaXmcPHmBA8HBY7HipbNRCaUJ6HGkFB5h4VfTAD1fqL8iA5oje2fc9GAyhykYQBTbv4NphyJWYNpm",
+    "ok": false,
+    "signer": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+    "dmaga_delta": 0,
+    "sol_delta": -1.6312e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+      "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      0.003
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T02:06:53Z",
+    "signature": "2iZqM53FUN8oHp4VNSeE4fAi6Txm7fg77Fkm8JENvYW1mc35ihwdDfrKKzJ1TaHPaiZp3Bf1saGnKVt9uGmU3xTi",
+    "ok": true,
+    "signer": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+    "dmaga_delta": 7256391.444992,
+    "sol_delta": -0.409055305,
+    "dmaga_counterparties": {
+     "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH": -7256391.444991946
+    },
+    "sol_transfers": [
+     [
+      "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+      "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      0.003
+     ],
+     [
+      "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+      "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH",
+      0.4
+     ],
+     [
+      "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+      "CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM",
+      0.004
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-16T17:18:43Z",
+    "signature": "3MjhVLGGe4xogQZyk3ghJxUZnkzUDEnwgNb1Mjb2ddJf5uU1TceMkdtDb2Mo3fv3QDEmLERoodjoQVguJcAmN29d",
+    "ok": true,
+    "signer": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+    "dmaga_delta": -2000000.0,
+    "sol_delta": -0.00205428,
+    "dmaga_counterparties": {
+     "E3Gwv4p9FGrkEo7XBkcP9BXdJGQdXAbxWg87UkcSqbK4": 2000000.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:28:08Z",
+    "signature": "3yvLsKr9Jo8zvUWQWfMs4HbCeecd9Ude5PjBdRnV5NCvqufjePMY5irChCcqPAj3BgWK3G6PAPkQ1yEnd8krJW88",
+    "ok": true,
+    "signer": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+    "dmaga_delta": -500000.0,
+    "sol_delta": -0.00205428,
+    "dmaga_counterparties": {
+     "2jj58AyEpGSMQuHfCWhmAm9KLiycF4Hnt5CHTRaoYNvF": 500000.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:00:23Z",
+    "signature": "2bHLM1r9t7YAih6rp2QQ8V7Kk4sXYFxGMqfSByj6aHr7KP8wawojaDNDRTLxbVa4rqt9HQCHpS1dbzK3aKERT4uZ",
+    "ok": true,
+    "signer": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+    "dmaga_delta": -1000000.0000000005,
+    "sol_delta": -0.00205428,
+    "dmaga_counterparties": {
+     "HKzkNSH2DmfyowntFnoa1xdUuVH4Yh6bg7z8fer4JSRP": 1000000.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T16:51:30Z",
+    "signature": "3EURbhwpviG9zDhaRmfzbU1dix7o5MLtpbJaesnDAmo5UCaEgmTKQ9eGzmxSow9kK2cmnLsVfRPe5TKwp5DzYgYY",
+    "ok": true,
+    "signer": "8zuES2hLvvXw1QTHrtNcCYMV2DAKhDeXGoZfuiEpwQ3G",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-10T19:03:38Z",
+    "signature": "44muJBqZ91nSbkRNQ9VRbuV1yZtG5qbbCiXFCpbkDhMKV4haPZZNf1k6SjVHhXfwqyKeMgTH8BJ7gjD1kqEqdb9q",
+    "ok": true,
+    "signer": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+    "dmaga_delta": -1999999.9999999998,
+    "sol_delta": -0.00205428,
+    "dmaga_counterparties": {
+     "3GBZzBoEB7EjuPmojrJKwYTox3cuTdc45QTYQfP1TiPR": 2000000.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-13T20:01:50Z",
+    "signature": "5vhWb7X3DnfBbkohC6uc63ZJZS8M6n4d3QxCrLRn8eyxXCiZz5jrisYqja3yGSHRgVgcUtraKmXD93gbd4yvvRL3",
+    "ok": true,
+    "signer": "AirDQKCmQTZeGy18JBFZCHngosGFmvaEuexcW4VW1P9m",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   }
+  ]
+ },
+ "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93": {
+  "n_sigs_total_seen": 73,
+  "history_complete": true,
+  "n_in_window": 72,
+  "decoded": 72,
+  "rows": [
+   {
+    "utc": "2024-07-14T01:33:30Z",
+    "signature": "67gZiXkLDwerix8bnJCoPfY73SRAqK5DzyRALZjdWaz47zWTAoNd2HN7SN9rnNpELpZTaBjEaCG4W3kzGDqAd3PG",
+    "ok": true,
+    "signer": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+    "dmaga_delta": 0,
+    "sol_delta": 0.5,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      0.5
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T02:07:24Z",
+    "signature": "2baB38myvccEoBPsNV1dALpKjNyrawwvuNvpmyJJd3Se1GFxVj2Mvjvxt8Qk8xvg8anku8NgBQocVQ4e11ce9R6V",
+    "ok": false,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.6577e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      0.003
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:00:28Z",
+    "signature": "5JpPPQZnaqRDN2k1cQU9Cwu4eLtRrFcfCeQptpcN4oGq8LhnFbjqrunC6KCbuWKDCnuMvBk899Vk6gd42YrTqwLU",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0.0,
+    "sol_delta": -0.45902966,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.45
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:09:51Z",
+    "signature": "2gugPJ5XqtDuHAM5suhxkY22WCCwNucQbbQmjyW6xW4jsSFg3EfyYK8bm8K2aqU7SXGFNB71SfSB5XKBFWkT9SeW",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0.0,
+    "sol_delta": 0.45697138,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-14T06:10:33Z",
+    "signature": "3zKwcRBeyDXptCEBY8wD5k69c4RgTaZGKTJWGvYhtw9YC8hM8Z5Dz9B5p8xEGSeYz5u84pJrU5dVcxyE8rpzrFy3",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -0.45699038,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.45
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:12:34Z",
+    "signature": "5MnfphjdCQdtzBMf8jFv9Wa94d7LFu5crkf7ZgseMdpmLvAThmFJJBc6GdN9DjB4hhAe9ZtN6SUUuLcWVoDhWk9a",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0.0,
+    "sol_delta": 0.45697138,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-14T06:12:56Z",
+    "signature": "4ufMWzDTdNMQVfpU4LX2yvVdUfpYBp3zmAJqPTKubJ6bjeGQJPAZJ6Yj2Ayye5SoRPnSVod1uh34tsFTrvatL6pm",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 260989.487922,
+    "sol_delta": -0.050007393,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -260989.4879220128
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.05
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:13:11Z",
+    "signature": "5k94aMXiwZWn1h3K56AKGZcrzebsgSpyyZgk4UAkcFKeDsqcJzM1GxVjt2vzJ99tEyPT7XcZF83v9XgkoAZUXqMg",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 312582.76908799994,
+    "sol_delta": -0.060007393,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -312582.76908802986
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.06
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:13:35Z",
+    "signature": "49LkbEq2QsYZKhtjXZqHEJAsiirgfC46hEKjS2NezWFjB7WorrU9hecBQmofFU6y9XNDWpRzmrirUqjtpb1gn3rs",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 259983.093949,
+    "sol_delta": -0.050007393,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -259983.0939489603
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.05
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:14:01Z",
+    "signature": "3ggaVcn8jx8XX61qwNKQmwJitjybeK1SR8ovxQ4wwELFtg8ZD5WueCYAjAm7BmYFVwptbd2vniCXNUKSUNzm3x4t",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 207658.39221900003,
+    "sol_delta": -0.040008359,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -207658.39221900702
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.04
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:14:19Z",
+    "signature": "2i79iBrLJNFHEjJfXfbRecxh127KJK7tEaNAC9AD4v3gTTUqSxYyBoJ2oW6QNbWekwPZBy8FZ5Gz2MMJmURYJma1",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 207367.46763500012,
+    "sol_delta": -0.040008358,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -207367.46763503551
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.04
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:14:43Z",
+    "signature": "8F1qyscAA1AZ7vajKije2yeUYtt12e82enUKneYj6ThYpdWcVyexPHDEqJd5DfvXRsWxz7K7KJSNyXkKbj7KsmK",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 207077.15424499987,
+    "sol_delta": -0.040008358,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -207077.15424495935
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.04
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:15:11Z",
+    "signature": "3CU3QZZTYP34XDcts5UveZXZtCZTkLiAn1XZxt3inkjH5nf59Cw2eCSGTaVUr1EUvcynYRd2SXyFBZowrFnuWW9w",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 206787.45033799997,
+    "sol_delta": -0.040007023,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -206787.45033800602
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.04
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:15:34Z",
+    "signature": "4qP72wQHszwpBLetiVvXaEsCCPuT7vPLxA3pCa77oaRXeAJAbAT8RkLVPvVDKidWuydNinq7L2ftbAj6tsvjHThA",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 200841.52090000012,
+    "sol_delta": -0.040007023,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -200841.52090001106
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.04
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:15:54Z",
+    "signature": "4jaQEBmR1Gdab5WE9TTTphxhX7pfgbAB2W5KftZbnVptqJD8VWwcubY6V1xs6xBHT7d4DgEichvWisrRPmshvKU",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 200564.80444999994,
+    "sol_delta": -0.04000634,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -200564.8044499755
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.04
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:16:08Z",
+    "signature": "5vPyPKFNA7zzzkWKUuXktGHsZnvotAQwUGm4wxgWVStfdcxsSLAeSNovWYTST7AQ2GNzKiwVkj92fauZBRuDbaHt",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 200288.65972899995,
+    "sol_delta": -0.04000634,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -200288.6597290039
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.04
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:16:37Z",
+    "signature": "W28L9aXHqAY4K2PEoWVYdR3wAwCFfgeCregK244CZHnryZyRuk7FZLb2xejZiXnG9CQRhLLf2kZqjVitXmVvy87",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 179342.09111599997,
+    "sol_delta": -0.03500634,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": -179342.09111601114
+    },
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "5s2gAWENovymQkGu2jxBYEDSrC2SUnStdLgRENAfthd1",
+      0.035
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T06:18:08Z",
+    "signature": "3G9jP7h46NjRw2FCa3TNq9yq8Q41eeNf4nhyzLEDyqrKQPD9R5dNLUaTgBUZ7ALW8QVUYpCEQPpRwUwT47NN97GN",
+    "ok": true,
+    "signer": "FLiPggWYQyKVTULFWMQjAk26JfK5XRCajfyTmD5weaZ7",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-14T06:18:29Z",
+    "signature": "R2WdBXMfvvgGBNXQuy2CPqTXANabjPvkRTxdaqpkLT4Qk3FedRrxRBoeWiAiw26PzqzJe8jR2bPE4RcCAk6TS3N",
+    "ok": true,
+    "signer": "Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-16T05:29:14Z",
+    "signature": "YbvzPMquUiWVwXKgoJ8DSL1zBFvWXptS4ZP8sJYws8P6jCUza2b8sH2zXhpdhW6MhE3Z5G1z6bTZiab5RJJ4BBv",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -350000.0,
+    "sol_delta": -0.00205428,
+    "dmaga_counterparties": {
+     "4UAsah4mTf8kJh2Kxa57CchKFjxJsSCUrLN2KfSTfgoM": 350000.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-16T05:31:20Z",
+    "signature": "4SVcus18bAGnAvWaFNLLZxz5WaGS1duCaEea61i6WS2aMLVCxHQ3J64M8L6Tnrp6Whd1wwAJBEvcy7JXFwTj1NMt",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -350000.0,
+    "sol_delta": -1.5001e-05,
+    "dmaga_counterparties": {
+     "BiNAwtASo33BNTMU5yb8UKtrEimA25L5tDBMw5oV8udJ": 350000.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T10:44:55Z",
+    "signature": "36a4Qg4kK9obR2uWdfAfNLsi3NqVauEVTVQvEykPxCxQH9wyNYdfVeY2GPekrqmREMWgoM7XCBuSDxV1cutwEGAa",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -13995.0,
+    "sol_delta": 5.86214766,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 13995.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T11:57:19Z",
+    "signature": "4k8QUyk7y2VUvku3fipsCMqeQqAjCQc5xqHdh2Lz7y1KjdeWKx2iVUX8E5UT2wYhcXtJZy55baZi7LgStXFxgAsp",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -9645.0,
+    "sol_delta": 3.848560861,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 9645.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-24T01:26:10Z",
+    "signature": "45cbQaFCauisAfjqGdAd1WjQF573bANt6rJ3unYLWpD9VqKQdkqAEmYQejBmc1tXLTjKmJEJPQgHC7VpMbGcWLtu",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -9.731465263,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+      9.731450263
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-13T20:03:20Z",
+    "signature": "3n97poFh347qxaXcKpkmHcgauyWJWSREkC5x7y7LkSVx2WJkUw7iHo16rdS6PEUxCtELyV1z6duXtfFaWVCeiN9k",
+    "ok": true,
+    "signer": "AirDQKCmQTZeGy18JBFZCHngosGFmvaEuexcW4VW1P9m",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T03:19:34Z",
+    "signature": "5xrXeKSRkFjQwvVqNu1RdfjZuGtZRy2gyKmhfsH8akGRfrUJ8Xk2XVYhcxZzkamR4wh3svj2KGD6sPL9C8noDrS",
+    "ok": true,
+    "signer": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+    "dmaga_delta": 0,
+    "sol_delta": 0.02,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      0.02
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-23T03:20:22Z",
+    "signature": "3szjxHuD6D4fmrjVD8B7yJX1VjwxZRYEeu4UMitMqfFbivRvQPBpht5tNzhnpTE2HGL6QzYp5JZNRij9bt9ce1iB",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.1e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T03:20:22Z",
+    "signature": "3Nm6CSfq2P8bsvT5eYf1WaXSHwfW9Td8NjUWKrJEqKwD9TPiGCT2HYCa8VEpXchsofJHpMdQNwpPvve4WpTyuYt4",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -45398.0,
+    "sol_delta": 1.43013134,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 45398.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T03:38:50Z",
+    "signature": "5K8QBtzsBXWz2vbEg3prg2oTsPpJiAK7V8oWb8Yc5ZTKxZV1uPSCmz66xNDXxuC4BCLRbGv2HcBJ5VPaSg5hticV",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -59365.0,
+    "sol_delta": 1.871764366,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 59365.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:15:19Z",
+    "signature": "3ez2WnX51cnmXw74qSHKhRMU8FAdmKtTg78SXqCNtJxxQjc3b6ycob5P37FLRDujMuAV8kRKEp8WvrD4n71DF99n",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.4655e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:15:19Z",
+    "signature": "34xmKG6SEombjL3TNNBMZWSC1V8zTXoeqJdYkgHYWYcUDBy5T2AU5CrYU3oj5S6B931q7ixHWb6ZBZREpTaFcMnH",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -136012.0,
+    "sol_delta": 4.593253206,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 136012.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:15:44Z",
+    "signature": "vyMZUry6h6HAk67cGoyVMpS6akEhBwa41zsVgTCSMpoRQBCVK2pERMNoa2cQFqBMMHVp3BzLsFixEJb7nNWDoVd",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.4655e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:15:44Z",
+    "signature": "3oY6PhESsNXNnAks34TtCxFRZcraw8f8QAbViBjVm5y85CEo3NmY31aZZnLrtpoMeHZESRDjXR557cJYhx9pSHmq",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -95102.0,
+    "sol_delta": 3.336867768,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 95102.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:16:08Z",
+    "signature": "35LUqHQkBPVS8kKS3KYMwkJA8rfUA63BbSG3AD6JYfZQqphhTdXbcE7g2SBBKWSBksCe7JUBk9v5ea3ce8R9uBbK",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.4655e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:16:08Z",
+    "signature": "4hTYUXibDEigucbbpexXuc2fyikT8UTpoHLCAMatxutMrLAVjqc6bAo7VH7feChsz3JWizydykSH1KFj2qJ6AVri",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -231302.0,
+    "sol_delta": 8.047246707,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 208171.80000000447,
+     "9UsmwVmbV4VwEwv5q5iZh4y3THh6dn2cqjFpEUrGRzZJ": 23130.199999999953
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:16:27Z",
+    "signature": "51PKNNKWqDs55YHn2mKMD1FA5ummKCbNBQWALNFKXLGeZWogHY4miwQfu8Gn2bN8Z6QWPJq8m127iyzCC3piMPyw",
+    "ok": true,
+    "signer": "fLiPgg2yTvmgfhiPkKriAHkDmmXGP6CdeFX9UF5o7Zc",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T07:16:34Z",
+    "signature": "5SSZfLTMXQbhoZFuBvNsxvS8ck2FXyGLjGntEqe3QLsWQqmR8bMZjq1NzB5CZFpMjSbvtHJSRHhxYVh3uP4aEYYp",
+    "ok": true,
+    "signer": "Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:24:29Z",
+    "signature": "LkG2ucZAHkdgvwyuGhAvA1NLFCbjAVuz5MGr2F85EyAoNsHfDwmpeFBgZ5VyzV8CW5iba4M2iUeLkYHpg96ouuj",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -96003.0,
+    "sol_delta": 3.905122745,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 96003.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:25:20Z",
+    "signature": "2AhmHd8fPryboMCiUeninZaDDy3rpEmJYXkmCKdAQM4LV4Qwvt8AjF4KzxZ93JULdzAUuZfnBbAY2Gw4jxEr6b7p",
+    "ok": true,
+    "signer": "fLiPgg2yTvmgfhiPkKriAHkDmmXGP6CdeFX9UF5o7Zc",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:25:25Z",
+    "signature": "4NK6TJzPqsKHX37YHq24hBABGM1NRFNjrZYm3ahH8GttMa6R2ZqHm9KkRNBgkEkpDCnzTCVGUMCV8rofQsaEKvdp",
+    "ok": true,
+    "signer": "Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:26:30Z",
+    "signature": "5QzZVXWjYXNKRmtRjtLQ51V5TKghiG7qNRmmutziyX8yDNz8qxXii34nqspTiMuAGFck6jPrDmsY3WVydX5iqBoZ",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.4201e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:26:30Z",
+    "signature": "4kvJfND6bVn5RpxUMBrRgwf2guq2q3VFzxEt1XhXF3rgntZch3Kbd1U2V36nUXBVEm4LUySBShQSY2sAoeZngmWQ",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -33027.99999999988,
+    "sol_delta": 1.304714937,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 33028.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:27:27Z",
+    "signature": "4R8xLeCp1bzyGDfQ7KHyXfT8MmEJSQU2sKUaUn8zUb3xeZVnXrkoMaiAaT2zAYLonbz5pmdEC5qsEX1G2qWVmS23",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.4201e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:27:27Z",
+    "signature": "3zNYcK7D2BrAZbGq55d2oyGcMWhMVvv4efxmQJ8KouKjCfDY9Te5mtzxKwW2GTiTx5VF6NcKDrGSGwmtnicg9sHF",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -21990.0,
+    "sol_delta": 0.86111855,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 21990.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:28:19Z",
+    "signature": "WXcvorvndy3G2GhMUTvFss7WFpp9CAAbYxTGCjmkvPV5t9pkGzSyK3p4cpP9qZM2hfgvEDwjkoLLkT7YdS9yBri",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -25.360015,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+      25.36
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-23T20:32:09Z",
+    "signature": "4q1qmMC8QU1ZKwJMGVf4Q75aEvHW2fPXbC1fE9GpF7Y2wfPfG9xBbWJsvWkN9q3Qev9SJvkQiGjpEBQ5amkYEZYm",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -164327.0,
+    "sol_delta": -0.002068161,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 164327.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:32:57Z",
+    "signature": "2FEHtTN8dk3mX4bKwVyDK6Fyc1cDteendb6bc25qziYZJTpTGdCzgrdy5Ljjg45Vwn9u3kocpF482Uwy1FmWLwjX",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -126049.0,
+    "sol_delta": -1.3306e-05,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 126049.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:33:36Z",
+    "signature": "fec3DYWjMT9mpUxrYRcn6ZAfMdE2zLFHGV1JLbUnyX8C3f9L2Fy473gKsDczzziRrWheNbyNKEqJwoghbQ25EHA",
+    "ok": false,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0.0,
+    "sol_delta": -8.187e-06,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:34:29Z",
+    "signature": "2cWz717cYz8BtdkVGqectALBepgJnjS3H6x27nNBPri4AqQDU2gnxgGMs9sTtG6W1Y5aGGLeePreH7UqAjNZE14u",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -94990.0,
+    "sol_delta": 4.083749068,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 94990.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:37:55Z",
+    "signature": "4VxDP8czmQu5pDieWz8wNe2n6xXF6GEWTfB22e86Z2mKoKHVG28utsbfWE6JGZKyBEXpWKdbH5bJt3HTTyecntaD",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5501e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:37:55Z",
+    "signature": "2wuz3b4YNHwL2EmPguHskYL3kES7pU5zYcZZCFEsH4ZgRhgWJHskUrnAxPuuFnQbGj2zPWAUxxUdbuCSh1rY3t5J",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -64339.0,
+    "sol_delta": 2.691944223,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 64339.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:39:06Z",
+    "signature": "3kmtNnFTgkedwnK27AwrdkVJjYSSoYzGYTf4i5n2MTzhCFQ86f6HmKp8YJRtfUWtZKigxZgbEwuYP3mVHX2NEPa4",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5501e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:39:06Z",
+    "signature": "qWQ8t79RLVpNdHVaNmU1HpixLYK8qve5WYrftk4Pj8WWgKx6jRugHhRXCQTUgEPLwHfpC3VAMVSi9h1CzUNG3sa",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -51937.0,
+    "sol_delta": 2.165046949,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 51937.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:41:29Z",
+    "signature": "tLgN8THkDRfFKH74CjqzsTbFwrfChqDQ4ZHb4xHx91BG4ATV78YnKVRJSCk85XBsjqu6BaEbaXNP2XGbUW3XYTS",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T20:42:04Z",
+    "signature": "52uZfX1MaVbhoKLSAjMrgPt8q5AJzAdsCNyFWUsdoudk1UjDX63r9Ssewd1ya8JNoc8j23AuuW7nK2XZSaCfJATz",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -8.938015,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+      8.938
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-23T22:41:26Z",
+    "signature": "3tSwbzHMCWqX9qD6UFPcTagWTvMc2ASSE99op7fe3RAe6RtcFxrvM4HYwq9pCRDW8o5SNX5oeKVSdUrEKx1V9AqV",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:41:26Z",
+    "signature": "5GLsrsHSxCdhjKdQuPaJguhNy6YDt1p5dHvW7ys3NeMYYYLE4snARj1banpAEqVAdhYsRWkwz7XRz7nPN9sdCk6h",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -19346.0,
+    "sol_delta": 0.884578848,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 19346.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:42:12Z",
+    "signature": "3tb8k21RDPJ6UniS6QmrRiVPqq8wGteNYyG7Phoj7kQjmgMcBCUTb9mxn8oLottTSjbEBH6kyqF3NZx18go3aq9k",
+    "ok": true,
+    "signer": "fLiPgg2yTvmgfhiPkKriAHkDmmXGP6CdeFX9UF5o7Zc",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:42:24Z",
+    "signature": "vL9kuv8ujp6vMXLJ5DCcCiztLj3JSRJKZpUqxt15VcTFipvJhDaSsWLBXEAqusmCbUWKdz1np1NYq8Km6f4ArxK",
+    "ok": true,
+    "signer": "Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:42:52Z",
+    "signature": "5gJZkcSux6ayoU4zu2QFjbGue5BtH8KfJUWoevKwhRqoKGrqe3hzW8HDo9ULtErPhF61ZV323He6TWmkgsN51W83",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -63097.0,
+    "sol_delta": 2.87614527,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 63097.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:43:15Z",
+    "signature": "433vutWzk3qXupv96tZ7XEhpkbmsqjN4r1PWphY7JXVyCsEz4ZnWTbShRVa2Q6UtF7JQpV94bd9t67H19VEDuSei",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:43:15Z",
+    "signature": "4PHp8domTCSt1Z9unMsHxBgNrSTfyzqc2ZALB9XMNpoX3SjeueS1HWMPyLLBFAdyx6bNrJwdKwGNo3dcSjDAfyYe",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -86097.0,
+    "sol_delta": 3.943864167,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 86097.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:43:48Z",
+    "signature": "5eSk6WYw6pqzvNp49BkbS7Zio6VX2zqAP1JijoAWasJFrj2UyyAnWLiCxbq2aaCe57Eri3NErUYbtFk4AXiiZ1NR",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:43:48Z",
+    "signature": "3BvM7MoY4fcPDqiu6ru82BDCLTfLqYWWYoQQZbnwM3Qe9BY5cVpfkAraZZ3KTe6WrmEJEhCTQSdykQDwKPuQQp7C",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -127289.00000000003,
+    "sol_delta": 5.797726398,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 127289.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:45:02Z",
+    "signature": "m1KsYMb97Um2wDeNzNrfU5krBjZ8PRQdxua3oeur8xqdWXogdbvk6dC4zwgvLTUQMHnLUejptzGHcBs6GuEYsxT",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:45:02Z",
+    "signature": "vfCRs3f1irnxL3HLDz6vgZ34gmi4ekfu6HmM5awQD1mjcM7EXeREzeoYNkkDWwXtZ3KQXBLmHve6W42VkJuEf5U",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -43469.0,
+    "sol_delta": 1.972853578,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 43469.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:45:37Z",
+    "signature": "8pwRjEzznCPigRVuJYeMm5WKAfi77evwYJcsGn1Y1EQTudCBUH6RpxHdBfmEpciVbPyVBfHTVy2m3kdRsRS1SG7",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:45:37Z",
+    "signature": "5QFwKrvpF18oNtVFaN3wFECUdyszWKCSGzhayYDjA3AAidTGuRkF28L5NoevYXAYhyqZppbGsA6mQ44UUV6TKAji",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -79193.99999999999,
+    "sol_delta": 3.582375489,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 79194.0
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:46:07Z",
+    "signature": "5sbdQzxFGLxEKcTWtuT6tZfSJWmo2jdTqRQauecH2EbFPkT9b2EvW2NzfVc5FoTsqvdDZB3YNo4AkiGkFhi8Drhg",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": -81508.89000000001,
+    "sol_delta": 3.670856288,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 81508.8900000006
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-23T22:47:08Z",
+    "signature": "2dnucz2PuUMsbiGjhsp6BPhQGXSKLsXSnyJabfCPr9iuvrm8qcbfgjcznCB79iGs8Zn1JDYUiJJx7NjoonFTt3mp",
+    "ok": false,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+      22.739
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-23T22:47:33Z",
+    "signature": "LfrxKdrLy6oJXhN14XmVoM43TR73CujKZF6ZJ4HQmiE4moXva9KjxF8iD564MHGsmvvdiovS9cBbBrF26Kig6y1",
+    "ok": false,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+      22.7383
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-23T22:47:55Z",
+    "signature": "29EyaC9AR5unGA49sf5H6iAQ9DBjL4VoEKbFq7iS1Nhpx3itcmB17BbvUtHiLBYAjcJ8UTNt2EdTvVB53LWkVsvK",
+    "ok": true,
+    "signer": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+    "dmaga_delta": 0,
+    "sol_delta": -22.737515,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+      "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+      22.7375
+     ]
+    ]
+   }
+  ]
+ },
+ "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa": {
+  "n_sigs_total_seen": 173,
+  "history_complete": true,
+  "n_in_window": 56,
+  "decoded": 56,
+  "rows": [
+   {
+    "utc": "2024-07-14T01:34:15Z",
+    "signature": "4918LwRUfs95omfpgBKMToNq7DYi98Fh1sVMWgo8zLVxTusHRoVZyoQhA65f7aRxwjowKnmSrDNGwLwSpSG4GaWh",
+    "ok": true,
+    "signer": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+    "dmaga_delta": 0,
+    "sol_delta": 0.5,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.5
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T02:07:50Z",
+    "signature": "5Z3UtEGE9PEba2aaZFCkAnccRub49VnRkXRXTDv7qFYg1EYXA7xrghk5mWmsNefNWcbRqej2QruSt5AVHQ48aUJb",
+    "ok": false,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 0,
+    "sol_delta": -1.55e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      0.003
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T02:09:17Z",
+    "signature": "2tT665enRfvaGRiDBDVrBebL3bt12RLvcNqh4RmrW8s87fr997eMsyt1NoLj3zPtaqHhXdMZNTCX6mWqBSKsuNwJ",
+    "ok": false,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 0,
+    "sol_delta": -2.25e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": [
+     [
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      0.003
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-14T02:09:29Z",
+    "signature": "apWSf4EJgKRbqEHV6W6k2zEjbNQCzeatdWmciPAgtSc25TeAFTLkbsqoDkdGjs1DNu1994mmcAHfWtxnkziAsd5",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 2458311.527859,
+    "sol_delta": -0.45238402,
+    "dmaga_counterparties": {
+     "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH": -2458311.527859032
+    },
+    "sol_transfers": [
+     [
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      0.003
+     ],
+     [
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH",
+      0.442893307
+     ],
+     [
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      "CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM",
+      0.004428933
+     ]
+    ]
+   },
+   {
+    "utc": "2024-07-21T22:16:49Z",
+    "signature": "4arWAn5YViLE5K8aJurTzZSRqeNSV3XXAVGv2yF57A2ftMnhXD7B4GSZ8rD2V22iDgdNVhByYD5H9DrS23oozLDR",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": -2458311.527859,
+    "sol_delta": -0.009030139,
+    "dmaga_counterparties": {
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": 2458311.527859
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:17:56Z",
+    "signature": "wS7uN19Nvk9dx1XTFYt4GPFSpdfq2F8LBeKBnNSkg8oefVXo474V8sE3AvyPEwtSNeUbwpF5smn6dym8ZaSputT",
+    "ok": false,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:18:15Z",
+    "signature": "4kFCfmoa4TYXkayvckQgCTziMsaEcGvWXQMGztTqEkg47Wn2BxwEDwqaweJB17t1Rm3y37Qe469vTQacS6TEpCds",
+    "ok": false,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:18:24Z",
+    "signature": "3EaHytRa4do8ZgXK8LSvPniJ3TZTyGAT9To344Z8fPdV9nEv3E8CXSaSwD6hiTtWuxa3iPXzbr9shMqMDR3hEvph",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.177350997925,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100025
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:28:47Z",
+    "signature": "5HXD29RDAJuANCo1oewyLSp115LG9Hs1djuPgoJZuZNkozj4ee7kkGkc5sGY1EzhiDZgqrou9TsPUyyeUgT5LFnf",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735099979
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:38:30Z",
+    "signature": "4KvUGQM98n1wWL5dr48qbMu9EABQ9nqLpXiL8Gng42dfQwmcTS3WpaSqBRPjpoNXeq62v5FbNKKdEHXePoTU1rax",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735099979
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:54:06Z",
+    "signature": "2NDBKc8NwweDT8247zMF6CTqpfQc6Vc1iQUD6s8f9cS5sZRjg3esjVNiJTbpZGMNxRxUZhgeY1U7vt7erFo4u4sw",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100025
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T22:57:04Z",
+    "signature": "5EiKRWiMbr69KAz1n5BSn3R4MnCuCwr26zFQiFWGLYLt9Gzn8niPUX7AfcTyLxBoTgUmyQwdYp9x4nv9Zyt4x5kN",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735099979
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:08:01Z",
+    "signature": "4FgVppWs7ttfF6Dg2M1c9bVWVmGDu73mZ5eR6yZ8RtcuKxGrzwDP3qLuvRpguQFQSd56S9wa1TWsSFqS7KB56Ee9",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100025
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:14:46Z",
+    "signature": "5jLHqJMRms2v98fDp6ZAxyKXPCQX5Z1UqECR5gJwhCXzH1BBeLtMprH9eFBT1eDuZnuHE51hDz3BG1cSmt2YK9bJ",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735099979,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:24:52Z",
+    "signature": "4drATeDvyWmPPDyA5fG9frZFbgxNVt6zhqpLHcLZbQ3teJ96pSaWYUa6FU1gtgmV9zAvxqmvuzrcYNHC15yS4dJU",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100025
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:31:49Z",
+    "signature": "2BSzTP4seeWBsdo7e8N9VXNz1K5KUtcrocWVXHRLXZkpr8DniMH4qaSKoDan4EKcQ7sy1U3vsHnTJ8U3HUFcNAfu",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735099979
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:40:43Z",
+    "signature": "4SrD87569j8uXnPPiEXgqUFGLrx5z87ikaaBLaSdwyAkaJ2sRUdV6qD7Mw4e8jujJ7TYRwafTMvbPsavP6TnC2kW",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:49:43Z",
+    "signature": "21q2GNVe3XNr6aSQApiv6bxVJGnWaXxhXJThqzrF1DY1CsUmnocpjkfVnHfMvrN3ae88DuzxnyJi1vM7UCyaG4Nr",
+    "ok": false,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-21T23:50:03Z",
+    "signature": "67JmVk7T158UwfWBvxZxm9YNmkfb9n748BLEg2zLT3ridY68r1coestJURb34vQEfuHJ14EcXYwns6wBAep8jics",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:00:50Z",
+    "signature": "DyDwNvk1ZAfzqo9gvbgLobfr6kYEm91FVYGuwoX6zR3JvUpuSDxfLC6WA5RF1DDULenNpp1vvXimX6acoMrKU4s",
+    "ok": false,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:07:22Z",
+    "signature": "3uFtUR6HNk4H3h6fg3JBAYCHnmuUUv7VY89wUmKBBezXi1m4tytaWsmUpd5J245nipeZ2JX7HZmj7MjDMrDYEtEp",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:10:01Z",
+    "signature": "67VKAiq5NUN5tax76UW2gkwq98gRq1HMvaMpzSfqwWBhZqjSzwEECnFu6nDd9EZ7ELgGnjvRbtR3jKswAEBdMBhw",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:23:30Z",
+    "signature": "266TsDFQVygqgMBPfpX9mXjKSHsbzxPafnHVF8WE52ip6kKA6VgbVh57j2DrJHzQmktZnEtWhytNU4d7EMe4v3je",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:25:59Z",
+    "signature": "3W8jRR6FdBJJMsdsnxRSSTpxSCzmJqVT9qMLSsFxD4HZfWqoUFNqwdKpB7DLBVnaDpYRPMjJFVet63zMubFNR7kd",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:38:24Z",
+    "signature": "H4vZo4J5ovHHVDBZpm45uN8ZXYL4vqbFTZFmTFquL9MdcD3fGPr8sygyUeg1zJopD7KLF9ugJUUGa6u1a4LQyrn",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:51:40Z",
+    "signature": "4YRA87eEExDiTGqFiLThkg6KPwHVGNWwEvatV91nrUr7WofX4LQpG652wqkymK6wbdk9PjsxaPAaYkw36yN7WDpo",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735100165,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T00:58:02Z",
+    "signature": "D6jqjJsFR9jSuNXo6V743pdNaXcXtAobvuhMNUZNFMFTE5HowoaEwZvkLPzDvninr1xbZYpoNQKcdimYE9CmC1q",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T01:04:07Z",
+    "signature": "4uuBTPe9djST9fLnRvs1JVn7yxad73jogZAqFWy7QqVJKBRoFCk2gdFsZ3iMSqbfTVYU5yHJgDxckWmJ8RL7ZvNH",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735099979
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T01:23:53Z",
+    "signature": "5XgC4b9a78aUfshU77bs7RvWVsiczQmC7XEtjpLBkyd1sCLBresjUJ1YHhgQ1ZEqg84QLid8VW949qgDVmcRXcTc",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T01:25:35Z",
+    "signature": "f7iB51T2TiMMojsozcX9NTuwhEoquHcWxYpA6kLv6d1pgkAEVYi248gshDuJ2h9KJjcRCMP6cjEEVGtmR7q7vyv",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T01:28:47Z",
+    "signature": "2odGTaEXuYHWkkjzQHNHmLEksvT52YrUysB29jzagRMoio9t2nYQ8RCTRQWJ5nZ5c8QvXKo7iXsKyUWejXheQ2ij",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T01:37:24Z",
+    "signature": "3VEGnTr2usrLj3YDxEBwywXBGiU2w2HmrZDLEDtWakzsT2tdN9r4hmccWBFkCoBKT1iiktT5zD88DtZawAL6myX7",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T01:47:33Z",
+    "signature": "SmU3jb6SG2rwYJs4LCEE2Bd1jGPSyRKpPSmQQ4njQQrSd3iBGRB7xYg8GMbHDCtMzPcsWmij9v1ck3kNKXgPJ9n",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T02:01:15Z",
+    "signature": "XZusvLhspHZKxLqALmRymHKejRS9iW1RLctx3nYrF5vJuyPENrNXYq9Ko6ddQpv29WuZeD6ojFaNiY6bHE4Q3Ss",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735100165,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T02:06:29Z",
+    "signature": "kPgrzhJmRJascQpMupa86qD2iimMzfw48VYV9Hqn2Miamser1YuapCShwnXNAJzGo2zLs4QaheUM8gMVTT6wJU1",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T02:16:49Z",
+    "signature": "36Hzae7eJHrop28Kyi3XzyCvnkugHxUujfhJ5yRa1K3SHo7jJ3xTaeaCMUXNjCMMaxiJDL2gfxgkqpLJQYTxw8tQ",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735099979,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T02:23:14Z",
+    "signature": "shtTxPDKnfpeJEpDS4enVtRQNg3k9DYWeCZhjA3DgmArWcbQHr3paSrYC5bX9EC2hXTaq3isVCQRgRmBkx4cCp9",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 37820.17735100165,
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -37820.17735100002
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T02:27:19Z",
+    "signature": "2zBKmWJESkd9p25kSVKd9JZEUGfSUjjB1STwitefHsJjP82mCaLw1DgyfMou9NQW2VzQzBTAyi4fLEzePfrFgUhF",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 1399346.562031,
+    "sol_delta": 0.00697138,
+    "dmaga_counterparties": {
+     "98UuAvDDcu1wE84APygjCWijKQGRP1Lga3FvFwpoJCuc": -1399346.562031
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T02:30:41Z",
+    "signature": "2eMhjqvHeyJPuSgbfu6EguVr94W7kFUULVpj6Vhcb6GWpLvG2TDTZQNN2GbSo68mtRFg2AGuqRXqNxrLFsdoP7XK",
+    "ok": true,
+    "signer": "FLiPggWYQyKVTULFWMQjAk26JfK5XRCajfyTmD5weaZ7",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T02:31:00Z",
+    "signature": "YUGf4uZi8kiodFsUEXu8JkXyEJGjUJ4QpPYE1thkjVqNaS5izxyoE7EzaQe4siPytbByQhwcm4X6a1mjTs9CscN",
+    "ok": true,
+    "signer": "Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-07-22T05:24:04Z",
+    "signature": "3fHcnJBuiHbMAvGxgiKntGuQxmWP9jtKjACpJZP4dk9sixX43rVP6bexwmor8zd6DJHN43DMV4mgjpD7bP1Uq2Kb",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-13T20:03:39Z",
+    "signature": "YR72xHSD45AL7Vyh8cV9xfagsgPqk7RerqwbvGKag9RQ8aC6Pno53ER7bawXCuG1fEqxqwTasmXTFzKbLcVQxQa",
+    "ok": true,
+    "signer": "AirDQKCmQTZeGy18JBFZCHngosGFmvaEuexcW4VW1P9m",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-19T15:56:53Z",
+    "signature": "25dn1kt4gLqgiazFa5AJKxrMZBXYdjscsAABiM9FRJ7zyy6uW1VJW9mFoWb7bNsDN582x58apTJb4ujSQvRmtwc8",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 0,
+    "sol_delta": -1.5e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-19T15:56:53Z",
+    "signature": "5Kda2FXn1BtLxVBqH3em31Jxhsf4WWtVUNyRBTxpvMXnterwMnyq2J6V6SzhM1Xd4eFuP8dkibq6Y9V9JkcJhkxK",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": -1399346.562031,
+    "sol_delta": -0.006987473,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": 1399346.562031
+    },
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-19T15:57:39Z",
+    "signature": "r6i6vXiGSZk4wkAWeYA7XgcJXQ7un7ri6Rep74LPwewnAqvh96yPSfBUW2wBcgDRx4tZNNhf9gQMZBLK1QGX9XT",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.080003308,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1903.8728729998693,
+     "9UsmwVmbV4VwEwv5q5iZh4y3THh6dn2cqjFpEUrGRzZJ": 1903.8728729998693
+    },
+    "sol_transfers": [
+     [
+      "F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.080003308
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-19T15:57:41Z",
+    "signature": "2uuMkHLFnypXbnhYAGje8uuNKFTrKNwZw5zwhQ1XWi1aswvJSuspgReeCXUJGW7tkVUXDrckJRaamQ2PBAzEPXfJ",
+    "ok": true,
+    "signer": "fLiPgg2yTvmgfhiPkKriAHkDmmXGP6CdeFX9UF5o7Zc",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-19T15:57:48Z",
+    "signature": "jqQvTSxbABqqx56YrDue4KApabCsqenzkH9Fg1goqXFhS3BUdXKF8Vcki42ja9vbxS6b33dgbgKEDwvbAbqGYNL",
+    "ok": true,
+    "signer": "Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96",
+    "dmaga_delta": 0,
+    "sol_delta": 1e-07,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-19T16:08:45Z",
+    "signature": "3kVUfjnu71EpYgaCydPBVofTY2Hw7bYs9HuHorkU7C4gFmy9pd3HcQRao8JgLFEUELWEaMh4GhA4mf5CVPMX7TCE",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.08031458,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1903.8728730001021,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 1903.8728730008006
+    },
+    "sol_transfers": [
+     [
+      "F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.08031458
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-19T16:20:25Z",
+    "signature": "54FxaENLUWjQTyGQwmzUqJrQNzYDqnT1JzL4ip1FDckX3dgPXZBatyQ2WqCpiB1TgjeY56BJ2dUWXnYUFJd7Jzvx",
+    "ok": true,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.080760389,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1903.8728729998693,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 1903.8728730008006
+    },
+    "sol_transfers": [
+     [
+      "F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.080760389
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-19T16:32:12Z",
+    "signature": "66gkbvhDViQHPSfao67veLZFudxyC4tSvLm3PQgY7TkUt89fniMXDY5PE96qUp23XTtAJrZYdeGzJA2mBM61Q6H2",
+    "ok": true,
+    "signer": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+    "dmaga_delta": 0,
+    "sol_delta": 0.080764899,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1903.8728730001021,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 1903.8728730008006
+    },
+    "sol_transfers": [
+     [
+      "F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.080764899
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-19T16:42:02Z",
+    "signature": "3aZgFbjt6HXF661oE1GrGZRsVLDaDjJGE2URGoUs45ainD62fN97hVDGr7rUZxMqSgcrS69hTu3VSqYkm8gehn9t",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.080517579,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1903.8728729998693,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 1903.8728730008006
+    },
+    "sol_transfers": [
+     [
+      "F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.080517579
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-19T16:53:30Z",
+    "signature": "4CRgxvH3DaeohjUsQjtPuLimpjfJSvj8XUQhqQz3DjDnKDuqcMn8iZ3NXEQSfAAkuQrnprv9od8SYwxRvQV2cLTs",
+    "ok": false,
+    "signer": "DCAKuApAuZtVNYLk3KTAVW9GLWVvPbnb5CxxRRmVgcTr",
+    "dmaga_delta": 0,
+    "sol_delta": 0.0,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-19T16:53:33Z",
+    "signature": "5F5rebxcrxRDozWopTZevCuDHRK9SQr8YUB5yRKhgcGGqdAZA9Buz6yRC2vrGYTJ1GmNXq4wXRaVH9zSMH6HEfso",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.077025784,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1903.8728730001021,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 1903.8728730008006
+    },
+    "sol_transfers": [
+     [
+      "F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.077025784
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-19T17:03:54Z",
+    "signature": "Q11k55hNYX7scXzePjXwZLy4EGAEmMZMJ85u6FL1TxJs19EtcS9fSAhmRgE3kCcBcyTHnGJtAgXyXPGdS2uE9DE",
+    "ok": true,
+    "signer": "DCAKxn5PFNN1mBREPWGdk1RXg5aVH9rPErLfBFEi2Emb",
+    "dmaga_delta": 0,
+    "sol_delta": 0.078662277,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1903.8728730001021,
+     "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": 1903.8728730008006
+    },
+    "sol_transfers": [
+     [
+      "F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru",
+      "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+      0.078662277
+     ]
+    ]
+   },
+   {
+    "utc": "2024-08-19T17:05:07Z",
+    "signature": "4T9JkkjG1uAt6SPcUbCGNJ7XoJY5vf5sMy8WDGRVAM9ZYsUuoTREmPXNGfCsWyGjoq8bUXpYA2pVY1U5L9sQxvpm",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 0,
+    "sol_delta": -2.3203e-05,
+    "dmaga_counterparties": {},
+    "sol_transfers": []
+   },
+   {
+    "utc": "2024-08-19T17:05:07Z",
+    "signature": "3YEN1FmkayLeeLKyZyaEhRcuVNWw9RCJvcvyYyQgurKLgEFhrx9HooawqwkjVXvGuNG5q6pXHPoRxspH3TyHn556",
+    "ok": true,
+    "signer": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+    "dmaga_delta": 1386019.45192,
+    "sol_delta": 0.006973956,
+    "dmaga_counterparties": {
+     "tivNQcSM38nM7aBnquPP8VXuCZhHtox33T5Ww2WL5Jg": -1386019.45192
+    },
+    "sol_transfers": []
+   }
+  ]
+ }
+}

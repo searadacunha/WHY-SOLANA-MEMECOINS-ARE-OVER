@@ -1,0 +1,28 @@
+
+E1MJhRuLjnjXr24TD5QgcKH9RFb2JbBJx2GqAwmYX1zh: lignes étude 10998, B 10994, communes 10994, étude seule 4, B seule 0
+  SOL : part des lignes communes qui diffèrent de >0,1 % : 0.110 ; somme étude 9738.88, B 9732.56
+  jetons : part qui diffèrent de >0,1 % : 0.004, parts où |qty étude| > jetons B de plus de 1 % : 0.003
+  exemple étude seule : [{'slot': 285417858, 'tx_index': 772, 'owner': 'CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2', 'qty': 38769692, 'sol_x': -66666667}, {'slot': 286211401, 'tx_index': 1725, 'owner': 'CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2', 'qty': 4155729, 'sol_x': -25247249}]
+  plus grand écart jetons : [{'slot': 286219630, 'tx_index': 68, 'owner': 'J9T5j4Ubqx7aMaGdZtDocp682Lz3ZQRxDHYmykpyfoj6', 'qty': 8153149713, 'sol_x': -25247249, 'tok': 4005581567.0, 'sol_y': 25247249.0}, {'slot': 286631887, 'tx_index': 332, 'owner': 'HdSJBFJNVQLVrz8me1Lh9xqp2o5aS5aCz7rHRwHigqfP', 'qty': 421407806564, 'sol_x': -2450000000, 'tok': 207924334114.0, 'sol_y': 2450000000.0}]
+
+Fhmjp6SMtmD8GXkq8tw6aZjBk3sDpKtKKSH6RToLAX3m: lignes étude 15747, B 15746, communes 15746, étude seule 1, B seule 0
+  SOL : part des lignes communes qui diffèrent de >0,1 % : 0.140 ; somme étude 14501.67, B 14489.59
+  jetons : part qui diffèrent de >0,1 % : 0.000, parts où |qty étude| > jetons B de plus de 1 % : 0.000
+  exemple étude seule : [{'slot': 276223273, 'tx_index': 1178, 'owner': 'CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2', 'qty': 1370387830, 'sol_x': -3000000000}]
+  plus grand écart jetons : [{'slot': 276223525, 'tx_index': 353, 'owner': 'DSwsusUVZdEz1N4QpuLZzy5n9nCw1NzjkJ4cdMzydXPP', 'qty': 2705456635608, 'sol_x': -3000000000, 'tok': 1337776970067.0, 'sol_y': 3000000000.0}, {'slot': 273172706, 'tx_index': 1114, 'owner': '2bwfYgqqyuDJZMTrJyLgPiuLnmjJR5SaYR6byptXBYC4', 'qty': -1412364990886, 'sol_x': 781351777, 'tok': 1401772253455.0, 'sol_y': 781351777.0}]
+
+HVTX1KcdNyo2cu8m8iZZaoycrTrnxEumEAvwTTFvMpqG: lignes étude 37167, B 37165, communes 37165, étude seule 2, B seule 0
+  SOL : part des lignes communes qui diffèrent de >0,1 % : 0.032 ; somme étude 19537.91, B 19530.83
+  jetons : part qui diffèrent de >0,1 % : 0.000, parts où |qty étude| > jetons B de plus de 1 % : 0.000
+  exemple étude seule : [{'slot': 285756058, 'tx_index': 592, 'owner': 'CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2', 'qty': 44768875, 'sol_x': -28050505}, {'slot': 285756220, 'tx_index': 1117, 'owner': 'CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2', 'qty': 34594375, 'sol_x': -21704597}]
+  plus grand écart jetons : [{'slot': 285756676, 'tx_index': 524, 'owner': 'FVUdRH2k4RxLVAVw3MqkhcYrDdSkXPGa5S3mAgJ6fki6', 'qty': 69039766189, 'sol_x': -21704597, 'tok': 34514499894.0, 'sol_y': 21704597.0}, {'slot': 285756214, 'tx_index': 714, 'owner': 'DL4NbeXs9mhsciK5AZn1ocZ1VG16yJjVrMMp1Z6kj4nF', 'qty': 89408802029, 'sol_x': -28050505, 'tok': 44729425225.0, 'sol_y': 28050505.0}]
+
+Ho5k1boxm4sXGpLBfFdd9kBY9gP1QDRB55GRE3T2eTL2: lignes étude 8476, B 8476, communes 8476, étude seule 0, B seule 0
+  SOL : part des lignes communes qui diffèrent de >0,1 % : 0.000 ; somme étude 6493.96, B 6493.96
+  jetons : part qui diffèrent de >0,1 % : 0.001, parts où |qty étude| > jetons B de plus de 1 % : 0.000
+  plus grand écart jetons : [{'slot': 280417883, 'tx_index': 411, 'owner': 'GdBYTTD2WLhaG8tnN4ZpeghpqUU97Kn76ZbryNYoboEM', 'qty': -825413656135, 'sol_x': 502265326, 'tok': 788877499923.0, 'sol_y': 502265326.0}, {'slot': 280969253, 'tx_index': 64, 'owner': '9yxEQsmpYZWBhWXFUcpAMguUzNDxg3nUBQEcmNSrakDf', 'qty': -218081420047, 'sol_x': 705547289, 'tok': 217187624648.0, 'sol_y': 705547289.0}]
+
+Ew6WHMMFDkRtqVrVVT7zu9HSt8NLHH7tmcXx9VrLtzRr: lignes étude 21433, B 21433, communes 21433, étude seule 0, B seule 0
+  SOL : part des lignes communes qui diffèrent de >0,1 % : 0.073 ; somme étude 20721.21, B 20709.37
+  jetons : part qui diffèrent de >0,1 % : 0.003, parts où |qty étude| > jetons B de plus de 1 % : 0.001
+  plus grand écart jetons : [{'slot': 277432648, 'tx_index': 2476, 'owner': 'PKt5x4i2JRHYbPcuEsTELyCfkn1EEMYhDKBC6n6Ya4g', 'qty': -519202548143, 'sol_x': 1076579178, 'tok': 429429244646.0, 'sol_y': 1076579178.0}, {'slot': 277679469, 'tx_index': 1656, 'owner': '4msmALXJsU8rt4xGQvVvtAXcJK5vhkT6dtv8ggf3rQVh', 'qty': -1549371435680, 'sol_x': 6713607654, 'tok': 1360947042203.0, 'sol_y': 6713607654.0}]

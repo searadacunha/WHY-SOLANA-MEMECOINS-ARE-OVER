@@ -1,0 +1,312 @@
+{
+ "transfers_direct": 15,
+ "transfers_via_relay": 11,
+ "first": "2022-09-11 18:50:18",
+ "last": "2024-11-17 01:47:35",
+ "b947_usdc_in_total": 839141.895401,
+ "b947_usdc_in_from_b298": 265400.310618,
+ "b947_usdc_in_by_source": {
+  "KuCoin: Hot Wallet": 57078.295356999995,
+  "MEXC: Hot Wallet": 132385.29626,
+  "b298": 265400.310618,
+  "deBridge (makers DMAGA)": 384277.993166
+ },
+ "b947_usdc_out_total": 839151.895401,
+ "b947_usdc_out_by_dest": {
+  "Stake.com deposit (inf\u00e9r\u00e9 : gaz du hot wallet Stake puis vidage vers Stake)": 354860.571456,
+  "MEXC deposit (inf\u00e9r\u00e9 : gaz du hot wallet MEXC puis vidage vers MEXC)": 30000.0,
+  "KuCoin deposit (inf\u00e9r\u00e9 : vidages vers KuCoin 3 et hot wallets KuCoin)": 20000.0,
+  "relais 0x4978cd7e (tout vers b298)": 334291.323945,
+  "b298": 100000.0
+ },
+ "b947_eth_in_total": 0.037989480266096595,
+ "b947_eth_in_from_b298": 0.037989480266096595,
+ "b947_eth_topups": [
+  {
+   "topup": "2022-09-11 18:50:18",
+   "eth": 0.002085847778473724,
+   "tx": "0xc7bd63d35a1bdf09bfe5ccb1ad859184a4903117813760a388334003957fad89",
+   "from_b298": true,
+   "next_b947_tx": "2022-09-11 18:55:09",
+   "delay_s": 291
+  },
+  {
+   "topup": "2023-01-21 16:48:59",
+   "eth": 0.015065777183181773,
+   "tx": "0x97b2d2789a3f99592eb257e696f0f9adb36daeb2a64476447a63bc11a1b20a53",
+   "from_b298": true,
+   "next_b947_tx": "2023-02-11 22:29:11",
+   "delay_s": 1834812
+  },
+  {
+   "topup": "2023-02-12 18:11:59",
+   "eth": 0.005189783910372432,
+   "tx": "0x0cb4cec60064b2b3b9ccf5586b658925491a99a21b240f258cf55dcfbff45abe",
+   "from_b298": true,
+   "next_b947_tx": "2023-02-12 18:13:35",
+   "delay_s": 96
+  },
+  {
+   "topup": "2023-02-14 01:10:23",
+   "eth": 0.006659518783172728,
+   "tx": "0x51f636c057dc0c36e47814d4c15f87b34eca28634049ae60d3200287a1a334e2",
+   "from_b298": true,
+   "next_b947_tx": "2023-02-14 01:11:35",
+   "delay_s": 72
+  },
+  {
+   "topup": "2024-10-01 15:44:11",
+   "eth": 0.008988552610895937,
+   "tx": "0x29caf14eebaa8f2d48c298786f829c398df238584318006059f99ff21e5c446d",
+   "from_b298": true,
+   "next_b947_tx": "2024-10-01 15:46:11",
+   "delay_s": 120
+  }
+ ],
+ "b947_eth_back_to_b298": [
+  [
+   "2023-02-11 22:29:11",
+   "0.006509314829521045",
+   "0x5f71dbe266a66528cb95184a568ef250e32fb8103aa5a235e5342f133a0b42b8"
+  ],
+  [
+   "2023-02-12 17:57:59",
+   "0.006473204171332768",
+   "0x5a5fd279c08f734c0e689bc3e4f51a4a0a78508d7f46bdb980acd326ab3ae5d5"
+  ]
+ ],
+ "usdc_sessions": [
+  {
+   "out_utc": "2023-02-11 22:38:47",
+   "out_tx": "0x7fac1dda0209e50fe372e56799356624b2d6495fc6418470a6c371482ec67ec5",
+   "out_to": "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "out_raw": 52024577982,
+   "inflows_since_last_out_raw": 52024577982,
+   "exact": true,
+   "parts": [
+    [
+     "0xf16e9b0d",
+     14859604656
+    ],
+    [
+     "0x75e89d59",
+     11174511180
+    ],
+    [
+     "0xb29826d8",
+     16848165698
+    ],
+    [
+     "0x75e89d59",
+     9142296448
+    ]
+   ]
+  },
+  {
+   "out_utc": "2023-02-12 18:13:35",
+   "out_tx": "0x7d2f8c246c6601ad1e4b1ccaf04e41e964d108a381b997f005abe3e6974240c5",
+   "out_to": "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "out_raw": 51807826429,
+   "inflows_since_last_out_raw": 51807826429,
+   "exact": true,
+   "parts": [
+    [
+     "0xf16e9b0d",
+     6946366699
+    ],
+    [
+     "0x75e89d59",
+     19888181646
+    ],
+    [
+     "0xb29826d8",
+     19873902500
+    ],
+    [
+     "0x75e89d59",
+     5099375584
+    ]
+   ]
+  },
+  {
+   "out_utc": "2023-02-13 00:12:11",
+   "out_tx": "0x6de41fa73a0b01443da16230682dd6cf6f132b557d8676d8764daac69d0f8fca",
+   "out_to": "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "out_raw": 51816577897,
+   "inflows_since_last_out_raw": 51816577897,
+   "exact": true,
+   "parts": [
+    [
+     "0x75e89d59",
+     24240972671
+    ],
+    [
+     "0xf16e9b0d",
+     13902863235
+    ],
+    [
+     "0xb29826d8",
+     13672741991
+    ]
+   ]
+  },
+  {
+   "out_utc": "2023-02-13 21:17:35",
+   "out_tx": "0x8f1f04421bdfe9ea3ce98de319d3818a160edb08fca0163dbcc8ba78c0f82c5e",
+   "out_to": "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "out_raw": 99562116020,
+   "inflows_since_last_out_raw": 99562116020,
+   "exact": true,
+   "parts": [
+    [
+     "0xf16e9b0d",
+     7606615696
+    ],
+    [
+     "0xb29826d8",
+     29115541593
+    ],
+    [
+     "0x75e89d59",
+     62839958731
+    ]
+   ]
+  },
+  {
+   "out_utc": "2023-02-14 01:11:35",
+   "out_tx": "0x94be66a28a794006c99f69aba1f4c482859c9e5161187d9927ecbbce641a17ad",
+   "out_to": "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "out_raw": 49649473128,
+   "inflows_since_last_out_raw": 49649473128,
+   "exact": true,
+   "parts": [
+    [
+     "0xf16e9b0d",
+     13762845071
+    ],
+    [
+     "0xb29826d8",
+     35886628057
+    ]
+   ]
+  },
+  {
+   "out_utc": "2023-04-28 03:33:11",
+   "out_tx": "0xad82e84dddd4af3aa6794ff3b290f6fafa3476213849c5a7fabbec9da4aa8f4a",
+   "out_to": "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "out_raw": 50000000000,
+   "inflows_since_last_out_raw": 100000000000,
+   "exact": false,
+   "parts": [
+    [
+     "0xb29826d8",
+     100000000000
+    ]
+   ]
+  },
+  {
+   "out_utc": "2023-05-28 00:50:47",
+   "out_tx": "0x30b66b5577e89f901045b22aedb5ba0183ecb2dc7009926f4dfee661317bcd8b",
+   "out_to": "0x311ef6b5953ae605dbe469e6566280f0514d3d2e",
+   "out_raw": 30000000000,
+   "inflows_since_last_out_raw": 50000000000,
+   "exact": false,
+   "parts": [
+    [
+     "solde",
+     50000000000
+    ]
+   ]
+  },
+  {
+   "out_utc": "2023-05-28 00:53:59",
+   "out_tx": "0xb0ed7c91096d768a277e1511fed609f76e42fdfd7e2170339c6222a78fbf586c",
+   "out_to": "0xe1daccdc81b6f18e18b6704e9214b6e03a0fef1c",
+   "out_raw": 20000000000,
+   "inflows_since_last_out_raw": 20000000000,
+   "exact": true,
+   "parts": [
+    [
+     "solde",
+     20000000000
+    ]
+   ]
+  },
+  {
+   "out_utc": "2024-10-01 15:46:11",
+   "out_tx": "0x18f8ac3febdc7b19804357b1f3cabd975ee96bb3434968046f42bad286d8bae2",
+   "out_to": "0x4978cd7e5a3565cafcc88a105940b0ea01adc04d",
+   "out_raw": 10000000,
+   "inflows_since_last_out_raw": 434281323945,
+   "exact": false,
+   "parts": [
+    [
+     "0x555ce236",
+     9992001
+    ],
+    [
+     "0x555ce236",
+     60382887121
+    ],
+    [
+     "0x555ce236",
+     155951578125
+    ],
+    [
+     "0x555ce236",
+     46975647847
+    ],
+    [
+     "0xb29826d8",
+     50003330779
+    ],
+    [
+     "0x555ce236",
+     120957888072
+    ]
+   ]
+  },
+  {
+   "out_utc": "2024-10-01 15:48:11",
+   "out_tx": "0x9a146cd8a1bb33292b37b87f972d14659941da8a1b39b6e13a0eff98a02e3ce9",
+   "out_to": "0x4978cd7e5a3565cafcc88a105940b0ea01adc04d",
+   "out_raw": 200000000000,
+   "inflows_since_last_out_raw": 434271323945,
+   "exact": false,
+   "parts": [
+    [
+     "solde",
+     434271323945
+    ]
+   ]
+  },
+  {
+   "out_utc": "2024-10-01 15:49:11",
+   "out_tx": "0x2f71766658c7f4f23d9181e3088545d9993db1172fd9d5b9eac4274f2b96100e",
+   "out_to": "0xb29826d809aa04d2ead6f2310d8965a45b87fa67",
+   "out_raw": 100000000000,
+   "inflows_since_last_out_raw": 234271323945,
+   "exact": false,
+   "parts": [
+    [
+     "solde",
+     234271323945
+    ]
+   ]
+  },
+  {
+   "out_utc": "2024-10-01 15:49:59",
+   "out_tx": "0xd6b003093ce96d36cf55b9d4a7de162e561fc4919782412914954c6c5985b0bd",
+   "out_to": "0x4978cd7e5a3565cafcc88a105940b0ea01adc04d",
+   "out_raw": 134281323945,
+   "inflows_since_last_out_raw": 134271323945,
+   "exact": false,
+   "parts": [
+    [
+     "solde",
+     134271323945
+    ]
+   ]
+  }
+ ]
+}

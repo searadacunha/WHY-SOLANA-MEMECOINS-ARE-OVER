@@ -1,0 +1,5 @@
+{'tx': 101702, 'initialize2': 13920, 'init2_top': 13920, 'init2_inner_seulement': 0, 'init2_retenue': 13920, 'init2_wsol_True': 13920}
+exemples non retenus []
+programmes des transactions sans initialize2 [('11111111111111111111111111111111', 173577), ('ComputeBudget111111111111111111111111111111', 85710), ('TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA', 41836), ('6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P', 14002), ('ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL', 13994), ('srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX', 13911), ('675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8', 12866), ('BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY', 68)]
+signatures connues absentes du brut 0
+garde : fini, code 0, pic 28 Mo

@@ -1,0 +1,17 @@
+#!/bin/zsh
+# Recalcule tout le dérivé depuis le brut dans DMAGA_BIG, jamais par-dessus le dérivé du gel. S'arrête à la première erreur.
+# ana_21 avant ana_20 : le PnL lit token_edges, un dossier neuf n'en a pas encore.
+set -e
+cd "$(dirname "$0")/.."
+[ -n "${DMAGA_BIG:-}" ] || { echo "DMAGA_BIG absent"; exit 2; }
+[ "${1:-}" = "--skip-norm" ] || { scripts/py.sh scripts/dis_05_venues.py | head -3; scripts/py.sh scripts/nrm_10_trades.py --force | tail -1; scripts/py.sh scripts/nrm_11_accounts.py; }
+scripts/py.sh scripts/chk_20_vault_chain.py
+scripts/py.sh scripts/chk_21_venue_chain.py
+scripts/py.sh scripts/ana_19_export.py
+scripts/py.sh scripts/ana_21_token_edges.py
+scripts/py.sh scripts/ana_20_pnl.py
+scripts/py.sh scripts/ana_22_nodes.py | head -2
+scripts/py.sh scripts/ana_50_cohorts.py
+scripts/py.sh scripts/ana_23_roundtrip.py
+scripts/py.sh scripts/ana_30_flows.py
+echo DERIVE_OK

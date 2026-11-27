@@ -1,0 +1,52 @@
+id,section_rapport,assertion,auditeur_principal
+C01,Essentiel 1 / Q1,"Mint créé le 14/07/2024 02:05:25 UTC, slot 277417695, signature fePxr7ER3EDxtkXysbcbbCcaztCHMwKBESs2XQzQee8xkBH2u53ULZMP1gMSK9bgGJKj14NcGwpR64YJR3nPiw6, par 8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR",A
+C02,Essentiel 1,"Le mint est créé environ 3 h 54 après la tentative d'assassinat de Butler (heure de Butler non revérifiée dans un fichier)",A
+C03,Essentiel 1,"Le compte X @DarkMagaCoin existe depuis le 11/06/2024 ; le thread d'@Aristos_Revenge dit que @kikisknees a lancé le compte et les pfp deux jours avant Butler et ne date pas le mint",C
+C04,Essentiel 2,"Musk change de photo entre 19:03:27 et 19:30:13 UTC le 21/07/2024 ; image envoyée à 19:23:20 UTC",C
+C05,Essentiel 2,"Achats : 3,29 SOL de 19:03:27 à 19:23:20 ; 145,44 SOL de 19:23:20 à 19:30:13 ; 5 377,61 SOL dans l'heure suivante",A
+C06,Essentiel 2,"Entre l'annonce de Biden et la borne basse (1,29 h) : 13,18 SOL d'achats, 84,94 SOL de ventes",A
+C07,Essentiel 2 / Test,"Sur les 3 h avant l'envoi de l'avatar : 229,3 SOL contre une médiane de 6,2 dans le passé du token, p = 0,069",B
+C08,Essentiel 3 / Test,"Verdict gelé : DMAGA non distinguable de ses pairs, 211 comparateurs, meilleur p = 0,156, DMAGA au mieux 33e sur 212",B
+C09,Essentiel 3,"Une absence d'anomalie au test ne prouve pas l'absence de connaissance préalable ; un détenteur existant n'a pas besoin d'acheter",B
+C10,Essentiel 4,"33 wallets sont reliés par 40 transferts directs d'au moins 1 M de jetons, tous relus sur la chaîne",C
+C11,Essentiel 4,"Ces 33 wallets détiennent au plus 217 M avant Musk, soit 23 % des 938 M hors pools (plafond)",C
+C12,Essentiel 4,"Sous-ensemble le mieux relié : 29 wallets, 166,1 M, 17,7 %",C
+C13,Essentiel 4,"4 wallets, 50,9 M, ne tiennent au groupe que par une transaction",C
+C14,Essentiel 4,"15 des 33 wallets achètent en première heure",C
+C15,Essentiel 4,"Ventes par swap du groupe en 24 h après Musk : 4 525 SOL, soit 2,4 % des 190 551 SOL vendus sur le marché",C
+C16,Essentiel 5,"5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd envoie 0,032 SOL au créateur 35 secondes avant que celui-ci ouvre un ordre de vente sur tous ses jetons, en juillet 2025",C
+C17,Essentiel 5,"En janvier 2025, en 190 secondes, le créateur, 5QhJJc et un autre membre envoient du SOL à 9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",C
+C18,Essentiel 5,"9W9b3zg a 48 expéditeurs et 94,5 % de ses fonds repartent vers Coinbase",C
+C19,Essentiel 5,"Niveaux : A pour les transactions, B pour une action concertée, C pour un acteur unique dès le lancement",C
+C20,Essentiel 6,"H3QsBr, GXZvX et 9PrmF8 sont sans lien par transfert direct avec le groupe de 33",C
+C21,Essentiel 6 / Q5,"Réalisé : H3QsBr 5 491 SOL (990 744 $ pour 1 087 $ de coût), GXZvX 2 540 SOL, 9PrmF8 1 748 SOL",A
+C22,Essentiel 7 / Q9,"Aucun lien documenté entre un wallet et @DarkMagaCoin, @kikisknees, @Aristos_Revenge ou @ChrisWinig ; aucune adresse publiée par un compte du noyau",C
+C23,Données,"796 883 transactions distinctes (919 783 lignes) dans trades.parquet ; 2 699 114 lues, 1 181 780 sans flux DMAGA, 118 échouées ; 71 706 wallets ; 9 875 478 signatures sur le pool, 6 624 533 sur le mint",A
+C24,Données,"Chaîne des vaults Raydium : 0 rupture sur 681 308 tx WSOL, 1 rupture sur 681 300 tx DMAGA (0,39 jeton) ; autres venues 83 réserves, 215 309 tx, 0 rupture",A
+C25,Données,"Coût recalculé de H3QsBr 1 087 $ contre 1 086 $ sur la capture ; capitalisation recalculée 844 k$ quand @kikisknees écrit $850k ; GXZvX 48,5 SOL et 14,69 M comme @ai_9684xtpa",A
+C26,Données,"97 ruptures dues à un découpage trop court (23:36 à minuit le 23/07) ont été détectées et comblées",A
+C27,Données,"Limite du PnL : coût moyen pondéré, frais exclus ; un wallet qui reçoit ses jetons d'un autre a un réalisé surévalué ; le classement ne retient que les coûts connus",A
+C28,Q1,"Le créateur est financé 33 min avant par Coinbase 3 (0,5 SOL), achète 7,1 M pour 0,2 SOL et ne vend rien pendant le pic",C
+C29,Q1,"Aucun autre acheteur dans le slot de création ; 17 acheteurs prennent 310,8 M pour 11,9 SOL dans les 60 premières secondes",A
+C30,Q1,"13 virements de 0,5 SOL de G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E entre 01:46 et 02:03 UTC juste avant le mint ; 7 de ces wallets n'achètent jamais sur le marché ; 2 wallets financés 65 min avant",C
+C31,Q2,"Plus ancienne image identique archivée : @ChrisWinig 21/07 16:02:29 UTC, pHash à distance 0 de l'avatar de Musk",C
+C32,Q2,"@kikisknees revendique pfp by me and @ChrisWinig ; sa réponse à Musk de 16:00:08 UTC a perdu son image ; @DarkMagaCoin publie IMG_5658 datée 06:17 sans fuseau",C
+C33,Q3,"Amplificateurs avant le changement : @DarkMagaCoin, @kikisknees, @koreanjewcrypto dès le 15/07, @kanpai dès le 16/07 ; @pmarca non compté",C
+C34,Q4,"Les cohortes d'acheteurs avant le visuel et avant Musk sont distinctes (reports/EARLY_BUYERS.md)",A
+C35,Q5,"5QhJJc a réalisé 74 SOL en propre, ses jetons sont sortis vers d'autres wallets ; sommet 631 364 SOL de capitalisation le 22/07/2024 09:00 UTC ; 18 367 wallets sur 53 893 entrés après Musk ont un réalisé positif",A
+C36,Q6,"Dans le groupe, 11 des 32 wallets tracés ont leur premier financeur dans le groupe, 10 ont G41vRrsH hors du groupe",C
+C37,Q7,"Échanges atteints à 3 sauts au plus sur 65 wallets : Bybit 2 8 523 SOL éq., Binance 1 8 051, Coinbase 3 3 285, Coinbase 1 2 589, Coinbase 2 2 039, OKX 16 446 ; 9PrmF8 passe par H9Xezqfd puis Coinbase",C
+C38,Q8,"La composante plus large de data/wallet_clusters.parquet ne se lit pas comme un propriétaire unique",C
+C39,Q10,"Le scénario le plus simple combine une campagne (H1), une distribution précoce (H3) et un effet Musk, sans nécessiter de connaissance préalable (H2) ; le lien entre équipe X et wallets n'est pas établi",C
+C40,Hypothèses H2,"Le groupe ne trade pas entre le visuel et la bascule",C
+C41,Hypothèses H3,"Le groupe vend moins que les autres gros détenteurs (22,5 % contre 35,0 %, exploratoire)",C
+C42,Q12,"Gestes du groupe le 21/07 avant le visuel : répartition 07:57-08:33 UTC, regroupement 14:22-14:25 UTC",C
+C43,Test,"Comparateurs par règle sur 13 920 migrations Pump.fun du 15/06 au 31/08/2024 ; 84 jours de pic",B
+C44,Test,"M1 39,867 (pairs 3,755, p 0,170) ; M2 9,371 (1,464, p 0,184) ; M3 0,680 (0,450, p 0,241) ; M4 0,308 (0,347, p 0,547) ; M5 433,798 (176,327, p 0,264) ; M6 0,205 (0,075, p 0,156) ; M7 0,138 (0,074, p 0,179)",B
+C45,Test,"Secondaire : 402 SOL sur les 3 h avant Winig contre une médiane de 6,1, p = 0,036 sur 27 fenêtres ; ne pouvait pas passer Holm",B
+C46,Test,"Exploratoire hors plan : financeur commun des 50 premiers gros acheteurs 0,08 contre une médiane de 0,00, p = 0,073, k = 40",B
+C47,Limites,"À k = 211 une mesure ne passe Holm que si DMAGA dépasse tous les comparateurs ; registre 33 comparaisons réelles, seuil de Bonferroni 0,00152",B
+C48,Limites,"La conclusion ne vaut que parmi les pics tardifs ; le pic compte des signatures échouées ; les mesures ont été choisies après avoir vu DMAGA",B
+C49,Relectures,"Plan et code gelés avant le calcul des mesures ; contrôles positifs corrects (nul 5 %, effets détectés à k = 150) ; reproduction en copie neuve identique",B
+C50,Q6,"Les fonds viennent surtout d'échanges et d'historiques antérieurs ; un hot wallet coupe la trace",A
+C51,Pièges,"Coinbase, réserves de pools, comptes de pourboire Jupiter, exécutants et escrows DCA (JD, DCAK) ont été correctement retirés des liens",A

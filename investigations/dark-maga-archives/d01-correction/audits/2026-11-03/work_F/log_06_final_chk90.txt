@@ -1,0 +1,3 @@
+lignes de trades doublées : 0 (groupes 0)
+références vérifiées: 1707, absentes des données: 0
+garde : fini, code 0, pic 508 Mo

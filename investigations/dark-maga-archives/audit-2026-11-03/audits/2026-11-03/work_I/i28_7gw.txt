@@ -1,0 +1,18 @@
+['/Volumes/VERBATIM HD/Dark-MAGA-Investigation/audits_work/G/net/7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx.jsonl.gz']
+tx 100 signées 21 de 2024-02-01 13:32:21+00:00 à 2024-02-08 12:53:03+00:00
+programmes signés [('ComputeBudget111111111111111111111111111111', 19), ('11111111111111111111111111111111', 18), ('TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA', 13), ('ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL', 7), ('TB1Dqt8JeKQh7RLDzfYDJsq8KS4fS2yt87avRjyRxMv', 7), ('675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8', 5), ('metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s', 5), ('auth9SigNpDKz4sJJ1DfCTuZrZNSAgh9sFD3rboVmgg', 5), ('JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4', 4), ('TSWAPaqyCSx2KABk68Shruf4rp7CxcNi8hAsbdwmHbN', 3), ('JUP2jxvXaqu7NQY1GmNF4m1vodw12LVXYxbFL2uJvfo', 1), ('whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc', 1)]
+entrées pures [('ASTyfSima4', 27.63), ('2W68gbn3FE', 0.98), ('8Cb3L5GoLq', 0.002), ('8Cb66et65Y', 0.0)]
+sorties pures [('8Cb3L5GoLq', 0.004)]
+{"token": "246867580:41", "n": 100, "complete": false, "pages": 1}
+== 9cfRU5RK
+first_in lignes 100 tronqué True None
+  sources [('5Q544fKrFo', 85.57), ('7Gw3gL8mq7', 30.04), ('AGQ8AeTacH', 2.02), ('2o7j24VrMf', 0.2), ('EhKpPbeZim', 0.0), ('8jYWn46o8e', 0.0)]
+  premier 7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx 0.5 2024-02-08 21:36:54+00:00
+in_before lignes 181 tronqué False {'blockTime': {'lt': 1720961989}, 'amount': {'gte': 10000000}}
+  sources [('5Q544fKrFo', 574.26), ('7Gw3gL8mq7', 115.04), ('GpMZbSM2Gg', 8.36), ('AGQ8AeTacH', 2.02), ('2o7j24VrMf', 0.2)]
+  premier 7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx 4.0 2024-07-14 02:18:29+00:00
+sol_out_after lignes 2500 tronqué True {'blockTime': {'gte': 1721113691}, 'amount': {'gte': 100000000}}
+  dest [('5Q544fKrFo', 10706.31), ('7Gw3gL8mq7', 1471.1), ('AVUCZyuT35', 166.41), ('FERjPVNEa7', 58.69), ('GpMZbSM2Gg', 46.78), ('DUB4Wd6ZA2', 29.7), ('3DMUfMxguN', 28.71), ('Gx7rWaEFER', 5.88), ('H7d4hzqCnM', 4.95), ('wHZNUbAope', 4.41), ('7ohtPAzJND', 3.92), ('Cv4j5GWfqq', 3.14)]
+usdc_out_after lignes 31 tronqué False {'blockTime': {'gte': 1721113691}, 'amount': {'gte': 100000000}}
+  dest [('5Q544fKrFo', 3564.45), ('HLnpSz9h2S', 2431.89), ('GpMZbSM2Gg', 617.68), ('FhVo3mqL8P', 328.26)]
+dmaga_all lignes 35 tronqué False None

@@ -1,0 +1,3 @@
+expéditeurs de Caw4 55 hors périmètre créateur et hors 33 27 SOL éq. 925.45 sur 3438.04
+  dont avec arête directe au périmètre créateur 20 SOL éq. 822.89 ; avec historique lu 9 ; touchent DMAGA 3
+  sans arête vue [('59L2oxym', 0.0, 'hist'), ('F5YUSLQ3', 13.0, '-'), ('8oEMabP2', 1.9, '-'), ('nJSkN3Dz', 2.7, '-'), ('4D7g1Wfo', 5.1, '-'), ('FeompFnD', 66.4, 'hist'), ('5NmoD59D', 13.3, '-')]

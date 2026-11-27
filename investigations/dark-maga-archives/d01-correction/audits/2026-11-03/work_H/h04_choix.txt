@@ -1,0 +1,43 @@
+## K06
+motifs [("plus de 50 % d'allers-retours", 103, 106047.79813394303), ('jamais signataire, programme propre', 2, 444.836090117)]
+propre ('AojsMucuraCTZh94UwsMXcfRQASWKtC375tJ5iC5dTpE', 225.565564412, 95.114784265, 0.4216724503713295, 54, 0, '7cLrezfahcmjL6ji71JWFHhejnS7AAucs9E9aX4CYDXL')
+propre ('AzWs3s1WaqnbeiCazrc7PBKb6MDrQeq5AxgFwzBSBjkA', 219.270525705, 108.954581901, 0.49689570246930603, 24, 0, 'GNF7xzmzywG8rbBcWsj9KUZTKrH8VF4juSqL62F4Aq7i')
+gros >=100 SOL [(1500, 518651.6040442038, 26, 84241.29660536099, 13, 10337.636393785)]
+non signataires non étiquetés, 12 premiers [('Bya5eBy9KgqaXfnLKuvFYBaqzYqxip3JVimhtToKRxLp', 4450.3, 0.0, 5211), ('CnZzdTH1e6ZT3mtgaXqggexCWfubm375UMuFpAycDd1r', 2683.3, 0.001, 37380), ('9mH9Q5KPQPjwENTfcVDByskRyDaZcynxHkLooRbWFV8E', 634.6, 0.0, 13), ('E4iKzxtNKXZB3pFofNaEkXFB1ekdNeeshmVkgYSDLgHS', 532.4, 0.0, 179), ('225o8JR2Ezam5q1EBb5bKDS4KoqbFDxncYKGYtyhRmTQ', 481.4, 0.0, 431), ('2eDs7YDi65h3dR2rxwH8mPbGsmjM3m8uHhDKRtH6dmpb', 322.4, 0.0, 415), ('9VrLXkFPkJPtn7sJ2FqFS3y3vj7thvUAZHtsBJUbpeZa', 262.0, 0.0, 217), ('9nSQGFsALHdLkaPJKX48fXvYakBiZ9u8Ro4EL7GYxiR5', 254.6, 0.0, 153), ('337k8URshvaagCFPVvwgdFkRG5qYdwztzDmnFVxRQHgU', 250.2, 0.0, 71), ('CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2', 132.3, 0.0, 12), ('ErXg9C54TAbF3RHHNggpHnL5L1RLGBqFmWco7VGjMkiq', 125.5, 0.0, 312), ('EuF8Jha2D5CG9nq4BB4a1wFVhzPKnXXiJkwYgLhwmDvm', 108.7, 0.0, 3)]
+seuils 0.5 1 ajouts 0 0
+seuils 0.5 3 ajouts 2 444.8
+seuils 0.5 5 ajouts 2 444.8
+seuils 0.5 10 ajouts 2 444.8
+seuils 0.5 20 ajouts 4 5157.2
+seuils 0.5 50 ajouts 5 5791.8
+seuils 0.8 1 ajouts 0 0
+seuils 0.8 3 ajouts 2 444.8
+seuils 0.8 5 ajouts 2 444.8
+seuils 0.8 10 ajouts 2 444.8
+seuils 0.8 20 ajouts 4 5157.2
+seuils 0.8 50 ajouts 5 5791.8
+seuils 0.95 1 ajouts 0 0
+seuils 0.95 3 ajouts 2 444.8
+seuils 0.95 5 ajouts 2 444.8
+seuils 0.95 10 ajouts 2 444.8
+seuils 0.95 20 ajouts 4 5157.2
+seuils 0.95 50 ajouts 5 5791.8
+top acheteurs lignes 51 seuil rang 100 667.8 rang 50 671.1
+signataires 3GMsedVP 45 étiquetés bots [(44, 14478.776192410005)] non étiquetés [(1, 79.302900223)]
+dans le top 100 publié []
+4ToQp55m [(9986.809870644, 119.363127088, 0.011952077653832702, 2036, 144, False)]
+## K04
+wallets : somme solde seul [(739.257101011364, 656.0433067567787, 906.4573497846094)]
+écarts corrigé-solde seul [(86, 132.452081823556, 49.238287568971)]
+top écarts [('ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn', 43.01, 0.0, 42.68), ('6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M', 0.0, 26.65, 0.0), ('8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh', 0.0, 23.41, 0.0), ('99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb', 0.0, 19.03, 0.0), ('AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5', 0.0, 15.44, 0.0), ('2QJb6V8MbFtSQpaMHnXVLXyynZMdNpfh9J1MBnc9vSFM', 0.0, 14.86, 0.0), ('7w2UAHpFGfuDysgyS6oVarevXMLy5mDPSQgmJ7oWZdaf', 0.0, 9.82, 0.0), ('AThX2ZkdE4duZsPMgTHzznWuDLjFAPwB4QW6VwViRwYj', 5.26, 0.26, 5.26)]
+top25 : somme 297.03 solde seul 249.34 flux 297.35 avec rupture 0 dont écart >0,1 M 2
+wallets tracés 1219
+résiduel par classe (M) : tracé/non tracé × rupture [(False, False, 69650, 285.0), (False, True, 1121, 26.1), (True, False, 893, 344.9), (True, True, 42, 0.0)]
+multi-comptes touchés par transferts cachés [(22853, 2175738965.192511, 54, 19863116.889778007)]
+complétude [('complet sur le pool et la courbe', 48385), ('partiel: jetons reçus sans coût', 18714), ('partiel: jetons sortis hors swap', 2740), ('partiel: positions de liquidité', 1127), ("partiel: rupture de chaîne d'un compte", 502), ('partiel: ventes sans quantité connue', 238)]
+## K08
+somme par clé (F) 1316494.1 {'ech': 14.803, 'jup': 20.551, 'pool': 22.137, 'sans': 42.44, 'serv': 0.069}
+première ligne par clé 1314636.0 {'ech': 14.824, 'jup': 20.58, 'pool': 22.164, 'sans': 42.364, 'serv': 0.069}
+brut sans dédoublonnage 1316494.0 {'ech': 14.803, 'jup': 20.551, 'pool': 22.137, 'sans': 42.44, 'serv': 0.069}
+wallets lus 1219 lignes retenues 230893 doublons (sig,src,montant) retirés 2624 1102.941 clés à plusieurs virements in_before 235 SOL en plus 33904.052 clés dans les deux requêtes 14738 égales 14700 SOL commun 3147456.3
+garde : fini, code 0, pic 286 Mo

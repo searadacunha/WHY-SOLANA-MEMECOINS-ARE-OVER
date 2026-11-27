@@ -1,0 +1,58 @@
+expéditeurs par dépôt {'H9Xe': 10, '8N4A': 19, 'AQVg': 6, '9W9b': 48, 'Caw4': 55, 'By6D': 8, '42MS': 6, '9kqT': 7}
+  recouvrement 9W9b Caw4 : 27 ['2VTfi1DK', '3ZnQ1fzf', '4pKFTQxs', '5rTDZb5k', '5s3ogzsq', '6ty9DM4s', '7FGoCB63', '7udH6Kqu', '815sxpEH', '8SaiGWJn', 'A9PkAtBd', 'AFDkwJXJ', 'B252jsFK', 'Ce482neA', 'Cv3p9Wu1', 'D8syomxN', 'DfYyxDNE', 'EEpSRR12', 'ERMtiLod', 'F5h42EJq', 'G9uiJWzs', 'Gmc1EGGV', 'HBsgbpsM', 'HMVYeTjs', 'HQzyBQN8', 'HR3oD1C3', 'HqwpWyvb']
+  recouvrement 9W9b AQVg : 1 ['G41vRrsH']
+  recouvrement 9W9b By6D : 1 ['AtZjv3Du']
+  recouvrement 9W9b H9Xe : 0 []
+  recouvrement 9W9b 42MS : 0 []
+  recouvrement 9W9b 9kqT : 0 []
+  recouvrement 9W9b 8N4A : 0 []
+  recouvrement Caw4 AQVg : 1 ['59L2oxym']
+  recouvrement Caw4 By6D : 0 []
+  recouvrement Caw4 H9Xe : 0 []
+  recouvrement Caw4 42MS : 0 []
+  recouvrement Caw4 9kqT : 0 []
+  recouvrement Caw4 8N4A : 0 []
+  recouvrement AQVg By6D : 0 []
+  recouvrement AQVg H9Xe : 0 []
+  recouvrement AQVg 42MS : 0 []
+  recouvrement AQVg 9kqT : 0 []
+  recouvrement AQVg 8N4A : 0 []
+  recouvrement By6D H9Xe : 0 []
+  recouvrement By6D 42MS : 0 []
+  recouvrement By6D 9kqT : 0 []
+  recouvrement By6D 8N4A : 0 []
+  recouvrement H9Xe 42MS : 0 []
+  recouvrement H9Xe 9kqT : 0 []
+  recouvrement H9Xe 8N4A : 0 []
+  recouvrement 42MS 9kqT : 2 ['GXZvXsD6', 'HW5MqvM1']
+  recouvrement 42MS 8N4A : 3 ['FB8241Dx', 'GXZvXsD6', 'HW5MqvM1']
+  recouvrement 9kqT 8N4A : 4 ['ASTyfSim', 'AbLzAvob', 'GXZvXsD6', 'HW5MqvM1']
+expéditeurs : avec historique local 75 sur 122
+9W9b total 956.52 SOL éq. ; avant mint 230.61 ; après mint expéditeur touche DMAGA 595.26 (plafond lié) ; dont couvert par ses ventes antérieures 335.34 (plancher lié) ; après mint expéditeur ne touche pas 130.65 ; DMAGA reçus 0
+   expéditeurs 48, touchent DMAGA 31, hors 48 cibles 0 dont touchent 0
+Caw4 total 3438.04 SOL éq. ; avant mint 43.89 ; après mint expéditeur touche DMAGA 2521.84 (plafond lié) ; dont couvert par ses ventes antérieures 1323.00 (plancher lié) ; après mint expéditeur ne touche pas 872.31 ; DMAGA reçus 0
+   expéditeurs 55, touchent DMAGA 22, hors 29 cibles 26 dont touchent 2
+AQVg total 145.00 SOL éq. ; avant mint 29.00 ; après mint expéditeur touche DMAGA 116.00 (plafond lié) ; dont couvert par ses ventes antérieures 103.00 (plancher lié) ; après mint expéditeur ne touche pas 0.01 ; DMAGA reçus 0
+   expéditeurs 6, touchent DMAGA 5, hors 5 cibles 1 dont touchent 0
+By6D total 343.36 SOL éq. ; avant mint 56.00 ; après mint expéditeur touche DMAGA 139.86 (plafond lié) ; dont couvert par ses ventes antérieures 139.86 (plancher lié) ; après mint expéditeur ne touche pas 147.50 ; DMAGA reçus 0
+   expéditeurs 8, touchent DMAGA 6, hors 4 cibles 4 dont touchent 2
+H9Xe total 3135.77 SOL éq. ; avant mint 85.21 ; après mint expéditeur touche DMAGA 3050.57 (plafond lié) ; dont couvert par ses ventes antérieures 1983.95 (plancher lié) ; après mint expéditeur ne touche pas 0.00 ; DMAGA reçus 2500000
+   expéditeurs 10, touchent DMAGA 8, hors 1 cibles 9 dont touchent 7
+42MS total 2067.85 SOL éq. ; avant mint 130.50 ; après mint expéditeur touche DMAGA 493.26 (plafond lié) ; dont couvert par ses ventes antérieures 451.54 (plancher lié) ; après mint expéditeur ne touche pas 1444.09 ; DMAGA reçus 0
+   expéditeurs 6, touchent DMAGA 3, hors 1 cibles 5 dont touchent 2
+9kqT total 316.67 SOL éq. ; avant mint 0.00 ; après mint expéditeur touche DMAGA 251.91 (plafond lié) ; dont couvert par ses ventes antérieures 145.02 (plancher lié) ; après mint expéditeur ne touche pas 64.76 ; DMAGA reçus 0
+   expéditeurs 7, touchent DMAGA 3, hors 1 cibles 6 dont touchent 2
+8N4A total 2952.08 SOL éq. ; avant mint 261.24 ; après mint expéditeur touche DMAGA 1106.35 (plafond lié) ; dont couvert par ses ventes antérieures 528.03 (plancher lié) ; après mint expéditeur ne touche pas 1584.50 ; DMAGA reçus 0
+   expéditeurs 19, touchent DMAGA 6, hors 1 cibles 18 dont touchent 5
+9W9b par mois [('2024-04', 0.1, 1), ('2024-05', 33.9, 2), ('2024-06', 196.6, 8), ('2024-07', 109.4, 7), ('2024-08', 365.2, 12), ('2024-09', 154.5, 9), ('2024-11', 5.0, 1), ('2024-12', 17.5, 3), ('2025-01', 17.2, 17), ('2025-02', 8.9, 3), ('2025-03', 16.8, 1), ('2025-05', 22.1, 3), ('2025-07', 6.6, 1), ('2025-08', 2.6, 2)]
+Caw4 par mois [('2024-07', 744.8, 12), ('2024-08', 176.8, 5), ('2024-09', 191.8, 9), ('2024-10', 367.8, 5), ('2024-11', 201.0, 3), ('2024-12', 70.8, 2), ('2025-01', 634.8, 12), ('2025-02', 5.1, 1), ('2025-04', 89.7, 2), ('2025-05', 11.8, 2), ('2025-07', 192.7, 3), ('2025-08', 549.2, 11), ('2025-11', 22.6, 2), ('2025-12', 15.8, 1), ('2026-01', 15.0, 1), ('2026-02', 29.8, 1), ('2026-03', 14.4, 4), ('2026-04', 12.0, 2), ('2026-05', 3.9, 1), ('2026-06', 16.1, 1), ('2026-07', 39.5, 2), ('2026-08', 32.6, 1)]
+Caw4 salves >=3 en 30 min [('2024-07-22 05:22:29', '05:24:16', 6, 116377.39, ['59L2ox', '5s3ogz', 'EEpSRR', 'ERMtiL', 'Fp6kgq', 'HqwpWy']), ('2024-09-10 13:58:30', '14:06:46', 4, 8597.52, ['4pKFTQ', '6ty9DM', '7FGoCB', 'B252js']), ('2024-10-06 12:16:18', '12:17:22', 3, 18345.33, ['7VtkbU', 'Cv3p9W', 'HQzyBQ']), ('2025-01-04 05:28:19', '05:34:16', 4, 13177.91, ['3ZnQ1f', '4oaoAU', '8oEMab', 'Cj9Ukz']), ('2025-01-26 16:06:38', '16:09:25', 4, 2406.18, ['7TYYMm', 'A9PkAt', 'B252js', 'DfYyxD']), ('2025-01-26 17:18:05', '17:20:43', 3, 680.81, ['D8syom', 'Fp6kgq', 'HQzyBQ']), ('2025-08-03 12:54:45', '13:04:09', 6, 35709.5, ['7rMagz', '9qFszj', 'Afw81r', 'BuHUkj', 'EvatZz', 'HW2uyR']), ('2025-08-21 03:03:52', '03:06:41', 6, 24524.71, ['8SaiGW', 'Afw81r', 'BuHUkj', 'EvatZz', 'GWFWsE', 'Hw736X'])]
+9W9b salves >=3 en 30 min [('2024-06-27 05:48:46', '05:49:58', 3, 19.03, ['9z697N', 'FhTm6R', 'G9uiJW']), ('2024-07-23 02:14:06', '02:16:50', 4, 31.9, ['AtZjv3', 'C73Yv9', 'EGtyQE', 'G41vRr']), ('2024-08-03 06:18:16', '06:38:49', 3, 27.07, ['815sxp', '9Dxk6i', 'G9uiJW']), ('2024-09-29 12:08:51', '12:14:33', 6, 83.5, ['3ZnQ1f', 'Cv3p9W', 'D8syom', 'DDcEfN', 'DfYyxD', 'HQzyBQ']), ('2025-01-26 16:11:24', '16:15:09', 6, 2.46, ['4pKFTQ', '5QhJJc', '7FGoCB', '8YLEuU', 'EEpSRR', 'HBsgbp']), ('2025-01-26 17:13:19', '17:21:56', 9, 3.18, ['6ZMaqH', '9Dxk6i', '9PoYaK', '9iDacN', 'Cv3p9W', 'ERMtiL', 'G9uiJW', 'HR3oD1', 'HqwpWy']), ('2025-05-28 03:01:48', '03:19:12', 3, 10.7, ['8SaiGW', 'EEpSRR', 'GoPCTr'])]
+AQVg salves >=3 en 30 min []
+By6D salves >=3 en 30 min []
+communs 9W9b et Caw4 27 écart minimal <=15 min 8 <=1 h 8 <=24 h 8 sur 27
+permutation des wallets (même calendrier global), moyenne <=15 min, <=1 h, <=24 h [1.59, 1.66, 2.78] P(>= observé) [0.0001999600079984003, 0.0001999600079984003, 0.0005998800239952009]
+  salve 23/07 2024-07-23 02:14:06 EGtyQEgMKGKXjppDqj9sYy97e9m7nvu1US4SfFXNakMy 7.9 2mC7gPb89CVz5aZ2sn86v3XmFxYFxsWrTE5Nt2mF6WQdZz3R5k3joi9xMCUwUXg2DZrunuZ1DJdS8q5fNZ1Ubozg
+  salve 23/07 2024-07-23 02:15:07 G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E 8.0 4e3Pg7TvkWucWVKUM5Mymc88jApjREYNsUGk9gSH9gqGWCSEBUQHPdaboYRoMTCP6hPEhw693BGh7iHnZsr3fgZN
+  salve 23/07 2024-07-23 02:16:17 C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae 8.0 25u4vvqJkg7CTmCnEZQSRwjXG6tbjBYMq4tLtZEQqWYg6r8HfqDAuUutacKtYs1PQgce8ikjHq9vREX7PtyGrGt6
+  salve 23/07 2024-07-23 02:16:50 AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk 8.0 KJDdVPyYmAUHioiv1Cf6ihJLLX6jhgieTqnUp7hobUWGEVbd5ysM2SXZY8ewBd8Mx7YBnm8gjFGYqXVJ9ZT9u73

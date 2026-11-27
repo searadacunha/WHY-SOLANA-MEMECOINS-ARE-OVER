@@ -1,0 +1,23 @@
+lignes 8619 tx 3826 err non vides 0
+programmes [('3GMsedVPsXjWR7HYUvwm1YUpvBC2bTgSkXixm4gMXnPk|675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8', 8614), ('3GMsedVPsXjWR7HYUvwm1YUpvBC2bTgSkXixm4gMXnPk|LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo', 5)]
+propriétaires DMAGA par tx Counter({2: 2859, 3: 967})
+tx sans propriétaire unique hors AMM 968 [{'s': '2TbkNSa3PfcuQtjKRbjDnGo11yUAAWpiXsb6AU9tAaEiRswxKWAQyq5B7YZ9wZGGQX5yXHNCjV5tqgsFp3g4Eevy', 'bad': 2, 'own': ['5Q544fKr', 'AZdThK1U', '4ToQp55m']}, {'s': '63WGjDT8wHpmufdFp1V8g1gTdsztbTvEVjF89v1AcAZw4iAMvnJnC3k8fr6apNAmgb8BxgvxqPAbmY9oF3pkTXmx', 'bad': 2, 'own': ['5Q544fKr', '4ToQp55m', 'AMbH5m2K']}, {'s': '1W2CLNtLB769aVXNWTC86HHfb36T9Zk1kVgxGNNdsD8tTo1iF3H8Pf25JtkH5MmGAsTA418TTqtUP6xsi4m7zdD', 'bad': 2, 'own': ['6aNfYRTC', '5Q544fKr', '4ToQp55m']}]
+blocs 1912 jambes par bloc Counter({1: 966, 2: 946})
+propriétaire = 4ToQp55m 1892 propriétaire = signataire 966 signataires 45 Raydium v4 dans la tx 2858
+catégories Counter({'autre': 966, ('vente_achat', '4To'): 946}) écart d'index Counter({2: 946}) quantité égale à 1 % 946
+('vente_achat', '4To') marge SOL 170.304 positives 945 sur 946 médiane 0.03035
+même signataire entre les 2 jambes 946 sur 946 ; même propriétaire 946
+colonnes trades ['signature', 'slot', 'tx_index', 'block_time', 'fee_payer', 'signers', 'fee', 'source', 'kind', 'venue', 'owner', 'token_delta', 'sol_lamports', 'usdc_raw', 'pool_token_delta', 'pool_sol_delta', 'n_owners', 'owner_native_delta', 'owner_wsol_delta']
+lignes tierces dans trades.parquet 969
+jambes tierces par catégorie et sens Counter({('vente_achat|4To', 'vente'): 968, ('vente_achat|4To', 'achat'): 1})
+SOL par catégorie et sens {('vente_achat|4To', 'vente'): 18099.8, ('vente_achat|4To', 'achat'): 0.0}
+blocs avec au moins un tiers 946 ; nombre de tiers par bloc Counter({1: 923, 2: 23})
+tiers distincts 475 top [('5FzhCSWLT84QdgX9wYWWuWY1ZY3G9kMUu2fRifxLLhmx', 59), ('4CwtDpX8ghpJAtwiArg6waKSPin87ksLnVrbmE2idias', 27), ('FTKTNFqeu9wzckDzmsaL1dTgB19BK6fE6DMTHdbETtd1', 18), ('G11LHDyKR4RiyL4Fq4sDFsMTMTHDsHC35YTn7rDueYuq', 18), ('DKs3wSE35ckDixo9TCYTFpYtdzEHtnGBDZyWc2iHRKP5', 17), ('ADw57JeDjTeEjSYiAFJgLCnsT19bXSvx39CRnhTWXLfy', 15), ('2PF9meafUQg5sCaohLhqt8hdQQmmNeQ21SkcWMsrF7yE', 15), ('2V3Kt8V4j3CJRcsXkRwRMdkZk1YvV6tLYS1AcfNFJFvc', 12)]
+venues des tiers [('raydium', 968), ('5Q544fKr+9UsmwVmb', 1)]
+tiers qui sont aussi signataires du service 0 ; tiers = 4ToQp55m 0
+part des 10 premiers tiers 0.209
+marché : lignes 919783 achats SOL 788864.8 achats n 453510
+achats des jambes SOL 2.96 part 0.0 % ; par trades.parquet : (24723.169141581, 2912) part 3.134
+net DMAGA des jambes, M 304.9219 marge totale 170.3
+premier et dernier bloc 1720927663 1728230235
+USDC dans les jambes 0.0

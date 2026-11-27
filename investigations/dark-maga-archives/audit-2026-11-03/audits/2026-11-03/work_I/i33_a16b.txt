@@ -1,0 +1,20 @@
+blocs 1913 tx par bloc Counter({2: 1913})
+achat_vente slot 277428529
+   247 5k5kE7pW5WhN9F PKt5x4i2 [('5Q544fKr', -7655298.45, 0.0, 1.8292), ('PKt5x4i2', 7655298.45, -0.0041, 0.0)]
+   249 4AWRwrDuvAyb63 PKt5x4i2 [('5Q544fKr', 7651592.58, 0.0, -1.8292), ('PKt5x4i2', -7655298.45, 0.0041, 0.0), ('4ToQp55m', 3705.87, 0.0, 1.8272)]
+achat_vente slot 277430326
+   1138 5Nt1Uax4ounevo C9Wxwm81 [('5Q544fKr', -1219786.47, 0.0, 0.3467), ('C9Wxwm81', 1219786.47, -0.0041, 0.0)]
+   1140 53zyLtZRGDnasD C9Wxwm81 [('5Q544fKr', 1191282.21, 0.0, -0.3467), ('4ToQp55m', 28504.26, 0.0, 0.3447), ('C9Wxwm81', -1219786.47, 0.0041, 0.0)]
+vente_achat slot 277726568
+   3231 2jDsMQDLPaqBUR 4AVe3VMD [('5Q544fKr', 165289.84, 0.0, -1.0971), ('4ToQp55m', -165289.84, 0.0, 0.0)]
+   3233 G1fbqVubWRTfWU 4AVe3VMD [('5Q544fKr', -165289.84, 0.0, 1.0692), ('4ToQp55m', 165289.84, 0.0, 0.0278)]
+vente_achat slot 278876137
+   963 5naQoTU1EK519y GdBYTTD2 [('5Q544fKr', 42922.23, 0.0, -0.5075), ('4ToQp55m', -42922.23, 0.0, 0.0)]
+   965 4gAGGRSwBxUqqE GdBYTTD2 [('5Q544fKr', -42922.23, 0.0, 0.4906), ('4ToQp55m', 42922.23, 0.0, 0.0168)]
+autre slot 293971184
+   2191 42bi4LR3TGZe5R 933LWDrv [('Eqe7fgb5', -11802.35, 0.0, 0.549), ('933LWDrv', 11802.35, -0.0041, 0.0)]
+   2193 5vipabZ1wFNsb6 933LWDrv [('4ToQp55m', 16.83, 0.002, 0.5471), ('Eqe7fgb5', 11785.53, 0.0, -0.5512), ('933LWDrv', -11802.35, 0.0041, 0.0)]
+formes Counter({'achat_vente': 966, 'vente_achat': 946, 'autre': 1})
+écart d'index Counter({('achat_vente', 2): 966, ('vente_achat', 2): 946, ('autre', 2): 1})
+achat_vente quantité égale à 1 % 676 marge SOL (hors pool, toutes clés) 14557.304 positives 966 médiane 5.55772 même signataire 966
+vente_achat quantité égale à 1 % 946 marge SOL (hors pool, toutes clés) 170.304 positives 945 médiane 0.03035 même signataire 946

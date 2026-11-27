@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "repository": "searadacunha/Dark-MAGA",
+  "source_commit": "933ebe8afc0558a2406b189a272311df060aef7a",
+  "scope": "Verbatim committed audit outputs, not raw blockchain receipts or an independent live-chain validation.",
+  "files": [
+    {
+      "file": "i14_orders.csv",
+      "source_path": "audits/2026-11-03/work_I/i14_orders.csv",
+      "source_url": "https://github.com/searadacunha/Dark-MAGA/blob/933ebe8afc0558a2406b189a272311df060aef7a/audits/2026-11-03/work_I/i14_orders.csv",
+      "git_blob_sha": "2daecd013a7c53f1d1e738e11ef1ae71dd8d1c0a",
+      "sha256": "d51c347a4c50c10aa60b3afe7343ec9e9b6d2c9296c513c4991de09dc19c6ac5",
+      "bytes": 40378
+    },
+    {
+      "file": "i21_evm_fill.txt",
+      "source_path": "audits/2026-11-03/work_I/i21_evm_fill.txt",
+      "source_url": "https://github.com/searadacunha/Dark-MAGA/blob/933ebe8afc0558a2406b189a272311df060aef7a/audits/2026-11-03/work_I/i21_evm_fill.txt",
+      "git_blob_sha": "68a137b7b21b80a39e318ea7329566d01931d115",
+      "sha256": "58e018eaeb325afe03bf3e3fbf3d883e3fd3a3db56083115311cf99374321427",
+      "bytes": 7959
+    },
+    {
+      "file": "i22_evm_rest.txt",
+      "source_path": "audits/2026-11-03/work_I/i22_evm_rest.txt",
+      "source_url": "https://github.com/searadacunha/Dark-MAGA/blob/933ebe8afc0558a2406b189a272311df060aef7a/audits/2026-11-03/work_I/i22_evm_rest.txt",
+      "git_blob_sha": "3fdd722ce7f1faf920752d0335be0f8519dafdb5",
+      "sha256": "4eb4a14de45f5d14e242345b807f1f5ce22a487eb8a7a4acb5d517f6fbd6fc45",
+      "bytes": 4903
+    },
+    {
+      "file": "group_split.json",
+      "source_path": "data/group_split.json",
+      "source_url": "https://github.com/searadacunha/Dark-MAGA/blob/933ebe8afc0558a2406b189a272311df060aef7a/data/group_split.json",
+      "git_blob_sha": "b4f7df7cb01d4dc8f8ce3e5e333e558db1f6c79c",
+      "sha256": "7fc7e932a01e0aeeb13ff5f2c3da2a8290d9e3ef2a544370457df9990b9dcbf9",
+      "bytes": 19250
+    }
+  ]
+}

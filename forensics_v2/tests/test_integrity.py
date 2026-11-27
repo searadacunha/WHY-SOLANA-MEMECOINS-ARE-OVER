@@ -21,9 +21,9 @@ def _tracked():
 
 def test_publication_snapshot_matches_accepted_main():
     """The imported engine must not alter the accepted root README or policy anchor."""
-    assert _git("rev-parse", "HEAD:README.md").strip() == "bb1b854f0fc15768b66d2c5d9685be5cf90b8316"
+    assert _git("rev-parse", "HEAD:README.md").strip() == "6321504157f4b894d6c6004c9e365cedea42d8a6"
     policy = json.loads((ROOT / "forensics_v2" / "publication_policy.json").read_text())
-    assert policy["branches"]["main"]["baseline"] == "29099b8d2ce7de4d3708c024baaa52e0c68d18e5"
+    assert policy["branches"]["main"]["baseline"] == "268c75e9f57d59bd992a4a5a0aa082f07a334825"
 
 
 def test_no_api_key_shape_in_tracked_files():

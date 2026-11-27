@@ -1,0 +1,67 @@
+retraits 2517 destinataires 2201 2024-07-14T00:05:29Z 2024-07-14T02:06:23Z
+SANS SEUIL expéditeurs bruts : 9W9b 83 Caw4 120 réunion 165
+ croisement sans seuil : 9W9b 13 Caw4 10 les deux 9 réunion 14
+  2024-07-14T01:32:23Z Coinbase3 8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR 0.5 sol9 0.593 usdC 0 solC 0
+  2024-07-14T01:33:05Z Coinbase3 GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC 0.5 sol9 0.9685 usdC 0 solC 0
+  2024-07-14T01:33:30Z Coinbase3 AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93 0.5 sol9 66.76695 usdC 1901.5639 solC 0
+  2024-07-14T01:34:15Z Coinbase3 EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa 0.5 sol9 8.022 usdC 39171.7936 solC 0
+  2024-07-14T01:35:00Z Coinbase1 6ty9DM4s2mNvsMpMrcaXBDVguFHapfwK9g7WdD9DBLgM 0.5 sol9 29.4111 usdC 3016.2382 solC 0
+  2024-07-14T01:35:40Z Coinbase2 ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH 1.0 sol9 0.109 usdC 2980.3588 solC 0
+  2024-07-14T01:36:14Z Coinbase2 HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ 1.0 sol9 0.276 usdC 31525.1315 solC 0
+  2024-07-14T01:36:57Z Coinbase1 6ZMaqHjPYpPdYor9qNGJP7bmunaFCuWcDVjDkR5H3b1J 1.0 sol9 95.600681 usdC 0 solC 0
+  2024-07-14T01:37:49Z Coinbase3 5s3ogzsq8cvwHtS1B6MhwUUp9CyzugJ6y3WqLPM9Ee3C 1.05 sol9 37.71 usdC 18345.6308 solC 0
+  2024-07-14T01:38:21Z Coinbase1 Fp6kgqHUHFxdCVNRf1Z4bt4F1K5DK5Njq83PUNzUsGRt 1.05 sol9 0 usdC 27766.8016 solC 0
+  2024-07-14T01:38:58Z Coinbase3 7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE 1.05 sol9 31.71 usdC 1201.1946 solC 0
+  2024-07-14T01:39:38Z Coinbase3 Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd 1.05 sol9 40.765 usdC 21157.8051 solC 0
+  2024-07-14T01:40:13Z Coinbase2 4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g 1.05 sol9 0.1 usdC 1032.3799 solC 0
+  2024-07-14T01:40:50Z Coinbase2 5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd 1.05 sol9 0.125 usdC 0 solC 0
+fenêtre 507 s : retraits 202 destinataires 198 ; 2 h : 7254 s
+ taux de retraits par 507 s sur 2 h 175.9
+ dans 507 s 14 hors 0
+contrôle brut des retraits des wallets cités
+  8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR tx 946 retrait vu première tx = retrait 07-14T01:32:23
+  GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC tx 64 retrait vu première tx = retrait 07-14T01:33:05
+  AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93 tx 69 retrait vu première tx = retrait 07-14T01:33:30
+  EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa tx 161 retrait vu première tx = retrait 07-14T01:34:15
+  6ty9DM4s2mNvsMpMrcaXBDVguFHapfwK9g7WdD9DBLgM tx 671 retrait vu première tx = retrait 07-14T01:35:00
+  ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH tx 51 retrait vu première tx = retrait 07-14T01:35:40
+  HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ tx 71 retrait vu première tx = retrait 07-14T01:36:14
+  6ZMaqHjPYpPdYor9qNGJP7bmunaFCuWcDVjDkR5H3b1J tx 291 retrait vu première tx = retrait 07-14T01:36:57
+  5s3ogzsq8cvwHtS1B6MhwUUp9CyzugJ6y3WqLPM9Ee3C tx 98 retrait vu première tx = retrait 07-14T01:37:49
+  Fp6kgqHUHFxdCVNRf1Z4bt4F1K5DK5Njq83PUNzUsGRt tx 79 retrait vu première tx = retrait 07-14T01:38:21
+  7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE tx 88 retrait vu première tx = retrait 07-14T01:38:58
+  Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd tx 73 retrait vu première tx = retrait 07-14T01:39:38
+  4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g tx 135 retrait vu première tx = retrait 07-14T01:40:13
+  5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd tx 403 retrait vu première tx = retrait 07-14T01:40:50
+
+Premier financeur en SOL des 76 expéditeurs, raw/flows/first_in si présent, sinon net
+Counter({'autre': 30, 'Coinbase3etiq': 26, 'absent': 17, 'famille': 3})
+  2021-10-26T14:20:13 59L2oxymiQQ9Hvhh92nt8Y7nDYjsauFkdb3SybdnsG6h 2AQdpHJ2 48.0 Coinbase3etiq net 0 1
+  2024-03-31T01:17:46 A9PkAtBdN5AdopmmNqcwCEohiTneuwQLG7EYhkHWZFJ9 GJRs4FwH 0.1673 Coinbase3etiq net 1 1
+  2024-06-09T15:20:50 HR3oD1C3DX5CfKyZ13xBQF2pJFTWWYfgxadFiYuvJNeM 2AQdpHJ2 0.2426 Coinbase3etiq net 1 1
+  2024-06-14T01:14:32 9iDacNdyxnETd5FHGhzTF3TFmviy4dxKFnW7kgb9bwyQ GJRs4FwH 0.9663 Coinbase3etiq net 1 0
+  2024-06-26T23:37:51 9z697N4uVjBmSt6jL5kWAcuVdzQWGRb3k5HyJVw91J7S 2AQdpHJ2 0.75 Coinbase3etiq net 1 0
+  2024-06-26T23:38:38 FhTm6Rz9tMgvxaiDKcgTsmzsZJu4pCwwfmoTLvcgwecq 2AQdpHJ2 0.75 Coinbase3etiq net 1 0
+  2024-06-26T23:40:16 G9uiJWzsPUoDuZKXEWSBvEtCi5NtU6iCQc6SeBPSRScT 2AQdpHJ2 0.7496 Coinbase3etiq net 1 1
+  2024-07-14T01:32:23 8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR GJRs4FwH 0.5 Coinbase3etiq flows 1 0
+  2024-07-14T01:33:05 GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC GJRs4FwH 0.5 Coinbase3etiq flows 1 0
+  2024-07-14T01:33:30 AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93 GJRs4FwH 0.5 Coinbase3etiq net 1 1
+  2024-07-14T01:34:15 EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa GJRs4FwH 0.5 Coinbase3etiq flows 1 1
+  2024-07-14T01:35:00 6ty9DM4s2mNvsMpMrcaXBDVguFHapfwK9g7WdD9DBLgM H8sMJSCQ 0.5 Coinbase3etiq flows 1 1
+  2024-07-14T01:35:40 ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH 2AQdpHJ2 1.0 Coinbase3etiq net 1 1
+  2024-07-14T01:36:14 HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ 2AQdpHJ2 1.0 Coinbase3etiq net 1 1
+  2024-07-14T01:36:57 6ZMaqHjPYpPdYor9qNGJP7bmunaFCuWcDVjDkR5H3b1J H8sMJSCQ 1.0 Coinbase3etiq net 1 0
+  2024-07-14T01:37:49 5s3ogzsq8cvwHtS1B6MhwUUp9CyzugJ6y3WqLPM9Ee3C GJRs4FwH 1.05 Coinbase3etiq net 1 1
+  2024-07-14T01:38:21 Fp6kgqHUHFxdCVNRf1Z4bt4F1K5DK5Njq83PUNzUsGRt H8sMJSCQ 1.05 Coinbase3etiq flows 0 1
+  2024-07-14T01:38:58 7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE GJRs4FwH 1.05 Coinbase3etiq flows 1 1
+  2024-07-14T01:39:38 Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd GJRs4FwH 1.05 Coinbase3etiq flows 1 1
+  2024-07-14T01:40:13 4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g 2AQdpHJ2 1.05 Coinbase3etiq flows 1 1
+  2024-07-14T01:40:50 5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd 2AQdpHJ2 1.05 Coinbase3etiq flows 1 0
+  2024-07-30T17:56:09 9Dxk6iLz9Dazwy6E8DEEjnGyDMSgj4DyfVERVfwXZMMo H8sMJSCQ 3.0 Coinbase3etiq net 1 0
+  2024-08-23T15:04:49 9PoYaK2NZziWAswo5eNCaLbdqh6t28pq89qMnS5C3m5n 2AQdpHJ2 0.02 Coinbase3etiq flows 1 0
+  2024-08-23T15:06:25 2k3AwMQcFL5bRe2e3i2LUEhf26n2XxUbmGbJQSCBmRDY H8sMJSCQ 0.02 Coinbase3etiq flows 1 0
+  2025-01-25T19:44:32 Afw81rvvhBXfvSsni4g2hrxqUGtbP1WAvtzTTELBLnis D89hHJT5 1.286 famille net 0 1
+  2025-02-08T19:26:44 Amu8s5w3JHbcUf5HupUs1P23hz1WAEn12pZA1pUbJynm D89hHJT5 1.0 famille net 1 0
+  2025-02-08T19:27:43 CBfWiMK41uMoMKv5WbSRM2HNaoa6nBURCVtiueSyC5bc D89hHJT5 1.0 famille net 1 0
+  2025-05-28T03:03:33 EvatZzJchV9Dncego7abN9cuQgXDX99gH3RpjqtC4GZL H8sMJSCQ 5.8403 Coinbase3etiq net 0 1
+  2025-08-26T13:02:13 FeompFnDtr7NY2jiF9Rp8PTxZmbNCT1QDuNYAopcPmZU GJRs4FwH 0.0791 Coinbase3etiq net 0 1

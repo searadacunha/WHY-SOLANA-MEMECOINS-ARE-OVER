@@ -1,0 +1,83 @@
+== H3QsBr total 4687.7 destinations 78
+  8YSi5yNRN2KMbGU7Q3i5w9W6fTRxnk1qatQ5YmzS5da7 wallet sondé pur 2840.0 n 10 ['H3QsBr'] 2024-07-22 2024-07-31
+  E1wDwfkh1ySipYTgqx6DtCQrri2L8KCwzECC3arUMXyK wallet sondé pur 300.1 n 2 ['H3QsBr'] 2024-07-24 2024-07-24
+  AGG2FsrpP4wN6hjptovXH3sykfdMt6ESADJGLxMYKcJZ wallet sondé pur 300.1 n 2 ['H3QsBr'] 2024-07-24 2024-07-24
+  BZ2UcCujoCr4XYZE2s23xTWYJMgiFSQoYopYrr1B2QmA wallet sondé pur 299.7 n 2 ['H3QsBr'] 2024-07-24 2024-07-24
+  5QbApAquHTJ2waLG2VXNctdF1a1QUvsmwTHew4pmnwG5 wallet sondé pur 299.0 n 2 ['H3QsBr'] 2024-07-24 2024-07-24
+  AjM8Qn62EhR4ikJ1rvyeezB1NyvrSsb4zwJiFUFs9ycs wallet non s tronc 84.1 n 1 ['H3QsBr'] 2025-07-17 2025-07-17
+  5imLaMuSTQ3qXdYHajgPb4EhVjXsX7FGySvhpg2rL2We wallet non s tronc 54.1 n 1 ['H3QsBr'] 2025-07-17 2025-07-17
+  HxyHYetN4JcPhW3QBBaw9ZRAJqcJR8NVyqYqMfdjrukn wallet non s tronc 48.7 n 8 ['H3QsBr'] 2025-07-21 2025-07-21
+  DvF9Fj6XvV3dHX5zuGZcZDRvitrdJsdXgbRZFT16bJFz wallet non s tronc 42.4 n 7 ['H3QsBr'] 2025-07-21 2025-07-21
+  4UoF9oGJ7nhapoQqBCs7SVN94qTVA4d98SWFv8PMAS6Z wallet non s tronc 35.9 n 1 ['H3QsBr'] 2026-10-15 2026-10-15
+  HhXLxqR5i1danHSBhs7cLR2uwy9XeY3ahsrEbuE56unz wallet non s tronc 28.2 n 1 ['H3QsBr'] 2025-07-14 2025-07-14
+  FwfrmkbRWmAfF4NKV8zaRp4n6JZ6cTm8CMPiwZeTFApw wallet non s tronc 26.0 n 5 ['H3QsBr'] 2025-03-24 2025-03-24
+  CEjB37DmuiWsCiuTbZJwJ5Aqp4QqmnwqYycYMNFeyKSt wallet non s tronc 25.0 n 1 ['H3QsBr'] 2026-09-25 2026-09-25
+  6BXoZSmt3WdxhNKaHDutCVvw3aaF1ZGFjnVwZtXbZntm wallet non s tronc 20.2 n 1 ['H3QsBr'] 2025-03-18 2025-03-18
+  6joKnvKjYgAQQXJxBz96YY4zCegjcBp7vW4GYrhYUUAt wallet non s tronc 19.0 n 1 ['H3QsBr'] 2026-10-01 2026-10-01
+  9tLKkJe9GBAz5SSUPio25hZsUtmgze2RvQwk5hnv4WJd wallet non s tronc 18.0 n 1 ['H3QsBr'] 2026-09-21 2026-09-21
+  3cML86HztLtvKYXhq9Zfh5gab2WBecKADJ4TmjxNC17J wallet non s tronc 17.6 n 1 ['H3QsBr'] 2025-01-22 2025-01-22
+  AVx42rzoe4KMgD4gxG8Z4o5gUTwdgevhjEEmY9WhDAqM wallet non s tronc 17.0 n 1 ['H3QsBr'] 2026-10-14 2026-10-14
+  366iFqZACJ9mgfvpQejhuJZNvjtiz16cToaTacAz48Zt wallet non s tronc 15.6 n 1 ['H3QsBr'] 2026-10-10 2026-10-10
+  Ed1iMPx8CjjSAZh8jSKqtk3xxoDz3DjRkjQdhqBBEqzh wallet non s tronc 14.9 n 4 ['H3QsBr'] 2025-03-25 2025-03-25
+  bA5FwtPgQeUp7WrrNrVBBVNxUQL161Wo1rQ4o9NUDwb wallet non s tronc 14.6 n 1 ['H3QsBr'] 2026-10-11 2026-10-11
+  GJyPh4Pk8GAeNAje4h15gDNvs3b9GwTf7HcAbxxwemsA wallet non s tronc 13.0 n 1 ['H3QsBr'] 2025-03-23 2025-03-23
+== P2 total 6413.8 destinations 293
+  RBsneDCLZHmbTd3iuNyF2bJkiAoap2yiLuPQSkcAmaz wallet sondé pur 1624.8 n 118 ['BuBXTW', 'C73Yv9'] 2024-05-31 2024-11-05
+  RBsneDCLZHmbTd3iuNyF2bJkiAoap2yiLuPQSkcAmaz wallet sondé tronc 547.0 n 30 ['C73Yv9'] 2024-11-05 2025-01-25
+  7zycfr97z815o7Bo9MWN47WJR8yv5WF1FcVGj3jL6pK7 wallet sondé pur 302.7 n 3 ['35nAuv', 'GPMYCu'] 2024-07-21 2024-07-22
+  7TQBJhqbhGFsKdgGuXsFAU4mHDm2zxsXz8YTb7EAo4Tv wallet sondé pur 290.3 n 5 ['74qFhH', 'AtZjv3', 'GPMYCu'] 2024-07-24 2024-07-24
+  4Tqy4SPNJjD1RPPqqiyf7faReBXF5XqesoTchZn1e9DF wallet sondé pur 220.8 n 3 ['35nAuv', 'Akp46D'] 2024-07-24 2025-01-19
+  21uREBiRmkXgyTWpsvQ2DQ2xzCCzpCQhc18HL2BdPmML wallet non s pur 220.6 n 13 ['Akp46D', 'C7i9be'] 2024-07-21 2025-01-22
+  J2EuNwCSDfFGUhmpWdnoEgZKA17b4dgE9PQVY3jMFiQ3 wallet sondé pur 154.3 n 3 ['Akp46D', 'GPMYCu'] 2024-08-08 2024-09-01
+  ERm6ztBisNcxRYyaxzbxKbj7XZ7Aj2MfqoWeUytTwkjg wallet non s tronc 154.1 n 1 ['C73Yv9'] 2024-11-13 2024-11-13
+  72Pgt5MregKZXqkJcYUVvf1vJBH7xun3L3SQfRUBba5Y wallet sondé pur 150.1 n 3 ['Akp46D', 'AtZjv3'] 2024-07-21 2024-07-21
+  BcBvft8piENRQq6Q6SSMZqWcTZvuqJHkZnwAh8q5gUwq wallet non s pur 120.0 n 1 ['C73Yv9'] 2024-07-17 2024-07-17
+  Hiz7GLUwrjnyQ6VyKnZQv94v1RKVkFK3TBLFBtocMgEG wallet non s tronc 115.0 n 1 ['C73Yv9'] 2025-06-09 2025-06-09
+  DYH5edZKxWPnDZLyvkct5bachAu1NH7utb5GoYwqK9DM wallet non s pur 97.0 n 35 ['35nAuv', '74qFhH', 'AtZjv3'] 2024-03-11 2024-06-19
+  E72DuqDL2fkCw2Q8tyW2zWXpkRgK1p6FBJys6h6wpgVG wallet non s pur 95.1 n 20 ['Ei5yGz'] 2024-03-30 2024-11-25
+  7W5AELBsmF6Eevf5qFNQverrGMRz6G7baLjDzhDVbjHg wallet non s pur 85.0 n 1 ['C73Yv9'] 2024-05-28 2024-05-28
+  7SEoKiBLaGhZxr5V8JYGdiV55ZhkgC727ftSYDST148i wallet sondé pur 84.7 n 5 ['Akp46D'] 2024-07-21 2025-01-19
+  8xEWTFzVir6LusdBkB2onSpv8q9z33aVoVBqLqhwyQrA wallet non s pur 80.0 n 1 ['C73Yv9'] 2024-07-22 2024-07-22
+  7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx wallet sondé pur 78.9 n 1 ['EGtyQE'] 2024-08-03 2024-08-03
+  6tftNakEaHhmB8Q87Mg9R6yGPTdARg6PajAwuQtwWoqd wallet non s pur 70.0 n 1 ['C73Yv9'] 2024-07-21 2024-07-21
+  ASWgowZA74nBJM4UGZk7eAKnGqp2kvi5jzT7zwkrxj4W wallet sondé pur 69.1 n 3 ['35nAuv', 'AtZjv3', 'GPMYCu'] 2024-11-08 2024-11-08
+  2zuLHY2T2RHeYkbhrYxzSyGgNAqY6NpRtWTND61tzfvB wallet non s pur 65.7 n 5 ['C7i9be'] 2024-09-30 2024-12-06
+  9FTWDMJzzt3kt8tRoHBQRATwSdx9uMTwrumm4YMd8bjE wallet non s pur 65.2 n 7 ['74qFhH'] 2024-04-30 2024-06-24
+  7cQawZsQ631QnBsi1iuv7fnhrybp1RVDigwaVwnYKkcn wallet non s pur 62.6 n 17 ['C7i9be'] 2024-07-25 2025-06-12
+== GXZvX total 1546.3 destinations 3
+  Co3zTr2M8huMY5os2wuvKGP4x3S3q4D9fzAoMZeGSMbb wallet sondé pur 1530.3 n 1 ['GXZvXs'] 2024-07-23 2024-07-23
+  FB8241Dxskd2CiSsNC3aB6gsSMPmsxpJKwJRaUj4G2o5 wallet non s pur 10.0 n 1 ['GXZvXs'] 2024-07-14 2024-07-14
+  3mWkMcj37uTXRXokxSXRW7Rm5zdsDD6sUcRyWcH4A8Ci wallet non s pur 6.0 n 1 ['GXZvXs'] 2024-07-22 2024-07-22
+== P1 total 434.5 destinations 62
+  DxWHHkJeWHJsdZgkj6ELhFsQp7hNwxnUcwbYr5K2oriX wallet non s pur 43.3 n 4 ['5rTDZb', 'DfYyxD'] 2024-04-26 2024-05-20
+  4oaoAUdacKvNPmbr9pyTebQoFVKRspohhRK86HXCmyT9 wallet non s pur 38.8 n 2 ['3ZnQ1f', 'DDcEfN'] 2024-12-30 2024-12-30
+  9gvgy4vDJvmgWqv2pxupQ6Nef8L96ML9Jr5vghc8Tmzd wallet non s pur 37.0 n 4 ['4dYxmS', '8SaiGW', 'DfYyxD'] 2024-05-30 2025-02-09
+  DMJmb8aJMzzNur1hAwQoArPEX8dLfbuuuYZnGn6jd8DL wallet non s pur 31.9 n 3 ['5QhJJc', '9PoYaK', 'A9PkAt'] 2025-01-18 2025-01-20
+  EvatZzJchV9Dncego7abN9cuQgXDX99gH3RpjqtC4GZL wallet non s pur 31.6 n 3 ['6ty9DM', 'G9uiJW'] 2025-08-01 2025-08-16
+  9AwHqxhUtnEF7aoLtsg2TEdQi4MaD37hKrwdJ5AhfBo5 wallet non s pur 25.0 n 1 ['F5h42E'] 2024-05-30 2024-05-30
+  Cr8oGfjwRnrFyhVyFM4S3ygR2dKy4CgTpXgVwELbfsBg wallet non s pur 23.9 n 1 ['3jNNcV'] 2024-11-14 2024-11-14
+  B2nimzEFTXxHnMryfa4zcp1gp9raCDoLcKcg93WkaDVX wallet non s pur 20.0 n 1 ['5rTDZb'] 2024-05-08 2024-05-08
+  DxY7bGdsGkVfEJECy6Q4UdLmJ3FarkhcSw2Y1KLSmuFM wallet non s pur 20.0 n 1 ['HBsgbp'] 2024-08-25 2024-08-25
+  Da34aTRNs6A1HZwGEpL7tWkMGFXufj79rBh19vs78Wga wallet non s pur 17.6 n 3 ['HBsgbp', 'HMVYeT'] 2024-08-12 2024-12-05
+  6dtexZ9EmuyJCdEheHZUqY6thh9KNiYK9i6tVkoXLHrM wallet non s pur 17.0 n 2 ['A52fNs'] 2024-08-10 2024-10-15
+  Afw81rvvhBXfvSsni4g2hrxqUGtbP1WAvtzTTELBLnis wallet non s pur 13.2 n 5 ['8SaiGW', 'DDcEfN', 'Fp6kgq'] 2025-01-29 2025-02-05
+  7xqSQnbFbJrUHDn3CNpgHpqPN66HosL8dgSezjEbDLhn wallet non s pur 10.0 n 1 ['HBsgbp'] 2024-09-23 2024-09-23
+  4FpA1rs6PfGJDPunUDoMBwRSpdt6Ysi12PLwhGGQmHeQ wallet non s pur 8.8 n 1 ['2VTfi1'] 2024-06-12 2024-06-12
+  FtthM18xGXaLr5cowSfanKUnahrbYzGZ1NfoxeAZTu3W wallet non s pur 7.8 n 2 ['4pKFTQ', '8SaiGW'] 2025-01-16 2025-02-07
+  7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx wallet sondé pur 6.2 n 2 ['6ty9DM', 'DfYyxD'] 2024-05-15 2025-07-20
+  6kLUxThGZdRPyk8LqYKdKvbohrkofEWPwJSz8phDoS1f wallet non s pur 6.0 n 1 ['DfYyxD'] 2024-05-17 2024-05-17
+  GZ7GGigCJF5AUDky2kts5GAsHwdfkzuFXochCQy3cxfW wallet non s pur 6.0 n 1 ['DfYyxD'] 2024-05-18 2024-05-18
+  BdxpvTEQYctVZFGXohm1ReKphRkwyx4j6etxyHKXC2s6 wallet non s pur 5.3 n 1 ['8SaiGW'] 2025-02-16 2025-02-16
+  G8q3EVuE7ZkABhCDUR8X4cEj5RBbAAwCZDMZVv89pgux wallet non s pur 5.0 n 1 ['DfYyxD'] 2024-05-08 2024-05-08
+  FnG4wB33kja1RDKH5xPU3ZwgF371LzBeHx6gkt3y7yR3 wallet non s pur 5.0 n 3 ['HMVYeT', 'HqwpWy'] 2024-07-29 2024-08-11
+  Cj9UkzQDczaRurvsuwZ87iWtePtp1Xps82ZH1hYKUGGQ wallet non s pur 5.0 n 1 ['8SaiGW'] 2025-01-21 2025-01-21
+== 9PrmF8 total 25.1 destinations 8
+  HJSEJQws1fWoTgkmrVx4w98mg3QRhBRWirT7Yf8EzeyF wallet non s pur 10.9 n 5 ['9PrmF8'] 2024-04-21 2024-07-17
+  D4rARK2osH8a2ToKxpUNeWKBHEhGcudRe76RKWBx7P85 wallet non s tronc 4.4 n 5 ['9PrmF8'] 2024-08-24 2024-08-24
+  CRbvuSFoXvftSNJALdLGEXbJc1ML67PrGP6XWhLeBXUw wallet non s tronc 3.1 n 1 ['9PrmF8'] 2026-09-27 2026-09-27
+  67cU3qpnKBBUZ48HDcFBWcQ9uyXYBBBPfWLWrEDpBzZ8 wallet non s pur 3.1 n 4 ['9PrmF8'] 2024-04-19 2024-06-30
+  EGzN5GfcyLdqXP21AeLevwnitSgLXBbET4B6NxZfvdZM wallet non s pur 2.2 n 3 ['9PrmF8'] 2024-07-09 2024-07-10
+  GnXY6KhBm762tRJBfGeY3zGcWc3pj63XtbvAabTkZJ4v wallet non s pur 0.9 n 1 ['9PrmF8'] 2024-07-17 2024-07-17
+  9oZjRennUtaDaRhugAWoP7NjbbAah9y2CwJkNhDmY9HT wallet non s pur 0.6 n 1 ['9PrmF8'] 2024-04-19 2024-04-19
+  5dMEW7mpizfdKCzVsu5PV7S5eERdsKLnbEdUq9PAvya8 wallet non s pur 0.0 n 1 ['9PrmF8'] 2024-07-18 2024-07-18
+à sonder 4

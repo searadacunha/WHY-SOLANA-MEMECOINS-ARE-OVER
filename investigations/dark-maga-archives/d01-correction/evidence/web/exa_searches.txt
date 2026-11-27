@@ -1,0 +1,2920 @@
+######## "If you want a red dark Maga pfp, visit dmaga.xyz" Aristos_Revenge
+# fetched_at=2026-11-02T22:43:04Z source=exa.web_search_exa target="If you want a red dark Maga pfp, visit dmaga.xyz" Aristos_Revenge sha256=6185adeee120428d chars=14123
+Title: Dark MAGA Profile Pictures Take Over Trump Tech Backers
+URL: https://dailydot.com/dark-maga-laser-eye-pfp-trump-musk-andreessen
+Published: 2024-07-22T20:57:30.000Z
+Author: Marlon Ettinger
+Highlights:
+A swarm of Trump-backing reactionary big-tech accounts on X are bathing their profile pictures in a deep-fried red hue and gleaming blue laser eye filters. 
+
+The accounts sporting the new look include big names in tech like X CEO Elon Musk, Andreessen Horowitz co-founder Marc Andreessen, and Gab CEO Andrew Torba—and some accounts are linking the profile pictures to a new memecoin called Dark MAGA.
+
+...
+
+Included alongside Andreessen, Musk, and Torba were accounts like @Aristos_Revenge, who pinned a tweet calling the new profile picture trend “red dark Maga.”
+
+“If you want a red dark Maga pfp, visit http://dmaga.xyz courtesy of the $dmaga coin. It has a conversion tool,” they wrote in the tweet linking to the site.
+
+https://twitter.com/Aristos_Revenge/status/1815128699831796065
+
+$DMAGA, a meme coin built on the Solana blockchain, is being pumped by various accounts across X and crypto-pumping blogs. It has $1 million in liquidity and has jumped in value over 130,000% since July 21.
+
+---
+
+Title: Fash & Friends Twitter Files – Late Night Anti-Fascists
+URL: https://latenightafa.noblogs.org/fash-friends-twitter-files/
+Published: N/A
+Author: Theme by: Theme Horse
+Highlights:
+# Fash & Friends Twitter Files
+
+2023-10-01 latenightafa 
+
+This project contains 340+ friend lists, follower lists, and timelines of various white nationalists and users seen frequently within their network.
+
+Lists were pulled using tools from TweetBeaver and all data was publicly available on user profiles as of February 2023.
+
+Note: TweetBeaver’s friend and follower lists tools had a limit of about 10k friends or followers, and due to this and other API limitations data may be incomplete.
+
+## ⬇️ Download all
+
+Files contained within this project:
+
+| 0x49fa98 friends-20230204.csv |
+| --- |
+| 0x49fa98 timeline-20230204.csv |
+| AceWriterAC followers-20230204.csv |
+| AceWriterAC friends-20230204.csv |
+| AceWriterAC timeline-20230204.csv |
+| activeasian followers-20230204.csv |
+| activeasian friends-20230204.csv |
+| activeasian timeline-20230204.csv |
+| AhComfy friends-20230204.csv |
+| AhComfy timeline-20230204.csv |
+| AintNoBr8s followers-20230204.csv |
+| AintNoBr8s friends-20230204.csv |
+| AintNoBr8s timeline-20230204.csv |
+| ALLCAPSPUPPER followers-20230204.csv |
+| ALLCAPSPUPPER friends-20230204.csv |
+| ALLCAPSPUPPER timeline-20230204.csv |
+| _AllTheCost followers-20230204.csv |
+| _AllTheCost friends-20230204.csv |
+| _AllTheCost timeline-20230204.csv |
+| AmyMek followers-20230204.csv |
+| AmyMek friends-20230204.csv |
+| AmyMek timeline-20230204.csv |
+| AndrewQuackson friends-20230204.csv |
+| AndrewQuackson timeline-20230204.csv |
+| AntiWhiteWatch1 followers-20230204.csv |
+| AntiWhiteWatch1 friends-20230204.csv |
+| AntiWhiteWatch1 timeline-20230204.csv |
+| ApMadog followers-20230204.csv |
+| ApMadog friends-20230204.csv |
+| ApMadog timeline-20230204.csv |
+| Aristos_Revenge followers-20230204.csv |
+| Aristos_Revenge friends-20230204.csv |
+| Aristos_Revenge timeline-20230204.csv |
+| bakedalaska followers-20230204.csv |
+| bakedalaska friends-20230204.csv |
+| bakedalaska timeline-20230204.csv |
+| basedspinach followers-20230204.csv |
+| basedspinach friends-20230204.csv |
+| basedspinach timeline-20230204.csv |
+| BronzeAgePerv followers-20230204.csv |
+| BronzeAgePerv friends-20230204.csv |
+| BronzeAgePerv timeline-20230204.csv |
+| C00lHandLukeX1 followers-20230204.csv |
+| C00lHandLukeX1 friends-20230204.csv |
+| C00lHandLukeX1 timeline-20230204.csv |
+| chadretard followers-20230204.csv |
+| chadretard friends-20230204.csv |
+| chadretard timeline-20230204.csv |
+| classiflied77 followers-20230204.csv |
+| classiflied77 friends-20230204.csv |
+| classiflied77 timeline-20230204.csv |
+| Clay1984More followers-20230204.csv |
+| Clay1984More friends-20230204.csv |
+| Clay1984More timeline-20230204.csv |
+| ComradeDoyIe followers-20230204.csv |
+| ComradeDoyIe friends-20230204.csv |
+| ComradeDoyIe timeline-20230204.csv |
+| cozy_clips followers-20230204.csv |
+| cozy_clips friends-20230204.csv |
+| cozy_clips timeline-20230204.csv |
+| DerorCurrency friends-20230204.csv |
+| DerorCurrency timeline-20230204.csv |
+| dickmasterson followers-20230204.csv |
+| dickmasterson friends-20230204.csv |
+| dickmasterson timeline-20230204.csv |
+| drugcel followers-20230204.csv |
+| drugcel friends-20230204.csv |
+| drugcel timeline-20230204.csv |
+| ___elwood_b__ followers-20230204.csv |
+| ___elwood_b__ friends-20230204.csv |
+| ___elwood_b__ timeline-20230204.csv |
+| EMichaelJones1 followers-20230204.csv |
+| EMichaelJones1 friends-20230204.csv |
+| EMichaelJones1 timeline-20230204.csv |
+| EuropeanFreedo1 followers-20230204.csv |
+| EuropeanFreedo1 friends-20230204.csv |
+| EuropeanFreedo1 timeline-20230204.csv |
+| EuropeanRevolt timeline-20230204.csv |
+| exposing_white friends-20230204.csv |
+| exposing_white timeline-20230204.csv |
+| extradeadjcb friends-20230204.csv |
+| FarAwayAndCozy followers-20230204.csv |
+| FarAwayAndCozy friends-20230204.csv |
+| FarAwayAndCozy timeline-20230204.csv |
+| FedPostRedacted followers-20230204.csv |
+| FedPostRedacted timeline-20230204.csv |
+| FischerKing64 friends-20230204.csv |
+| FischerKing64 timeline-20230204.csv |
+| Fl_Outlaw57 followers-20230204.csv |
+| Fl_Outlaw57 friends-20230204.csv |
+| Fl_Outlaw57 timeline-20230204.csv |
+| FrenBarian followers-20230204.csv |
+| FrenBarian friends-20230204.csv |
+| FrenBarian timeline-20230204.csv |
+| fuctmind friends-20230204.csv |
+| fuctmind timeline-20230204.csv |
+| Fuctupmind followers-20230204.csv |
+| Fuctupmind friends-20230204.csv |
+| Fuctupmind timeline-20230204.csv |
+| GodCloseMyEyes followers-20230204.csv |
+| GodCloseMyEyes friends-20230204.csv |
+| GodCloseMyEyes timeline-20230204.csv |
+| groyper25 followers-20230204.csv |
+| groyper25 friends-20230204.csv |
+| groyper25 timeline-20230204.csv |
+| HardyWalking followers-20230204.csv |
+| HardyWalking friends-20230204.csv |
+| HardyWalking timeline-20230204.csv |
+| HarmlessYardDog followers-20230204.csv |
+| HarmlessYardDog friends-20230204.csv |
+| HarmlessYardDog timeline-20230204.csv |
+| _HB2014 followers-20230204.csv |
+| _HB2014 friends-20230204.csv |
+| _HB2014 timeline-20230204.csv |
+| HbdNrx followers-20230204.csv |
+| HbdNrx friends-20230204.csv |
+| HbdNrx timeline-20230204.csv |
+| Henrik_Palmgren followers-20230204.csv |
+| Henrik_Palmgren friends-20230204.csv |
+| Henrik_Palmgren timeline-20230204.csv |
+| heywildrich friends-20230204.csv |
+| heywildrich timeline-20230204.csv |
+| iamyesyouareno followers-20230204.csv |
+| iamyesyouareno friends-20230204.csv |
+| iamyesyouareno timeline-20230204.csv |
+| inkblotistan followers-20230204.csv |
+| inkblotistan friends-20230204.csv |
+| inkblotistan timeline-20230204.csv |
+| JadenPMcNeil friends-20230204.csv |
+| JadenPMcNeil timeline-20230204.csv |
+| kanyestreams1 friends-20230204.csv |
+| kanyestreams1 timeline-20230204.csv |
+| kequemage followers-20230204.csv |
+| kequemage friends-20230204.csv |
+| KequeMage timeline-20230204.csv |
+| Kingwoo67 followers-20230204.csv |
+| Kingwoo67 friends-20230204.csv |
+| Kingwoo67 timeline-20230204.csv |
+| Krysta92kat_ followers-20230204.csv |
+| Krysta92kat_ friends-20230204.csv |
+| Krysta92kat_ timeline-20230204.csv |
+| la_chatte_verte timeline-20230204.csv |
+| Lady_Astor followers-20230204.csv |
+| Lady_Astor timeline-20230204.csv |
+| LanaLokteff followers-20230204.csv |
+| LanaLokteff friends-20230204.csv |
+| LaurenWitzkeDE friends-20230204.csv |
+| LaurenWitzkeDE timeline-20230204.csv |
+| LeftyCrypto followers-20230204.csv |
+| LeftyCrypto friends-20230204.csv |
+| LeftyCrypto timeline-20230204.csv |
+| lndian_Bronson friends-20230204.csv |
+| lndian_Bronson timeline-20230204.csv |
+| LoFiRepublican followers-20230204.csv |
+| LoFiRepublican friends-20230204.csv |
+| LoFiRepublican timeline-20230204.csv |
+| LucasGage584 followers-20230204.csv |
+| LucasGage584 friends-20230204.csv |
+| LucasGage584 timeline-20230204.csv |
+| lukes_6000000 followers-20230204.csv |
+| lukes_6000000 friends-20230204.csv |
+| lukes_6000000 timeline-20230204.csv |
+| MagicBelle1 followers-20230204.csv |
+| MagicBelle1 friends-20230204.csv |
+| MagicBelle1 timeline-20230204.csv |
+| MarkACollett followers-20230204.csv |
+| MarkACollett friends-20230204.csv |
+| MarkACollett timeline-20230204.csv |
+| MeepinSnek followers-20230204.csv |
+| MeepinSnek friends-20230204.csv |
+| MeepinSnek timeline-20230204.csv |
+| Michael82379998 followers-20230204.csv |
+| Michael82379998 friends-20230204.csv |
+| Michael82379998 timeline-20230204.csv |
+| MillerStream followers-20230204.csv |
+| MillerStream friends-20230204.csv |
+| MillerStream timeline-20230204.csv |
+| MistaBRONCO followers-20230204.csv |
+| MistaBRONCO friends-20230204.csv |
+| MistaBRONCO timeline-20230204.csv |
+| Mmmm__na followers-20230204.csv |
+| Mmmm__na friends-20230204.csv |
+| Mmmm__na timeline-20230204.csv |
+| MrExciitement followers-20230204.csv |
+| MrExciitement friends-20230204.csv |
+| MrExciitement timeline-20230204.csv |
+| mrspeckzo followers-20230204.csv |
+| mrspeckzo friends-20230204.csv |
+| mrspeckzo timeline-20230204.csv |
+| MysteryGrove followers-20230204.csv |
+| MysteryGrove friends-20230204.csv |
+| MysteryGrove timeline-20230204.csv |
+| MythoAmerica followers-20230204.csv |
+| MythoAmerica friends-20230204.csv |
+| MythoAmerica timeline-20230204.csv |
+| NervousAutist followers-20230204.csv |
+| NervousAutist friends-20230204.csv |
+| NervousAutist timeline-20230204.csv |
+| NeverSayDie1978 followers-20230204.csv |
+| NeverSayDie1978 friends-20230204.csv |
+| NeverSayDie1978 timeline-20230204.csv |
+| NickgarGroyper followers-20230204.csv |
+| NickgarGroyper friends-20230204.csv |
+| NickgarGroyper timeline-20230204.csv |
+| Nightmarechud followers-20230204.csv |
+| Nightmarechud friends-20230204.csv |
+| Nightmarechud timeline-20230204.csv |
+| NoWhiteGuiltNWG followers-20230204.csv |
+| NoWhiteGuiltNWG friends-20230204.csv |
+| NoWhiteGuiltNWG timeline-20230204.csv |
+| nwgclips followers-20230204.csv |
+| nwgclips friends-20230204.csv |
+
+...
+
+| SteveFranssen followers-20230204.csv |
+| SteveFranssen friends-20230204.csv |
+
+...
+
+| stone_toss followers-20230204.csv |
+
+...
+
+| stone_toss timeline-20230204.csv |
+
+...
+
+| Students_Ye friends-20230204.csv |
+| Students_Ye timeline-20230204.csv |
+| swagbabyhitIer followers-20230204.csv |
+| swagbabyhitIer friends-20230204.csv |
+| swagbabyhitIer timeline-20230204.csv |
+| TheMadDimension followers-20230204.csv |
+| TheMadDimension friends-20230204.csv |
+| TheMadDimension timeline-20230204.csv |
+| thisislaurat followers-20230204.csv |
+| thisislaurat friends-20230204.csv |
+| thisislaurat timeline-20230204.csv |
+| TOOEdit friends-20230204.csv |
+| TOOEdit timeline-20230204.csv |
+| TRightDissident friends-20230204.csv |
+| TRightDissident timeline-20230204.csv |
+| USARebel1776 followers-20230204.csv |
+| USARebel1776 friends-20230204.csv |
+
+...
+
+| _VoC__ followers-20230204.csv |
+| _VoC__ friends-20230204.csv |
+| _VoC__ timeline-20230204.csv |
+| wayotworld followers-20230204.csv |
+
+...
+
+| wrathofgnon followers-20230204.csv |
+
+...
+
+| Zoomer_Med followers-20230204.csv |
+| Zoomer_Med friends-20230204.csv |
+| Zoomer_Med timeline-20230204.csv |
+
+---
+
+Title: dmaga.xyz
+URL: https://dmaga.xyz/
+Published: N/A
+Author: N/A
+Highlights:
+dmaga.xyz
+
+Click here to enter
+
+dmaga.xyz
+[Click here to enter](http://dmaga.xyz/?tr_uuid=REDACTED_a859faead43b&fp=-3)
+
+---
+
+Title: Dark MAGA (DMAGA) – BitMart
+URL: https://bitmart.zendesk.com/hc/en-us/articles/27591364091419-Dark-MAGA-DMAGA
+Published: N/A
+Author: N/A
+Highlights:
+# Dark MAGA (DMAGA) 
+
+1. Project Introduction
+
+A meme coin on Solana about Donald Trump.
+
+2. Coin Info
+
+- Token Name: Dark MAGA
+- Token Symbol: DMAGA
+- Token Type: SOL
+- Total Supply: 1,000,000,000 DMAGA
+
+3. Useful Links 
+
+- Official Website: https://dmaga.xyz/
+- Explorer: https://solscan.io/token/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump
+- Twitter: https://x.com/DarkMagaCoin
+- Telegram: https://t.me/DMAGACoin
+
+---
+
+Title: DMAGA PFP MAKER
+URL: https://dmagafy.netlify.app/
+Published: N/A
+Author: N/A
+Highlights:
+DMAGA PFP MAKER
+
+# $DMAGA
+
+## DARKMAGA
+
+### PROFILE PICTURE MAKER
+
+Upload Image
+
+Upload Image Download Magic Wand
+
+- LASERS
+- HATS
+- FILTERS
+- BACKGROUNDS
+
+Resize Lasers
+
+Rotate Lasers
+
+Select Laser Type
+
+Select Eye Color
+
+Blue
+
+Red
+
+Gold
+
+Green
+
+Add Laser
+
+Remove All Lasers
+
+Resize Hat
+
+Rotate Hat
+
+Select Hat
+
+Add Hat
+
+Remove All Hats
+
+Choose Filter
+
+Classic Red
+
+Dark
+
+Light
+
+None
+
+Adjust Contrast
+
+Adjust Redness
+
+Reset Adjustments
+
+Select Background
+
+American Flag Lightning
+
+Adjust Background Opacity
+
+Add Background
+
+Remove Background
+
+X
+
+---
+
+Title: DMAGA PFP MAKER
+URL: https://darkmagapls.com/pfpapp/
+Published: N/A
+Author: N/A
+Highlights:
+DMAGA PFP MAKER
+
+# $dMAGA
+
+## Dark MAGA
+
+### Profile Picture Generator
+
+Upload Image
+
+Upload Image Download
+
+- LASERS
+- HATS
+- FILTERS
+- BACKGROUNDS
+
+Resize Lasers
+
+Rotate Lasers
+
+Add Laser
+
+Remove All Lasers
+
+Resize Hat
+
+Rotate Hat
+
+Select Hat
+
+Add Hat
+
+Remove All Hats
+
+Choose Filter
+
+Classic Red
+
+Dark
+
+Light
+
+None
+
+Adjust Contrast
+
+Adjust Redness
+
+Reset Adjustments
+
+Select Background
+
+American Flag Lightning
+
+Adjust Background Opacity
+
+Add Background
+
+Remove Background
+
+X
+
+---
+
+Title: Dark MAGA Price, dmaga to USD, Research, News & Fundraising | Messari by Blockworks
+URL: https://messari.io/project/dark-maga
+Published: N/A
+Author: N/A
+Highlights:
+# Dark MAGA
+
+Meme · Parody Coins
+
+dmaga#3382
+
+Mcap$77,482
+
+$0.0000775 5.20%
+
+Low Volume
+...
+Sector Ranking
+
+#373
+
+About & Links
+
+Dark Maga is a Solana-based memecoin dedicated to the fans of Donald Trump.
+
+---
+
+Title: What is Dark MAGA (DMAGA)| How To Get & Use Dark MAGA | Bitget
+URL: https://www.bitget.com/price/dark-maga/what-is
+Published: N/A
+Author: N/A
+Highlights:
+Introduction:
+
+--
+
+Contracts:
+
+7D7BRc...bH5pump(Solana)
+
+Current price:
+
+$0.{4}7321 Dark MAGA price today
+
+All-time high:$0.02320
+
+All-time low:$0.{4}4445
+...
+## Links
+
+Website: https://dmaga.xyz X: https://twitter.com/DarkMagaCoin
+
+######## Elon Musk new profile picture laser eyes noticed first July 21 2024 screenshot
+# fetched_at=2026-11-02T22:43:07Z source=exa.web_search_exa target=Elon Musk new profile picture laser eyes noticed first July 21 2024 screenshot sha256=44555c61752a06b7 chars=9822
+Title: Musk's New X Profile Photo Mocks Biden's Dark Brandon Meme | Times Now
+URL: https://www.timesnownews.com/world/us/us-news/musk-new-x-profile-photo-mocks-biden-dark-brandon-meme-article-111909176
+Published: 2024-07-21T19:41:22.000Z
+Author: Jenel Treza Albuquerque
+Highlights:
+# Musk's New X Profile Photo Mocks Biden's Dark Brandon Meme
+
+- Authored by: Jenel Treza Albuquerque
+- Updated: Jul 22, 2024, 01:30 IST
+
+## Elon Musk updated his X profile photo following Joe Biden’s withdrawal from the 2024 presidential race. The new image features Musk with glowing blue laser eyes, seemingly mocking Biden's "Dark Brandon" meme, which was characterized by beaming red laser eyes and widely used during Biden's reelection campaign.
+
+Elon Musk changes his X profile photo.
+
+Photo : Twitter
+
+Elon Musk updated his X profile photo moments after Joe Biden announced his withdrawal from the 2024 presidential race. Furthermore, Biden also endorsed VP Kamala Harris as his replacement. The new image features Musk with glowing blue laser eyes, set against a red and blue background with an American flag. The image seemingly mocks Biden's "Dark Brandon" meme, which was also characterized by beaming red laser eyes and was widely used during Biden's reelection campaign.
+
+---
+
+Title: Elon Musk goes laser eyes after Biden quits re-election bid
+URL: https://cryptobriefing.com/elon-musk-laser-eyes/
+Published: 2024-07-21T20:41:19.000Z
+Author: Vivian Nguyen
+Highlights:
+Elon Musk goes laser eyes after Biden quits re-election bid
+
+# Elon Musk goes laser eyes after Biden quits re-election bid
+
+Musk said in a recent statement that he fully endorsed Trump, a pro-crypto candidate.
+
+ by Vivian Nguyen 
+
+ Sun 21 Jul 2024 · 16:41 EDT · 2 min read 
+
+Elon Musk, the CEO of Tesla, has recently updated his profile picture on X (formerly Twitter) to feature laser eyes, a popular meme associated with bullish sentiment in the crypto community. The update came after President Joe Biden announced his withdrawal from the 2024 US election campaign.
+
+The laser-eyes meme originated as a way to express enthusiasm for Bitcoin, particularly around the time when the crypto was aiming for significant price milestones. Musk is a supporter of Bitcoin and crypto. He has stated that his principal personal investments include Bitcoin, Ethereum, and Dogecoin, and he wants to see these digital assets succeed.
+
+---
+
+Title: Message from Gambit Mentality | DDoSecrets Search
+URL: https://search.ddosecrets.org/data/revolt/message/97d13bb3-cfe4-4bd5-b877-1f0a4fe3d5c3
+Published: 2024-07-21T19:53:52.000Z
+Author: N/A
+Highlights:
+Message from Gambit Mentality | DDoSecrets Search
+
+### Message from Gambit Mentality
+
+#### Revolt ID: 01J3BDPTADHHZK0ET7ZYC19VMX
+
+ @Gambit Mentality [ The Real World 💬｜General Chat] 2024-07-21 19:53:52 UTC 
+
+Elon just changed his profile pic to laser eyes. Is this a BTC signal
+
+ File not included in archive. Screenshot 2024-07-21 at 12.52.45 PM.png 
+
+💯 1
+
+---
+
+Title: Elon Musk Adds Laser Eyes to His X Profile, Crypto Leaders Follow
+URL: https://thecryptobasic.com/2024/07/22/elon-musk-adds-laser-eyes-to-his-x-profile-crypto-leaders-follow/
+Published: 2024-07-22T08:34:42.000Z
+Author: Mark Brennan
+Highlights:
+# Elon Musk Adds Laser Eyes to His X Profile, Crypto Leaders Follow
+
+Author: Mark Brennan
+
+July 22, 2024
+
+Elon Musk and Bitcoin
+
+Elon Musk changed his X profile picture to the Bitcoin-related laser eyes symbolism, triggering a reaction across the cryptocurrency community.
+
+Tesla CEO Elon Musk has adopted a new X profile picture of himself in an armor suit with laser blue eyes and the American flag in the background. The laser eye meme, which originated from the Mass Effect 2 game in 2010, has become a symbol of empowerment in the crypto community. The crypto community adopted it in 2021.
+
+Elon Musk’s new profile image with laser eyes
+
+...
+
+Notably, just like Trump, Musk is also suspected of appearing at the 2024 Bitcoin Conference and has arrived in Tennessee for the same. The billionaire changed his profile picture the day he landed in the city where the conference will be hosted.
+
+---
+
+Title: Musk Adds Bitcoin Laser-Eyes: Joining Trump At BTC 2024?
+URL: https://bitcoinist.com/elon-musk-bitcoin-laser-eyes-trump-btc-2024/
+Published: 2024-07-22T06:04:28.000Z
+Author: Jake Simmons
+Highlights:
+Last Updated: July 22, 2024 1:04 am · Posted in Bitcoin News 
+
+In a move that has ignited fervent discussion across the Bitcoin community, Tesla CEO Elon Musk updated his profile picture on X (formerly Twitter) to feature the notable “laser eyes,” a meme symbolizing bullish sentiment towards BTC. This change occurred just days before the Bitcoin 2024 conference scheduled in Nashville from July 25-27, where prominent figures, including US presidential candidate Donald Trump, are slated to speak.
+
+...
+
+## Elon Musk Showing Up At Bitcoin 2024?
+
+David Bailey, CEO of Bitcoin Magazine, the organizer of the upcoming conference, teased the event’s impact on social media, stating, “I want to apologize in advance for breaking the internet.” Responding to Musk’s new profile image, Bailey shared a screenshot and commented with a series of suggestive emojis, hinting at major developments: “ARE YOU READY?”
+
+Industry reactions were swift and varied. Dennis Porter commented on Musk’s move via X, “HUGE: Signals are showing Elon could be returning to Bitcoin.” Michael Saylor, CEO of MicroStrategy and a vocal BTC proponent, tweeted, “Laser Eyes are back in style. #Bitcoin.”
+
+Renowned cryptocurrency analyst Scott Melker, also known as “The Wolf Of All Streets,” speculated about the implications of Musk’s new profile picture, suggesting that it could herald a significant announcement: “Musk changes profile pic to laser eyes. CEO of Bitcoin Magazine (Bitcoin conference) says ARE YOU READY. If this means what I think it does then this week is about to get even wilder.”
+
+> 👀🫢 pic.twitter.com/SfJBZeD7Eg
+> 
+> — David Bailey🇵🇷 $0.65mm/btc is the floor (@DavidFBailey) July 21, 2024
+
+---
+
+Title: Elon Musk changes X profile picture to laser eyes after ...
+URL: https://coinness.com/en/news/1101358
+Published: 2024-07-22T00:00:00.000Z
+Author: N/A
+Highlights:
+# Elon Musk changes X profile picture to laser eyes after Biden exits 2024 race
+
+July 22, 2024, 12:20 AM
+
+Elon Musk, CEO of Tesla, has updated his profile picture on X to feature laser eyes, which symbolize bullishness in Bitcoin. This shift comes after U.S. President Joe Biden’s recent decision to withdraw from the 2024 presidential election race.
+
+---
+
+Title: Elon Musk Laser Eyes Profile Picture Sparks Speculation
+URL: https://news.bitcoin.com/elon-musk-laser-eyes-profile-picture-sparks-speculation/
+Published: 2024-07-22T08:30:52.000Z
+Author: Bitcoin.com
+Highlights:
+This article was published more than a year ago. Some information may no longer be current.
+
+The recent addition of laser eyes, a feature popular among bitcoin enthusiasts, to Elon Musk’s profile picture has spurred speculation around his potential involvement in the upcoming Bitcoin 2024 Conference to be held in Nashville, Tennessee. According to Eleanor Terrett, a Fox Business journalist, Musk arrived in Tennessee on July 21. She suggested that Musk’s presence could have a significant impact, saying, “I feel like the only person bigger than Trump that could break the internet at this point is Elon Musk,” in response to a post from Trump’s campaign crypto aide and Bitcoin Magazine CE
+
+---
+
+Title: Dark MAGA Profile Pictures Take Over Trump Tech Backers
+URL: https://dailydot.com/dark-maga-laser-eye-pfp-trump-musk-andreessen
+Published: 2024-07-22T20:57:30.000Z
+Author: Marlon Ettinger
+Highlights:
+3:57 PM CDT on July 22, 2024
+
+lev radin/ShutterStock, Yelena/Adobe Stock, Богдан Скрипник/Adobe Stock
+
+A swarm of Trump-backing reactionary big-tech accounts on X are bathing their profile pictures in a deep-fried red hue and gleaming blue laser eye filters. 
+
+The accounts sporting the new look include big names in tech like X CEO Elon Musk, Andreessen Horowitz co-founder Marc Andreessen, and Gab CEO Andrew Torba—and some accounts are linking the profile pictures to a new memecoin called Dark MAGA.
+
+...
+
+“Something cringe is afoot,” posted @WashletJP over a compilation of some of the accounts who shifted to the red-hue blue-eyes profile picture filter.
+
+> Something cringe is afoot pic.twitter.com/0LTIbw2qj6
+> 
+> — electric railfan (@WashletJP) July 22, 2024
+
+Included alongside Andreessen, Musk, and Torba were accounts like @Aristos_Revenge, who pinned a tweet calling the new profile picture trend “red dark Maga.”
+
+“If you want a red dark Maga pfp, visit http://dmaga.xyz courtesy of the $dmaga coin. It has a conversion tool,” they wrote in the tweet linking to the site.
+
+https://twitter.com/Aristos_Revenge/status/1815128699831796065
+
+$DMAGA, a meme coin built on the Solana blockchain, is being pumped by various accounts across X and crypto-pumping blogs. It has $1 million in liquidity and has jumped in value over 130,000% since July 21.
+
+The laser eye look is part of the crypto aesthetic. While posters online have photoshopped lasers over characters' eyes for a long time, Bitcoin boosters adopted the laser eyes during a 2021 trend to show their support for holding onto Bitcoin until its value reached $100,000 per coin. Bitcoin was valued at $50,000 in Feb. 2021, when the trend started, and is valued at around $67,428 as of Monday.
+
+According to one account claiming to be behind the coin, Musk started using the profile picture after a member of the $DMAGA team DMed it to him.
+
+> DMAGA team created Elon's pfp specifically for him. He chose it after it was DMed to him by a team member. Dark MAGA coin is here to stay. There is only ONE DMAGA. https://t.co/kM7ddnw2pv
+> 
+> — Dark Maga (@DarkMagaCoin) July 22, 2024
+
+######## Dark MAGA 2022 Yugioh Aristophanes Aristos_Revenge Wifejak culture coin
+# fetched_at=2026-11-02T22:43:10Z source=exa.web_search_exa target=Dark MAGA 2022 Yugioh Aristophanes Aristos_Revenge Wifejak culture coin sha256=e362abf98b583553 chars=21363
+Title: WIFEJAK | The Ultimate Queen of ETH
+URL: https://wifejak.fun/
+Published: N/A
+Author: N/A
+Highlights:
+WIFEJAK | The Ultimate Queen of ETH
+
+`0xbF32358EB5C2bb6884917d409939522bE83071f4`
+
+# WIFE JAK ON ETH 
+
+The iconic redheaded queen of internet culture. A tribute to the digital era, forged with absolute energy on the Ethereum blockchain.
+
+## The Protocol
+
+Wifejak is the standard for high-resolution culture. We aren't just another coin; we are the aesthetic revolution of the decentralized world.
+
+#### SUPPLY
+
+1B
+
+#### TAX
+
+0/0
+
+#### LP
+
+BURNED
+
+01
+
+### WALLET
+
+Create a Metamask or Coinbase Wallet to store your $WIFE assets safely.
+
+### ETH
+
+Load up on ETH. You'll need it to swap for the ultimate queen.
+
+### CONNECT
+
+Visit Uniswap and connect your wallet using the ETH network.
+
+### SWAP
+
+Paste the contract, set slippage to 0.1% and swap. Welcome home.
+
+---
+
+Title: Dark MAGA Price Chart (DMAGA)
+URL: https://www.coingecko.com/en/coins/dark-maga
+Published: N/A
+Author: N/A
+Highlights:
+| Market Cap Market Cap = Current Price x Circulating Supply Refers to the total market value of a cryptocurrency’s circulating supply. It is similar to the stock market’s measurement of multiplying price per share by shares readily available in the market (not held & locked by insiders, governments) Read More | $61,975.64 |
+| --- | --- |
+| Market Cap / FDV The proportion of current market capitalization compares to market capitalization when meeting max supply. The closer the Mkt Cap/FDV to 1, the closer the current market capitalization to its fully diluted valuation and vice versa. Learn more about Mkt Cap/FDV here. | 1.0 |
+| Fully Diluted Valuation Fully Diluted Valuation (FDV) = Current Price x Total Supply Fully Diluted Valuation (FDV) is the theoretical market capitalization of a coin if the entirety of its supply is in circulation, based on its current market price. The FDV value is theoretical as increasing the circulating supply of a coin may impact its market price.
+
+...
+
+| 24 Hour Trading Vol A measure of a cryptocurrency trading volume across all tracked platforms in the last 24 hours. This is tracked on a rolling 24-hour basis with no open/closing times.
+
+...
+
+| Total Supply The amount of coins that have already been created, minus any coins that have been burned (removed from circulation). It is comparable to outstanding shares in the stock market.
+
+...
+
+It is comparable to the maximum number of issuable shares in the stock
+
+...
+
+## What is Dark MAGA about?
+
+DMAGA (Dark MAGA) is a Solana-based cryptocurrency designed to capture the spirit of the Dark MAGA (Make America Great Again) movement. It serves as a digital rallying point for supporters of President Donald Trump and the ideologies tied to his administration.
+
+## What makes Dark MAGA unique?
+
+DMAGA is a digital manifestation of the aggressive stance characterized by the "Dark MAGA" movement. Launched on the Solana blockchain for its performance and low transaction costs, it serves as a symbol of allegiance and a means of fundraising for Dark MAGA causes.
+
+## What's the history of Dark MAGA?
+
+A pivotal moment for DMAGA was the assassination attempt on July 13, 2024, when a highly publicized attempt on Donald Trump's life shocked the nation. This incident galvanized the Dark MAGA movement, intensifying their resolve and embedding their beliefs in the cryptocurrency.
+
+DMAGA represents more than just a cryptocurrency; it is a digital emblem of a politically charged movement. Rooted in Trump's ethos and catalyzed by dramatic events, DMAGA serves as a conduit for political expression, financial interaction, and ideological solidarity within the Dark MAGA community.
+
+## What can Dark MAGA be used for?
+
+DMAGA serves as a symbol of allegiance and a means of fundraising for Dark MAGA causes. It is a digital emblem of a politically charged movement, facilitating political expression, financial interaction, and ideological solidarity within the Dark MAGA community.
+
+---
+
+Title: Dark MAGA price DMAGA #6778
+URL: https://coinmarketcap.com/currencies/dark-maga/
+Published: N/A
+Author: N/A
+Highlights:
+Dark MAGA price
+
+DMAGA
+
+#6956
+
+1K
+
+$0.00006146
+
+6.72% (24h)
+
+Please wait, we are loading chart data
+
+## Dark MAGA statistics
+
+Market cap
+
+$61.46K
+
+0%
+
+Volume (24h)
+
+$0
+
+0%
+
+Vol/Mkt Cap (24h)
+
+0%
+
+FDV
+
+$61.46K
+
+Liq/Mkt Cap
+
+80.82%
+
+Total supply
+
+999.99M DMAGA
+
+Max. supply
+
+999.99M DMAGA
+
+Self-reported circulating supply
+
+999.99M DMAGA
+
+Holders
+
+7.97K
+
+Website
+
+Website
+
+Socials
+
+Contracts
+
+7D7BRc...H5pump
+
+Rating (CertiK)
+
+2.7
+
+Explorers
+
+solscan.io
+
+Wallets
+
+UCID
+
+32514
+
+...
+
+DMAGA (Dark MAGA) is a Solana-based cryptocurrency designed to capture the spirit of the Dark MAGA (Make America Great Again) movement. DMAGA emerged amid rising political tensions in the United States, serving as a digital rallying point for supporters of President Donald Trump.
+
+Donald Trump, the 45th President of the United States, has garnered passionate support. Even after leaving office, his influence continues to loom over the political landscape, spawning movements like "Dark MAGA," characterized by an aggressive martial stance.
+
+DMAGA was launched on the Solana blockchain for its performance and low transaction costs, Solana's scalability and speed make it ideal for decentralized applications and assets, including political tokens like DMAGA. The coin's purpose goes beyond financial transactions, serving as a symbol of allegiance and a means of fundraising for Dark MAGA causes.
+
+A pivotal moment for DMAGA was the assassination attempt on July 13, 2024, when a highly publicized attempt on Donald Trump's life shocked the nation. This incident galvanized the Dark MAGA movement, intensifying their resolve and embedding their beliefs in the cryptocurrency.
+
+The aftermath saw a spike in DMAGA adoption and trading. Supporters view the cryptocurrency as a means to express defiance and solidarity. Its value surged as it became a tool for fundraising and spreading the movement's message on decentralized platforms. Blockchain technology ensured secure and hard-to-censor transactions, aligning with the movement's anti-establishment ethos.
+
+DMAGA represents more than just a cryptocurrency; it is a digital emblem of a politically charged movement. Rooted in Trump's ethos and catalyzed by dramatic events, DMAGA serves as a conduit for political expression, financial interaction, and ideological solidarity within the Dark MAGA community.
+
+---
+
+Title: A burgeoning online movement known as Dark MAGA is ...
+URL: https://www.instagram.com/p/Cd0wQAqjpc5/
+Published: N/A
+Author: N/A
+Highlights:
+Insider | A burgeoning online movement known as Dark MAGA is calling for former President Donald Trump to return to power and take revenge against... | Instagram
+
+---
+
+Title: Select the reporting reason
+URL: https://pump.fun/report/coins/GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump
+Published: N/A
+Author: N/A
+Highlights:
+Pump
+![](https://pump.fun/logo.png)
+[
+![Pump logomark](https://pump.fun/pump-logomark.svg?dpl=dpl_5HLhbWNbiztnj9BspGBfva8uQv6b)
+](https://pump.fun/)
+* [Home](https://pump.fun/)
+* [Live](https://pump.fun/live)
+* [Support](#)
+* [Chat](#)
+* [Terminal](https://trade.padre.gg/)
+* More
+[ Create coin](https://pump.fun/create)
+### Pump app
+![Pump App QR Code](https://pump.fun/mobile-upsell.svg)
+Scan to download
+Learn more
+Tokenized agents can now earn revenue onchain
+Automatically direct a portion of every payment toward token buybacks.
+Learn more
+[
+![Pump logomark](https://pump.fun/pump-logomark.svg?dpl=dpl_5HLhbWNbiztnj9BspGBfva8uQv6b)
+![Pump logomark](https://pump.fun/pump-logomark.svg?dpl=dpl_5HLhbWNbiztnj9BspGBfva8uQv6b)
+](https://pump.fun/)
+Search for coins...
+⌘K
+Create
+Sign in
+Sign in
+# Select the reporting reason
+Coin: GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump
+[
+![Dark Maga P-Nut](https://images.pump.fun/coin-image/GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump?variant=128x128&ipfs=QmYHA4QGhhetDvuRwvUwqdsduQd2dokEybigiWU6zLHH93&src=https%3A%2F%2Fipfs.io%2Fipfs%2FQmYHA4QGhhetDvuRwvUwqdsduQd2dokEybigiWU6zLHH93)
+created by
+creator
+![GgY439CX3vuPyyecsECVZTZ24AFrsawiA1jSaVkChwmG's profile picture](https://pump.mypinata.cloud/ipfs/QmeSzchzEPqCU1jwTnsipwcBAeH7S4bmVvFGfF65iA1BY1)GgY439
+1y ago
+market cap: $2.6K
+replies: 24
+Dark Maga P-Nut (DMP): In the secret labs of an alternate universe, Elon Musk and Donald Trump joined forces. They built DARK P-NUT MAGA — a mischievous creature with one mission: to "Doge the system" and bring meme culture to the next level.
+](https://pump.fun/coin/GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump)
+Abuse & Harassment
+Insults, Unwanted Sexual Content & Graphic Objectification, Unwanted NSFW & Graphic Content, Violent Event Denial, Targeted Harassment and Inciting Harassment
+Child Safety
+Child sexual exploitation, grooming, physical child abuse, underage user
+Suicide or self-harm
+Encouraging, promoting, providing instructions or sharing strategies for self-harm.
+Sensitive or disturbing media
+Graphic Content, Gratuitous Gore, Adult Nudity & Sexual Behavior, Violent Sexual Conduct, Bestiality & Necrophilia, Media depicting a deceased individual.
+Other
+Please explain why should be removed.
+More details
+Send Report
+
+---
+
+Title: I have this feeling, the world has become so much stranger over the last 20 years. The wards that an... - 🏛 Aristophanes 🏛
+URL: https://en.rattibha.com/thread/1611626224895369217
+Published: N/A
+Author: N/A
+Highlights:
+I have this feeling, the world has become so much stranger over the la... @Aristos_Revenge
+
+Change Darkness Society Critique Literature Literary Analysis Philosophy Societal issues Culture
+
+🏛 Aristophanes 🏛
+
+@Aristos_Revenge
+
+View on 𝕏
+
+23 tweets 284 reads Jan 08, 2023 5 min read
+
+Share
+
+X Facebook WhatsApp Telegram LinkedIn Reddit
+
+ thread.email Copy Link
+
+PDF
+
+Listen Report
+
+I have this feeling, the world has become so much stranger over the last 20 years. The wards that anchor our conventional reality, are failing.
+Maybe this is the historical basis for many of our folk tales and legends. A time of monsters is upon us, lets ponder: 🧵
+
+It's readily apparent that something is wrong. Society is becoming unrecognizable at an increasingly expeditious rate. It feels as if something badly bent finally broke, unleashing unchecked and rapid change at a whiplash pace.
+
+A malevolent magnetism pulls the weak, the vulnerable, the ruthless, and the predatory towards the darkness. Up is down, male is female, good is evil, faith is blasphemy, and beauty is ugly. We are living through a pole shift of malign inversion.
+
+Transgression is worship, innocence is a target, corruption a goal. As a civilization we are largely descending into something debased and subhuman. A runaway train with ignoble conductors who threaten violence if you so much as look nervously at the brake lever.
+
+Careening into the dark, one can't help but consider that the inversion specifically seeks to shit test those who disagree, to drag as many into the darkness as possible. The darker it gets, the further we fall, as our momentum pushes us further into depravity & shamelessness.
+
+...
+
+Our women are becoming barren whores, our men into catty low testosterone vipers of perpetual adolescence. Like hogs at the trough of synthetic sex and attention, they gorge themselves on porn and social media, yet they never feel full.
+
+The world is changing, and we are changing with it. With Weimarization comes Goblinization. Phenotypes of old such as goblins and fey slowly return. The void beckons greedily. Mutation, nutrition, costume, body modification, making us appear less human. The Shadowrun timeline?
+
+What horrors await us? Perhaps the monsters of old were real, in times such as this when the barrier between this world and others is at its weakest. Perhaps we need to question history itself. We know our masters lie compulsively. We watch them reshape our history right now.
+
+...
+
+We once again become prey to be fed upon by things we don't begin to understand. A secret world of witch cults, succubi, and monsters.
+
+Wights and ogres, sprites and spirits. If everything is subjective and nothing is objective, then what's stopping us from this understanding? We're adrift in unreality and the lighthouse is fading. Why not?
+
+---
+
+Title: Trump's meme coin is nothing new—it takes a page out of ...
+URL: https://phys.org/news/2025-01-trump-meme-coin-page-ancient.html
+Published: 2025-01-21T15:00:04.000Z
+Author: Gil Davis
+Highlights:
+About 2,600 years ago, the kings of Lydia in modern-day Turkey hit upon a clever scheme. They turned the silver and gold everyone had been using to buy and sell things into coins with their emblem on it, and forced everyone living in their territory to use it. But the face value of the coin was greater than the value of the metal content. The difference went into their tunics, and everyone has been doing it ever since.
+
+...
+
+But Trump's coin is nothing new. In a pre-social media world, coins were the ultimate propaganda tool. Rulers used them to advertise themselves and their achievements and any messaging they wanted to get across.
+
+...
+
+The First Jewish Revolt started in 66 CE, when the Jews tried to reclaim their freedom from the Romans and reconquered Jerusalem. They issued coins proclaiming their independence from Rome.
+
+The obverse features a chalice with an inscription in paleo-Hebrew alphabet reading (from right to left): "Shekel Israel Year 3," and the reverse with three budding pomegranates and an inscription: "Jerusalem the Holy."
+
+Other coins in the series had the legend "The freedom of Zion," which can be interpreted as a political statement to rally support and to emphasize Jerusalem as the capital.
+
+...
+
+The tradition of using coins for propaganda and profit has continued throughout history. Even in modern times, we are used to seeing the head of the monarch on our coins.
+
+Coins and banknotes are still fiduciary, which means that they have little or no intrinsic value. Their value derives from the state enforcing their use and guaranteeing them, just as it was for the Lydians.
+
+...
+
+Private mints can issue commemorative coins which are not actually legal tender.
+
+---
+
+Title: Hey everyone, this thread will be rather long. It's going to be filled with anecdote. But what I ult... - 🏛 Aristophanes 🏛
+URL: https://en.rattibha.com/thread/1607650649982009346
+Published: N/A
+Author: N/A
+Highlights:
+Hey everyone, this thread will be rather long. It's going to be filled... @Aristos_Revenge
+
+Family Society Cultural Commentary Literature Social Issues Culture
+
+🏛 Aristophanes 🏛
+
+@Aristos_Revenge
+
+View on 𝕏
+
+33 tweets 23 reads Dec 27, 2022 8 min read
+
+Share
+
+X Facebook WhatsApp Telegram LinkedIn Reddit
+
+ thread.email Copy Link
+
+PDF
+
+Listen Report
+
+Hey everyone, this thread will be rather long. It's going to be filled with anecdote. But what I ultimately want to talk about is Honor/Pride/Dignity and its role in the positive pressures it exists to impose on men. It's a big part of "the problem" with Millennials and Zoomers.
+
+This Christmas we went to my wifes uncles house. After everyone had left we had a chat. Him and his wife are some of our favorite people in her family. He's taken on the responsibility of taking care of his dad, my wifes grandfather, who is 92. How other siblings don't step up.
+
+He talked about how his mom would be out in the cold putting clothes on the clothesline to dry because they didn't have a washer and dryer. All the siblings were working, he had moved out and just gotten married, and bought her a washer and dryer. None of the siblings helped.
+
+He's one of the younger brothers but often has to be the man with the wide shoulders, shouldering a lot of the families problems. Many of which were self-inflicted on themselves. This family has a pattern of expecting those who can manage themselves to bail out those who can't.
+
+My wife has two brothers who are not an exception to this. One is my age and still lives with my in-laws, spending his money like a high schooler and causing tons of destruction that others like my in-laws helplessly clean up after. This costs them so much money and peace of mind
+
+He wrecks vehicles, loses jobs to drug tests, and makes a mess around the house. My in-laws get angry but they enable him. They won't kick him out into the world by force out of mercy, but it means all they can do is yell at him. It has cost them everything they accumulate.
+
+They have no real savings or retirement. The other brother is slightly better. He is at least slowly progressing and is younger. But he moved out to move into a rental property with his girlfriend, one her dad owned and they did not pay rent. He has my niece with her.
+
+He always made excuses for not marrying her and eventually he left her for another girl. He paid rent when his old girlfriend moved back with her parents for like a month before shacking up with the new girlfriend and her parents. At least he has married her.
+
+Now they went and got an apartment, the new girlfriend and her family are great. Slowly but surely he is getting a better job and moving forward. Eventually perhaps the gauges and dreadlocks and "dude weed and shrooms" personality will ebb away.
+
+But what was interesting is that my wife had this "ah-hah" moment when her uncle said he left the house to go work and get married because "he's a man". Like she never realized due to the stunted relationship her brothers and other male cousins have, that men have obligations.
+
+It all made sense to her why I am always on the verge of chimping out when the topic of her brothers malfeasance comes up. She never understood why I got wrapped around the axle about it. Why he was being dishonorable or what honor has to do with responsibilities.
+
+I was raised with the expectation that when I came of age, my number one priority would be to make a plan that would let me leave the nest and become independent. This was not optional, to do otherwise would be shameful.
+
+It isn't shameful for life to knock you down and for you to go move back in with your parents, or to stay in the nest for a little bit to enact a plan that will slingshot you to that independence. But it is dishonorable to linger, with no forward momentum or movement.
+
+I do not understand how so many millennials and zoomers have no sense of shame for this parasitism. How they can linger in situations of dependency on their parents and never grow. I would feel a constant daily sense of shame, motivating me to find opportunity.
+
+And this brings me to a thought I frequently have. When is the last time you have heard the word "Honor" discussed in our society in a way that isn't collective martial honor, or hypothetical chivalric honor, but concrete individual/personal honor being maintained or damaged?
+
+It was not that long ago that accusing someone of being or acting dishonorably was fighting words. When it was universally acknowledged to men that being a disgrace was almost worse than death, and should be avoided at all costs. That your dignity and pride depend upon honor.
+
+...
+
+It's no wonder we have so many men willing to castrate themselves and flamboyantly dishonor themselves as men by trooning out. It feels like a desire to escape the shame of not meeting their obligations as a man. Contrary to their protestations they do feel shame.
+
+...
+
+So many men are *willing* to be pathetic, which is to be willing to dishonor themselves. There is great honor in deciding not to be pathetic and striving towards that goal. Glory in the striving itself. The effort is a vindication of ones masculinity, even with no success.
+
+And this striving is not just economic, it's not just about material gain. Material independence is a measure of a mans ability to provide. A man must provide for himself so that he may provide externally. For a family, for his community, for his deeds.
+
+Being a man is largely about the void of indifference the universe sees towards you much of the time, and striving to create agency for himself. A truly wealthy man is the man with so much agency he can bestow it upon others. This need not merely be measured in material wealth.
+
+To provide for a wife and create children that will grow to cultivate their own agency. To perform deeds and succeed in goals that inspire others by example or aid others in their projects to create impactful agency in the world.
+
+A man should be judged by his ability to shape and impact both *his* world and *the* world. And a man with little agency in his own world is a man who is dishonoring *himself*.
+
+...
+
+You can't fault a family for loving one of their own, and to an extent it is difficult to judge them for being unwilling to abandon one of their own. But how dishonorable is it to be an anchor that others must drag? To not pull ones own weight in the world?
+
+We're creating a society that is maxxing out shamelessness as a virtue. Treating dignity like a flaw. Deprecating honor.
+Entropy remains undefeated, this too shall pass. But damned if I'm not slackjawed at the lack of shame many have achieved. Do it for yourself at the least.
+
+I'll end it here, but FWIW I am not some old dude casting stones from an ivory tower. I'm in my early 30's, I am largely talking about my peers. The brother who still lives at home is the same age as me.
+He's getting stoned and fighting with his mom, I'm raising a family.
+
+######## 9PrmF8sf DMAGA ELON wallet August 2024
+# fetched_at=2026-11-02T22:46:46Z source=exa.web_search_exa target=9PrmF8sf DMAGA ELON wallet August 2024 sha256=ce5ac9b0739ff211 chars=20070
+Title: 数据：某地址 6 日前花费 48.5 枚 SOL 买入 Meme 币 DMAGA，预计获利...｜DMAGA, 埃隆·马斯克 - ChainCatcher
+URL: https://www.chaincatcher.com/article/2134603
+Published: 2024-07-22T04:47:05.000Z
+Author: 2024-07-22 12:47:05
+Highlights:
+数据：某地址 6 日前花费 48.5 枚 SOL 买入 Meme 币 DMAGA，预计获利...｜DMAGA, 埃隆·马斯克 - ChainCatcher
+
+# 数据：某地址 6 日前花费 48.5 枚 SOL 买入 Meme 币 DMAGA，预计获利 55 万美元 
+
+ 2024-07-22 12:47:05 
+
+ChainCatcher 消息，据 @ai_9684xtpa 监测，一小时前，早期建仓地址 GXZvX 出售了 13.6 万美元的 DMAGA，累计收益率高达 7688%。
+
+早在六天前马斯克还没有换上镭射眼头像时，该地址就花费 48.5 SOL 买入了 1469 万枚代币，均价 0.0004826 美元；目前已出售 66% 的持仓，获利 21 万美元，剩余 500 万枚代币浮盈 34 万美元。
+
+---
+
+Title: Transfers for Wallet 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5
+URL: https://deportfolio.live/wallet/0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5/transfers
+Published: N/A
+Author: N/A
+Highlights:
+# Transfers for Wallet 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5
+
+Most recent 35 token transfers.
+
+| Time (UTC) | Chain | Direction | Token | Amount | From | To | Tx Hash |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2024-09-08T19:23:59Z | Ethereum | in | DMAGA | 1354.113865 | 0x00000023c10000eecb940000b914cdfd76cc83d1 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x32f07ad8461977e0ea80f4a967c4fbdb3f076b09df18dc6c814efa6460ae2ef6 |
+| 2024-09-08T16:32:35Z | Ethereum | in | DMAGA | 3454.735126 | 0x00000000a991c429ee2ec6df19d40fe0c80088b8 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xf8cdb761c5861c9857d1896cfac459d06d834d2279b6c8c3be81aec2c47007fe |
+| 2024-09-08T15:11:47Z | Ethereum | in | DMAGA | 4814.691558 | 0x00000023c10000eecb940000b914cdfd76cc83d1 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x75f2c34784b3f91bf89da5e19d5bf67d00c543e7731bd1924573119ed2f7f410 |
+| 2024-09-08T14:46:11Z | Ethereum | in | DMAGA | 5152.660185 | 0x00000023c10000eecb940000b914cdfd76cc83d1 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x5be6ce24bd6519711be20f19c6cc63ec727fdef1de4388c978568a7dbe257b54 |
+| 2024-08-09T21:13:11Z | Ethereum | in | DMAGA | 12521.77827 | 0x275121b5734bdae3bd97da0fe37f47450656cb13 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xf11687c52fc546cd6ab136e6b0b6d2cf4b9b05b8687e04a6defb9f1bb6f42953 |
+| 2024-07-23T14:17:47Z | Ethereum | in | DMAGA | 11161.461624 | 0xb4f470d2c003c291c8b508c4f56b150165303728 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x56d6b396ab7c649abaf641c1a7a05ed6920cc01f705ce9071ed5fbbc5a9d1981 |
+| 2024-07-22T08:36:59Z | Ethereum | in | DMAGA | 5085.723939 | 0x2aae25d89500d436e4d37f3bc20333d87db46d21 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x249ad9c0a437e160516a6ed25fc56df7c20102da5078611bc13f7f8d5dc1497f |
+| 2024-07-22T03:29:47Z | Ethereum | in | DMAGA | 2661.649752 | 0x361e59f6eb1e6a23f171b1dd3264ef47c5410f3f | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x2e7612240ae97acdfa798ebf9bde840f420eb028f4949e05b2de3af133f09c03 |
+| 2024-05-30T19:31:11Z | Ethereum | in | DMAGA | 1635.381694 | 0x483a39b687b632f4d3dd33dc8e20d24a72f57f87 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xfd079143cc03a6d248a9397f0cc9eaf492dc40e7fc61f51bdf930ae1fd6f6fde |
+| 2024-05-28T21:50:11Z | Ethereum | in | DMAGA | 1000 | 0x483a39b687b632f4d3dd33dc8e20d24a72f57f87 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xfbfbb4073a864ae8f29a24e6f4e9713b4166a835490755f1d77a3870ec8935e3 |
+| 2024-05-28T18:13:59Z | Ethereum | in | DMAGA | 2350 | 0xd0e39ddc3d83c79f07a14f4acc664d413b90b5c5 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x72af195d3a7c2fc818085d19110c4b7a2b02ae39680e0fb42a216f839aa8f806 |
+| 2024-05-27T19:57:59Z | Ethereum | in | DMAGA | 5343.087971 | 0x0a67d9fa31a8e26e9e58e1e090ebd06d53f3acb6 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x729023e174be9800afd002d42211b2face31a808b9e41073fb558276a77038a1 |
+| 2024-05-27T06:20:11Z | Ethereum | in | DMAGA | 5983.82208 | 0xd05d5ea4b3b3cc5f86d25fd64d2772972496a36c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x0997e5f9c52f05442bae6935c0cc25fbb5941911276c5f2736d01348e48ce939 |
+| 2024-05-26T23:59:23Z | Ethereum | in | DMAGA | 4987.162826 | 0x606c76ee2ca7909b3e1c529f92932b91452f7061 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xcc92bc5598a3125329aee7f4c92563226184b7e05a3dddfab2cfb601dee90755 |
+| 2024-05-26T21:56:47Z | Ethereum | in | DMAGA | 2034.836877 | 0x3ef005972589b735f8522eaf7505baf2e22f5c7c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x85ef4b24c8fbc2f0c39c13669c2d854090ea2f4554e23123b7d8eef78972d85d |
+| 2024-05-26T21:54:11Z | Ethereum | in | DMAGA | 89.431007 | 0xd911d61788b1660903c654c12020021e9da69d73 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xaff41f58990fe8ea278cc1070b41e026ced484d04ccd3fd899d932b1f8f0c094 |
+| 2024-05-26T21:07:35Z | Ethereum | in | DMAGA | 3244.221829 | 0xbc6bc57eea6277729ff0eb18e169cb429a2a9d09 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x3b28cb76f632cde0e956391ba534a96bac31c18c9d36787f980fe17bc07b3e41 |
+| 2024-05-26T21:06:47Z | Ethereum | in | DMAGA | 2287.576654 | 0x163602eb3d791df010cc826953bc11f3c9fcf50c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xf73d823b2c6d50ad027d32f375159898d72c2e7c4c54f14a6efd5e9886ce2d4c |
+| 2024-05-26T20:24:11Z | Ethereum | in | DMAGA | 612.095145 | 0xfd267495091b62108b0515c3445196948451365c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xdda5b66cef409bace4fa652423076a50bae4890e3e5c691309017a18947322ec |
+| 2024-05-26T20:21:59Z | Ethereum | in | DMAGA | 482.242907 | 0x8a95d0efbb0052638fe7f30eeef621045ac2f5b2 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x501148697ba67441587d214efda5f140646abe111358fe9fb48aac7b80a22bdf |
+| 2024-05-26T18:12:35Z | Ethereum | in | DMAGA | 284.699043 | 0xb4d36e341e2323893102c6b27be0cb732e068c00 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xd2d621baadfff26f5139fd1aee8289b9711c98bf7e5bfbfe20ce17de04c16b6d |
+| 2024-05-26T18:01:23Z | Ethereum | in | DMAGA | 4241.88398 | 0xd05d5ea4b3b3cc5f86d25fd64d2772972496a36c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xa0b707ced54ad08794d9f6eecf20c0c99086a67449b8df7121f7de5ebc25b43d |
+| 2024-05-26T16:57:47Z | Ethereum | in | DMAGA | 357.724027 | 0xd911d61788b1660903c654c12020021e9da69d73 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x372276b19444081bc3fe5997f568a5a01562f6945722c26e9ad9ddf6ab8ec622 |
+| 2024-05-26T16:44:23Z | Ethereum | in | DMAGA | 258.508873 | 0x3ee1dccfb601577a31f0f7cee6484a76c964ab53 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x76380814052beba30e57b7962c1f0484c35b90113a64d040b0c5bb4dce4b3c86 |
+| 2024-05-26T16:41:47Z | Ethereum | in | DMAGA | 3570.827777 | 0xb3a22651895d170dcdebe593ebd2421d4edce5d4 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x138421ffe9cb7c362064a028d21359f7d1c809cfc6ba1eadcc3d65293429b271 |
+| 2024-05-26T16:34:23Z | Ethereum | in | DMAGA | 1120.411242 | 0xd05d5ea4b3b3cc5f86d25fd64d2772972496a36c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x1145f159bcfefa61cb41f92d9ceadf9ae4469912b15e9818871a5caca70277c9 |
+| 2024-05-26T16:21:47Z | Ethereum | in | DMAGA | 1120.411242 | 0xd05d5ea4b3b3cc5f86d25fd64d2772972496a36c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x52894ecf1eee5a8dda2d73bf910f5b999f6ab72af801c945e8c69e7a38c36cd6 |
+| 2024-05-26T16:09:11Z | Ethereum | in | DMAGA | 4417.890967 | 0xcc2687c14915fd68226ccf388842515739a739bd | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x07d26592ab11ec9de1fc0702f00a02e73c16b540edc1770dea7fa3494fccd8fb |
+| 2024-05-26T16:08:23Z | Ethereum | in | DMAGA | 746.036642 | 0x8c16c47095a003b726ce8deffc39ee9cb1b9f124 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xbaf0b2a503fb3443507db0a0cf7e9c2fc29535c9051bcf61fbbef087a66e5f96 |
+| 2024-05-26T16:05:35Z | Ethereum | in | DMAGA | 1608.624598 | 0x1cdf6b357987e357eb2a300dda291983630bba1c | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xe60a5faa3fcc440055e2ff50ea3ff129b8e3b53562c98b308cb5331726767254 |
+| 2024-05-26T16:02:11Z | Ethereum | in | DMAGA | 748.33585 | 0x8c16c47095a003b726ce8deffc39ee9cb1b9f124 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xebfdc03c1086cdf6dc4542ee4ef3665a029fd5b95e1a7c6ccf0752c928388dfb |
+| 2024-05-26T15:44:47Z | Ethereum | in | DMAGA | 5105.454088 | 0x367a37c24673c69cf58d19fba6d0ba1ad6b0661a | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x00f36322f6d53f156161f8baa3529aca3949dee0e48c61916bf5f90779a440fd |
+| 2024-05-26T15:38:23Z | Ethereum | in | DMAGA | 2019.052602 | 0xb8597c9a625efbb97d8ffcc98e59fa1097368b52 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xdfcc69bd758a2a1513bbaa091ce5a86a923743a86bd1c078452f90b1fb3af3d9 |
+| 2024-05-26T15:37:23Z | Ethereum | in | DMAGA | 4694.051069 | 0xc445b4268d41293f986de7d276186e2d3afba543 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0xc324df6db670b352cd015374fa6e7a636370100b2568703cda6129885e094af5 |
+| 2024-05-26T15:32:23Z | Ethereum | in | DMAGA | 1656.13217 | 0x1b0cae4374ebc96289d8dab50eeffc20d3528503 | 0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5 | 0x5af693b4c62cd494ce850b4cba155aaac435b4790e5351a263af1ba1454cdca5 |
+
+---
+
+Title: Traders dump MAGA memecoins after Trump fails to talk crypto with Elon Musk
+URL: https://www.theblock.co/news/markets/2024-08-13-traders-dump-maga-memecoins-after-trump-fails-to-talk-crypto-with-elon-musk-310986
+Published: 2024-08-13T00:00:00.000Z
+Author: N/A
+Highlights:
+# Traders dump MAGA memecoins after Trump fails to talk crypto with Elon Musk
+
+By Jason Shubnell • Edited by Daniel Kuhn (dkuhn@theblock.co)
+
+Markets•August 13, 2024, 3:55PM EDT
+
+UPDATED: October 19, 2026, 7:36AM EDT
+
+...
+
+#### Quick Take
+
+- Donald Trump joined Elon Musk for a live chat Monday night on X, but the topic of cryptocurrency did not arise during the two-hour interview.
+- After trading higher heading into the interview, several memecoins inspired by the former president have sold off over the past 24 hours.
+
+Several memecoins inspired by former President Donald Trump have sold off over the past 24 hours, with degens and traders perhaps disappointed with his live chat hosted by Elon Musk.
+
+On Monday night, the Tesla CEO hosted a Spaces event on the social media platform X with the Republican presidential nominee. Despite a 40-minute delay due to some technical difficulties, the pair spoke for two hours on topics ranging from the attempted assassination of Trump to climate change and sustainable energy. One topic that never came up, however, was crypto.
+
+In fact, Polymarket users bet about $5 million on the chances of Trump saying certain words during his conversation. Those who bet on “crypto” saw the most significant losses as it had the most money in a losing market. That disappointment has also spilled over into the memecoin market, where several tokens surged in Monday's session.
+
+MAGA Hat MAGA Hat (Ticker: MAGA) is down 24.5% over the past 24 hours after surging more than 40% on Monday, while Dark MAGA (DMAGA) is down 42%. Other tokens that saw decent gains yesterday, such as Doland Tremp Doland Tremp (TREMP) and FreeTrump MAGA ($TRUMP), are also selling off.
+
+...
+
+```json
+
+...
+
+":" ... ecoins ... ":" ... the ... / ... / ... " ... - ... "]," ... ":" ... 4 ... 8 ... 1 ... . ... ub ... :// ... . ... / ... 0 ... .
+
+...
+
+selling off ... to ... / ... 0
+
+---
+
+Title: Dark MAGA (DMAHA) Breaking Out: Trump Goes to Musk SpaceX
+URL: https://99bitcoins.com/news/dark-maga-dmaga-breaking-out-70-in-24-hours-and-99btc-launch-is-live/
+Published: 2024-08-08T13:47:19.000Z
+Author: Fatima
+Highlights:
+Dark MAGA (DMAHA) Breaking Out: Trump Goes to Musk SpaceX
+
+# Dark Maga, DMAGA, Breaking Out +70% in 24 Hours And 99BTC Launch Is Live! 
+
+ 
+
+By Fatima 
+
+ Last Updated: August 8, 2024 
+
+ 
+
+Fact checked
+
+By Sam Cooling
+
+ In This Article 
+
+- PolitiFi Tokens Are Getting Hot Again: From DMAGA To HARRIS
+- 99BTC Goes Live in Huge BRC-20 DEX Launch: Don't Forget To Claim Your Tokens Ahead of Potential 25x Move
+- 99Bitcoins Pioneer Of The Learn-To-Earn System
+
+Donald Trump announced that he would be Elon Musk’s guest on SpaceX, reigniting the spark for DMAGA, which rose by 70% in the last 24 hours.
+
+## PolitiFi Tokens Are Getting Hot Again: From DMAGA To HARRIS
+
+After Biden’s withdrawal and the support for Kamala Harris as a possible new Democratic candidate, the American political scene is heating up again, and with it, also the PolitiFi Coins.
+
+Harris, a token launched on Solana yesterday, has a $8 million market cap and $1.7 million in volume.
+
+Dmaga is also benefitting from this escalation in the American elections. It had been rumored for some time that Musk intended to bring Donald Trump back to X, planning a live event on social media for several months. A post by Trump on Truth Social confirms this story.
+
+> JUST IN: Elon Musk confirms interview with President Donald Trump on Monday will be on X. pic.twitter.com/mvkYhRkk1f
+> 
+> — Watcher.Guru (@WatcherGuru) August 7, 2024
+
+Dmaga’s success comes precisely from Elon’s choice to change his profile photo to one personalized for him by the Dmaga team. That move catapulted this crypto meme to an ATH of $91 million.
+
+Dmaga, despite still being well below its ATH, broke up yesterday with a +70% in the last 24 hours following the rumors about the possible return of Trump on X.
+
+Investors are betting on the possibility that as the elections approach, both Trump and Elon could change their profile photos again to the one with lasers.
+
+---
+
+Title: Elon Musk's Laser-Eyes Boosts $DMAGA Meme Coin by 15,548%
+URL: https://www.coinlive.com/news/elon-musk-s-laser-eyes-boosts-dmaga-meme-coin-by-15-548
+Published: 2024-07-22T00:00:00.000Z
+Author: ZeZheng 2024/07/22
+Highlights:
+# Elon Musk's Laser-Eyes Boosts $DMAGA Meme Coin by 15,548%
+
+ZeZheng 2024/07/22 15:36
+
+Tesla CEO Elon Musk recently updated his X (formerly Twitter) avatar, which has attracted great interest from the cryptocurrency community. His new avatar features a blue “laser eye” on a dark red background with an American flag, a meme associated with bullish Bitcoin sentiment. The update coincides with a sharp surge in the value of the $DMAGA meme coin.
+
+In response, the well-known Chinese crypto KOL “0xSun” posted this morning that Musk’s big avatar is the main reason behind the surge in the Solana ecosystem meme coin $DMAGA today.
+
+...
+
+## $DMAGA surges 155 times
+
+As part of the Solana ecosystem, the price of $DMAGA coin surged by more than 15,500% after Musk changed his profile picture. It surged from a low of $0.0005325 to a high of $0.08333, and the current price is about $0.06979. The trading volume has exceeded $42.5 million, and the increase in 24 hours has reached 10,058%, making it one of the largest increase in the emoji coin field.
+
+---
+
+Title: Donald Trump Discloses Up To $5M In Crypto Holdings, Over $7M In NFT Earnings | IBTimes
+URL: https://www.ibtimes.com/donald-trump-discloses-5m-crypto-holdings-over-7m-nft-earnings-3739951
+Published: 2024-08-16T11:05:01.000Z
+Author: Marvie Basilan
+Highlights:
+# Donald Trump Discloses Up To $5M In Crypto Holdings, Over $7M In NFT Earnings
+
+By
+
+ Marvie Basilan @marvbuzzilan Published 08/16/24 AT 7:05 AM EDT
+
+ Donald Trump was a headliner at last month's Bitcoin 2024 conference. Bitcoin 2024 Website/Screenshot 
+
+### KEY POINTS
+
+- The financial disclosure showed that he holds between $1 million and $5 million worth of crypto
+- Arkham Intelligence data shows that he has over $3 million in $ETH and various memecoins
+- Last year's filing showed that his crypto holdings were only between $250K -- $500K
+
+Former President Donald Trump has recently been aligning himself with the cryptocurrency industry, and on Thursday, news emerged that he disclosed personal holdings of over $1 million in cryptocurrencies held in an Ethereum wallet.
+
+Up to $5M in Ethereum assets
+
+As per the personal financial disclosure obtained by ethics watchdog Citizens for Ethics, the Republican presidential candidate has digital holdings worth around $1 million to $5 million. The exact cryptocurrencies he holds were not detailed, but it can be safe to conclude he holds Bitcoin, as he said earlier this year that he has had "some fun" with the world's top digital asset by market value.
+
+ The personal financial disclosure showed that Trump now holds a significant amount of crypto from last year. Citizens for Ethics/Screenshot 
+
+His disclosure somehow backs data from leading blockchain analytics firm Arkham Intelligence, which shows that the business mogul has nearly 500 $ETH worth around $1.29 million, as of early Friday. His digital wallet also holds various memecoins, including 10 million $MAGAA tokens, and some 10 million $FIGHT tokens. As of Friday, his wallet's total value is at $3.6 million.
+
+...
+
+Last year, a filing with the Office of Government Ethics (OGE) revealed that Trump's crypto holdings within an Ethereum wallet were valued between $250,000 and $500,000.
+
+If the said wallet is the same as the one declared in his latest disclosure, it means that the value of Trump's crypto holdings more than doubled in a year.
+
+---
+
+Title: ELON COIN — $ELON | The Currency of the World
+URL: https://eloncoin.app/
+Published: N/A
+Author: N/A
+Highlights:
+CONTRACT ADDRESS`2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump`
+
+...
+
+## CTO WALLET
+
+COMMUNITY TAKEOVER TREASURY
+
+9sVsMmAe5agyNVoJ4MBxywdXBKtLPVuMvQ7WuxBxuaLW
+
+### LOCKED SUPPLY SCHEDULE
+
+5% OF TOTAL SUPPLY · 5 FUTURE UNLOCKS · VIA STREAMFLOW
+
+Nov 1, 2026 1%
+
+10M $ELON
+
+00 DAYS
+
+00 HRS
+
+00 MIN
+
+00 SEC
+
+Apr 14, 2027 1%
+
+10M $ELON
+
+162 DAYS
+
+04 HRS
+
+31 MIN
+
+23 SEC
+
+Jul 4, 2027 1%
+
+10M $ELON
+
+243 DAYS
+
+04 HRS
+
+31 MIN
+
+23 SEC
+
+Apr 18, 2028 1%
+
+10M $ELON
+
+532 DAYS
+
+07 HRS
+
+31 MIN
+
+23 SEC
+
+Jan 1, 2030 1%
+
+10M $ELON
+
+1155 DAYS
+
+04 HRS
+
+31 MIN
+
+23 SEC
+
+Each unlock releases 10M $ELON (≈1% of supply). Countdowns live in your local time.
+
+...
+
+How do I buy $ELON?▼
+
+It only takes a few minutes:
+
+- 01 Get a Solana wallet — Phantom is the easiest.
+- 02 Fund it with SOL from any exchange (Coinbase, Binance, etc.).
+- 03 Go to Raydium or Jupiter and paste the $ELON contract address.
+- 04 Swap SOL for $ELON. Just let me buy $ELON.
+
+What blockchain is $ELON on?▼
+
+$ELON is built on the Solana blockchain — chosen for its near-instant transactions and ultra-low fees. Series 2067. Fast, cheap, and built for the future.
+
+What is the CTO wallet?▼
+
+CTO stands for Community Takeover. The CTO wallet is a community-controlled treasury fully visible on-chain via Solscan. Every transaction is public and verifiable — no hidden funds, no rugs. The community runs this.
+
+---
+
+Title: Donald Trump-Linked Wallet's Ether, Memecoin Holdings Top $26 Million: Arkham | IBTimes
+URL: https://www.ibtimes.com/donald-trump-linked-wallets-ether-memecoin-holdings-top-26-million-arkham-3733770
+Published: 2024-06-06T11:00:01.000Z
+Author: Marvie Basilan
+Highlights:
+### KEY POINTS
+
+- TROG tokens lead the pack with over $14 million, followed by some $7.31 million in TRUMP coins
+- The wallet also has more than 470 Ether and over $1.44 million worth of WETH
+- Before Trump's hush money guilty conviction, the wallet held some $10 million worth of crypto
+
+The Ether (ETH) and memecoin holdings of a wallet linked to ex-president Donald Trump have passed $26 million, marking a significant jump from the wallet's holdings just before his guilty conviction in a hush money case.
+
+According to data from leading blockchain analytics firm Arkham Intelligence, the wallet now holds over $26.1 million worth of Ether and various memecoins, including various Trump-themed tokens.
+
+The wallet's top token holdings are Trog (TROG) with over 210 billion coins worth some $14.44 million, and the MAGA (TRUMP) with more than 576,000 tokens worth around $7.31 million.
+
+The wallet also holds some 472 Ether worth over $1.82 million, and some $1.44 million in Wrapped Ether (WETH). There are also over $400,000 worth of Maga VP (MVP) coins, $206,000 in Conan (CONAN), and more than $200,000 in BABYTRUMP and Elon (ELON) coins.
+
+Prominent memecoin trader James Wynn said Wednesday that he sent $169,420 worth of ELON coins or over 2 billion of the memecoin to Trump. "Goats recognize goats," he wrote in the announcement, along with a link to the on-chain transaction.
+
+> I have just sent Donald J. Trump $169,420 worth of $ELON tokens (2,100,000,000) effectively making it his 2nd largest holding. Goats recognise goats 🤝 🤝 https://t.co/zz53CWrqwJ
+> 
+> — James Wynn 👑🐐 (@JamesWynnReal) June 4, 2024
+
+######## DMAGA dark maga insider wallet bubblemaps team wallet dev sold
+# fetched_at=2026-11-02T22:46:49Z source=exa.web_search_exa target=DMAGA dark maga insider wallet bubblemaps team wallet dev sold sha256=8de70e6da40a20b2 chars=21637
+Title: Top 100 DARK MAGA Rich Address List | CoinCarp
+URL: https://www.coincarp.com/currencies/darkmagacoin/richlist/
+Published: N/A
+Author: N/A
+Highlights:
+# DARK MAGA Price (DMAGA)
+
+ -- 
+
+ Market Cap -- 
+
+ Fully Diluted Market Cap -- 
+
+ Volume 24h -- 
+
+ Circulating Supply -- 
+
+ Max Supply 
+
+#### 420,690,000,000 DMAGA
+
+ Total Supply 
+
+#### 420,690,000,000 DMAGA
+
+...
+
+| # | Address | Quantity | Percentage | 7d Change | Address |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 0x000000d40b595b94918a28b27d1e2c66f43a51d3 | 20,812,413 | 0.00% | 38,702,030,877 | 0x000000d40b595b94918a28b27d1e2c66f43a51d3 |
+| 2 | 0x2f144d2d5b0bfba09015c6c09c5bf80306fe886a | 1,238,117 | 0.00% | 9,028,880,063 | 0x2f144d2d5b0bfba09015c6c09c5bf80306fe886a |
+| 3 | 0x8a41b0ca382d3dae25922aeb6574360e8372f072 | 221,658,461 | 0.05% | -- | 0x8a41b0ca382d3dae25922aeb6574360e8372f072 |
+| 4 | 0x94badeffd15e01fca151cc34beec00fde3c68d40 | 2,194,583 | 0.00% | -- | 0x94badeffd15e01fca151cc34beec00fde3c68d40 |
+| 5 | 0xac89e96c06b4d1eaae75eb16f33911465210a646 | 17,256,235 | 0.00% | 1,494,646,060 | 0xac89e96c06b4d1eaae75eb16f33911465210a646 |
+| 6 | 0x3ccbd6baf423574a677daebc6e300eb751f69e6f | 9,484,657 | 0.00% | -- | 0x3ccbd6baf423574a677daebc6e300eb751f69e6f |
+| 7 | 0x5975e5ed166294ce8797283f78efbc8563460398 | 17,577,625 | 0.00% | -- | 0x5975e5ed166294ce8797283f78efbc8563460398 |
+| 8 | 0x252a5c5dccd38b017a5690631b3c78d2412eb58f | 6,036,948 | 0.00% | -- | 0x252a5c5dccd38b017a5690631b3c78d2412eb58f |
+| 9 | 0xbf268e3442c7f5c388cc9649f743925e7a43e01e | 20,000,000 | 0.00% | -- | 0xbf268e3442c7f5c388cc9649f743925e7a43e01e |
+| 10 | 0x15328c59f28eef90515b027936a87a51f25b49ff | 331,866,593 | 0.08% | -- | 0x15328c59f28eef90515b027936a87a51f25b49ff |
+| 11 | 0x6d971f3e664a5952bcd51cf00bdaf79cc2589348 | 3,558 | 0.00% | -- | 0x6d971f3e664a5952bcd51cf00bdaf79cc2589348 |
+| 12 | 0x93764f433f1eff622f9b7649272e14c5780a929d | 49,918 | 0.00% | -- | 0x93764f433f1eff622f9b7649272e14c5780a929d |
+| 13 | 0xedf53fece9ae4745d99b4165d5b7aa876497b3f1 | 20,289,028 | 0.00% | -- | 0xedf53fece9ae4745d99b4165d5b7aa876497b3f1 |
+| 14 | 0x9c30cf83d593bf765394e65c349fcd4e6c5d3fc8 | 65,030,851 | 0.02% | -- | 0x9c30cf83d593bf765394e65c349fcd4e6c5d3fc8 |
+| 15 | 0xbd6c7b0d2f68c2b7805d88388319cfb6ecb50ea9 | 159,455 | 0.00% | -- | 0xbd6c7b0d2f68c2b7805d88388319cfb6ecb50ea9 |
+| 16 | 0xa2059bb6996d757667f5a83058bcc3af2711ec19 | 1,284,068 | 0.00% | -- | 0xa2059bb6996d757667f5a83058bcc3af2711ec19 |
+| 17 | 0x286cb485a134ec892315daa2da4b431566f12001 | 45,000,000 | 0.01% | -- | 0x286cb485a134ec892315daa2da4b431566f12001 |
+| 18 | 0x76d665e48a6290055b75f0e47dff886f9ebdc691 | 135,895,815 | 0.03% | -- | 0x76d665e48a6290055b75f0e47dff886f9ebdc691 |
+| 19 | 0x8342d9f09e01c9a2db43eac997c75add8da872a6 | 30,804,911 | 0.01% | -- | 0x8342d9f09e01c9a2db43eac997c75add8da872a6 |
+| 20 | 0x5a930835b13a33d612d882f0d35b5e2a1ed307ee | 221,658,461 | 0.05% | -- | 0x5a930835b13a33d612d882f0d35b5e2a1ed307ee |
+| 21 | 0x02b4b678997143ddf1bd28ea36a6781f92893dbe | 2,194,583 | 0.00% | -- | 0x02b4b678997143ddf1bd28ea36a6781f92893dbe |
+| 22 | 0xe9192d7732b8dd27bd72bfd3902f029dd7e22bb5 | 17,256,235 | 0.00% | -- | 0xe9192d7732b8dd27bd72bfd3902f029dd7e22bb5 |
+| 23 | 0xd365cb6a06473a8ccab56028d549d88228e67990 | 591,155,794 | 0.14% | -- | 0xd365cb6a06473a8ccab56028d549d88228e67990 |
+| 24 | 0xc672604d798d8cbd0cf2cc654099f82bd02647ab | 3,003,924 | 0.00% | -- | 0xc672604d798d8cbd0cf2cc654099f82bd02647ab |
+| 25 | 0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce | 3,003,924 | 0.00% | -- | 0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce |
+| 26 | 0xa7b55a11b26154f856b9446539c3f704f5b0f4dc | 1,500,000 | 0.00% | -- | 0xa7b55a11b26154f856b9446539c3f704f5b0f4dc |
+| 27 | 0xb496f460e7a0063c04016fe79d5605a0557a3a9d | 3,558 | 0.00% | -- | 0xb496f460e7a0063c04016fe79d5605a0557a3a9d |
+| 28 | 0xbc58efbfd98306d56bfa298bac9c62c246a2de81 | 3,558 | 0.00% | -- | 0xbc58efbfd98306d56bfa298bac9c62c246a2de81 |
+| 29 | 0x9d58bfd5f6c166fa54998d252391e3975157d525 | 20,102,876 | 0.00% | -- | 0x9d58bfd5f6c166fa54998d252391e3975157d525 |
+| 30 | 0xc689f5460a4e58cf08f8bd17819c0fcbe669d02b | 2,010 | 0.00% | -- | 0xc689f5460a4e58cf08f8bd17819c0fcbe669d02b |
+| 31 | 0x7592ca1ad468ddac5a97a5625c1c55e36338f786 | 30,599,154 | 0.01% | -- | 0x7592ca1ad468ddac5a97a5625c1c55e36338f786 |
+| 32 | 0xb72026a9766c8ec6bd5498fde649fed4b5a9e45c | 16,575,925 | 0.00% | -- | 0xb72026a9766c8ec6bd5498fde649fed4b5a9e45c |
+| 33 | 0xab27561383ed56d00ed5c777d0e750a03cebc7ca | 34,637,903 | 0.01% | -- | 0xab27561383ed56d00ed5c777d0e750a03cebc7ca |
+| 34 | 0xb7d0889143aede16f7c197fa68c9dae1e926b84a | 108,913,294 | 0.03% | -- | 0xb7d0889143aede16f7c197fa68c9dae1e926b84a |
+| 35 | 0xb96230c43079bcb7d783dbfafed6eaf9aeae7fff | 2,700,000 | 0.00% | -- | 0xb96230c43079bcb7d783dbfafed6eaf9aeae7fff |
+| 36 | 0x0c652c1260a80fe0b3638dac6950ede7042a6c95 | 4,206,900,000 | 1.00% | -- | 0x0c652c1260a80fe0b3638dac6950ede7042a6c95 |
+| 37 | 0x00000000003b3cc22af3ae1eac0440bcee416b40 | 425 | 0.00% | -- | 0x00000000003b3cc22af3ae1eac0440bcee416b40 |
+| 38 | 0xbadc0de76438f9524d42c219b390636196bfbdfc | 1,121 | 0.00% | -- | 0xbadc0de76438f9524d42c219b390636196bfbdfc |
+| 39 | 0x96126b37e057b3e886131b3cda01cedee5be351f | 849,941 | 0.00% | -- | 0x96126b37e057b3e886131b3cda01cedee5be351f |
+| 40 | 0xf38bd6e882ffbeb03902a42333d248e671d84599 | 36,466,854 | 0.01% | -- | 0xf38bd6e882ffbeb03902a42333d248e671d84599 |
+| 41 | 0x98010e087fac09a569f55599760bd44e1c130f72 | 26,673,693 | 0.01% | -- | 0x98010e087fac09a569f55599760bd44e1c130f72 |
+| 42 | 0xa2932550c1b22920e055025efde9847cca0a4124 | 1,085,615 | 0.00% | -- | 0xa2932550c1b22920e055025efde9847cca0a4124 |
+| 43 | 0x17ec945354bd7d60543fc7be21314ddfcf15ee18 | 128,153,752 | 0.03% | -- | 0x17ec945354bd7d60543fc7be21314ddfcf15ee18 |
+| 44 | 0x81913758a3c38b8ba1d440ca13a0677e087a0eed | 12,664,082 | 0.00% | -- | 0x81913758a3c38b8ba1d440ca13a0677e087a0eed |
+| 45 | 0xc23e34158bee4c1f939e229e7c1316a47754c045 | 2,700,000 | 0.00% | -- | 0xc23e34158bee4c1f939e229e7c1316a47754c045 |
+| 46 | 0x8af9ca49688e52787f31742dc259002148efaa62 | 4 | 0.00% | -- | 0x8af9ca49688e52787f31742dc259002148efaa62 |
+| 47 | 0x56232bb88062e3efbc53ed7ab22fc9ff5b7a9e0d | 284,355,895 | 0.07% | -- | 0x56232bb88062e3efbc53ed7ab22fc9ff5b7a9e0d |
+| 48 | 0x021d4fc4c509adee5e81327a19742db0b43b0c50 | 26,229,101 | 0.01% | -- | 0x021d4fc4c509adee5e81327a19742db0b43b0c50 |
+| 49 | 0x39d221c6e5aecd64ce74ff386b5be6257c1b636c | 4,175,967 | 0.00% | 448,618,179 | 0x39d221c6e5aecd64ce74ff386b5be6257c1b636c |
+
+...
+
+### DARK MAGA Holders Statistics Ethereum 
+
+- Holders 2,232
+- Top 10 Holders 0.13%
+- Top 20 Holders 0.25%
+- Top 50 Holders 1.57%
+- Top 100 Holders 4.13%
+
+---
+
+Title: dark maga Price: DMAGA/USD Live Price Chart, Market Cap & News Today | CoinGecko
+URL: https://www.coingecko.com/en/coins/dark-maga-2
+Published: N/A
+Author: N/A
+Highlights:
+## What is dark maga about?
+
+Dark Maga is a memecoin centered around the alliance between Elon Musk and Donald Trump, promoting the Dark Maga movement. This movement aims to make America great again during these challenging times.
+
+---
+
+Title: dark maga Price
+URL: https://coinstats.app/coins/dark-maga-2/bubble-maps/
+Published: N/A
+Author: N/A
+Highlights:
+$1.07K
+
+Vol/Mkt Cap 24h
+
+1.95%
+
+Total Supply
+
+420,640,000,000
+
+Circulating Supply
+
+420,640,000,000
+
+Contracts
+
+0x564...fea7
+
+Website
+
+darkmagacoin.com
+
+API ID
+
+0x5640e0560e6afd6a9f4ddb41230d0201d181fea7_ethereum
+
+---
+
+Title: Dark MAGA (DMAGA) Price, Chart & Market Cap | Pump
+URL: https://pump.fun/coin/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump
+Published: N/A
+Author: N/A
+Highlights:
+@sadcrissy+$66,896.02 Hide @sadcrissy
+
+@waste+$49,622.48 Hide @waste
+
+@soby0x+$48,979.67 Hide @soby0x
+
+@brc20niubi+$43,692.28 Hide @brc20niubi
+
+@zenor+$40,008.16 Hide @zenor
+
+@Bob_Benson+$37,023.77 Hide @Bob_Benson
+
+@Thokani+$31,314.60 Hide @Thokani
+
+@kanpai+$28,208.21 Hide @kanpai
+
+@hugo+$27,269.71 Hide @hugo
+
+@Chjokka+$25,034.56 Hide @Chjokka
+
+@reubs+$17,798.74 Hide @reubs
+
+@armoski+$17,702.66 Hide @armoski
+
+@doah+$16,882.76 Hide @doah
+
+@AshSeemlyHeath+$15,549.66 Hide @AshSeemlyHeath
+
+@xyzbilly+$14,280.09 Hide @xyzbilly
+
+@HippyXBT+$14,220.87 Hide @HippyXBT
+
+# DMAGA Dark MAGA
+
+2y 7D7B…pump
+
+Description Dev View bubble map Chain and launchpad: Pump Creator rewards recipient: Rewards → creator
+
+Market cap
+
+24h vol$1.23K
+
+Holders 7,550
+
+ATH$111M
+
+Market cap
+
+24h vol$1.23K
+
+Holders 7,550
+
+ATH$111M
+
+7,550 holders
+
+Stats Audit
+
+5m 1h 24h
+
+Price change 2.5% Volume$1.23K
+
+3 buys 3 sells
+
+$484 buy vol $749 sell vol
+
+3 buyers 3 sellers
+
+Creator
+
+8YLE…zBzR
+
+MC$65.6K
+
+ATH$111M
+
+Holders 7,550 Callouts Trades
+
+All 7,550 Pump.fun 495 Top traders What does each holders tab mean? In profit At a loss
+
+| Holder↑ | Held↑ | % supply↑ |
+
+...
+
+| Holder↑ | Held↓ | % supply↑ | Position↑ | Profit↑ | Avg entry↑ MC | Bought↑ | Actions |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| View 7mdCAs's position 7mdCAs Follow | 13.4M | 1.34% | $880 1.34% | +$21,459.51 | $88.9K | $51.7K | Copy address |
+| View hi_9fye85's position hi_9fye85 Follow | 10.1M | 1.01% | $664 1.01% | −$4,594.58 | $520K | $5.26K | Copy address |
+| View FrillBoomFlower's position FrillBoomFlower Follow | 7.32M | 0.73% | $481 0.73% | −$62.04 | $66.2K | $3.31K | Copy address |
+| View real2236's position real2236 Follow | 6.66M | 0.67% | $437 0.67% | +$258,717.22 | $289K | $60.5K | Copy address |
+| View enthios's position enthios Follow | 4.82M | 0.48% | $316 0.48% | +$4,027.66 | $211K | $46.3K | Copy address |
+| View coynarwhal64988's position coynarwhal64988 Follow | 4.73M | 0.47% | $310 0.47% | −$3,970.77 | $700K | $4.42K | Copy address |
+| View whiteoctopus191's position whiteoctopus191 Follow | 4.12M | 0.41% | $270 0.41% | −$23,158.31 | $5.69M | $23.4K | Copy address |
+| View foulkraken54199's position foulkraken54199 Follow | 3.60M | 0.36% | $236 0.36% | +$12.27 | $62.2K | $447 | Copy address |
+| View sandyfish12178's position sandyfish12178 Follow | 2.50M | 0.25% | $164 0.25% | +$164.10 | $0.00 | — | Copy address |
+| View OasisRoyalPick's position OasisRoyalPick Follow | 2.00M | 0.20% | $131 0.20% | −$1,489.19 | $749K | $1.44K | Copy address |
+| View 4gQYeD's position 4gQYeD Follow | 1.48M | 0.15% | $97 0.15% | −$30,809.14 | $20.8M | $30.9K | Copy address |
+| View gold13's position gold13 Follow | 1.41M | 0.14% | $93 0.14% | −$6,262.62 | $4.5M | $6.36K | Copy address |
+| View roastlobster300's position roastlobster300 Follow | 1.21M | 0.12% | $80 0.12% | −$14.39 | $70.6K | $160 | Copy address |
+| View 9d44pd's position 9d44pd Follow | 1.19M | 0.12% | $78 0.12% | −$6.50 | $71.1K | $84 | Copy address |
+| View doritobrah's position doritobrah Follow | 1.10M | 0.11% | $72 0.11% | +$122,582.13 | $173K | $13K | Copy address |
+| View obeseotter43728's position obeseotter43728 Follow | 1.00M | 0.10% | $66 0.10% | −$1,690.19 | $866K | $8.25K | Copy address |
+| View foidenjyer's position foidenjyer Follow | 901K | 0.09% | $59 0.09% | +$120,099.55 | $4.43M | $32.7K | Copy address |
+| View BigDongus's position BigDongus Follow | 715K | 0.07% | $47 0.07% | −$518.37 | $769K | $707 | Copy address |
+| View DcY85b's position DcY85b Follow | 515K | 0.05% | $34 0.05% | +$27,920.02 | $6.48M | $5.06K | Copy address |
+| View AE3PSG's position AE3PSG Follow | 485K | 0.05% | $32 0.05% | −$1,764.23 | $3.7M | $1.8K | Copy address |
+| View ippity's position ippity Follow | 454K | 0.05% | $30 0.05% | −$686.56 | $3.15M | $1.63K | Copy address |
+| View speakingorca969's position speakingorca969 Follow | 440K | 0.04% | $29 0.04% | +$36.24 | $76.4K | $218 | Copy address |
+| View Pspice's position Pspice Follow | 355K | 0.04% | $23 0.04% | −$341.80 | $173K | $1.54K | Copy address |
+| View PeteyPablo's position PeteyPablo Follow | 304K | 0.03% | $20 0.03% | −$1,557.39 | $3.77M | $5.9K | Copy address |
+| View FCC_007's position FCC_007 Follow | 300K | 0.03% | $20 0.03% | −$736.98 | $3.51M | $2.76K | Copy address |
+| View chillottersecul's position chillottersecul Follow | 258K | 0.03% | $17 0.03% | −$780.29 | $3.09M | $797 | Copy address |
+| View ghost_top's position ghost_top Follow | 238K | 0.02% | $16 0.02% | +$15.62 | $0.00 | — | Copy address |
+| View Shamoney's position Shamoney Follow | 235K | 0.02% | $15 0.02% | −$1,738.24 | $7.24M | $2.21K | Copy address |
+| View sorekraken36809's position sorekraken36809 Follow | 219K | 0.02% | $14 0.02% | −$113.32 | $584K | $128 | Copy address |
+| View bzlvqq's position bzlvqq Follow | 189K | 0.02% | $12 0.02% | −$157.66 | $900K | $170 | Copy address |
+| View Rkmania's position Rkmania Follow | 184K | 0.02% | $12 0.02% | −$7.44 | $106K | $20 | Copy address |
+| View rk2szszsz's position rk2szszsz Follow | 155K | 0.02% | $10 0.02% | +$15.08 | $82.2K | $29 | Copy address |
+| View goBrrrr's position goBrrrr Follow | 145K | 0.01% | $10 0.01% | −$2,511.89 | $15.1M | $2.52K | Copy address |
+| View hfdrs's position hfdrs Follow | 133K | 0.01% | $9 0.01% | +$90.05 | $86.9K | $9.87K | Copy address |
+| View bklue's position bklue Follow | 130K | 0.01% | $9 0.01% | −$16.29 | $191K | $25 | Copy address |
+| View buttholeloading's position buttholeloading Follow | 116K | 0.01% | $8 0.01% | −$108.95 | $96.1K | $835 | Copy address |
+| View 7MDcZM's position 7MDcZM Follow | 105K | 0.01% | $7 0.01% | −$1,976.89 | $19M | $1.98K | Copy address |
+| View usefulsalmon286's position usefulsalmon286 Follow | 101K | 0.01% | $7 0.01% | +$1,941.50 | $33.1K | $430 | Copy address |
+| View foulwhale43470's position foulwhale43470 Follow | 94.7K | 0.01% | $6 0.01% | −$5,618.70 | $59.4M | $5.62K | Copy address |
+| View Crypdoza's position Crypdoza Follow | 94.6K | 0.01% | $6 0.01% | −$70.03 | $806K | $76 | Copy address |
+| View 2JTEFS's position 2JTEFS Follow | 88.8K | 0.01% | $6 0.01% | −$1,081.23 | $12.2M | $1.09K | Copy address |
+| View bgs's position bgs Follow | 87.8K | 0.01% | $6 0.01% | −$993.52 | $11.4M | $2K | Copy address |
+| View bil3duct's position bil3duct Follow | 72.0K | 0.01% | $5 0.01% | −$432.62 | $5.03M | $1.25K | Copy address |
+| View annualfish59267's position annualfish59267 Follow | 62.7K | 0.01% | $4 0.01% | −$45.67 | $794K | $50 | Copy address |
+| View pt's position pt Follow | 60.3K | 0.01% | $4 0.01% | −$18.02 | $364K | $22 | Copy address |
+| View terranode's position terranode Follow | 54.1K | 0.01% | $4 0.01% | −$6.36 | $183K | $10 | Copy address |
+| View 7gtcmy's position 7gtcmy Follow | 50.0K | 0.01% | $3 0.01% | +$405.50 | $7.42M | $552 | Copy address |
+| View HappyG's position HappyG Follow | 50.0K | 0.01% | $3 0.01% | +$3,881.22 | $0.00 | $7.34K | Copy address |
+| View Razmataz's position Razmataz Follow | 50.0K | 0.01% | $3 0.01% | −$46.45 | $995K | $50 | Copy address |
+| View 6b29tK's position 6b29tK Follow | 50.0K | 0.00% | $3 0.00% | +$16,002.61 | $720K | $5.42K | Copy address |
+
+...
+
+Hype faucet play. Drips $hype to holders.
+
+...
+
+Position$1.47K Profit+$2,224.00
+
+Share this callout Replay this position 1 12 10 6,098$40.7K MC
+
+Show more updates
+
+ely 2m
+
+There’s even an actual team and X account for it https://x.com/hypefaucet_drip?s=11 Comfy
+
+---
+
+Title: DARK MAGA on Ethereum
+     · dePortfolio
+URL: https://deportfolio.live/token/eth/0x8bbd724923f7fb00efc04d451acef0a4dbbe566c
+Published: N/A
+Author: dePortfolio - AlphaGrowth
+Highlights:
+### Token Holders 
+
+ Holders count: 2 
+
+| # | Address | Amount | Top Tokens | Total Wallet Balance |
+| --- | --- | --- | --- | --- |
+| 1 | 0xa53476642994ada66e59e7cc9f7754a3862a44c2 Copy address | 3.44B DMAGA $27.88 | Tokens 1. AI Chain Coin $10,306.02 2. Ether $3,755.68 3. The Manifest $1,095.19 4. Choki Inu $914.47 5. Neurahub $742.40 6. Rizz Coin $700.74 7. BoysClub $627.74 8. Froge $489.47 9. GameStop Bunny Mascot $247.56 10. zKML $237.59 App Tokens 1. Pepe $2.14 | $22,637.05 |
+| 2 | 0xdad7fbd4e01da1aff7257d2339a78445f8a0db45 Copy address chongzouwudilu.eth Delete label? Cancel Delete | 938.73M DMAGA $7.60 | Tokens 1. SSEC4200 $114.53 2. FORGO $88.38 3. Gigachad $75.91 4. What’s your lore $72.52 5. PEPE $68.60 6. Fred The Raccoon $59.77 7. Cartoon Cat $56.22 8. Hobbes [OLD] $56.15 9. Apple6900 $50.38 10. Just $PICKLE $50.32 App Tokens No app tokens | $1,522.77 |
+
+---
+
+Title: Dev Wallet — What It Means in Crypto & DeFi | OpenLiquid
+URL: https://openliquid.io/learn/dev-wallet/
+Published: N/A
+Author: N/A
+Highlights:
+The wallet address used to deploy a token contract; often tracked by traders to watch for insider selling.
+
+Dev Wallet — A dev wallet is a cryptocurrency wallet controlled by a token's creator or development team that holds a portion of the token's total supply. In fair launch and memecoin contexts, the dev wallet is closely scrutinized because large developer holdings can be sold in bulk to crash the token's price, a practice known as a dev dump.
+
+...
+
+Dev wallets are identifiable through on-chain analysis. The wallet that deployed the token contract (the deployer wallet) is publicly visible, and block explorers show any tokens it holds. Additionally, analytics platforms track wallet clusters — groups of wallets that interact with each other or were funded from the same source — to identify hidden dev holdings spread across multiple addresses.
+
+The percentage of total supply held in dev wallets is a critical risk metric. A dev wallet holding more than 5-10% of the total supply represents significant concentrated sell pressure. If that wallet dumps its entire holding, the price impact can be catastrophic for other holders.
+
+...
+
+Dev wallet analysis is one of the most important due diligence steps for any new token trade. When a single wallet or connected wallet cluster holds a large percentage of supply, all other holders are at risk of a sudden price crash if those tokens are sold. The memecoin market has seen countless examples of dev wallets dumping 10-30% of supply in a single transaction, causing 50-90% price drops.
+
+Transparency about dev holdings builds community trust. Some projects publicly disclose their team wallets and commit to vesting schedules or lock-up periods. Others burn their dev allocation entirely (sending it to a dead address) to demonstrate commitment to a fair distribution.
+
+...
+
+On Pump.fun, creators can buy tokens from their own bonding curve immediately after launch. A common pattern involves a creator deploying a token and then purchasing 5-15% of the supply through their own wallet or multiple wallets. Tracking tools like Bubblemaps and Arkham Intelligence visualize these wallet clusters, allowing traders to see the true concentration of holdings. When a token's top wallet holds 20% of supply and is identified as the creator, experienced traders treat it as a high-r
+
+...
+
+Check the token's deployer address on a block explorer like Solscan or Etherscan. Then use wallet analysis tools like Bubblemaps, Arkham, or DEXScreener's holder analysis to see if the deployer or connected wallets hold significant token amounts. Look for wallet clusters funded from the same source.
+
+---
+
+Title: Binance Wallet Partners with Bubblemaps To Combat Insider Crypto Trading
+URL: https://cointelegraph.com/news/binance-wallet-bubblemaps-insider-crypto-trading
+Published: 2025-10-29T14:19:58.000Z
+Author: Zoltan Vardai
+Highlights:
+Binance integrates Bubblemaps’ blockchain data tools into its Web3 Wallet, giving users more transparency into token distribution and potential insider trading activity.
+
+Crypto exchange Binance is partnering with blockchain data platform Bubblemaps to give users of its non-custodial Web3 Wallet more insight into potential insider trading and token manipulation.
+
+The integration will allow millions of Binance Web3 Wallet users to utilize Bubblemaps’ blockchain data visualization tool to view token distribution and onchain wallet clusters, aiming to add “layers of transparency” to the Binance experience, according to a Wednesday announcement shared with Cointelegraph.
+
+Binance aims to help traders identify insider trading activity or other coordinated market behavior by analyzing a token’s distribution pattern.
+
+...
+
+Bubblemaps has previously helped identify insider token sales and suspicious team wallet activity surrounding popular celebrity-endorsed memecoins, including the US First Lady Melania Trump’s Melania Meme (MELANIA) token.
+
+On April 7, Bubblemaps revealed that the team behind the MELANIA token moved $30 million worth of community funds that were “quietly sold, with no explanation from the team.”
+
+...
+
+Bubblemaps transforms blockchain data into intuitive visual clusters, with wallets represented as bubbles interconnected with other entities based on their transaction history.
+
+Traders use the tool to identify potential anomalies, such as high token concentration bundled across the same entity, which may be a sign of insider activity.
+
+---
+
+Title: Whales, Insiders & Fresh Integrations
+URL: https://blog.bubblemaps.io/whales-insiders-fresh-integrations/
+Published: 2026-06-24T17:45:52.000Z
+Author: Bubblemaps
+Highlights:
+## Bubblemaps Now Live on HyperEVM
+
+Bubblemaps V2 is officially live on Hyperliquid's HyperEVM.
+
+- Time Travel: full historical holder distribution since token launch
+- Magic Nodes: one-click detection of hidden wallet clusters and connections
+- Identify snipers, whales, and insiders on every token
+
+...
+
+## The "4" Whale Is Back & Buying Memes
+
+The wallet that bought "4" before CZ's tweet (peaking at +$19M/250x) finally sold.
+
+- First time liquidating after holding through the entire run
+- Rotated proceeds into $SPACEMOON, scooped 6.6% of supply for ~$100K
+- Heads up: 7 clusters control >20% of $SPACEMOON, most are 🌱fresh wallets
+
+Stay safe, check the clusters, and don't buy what you can't trace.
+
+######## Dark MAGA DMAGA Solana dev wallet creator pump.fun 7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump
+# fetched_at=2026-11-02T22:46:52Z source=exa.web_search_exa target=Dark MAGA DMAGA Solana dev wallet creator pump.fun 7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump sha256=64a42b8742ed9bb3 chars=10180
+Title: Dark MAGA (DMAGA) Price, Chart & Market Cap | Pump
+URL: https://pump.fun/coin/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump
+Published: N/A
+Author: N/A
+Highlights:
+# DMAGA Dark MAGA
+
+2y 7D7B…pump
+
+Description Dev View bubble map Chain and launchpad: Pump Creator rewards recipient: Rewards → creator
+
+Market cap
+
+24h vol$1.23K
+
+Holders 7,550
+
+ATH$111M
+
+Market cap
+
+24h vol$1.23K
+
+Holders 7,550
+
+ATH$111M
+
+7,550 holders
+
+Stats Audit
+
+5m 1h 24h
+
+Price change 2.5% Volume$1.23K
+
+3 buys 3 sells
+
+$484 buy vol $749 sell vol
+
+3 buyers 3 sellers
+
+Creator
+
+8YLE…zBzR
+
+MC$65.6K
+
+ATH$111M
+
+Holders 7,550 Callouts Trades
+
+All 7,550 Pump.fun 495 Top traders What does each holders tab mean? In profit At a loss
+
+...
+
+20m
+
+Follow More options
+
+Hype faucet play. Drips $hype to holders. NotRandom launchpad play.
+
+...
+
+Position$1.47K Profit+$2,224.00
+
+---
+
+Title: Dark MAGA Price, dmaga to USD, Research, News & Fundraising | Messari by Blockworks
+URL: https://messari.io/project/dark-maga
+Published: N/A
+Author: N/A
+Highlights:
+dmaga
+
+# Dark MAGA
+
+Meme · Parody Coins
+
+dmaga#3382
+
+Mcap$77,482
+
+$0.0000775 5.20%
+
+Low Volume
+
+Low Volume
+
+## dmaga Metrics
+
+Spot Volume (24H)
+
+$152.33-55.70%
+
+Marketcap
+
+$77,482
+
+FDV
+
+$77,489
+
+Mindshare
+
+Very Low
+
+Circ. Supply
+
+999.8M
+
+Max Supply
+
+1.0B
+
+Mcap/FDV
+
+99.99%
+
+Total Supply
+
+999.8M
+
+Sector Ranking
+
+#373
+
+About & Links
+
+Dark Maga is a Solana-based memecoin dedicated to the fans of Donald Trump.
+
+Sector
+
+Meme
+
+Sector Rank #373
+
+Sub-Sector
+
+Parody Coins
+
+Sub-Sector Rank #31
+
+Contracts
+
+7D7BRc...pump
+
+API ID
+
+c3cbfef0...c67939bb
+
+Social
+
+X (Twitter)
+
+Resources Website 
+
+Block Explorer
+
+---
+
+Title: Transaction History | Token | Dark MAGA (7D…mp) | Solana
+URL: https://explorer.solana.com/address/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump
+Published: N/A
+Author: N/A
+Highlights:
+Loading
+
+Transaction History | Token | Dark MAGA (7D…mp) | Solana
+
+×## Choose a Cluster
+[Mainnet Beta](/address/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump)[Testnet](/address/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump?cluster=testnet)[Devnet](/address/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump?cluster=devnet)[Custom RPC URL](/address/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump?cluster=custom)
+Details## Account
+Loading
+Transaction History | Token | Dark MAGA (7D…mp) | Solana
+
+---
+
+Title: DMAGA $0.0₄75992 (Dark MAGA) | Trading & Price Chart on Solana | OKX Wallet
+URL: https://web3.okx.com/token/solana/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump
+Published: N/A
+Author: OKX
+Highlights:
+DMAGA $0.0₄75992 (Dark MAGA) | Trading & Price Chart on Solana | OKX Wallet
+
+Signal
+
+PnL
+
+---
+
+Title: How to Buy or Swap 7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump guide with Solflare Wallet
+URL: https://www.solflare.com/prices/dark-maga/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump/how-to-buy/
+Published: N/A
+Author: N/A
+Highlights:
+How to Buy or Swap 7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump guide with Solflare Wallet
+
+# How to buy Dark MAGA with your Solflare wallet?
+
+Easiest ways to buy, swap, or transfer DMAGA directly into your Solflare wallet—step by step.
+
+Looking to buy Dark MAGA? You can buy DMAGA easily using the Solflare Wallet, whether you prefer to use crypto or pay with fiat, like a credit card or bank transfer. Follow these steps to buy Dark MAGA using the Solflare mobile app or the browser extension.
+
+Once you own DMAGA, Solflare lets you send it privately using the built-in Privacy Aggregator, and you can secure your holdings with a Solflare hardware wallet for maximum protection.
+
+...
+
+## Dark MAGA Buying Guide: How to Buy Dark MAGA with Crypto Using Solflare Mobile app
+
+Buy Dark MAGA (DMAGA) directly in the Solflare mobile app by swapping from SOL or other supported tokens. This guide walks you through each step, from funding your wallet to confirming your swap—no third-party DEX required.
+
+...
+
+### Go to the Swap tab
+
+Tap on the Swap tab inside your wallet. This feature lets you trade tokens directly—no need for a separate DEX.
+
+Next: Select Dark MAGA
+
+### Go to the Swap tab
+
+### Go to the Swap tab
+
+Navigate to the Swap section in your Solflare browser extension on the right side of your home screen (Portfolio tab) or click on the Trade tab from the menu on the left. Solflare's Swap feature lets you exchange tokens instantly—no need for third-party DEXs or leaving your wallet.
+
+Next: Select Dark MAGA
+
+### Select Dark MAGA
+
+Choose Dark MAGA (DMAGA) as the token you wish to purchase. Then, select the asset you want to swap from (for example, SOL or USDC) and enter the amount you want to buy. Want to see what else you can buy? Explore all tokens available on Solflare.
+
+### Select Dark MAGA
+
+Choose Dark MAGA (DMAGA) as the token you want to buy. Then select the token you wish to swap from (like SOL or USDC), and enter the amount you'd like to exchange. Want to see all available tokens? Browse the full list of tokens supported on Solflare.
+
+### Confirm the swap
+
+Hit "Swap", review the details, and then "Slide to approve". Your new Dark MAGA tokens will appear in your wallet once the transaction is complete. Need more help? See our full guide to swapping tokens with Solflare.
+
+...
+
+### What do I need before buying Dark MAGA?
+
+To buy Dark MAGA, you need: 
+
+- A Solflare Wallet (mobile app or browser extension — setup guide)
+- Some SOL or another SPL token in your wallet for swapping
+
+Fiat purchase is not available for this token — you can only swap using crypto. Solana transaction fees are typically a fraction of a cent.
+
+---
+
+Title: Pump.fun Deployer Tracker — Check Any Deployer's History (Free) | MadeOnSol
+URL: https://madeonsol.com/deployer-hunter
+Published: N/A
+Author: N/A
+Highlights:
+# Deployer Hunter
+
+Live alerts from Pump.fun deployers with proven bonding track records.
+
+97–99% of pump.fun tokens never bond.
+
+...
+
+Paste a Solana wallet to see its tier, bonding rate, and full token history.
+
+...
+
+### Real-time detection
+
+We subscribe to every Pump.fun transaction via gRPC. When a wallet creates a new token or any token bonds, we record it instantly. Complete track record for every deployer.
+
+---
+
+Title: Select the reporting reason
+URL: https://pump.fun/report/coins/GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump
+Published: N/A
+Author: N/A
+Highlights:
+Pump
+![](https://pump.fun/logo.png)
+[
+![Pump logomark](https://pump.fun/pump-logomark.svg?dpl=dpl_5HLhbWNbiztnj9BspGBfva8uQv6b)
+](https://pump.fun/)
+* [Home](https://pump.fun/)
+* [Live](https://pump.fun/live)
+* [Support](#)
+* [Chat](#)
+* [Terminal](https://trade.padre.gg/)
+* More
+[ Create coin](https://pump.fun/create)
+### Pump app
+![Pump App QR Code](https://pump.fun/mobile-upsell.svg)
+Scan to download
+Learn more
+Tokenized agents can now earn revenue onchain
+Automatically direct a portion of every payment toward token buybacks.
+Learn more
+[
+![Pump logomark](https://pump.fun/pump-logomark.svg?dpl=dpl_5HLhbWNbiztnj9BspGBfva8uQv6b)
+![Pump logomark](https://pump.fun/pump-logomark.svg?dpl=dpl_5HLhbWNbiztnj9BspGBfva8uQv6b)
+](https://pump.fun/)
+Search for coins...
+⌘K
+Create
+Sign in
+Sign in
+# Select the reporting reason
+Coin: GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump
+[
+![Dark Maga P-Nut](https://images.pump.fun/coin-image/GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump?variant=128x128&ipfs=QmYHA4QGhhetDvuRwvUwqdsduQd2dokEybigiWU6zLHH93&src=https%3A%2F%2Fipfs.io%2Fipfs%2FQmYHA4QGhhetDvuRwvUwqdsduQd2dokEybigiWU6zLHH93)
+created by
+creator
+![GgY439CX3vuPyyecsECVZTZ24AFrsawiA1jSaVkChwmG's profile picture](https://pump.mypinata.cloud/ipfs/QmeSzchzEPqCU1jwTnsipwcBAeH7S4bmVvFGfF65iA1BY1)GgY439
+1y ago
+market cap: $2.6K
+replies: 24
+Dark Maga P-Nut (DMP): In the secret labs of an alternate universe, Elon Musk and Donald Trump joined forces. They built DARK P-NUT MAGA — a mischievous creature with one mission: to "Doge the system" and bring meme culture to the next level.
+](https://pump.fun/coin/GDGDUfKsALzQsuVYezURap2adARmTsv2SUuX2ACzpump)
+Abuse & Harassment
+Insults, Unwanted Sexual Content & Graphic Objectification, Unwanted NSFW & Graphic Content, Violent Event Denial, Targeted Harassment and Inciting Harassment
+Child Safety
+Child sexual exploitation, grooming, physical child abuse, underage user
+Suicide or self-harm
+Encouraging, promoting, providing instructions or sharing strategies for self-harm.
+Sensitive or disturbing media
+Graphic Content, Gratuitous Gore, Adult Nudity & Sexual Behavior, Violent Sexual Conduct, Bestiality & Necrophilia, Media depicting a deceased individual.
+Other
+Please explain why should be removed.
+More details
+Send Report
+
+---
+
+Title: Dark MAGA (DMAGA) Price, Chart & Market Cap | Pump
+URL: https://livewindow-pump.org/coin/7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump
+Published: N/A
+Author: N/A
+Highlights:
+# DMAGA Dark MAGA
+
+2y 7D7B…pump
+
+Description Dev View bubble map Chain and launchpad: Pump Creator rewards recipient: Rewards → creator
+
+Market cap
+
+24h vol$969
+
+Holders 7,550
+
+ATH$111M
+
+Market cap
+
+24h vol$969
+
+Holders 7,550
+
+ATH$111M
+
+7,550 holders
+
+Stats Audit
+
+5m 1h 24h
+
+Price change 4.1% Volume$969
+
+0 buys 0 sells
+
+$0.00 buy vol $0.00 sell vol
+
+Creator
+
+8YLE…zBzR
+
+MC$64.4K
+
+ATH$111M
+
+Holders 7,550 Callouts Trades
+
+All 7,550 Pump.fun 494 Top traders What does each holders tab mean? In profit At a loss
+
+| Holder↑ | Held↑ | % supply↑ | Position↑ | Profit↑ | Avg entry↑ MC | Bought↑ | Actions |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+25% 50% 100%
+
+Connect wallet to trade
+
+$25$100$250
+
+Holders
+
+7,550
+
+Price change 4.1% Volume$969
+
+0 buys 0 sells
+
+8YLE…zBzR
+
+MC$64.4K
+
+...
+
+| View terranode's position terranode Follow | 54.1K | 0.01% | $3 0.01% | −$6.43 | $183K | $10 | Copy address |
+| View 7gtcmy's position 7gtcmy Follow | 50.0K | 0.01% | $3 0.01% | +$405.43 | $7.42M | $552 | Copy address |
+| View HappyG's position HappyG Follow | 50.0K | 0.01% | $3 0.01% | +$3,881.15 | $0.00 | $7.34K | Copy address |
+| View Razmataz's position Razmataz Follow | 50.0K | 0.01% | $3 0.01% | −$46.51 | $995K | $50 | Copy address |
+| View 6b29tK's position 6b29tK Follow | 50.0K | 0.00% | $3 0.00% | +$16,002.55 | $720K | $5.42K | Copy address |
+| View JoJoC4De2L's position JoJoC4De2L Follow | 49.6K | 0.00% | $3 0.00% | −$346.40 | $7.05M | $350 | Copy address |
+
+######## wallet bought DMAGA and ELON token before Trump Musk Spaces August 2024 insider on-chain Solana
+# fetched_at=2026-11-02T22:54:32Z source=exa.web_search_exa target=wallet bought DMAGA and ELON token before Trump Musk Spaces August 2024 insider on-chain Solana sha256=472e7441fe2fede5 chars=21428
+Title: 数据：某地址 6 日前花费 48.5 枚 SOL 买入 Meme 币 DMAGA，预计获利...｜DMAGA, 埃隆·马斯克 - ChainCatcher
+URL: https://www.chaincatcher.com/article/2134603
+Published: 2024-07-22T04:47:05.000Z
+Author: 2024-07-22 12:47:05
+Highlights:
+数据：某地址 6 日前花费 48.5 枚 SOL 买入 Meme 币 DMAGA，预计获利...｜DMAGA, 埃隆·马斯克 - ChainCatcher
+
+# 数据：某地址 6 日前花费 48.5 枚 SOL 买入 Meme 币 DMAGA，预计获利 55 万美元 
+
+ 2024-07-22 12:47:05 
+
+ChainCatcher 消息，据 @ai_9684xtpa 监测，一小时前，早期建仓地址 GXZvX 出售了 13.6 万美元的 DMAGA，累计收益率高达 7688%。
+
+早在六天前马斯克还没有换上镭射眼头像时，该地址就花费 48.5 SOL 买入了 1469 万枚代币，均价 0.0004826 美元；目前已出售 66% 的持仓，获利 21 万美元，剩余 500 万枚代币浮盈 34 万美元。
+
+---
+
+Title: Traders Turns $5,000 into $1.8 Million with Elon Musk Meme Coin
+URL: https://fvbb.com/ns/traders-turns-5-000-into-1-8-million-with/248215
+Published: 2024-07-23T16:27:07.000Z
+Author: N/A
+Highlights:
+23.07.2024 - 16:27 / cryptonews.com 
+
+# Traders Turns $5,000 into $1.8 Million with Elon Musk Meme Coin
+
+One lucky crypto trader saw seven-digit returns on a $4,962 investment in a new Donald Trump meme coin.
+
+According to Block Explorer, the trader purchased $4,962 worth of Dark Maga ($DMAGA) just seven days ago, and the position is now worth more than $1.8 million.
+
+This surge seems to have been influenced by Elon Musk changing his profile picture to feature blue laser eyes.
+
+$DMAGA is a new meme coin represented by a Trump avatar with blue laser eyes. The Republican candidate has taken a decisive turn towards crypto despite being skeptical of it during his tenure as the forty-fifth President.
+
+It is important to note that there has been no official endorsement of $DMAGA by either Elon Musk or Donald Trump.
+
+This guy bought $5k worth of $DMAGA 3 days ago.
+
+Today, Elon Musk changed his pfp to blue laser eyes.
+
+Then, $DMAGA pumped from $50k to $65m.
+
+His bag is now worth $1.8m, so a 360x.
+
+...
+
+The unknown trader’s $DMAGA holdings were worth $1.8 million as of yesterday morning UTC, although the token has since pulled back by 34% over the last 24 hours, according to CoinGecko.
+
+---
+
+Title: 某地址于6日前花费48.5枚SOL买入镭射眼概念Meme币DMAGA，预估获利55万美元 - 区块链网
+URL: https://www.qklw.com/lives/20240722/383329.html
+Published: N/A
+Author: 本文来源： 区块链网快讯
+Highlights:
+某地址于6日前花费48.5枚SOL买入镭射眼概念Meme币DMAGA，预估获利55万美元 - 区块链网
+
+## 某地址于6日前花费48.5枚SOL买入镭射眼概念Meme币DMAGA，预估获利55万美元
+
+- 区块链网快讯
+- 2024-07-22 12:41:08
+- 栏目：快讯
+- --
+- 看多 211看空 216
+- APP下载
+
+最新报道：区块链网报道，据链上分析师@ai_9684xtpa监测，早期建仓地址GXZvX一小时前出售13.6万美元的DMAGA，累计收益率高达7688%。早在六天前马斯克还没有换上镭射眼头像时，该地址就花费48.5枚SOL买入了1469万枚代币，均价0.0004826美元；目前已出售66%的持仓，获利21万美元，剩余500万枚代币浮盈34万美元。
+
+---
+
+Title: Trumpcoin, TRUMP, MAGA tokens rally ahead of Elon Musk interview
+URL: https://crypto.news/trumpcoin-trump-maga-tokens-rally-ahead-of-elon-musk-interview/
+Published: 2024-08-12T13:35:21.000Z
+Author: Crispus Nyaga
+Highlights:
+Donald Trump-themed meme coins were among the best performers on Aug. 12 as traders awaited a crucial interview on X with Elon Musk.
+
+Dark Maga (DMAGA) token rose by 15%, while MAGA Hat (MAGA) jumped by almost 50% to $0.00007737, its highest point since Aug. 7.
+
+Similarly, MAGA (MAGA) rose by 12.7% to $3.56, giving it a market cap of over $161 million. MAGA: Fight for Trump (TRUMPCOIN) jumped by almost 30%, bringing its valuation to $8.1 million.
+
+These tokens are rising ahead of an X (Twitter) interview between Elon Musk and Trump, the Republican presidential candidate. Traders anticipate that the two will discuss cryptocurrencies. A Polymarket poll shows that Trump is likely to mention MAGA and crypto during the interview.
+
+...
+
+However, there is a risk that MAGA, Trumpcoin, and Trump-themed tokens could drop during and after the interview as investors sell the news. This scenario often occurs when investors buy an asset before a major event and then sell off when the event takes place.
+
+---
+
+Title: Traders dump MAGA memecoins after Trump fails to talk crypto with Elon Musk
+URL: https://www.theblock.co/news/markets/2024-08-13-traders-dump-maga-memecoins-after-trump-fails-to-talk-crypto-with-elon-musk-310986
+Published: 2024-08-13T00:00:00.000Z
+Author: N/A
+Highlights:
+# Traders dump MAGA memecoins after Trump fails to talk crypto with Elon Musk
+
+By Jason Shubnell • Edited by Daniel Kuhn (dkuhn@theblock.co)
+
+Markets•August 13, 2024, 3:55PM EDT
+
+UPDATED: October 19, 2026, 7:36AM EDT
+
+...
+
+#### Quick Take
+
+- Donald Trump joined Elon Musk for a live chat Monday night on X, but the topic of cryptocurrency did not arise during the two-hour interview.
+- After trading higher heading into the interview, several memecoins inspired by the former president have sold off over the past 24 hours.
+
+Several memecoins inspired by former President Donald Trump have sold off over the past 24 hours, with degens and traders perhaps disappointed with his live chat hosted by Elon Musk.
+
+On Monday night, the Tesla CEO hosted a Spaces event on the social media platform X with the Republican presidential nominee. Despite a 40-minute delay due to some technical difficulties, the pair spoke for two hours on topics ranging from the attempted assassination of Trump to climate change and sustainable energy. One topic that never came up, however, was crypto.
+
+In fact, Polymarket users bet about $5 million on the chances of Trump saying certain words during his conversation. Those who bet on “crypto” saw the most significant losses as it had the most money in a losing market. That disappointment has also spilled over into the memecoin market, where several tokens surged in Monday's session.
+
+MAGA Hat MAGA Hat (Ticker: MAGA) is down 24.5% over the past 24 hours after surging more than 40% on Monday, while Dark MAGA (DMAGA) is down 42%. Other tokens that saw decent gains yesterday, such as Doland Tremp Doland Tremp (TREMP) and FreeTrump MAGA ($TRUMP), are also selling off.
+
+MAGA (TRUMP), which is the largest Trump-centric token by market cap ($148 million), is down a more modest 4.4% to $3.22 at publication time. The PolitiFi subsector is tracked by CoinGecko and these tokens have no official affiliation to Trump or any other political figures.
+
+...
+
+```json
+{"@context":"https://schema.org","@type":"NewsArticle","headline":"Traders dump MAGA memecoins after Trump fails to talk crypto with Elon Musk","url":"https://www.theblock.co/news/markets/2024-08-13-traders-dump-maga-memecoins-after-trump-fails-to-talk-crypto-with-elon-musk-310986","thumbnailUrl":"https://www.tbstat.com/wp/uploads/2024/03/20240313_Trump_News_3.jpg","articleSection":"Markets","keywords":["Crypto Ecosystems","Equities","Markets","Social Platforms","2024 Elections","Crypto Movers",
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","@id":"https://www.theblock.co/#organization","name":"The Block","legalName":"The Block Bond Holdings, Inc.","url":"https://www.theblock.co","masthead":"https://www.theblock.co/authors","logo":{"@type":"ImageObject","url":"https://www.tbstat.com/wp/uploads/2018/09/20200325_OG-The-Block-Home.jpg"},"foundingDate":"2018","address":{"@type":"PostalAddress","streetAddress":"769 Broadway #1198","addressLocality":"New York","addressRegion
+
+...
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.theblock.co"},{"@type":"ListItem","position":2,"name":"News","item":"https://www.theblock.co/news"},{"@type":"ListItem","position":3,"name":"Markets","item":"https://www.theblock.co/news/markets"},{"@type":"ListItem","position":4,"name":"Traders dump MAGA memecoins after Trump fails to talk crypto with Elon Musk","item":"https://www.theblock.co/news/mark
+{"@context":"https://schema.org","@graph":[{"@id":"https://www.theblock.co/#website","@type":"WebSite","name":"The Block","url":"https://www.theblock.co/","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.theblock.co/search?query={search_term_string}"},"query-input":"required name=search_term_string"}]},{"@id":"https://www.theblock.co/news/markets/2024-08-13-traders-dump-maga-memecoins-after-trump-fails-to-talk-crypto-with-elon-musk-310986#webpa
+
+---
+
+Title: Scammer, big shot, e-commerce king... A review of the Meme 2024 annual figures - ChainCatcher
+URL: https://www.chaincatcher.com/en/article/2160345
+Published: 2025-01-02T10:37:38.000Z
+Author: ChainCatcher Selected
+Highlights:
+Without the Meme launch platform Pump.fun, this Meme feast might have been half as grand. Therefore, in this sense, Alon is a key figure in igniting the Memecoin craze of 2024.
+
+Alon created and launched the Pump.fun platform in January 2024, providing a space for users on the Solana blockchain to create and trade cryptocurrencies, allowing users to create Solana tokens for free in just one minute.
+
+...
+
+During a period of significant price fluctuations amid various doubts, Caitlyn Jenner's Twitter account held a Space, where her agent Sophia intended to clarify the situation. However, Sophia mentioned in the Space that the team might launch a new token, prompting the market to begin selling off $Jenner. Despite Caitlyn Jenner later claiming that the team would focus solely on $Jenner and would not launch any other tokens, it was too late.
+
+According to Lookonchain's monitoring, Caitlyn Jenner earned 2,381 SOL (approximately $405,000) in the four days of May 2024 by launching 12 MEMEcoins on Solana.
+
+...
+
+### James Wynn
+
+The new king of calls this year, who once made $25 million by heavily investing in PEPE, but also faced a downfall due to his poor tactics.
+
+James Wynn quickly bought PEPE coins within a day of their launch and made numerous promotional posts on Twitter. On April 16, 2023, he published at least 24 promotional posts about PEPE in one day, boosting the coin's popularity on social media and attracting more investors and attention from the Meme community.
+
+On May 1, the price of PEPE increased 100 times compared to James Wynn's cost. He was later discovered to have transferred his PEPE holdings to multiple new addresses and gradually consolidated his assets into his main wallet jwynn.eth, eventually transferring funds to an exchange address. Media reports estimated that James Wynn earned about $25 million during the PEPE token surge, with an initial investment of only $7,644.
+
+Subsequently, James Wynn began promoting the ELON token. On April 24, 2024, he tweeted, "I think I have a 1000x for you, who wants it?" Just an hour before posting, he had completed his positions in the ELON token across two accounts, and then revealed information about the ELON token, causing its price to surge nearly 100 times in a short period.
+
+On April 27, the price of ELON suddenly dropped by 70%. James Wynn then announced on Twitter that he had cleared his position and stated that the ELON token had issues, while in reality, he had already cleared his position using another seldom-used address at 3 AM on the 25th, which led to the collapse of the ELON token. Reports indicated that both of James Wynn's accounts were among the top ten in profit during this operation, with earnings of about $350,000.
+
+Due to James Wynn's clearing actions directly causing the collapse of ELON's price, his reputation in the community suffered, with accusations of him cutting leeks.
+
+...
+
+In August 2024, TRON launched the beta version of SunPump, claiming to be the first Memecoin platform in the TRON ecosystem based on the principle of fair distribution. SunPump can be understood as a competitor to Pump.fun, although TRON claims that SunPump is not a project of Justin Sun, the public still associates him with SunPump.
+
+After the launch of SunPump, Justin Sun spared no effort in promoting it, predicting that a Memecoin with a market cap exceeding $1 billion would soon emerge on the TRON chain, emphasizing the deep integration of TRON with Meme culture.
+
+...
+
+### Elon Musk
+
+Elon Musk has become a heavyweight figure in the cryptocurrency space. Although he does not deliberately push the historical progress of Memecoins, he certainly has a significant role in the history of Memecoin development. Elon Musk believes that memes are a form of modern art that can efficiently convey information and emotions. He once stated, "Whoever controls the meme, controls the world," reflecting his understanding of Meme culture.
+
+Elon Musk's most well-known Memecoin investment is Doge (Dogecoin). In 2020, Musk began frequently posting about Dogecoin on Twitter, such as tweets like "dogetothemoon," bringing Dogecoin from a relatively niche cryptocurrency into the view of global investors. In early 2021, Tesla CEO's tweet "doge" accompanied by a rocket emoji caused Dogecoin's price to skyrocket, breaking the historic $1 barrier. Additionally, Musk had planned for Tesla to accept Dogecoin as payment, but that plan was later
+
+...
+
+### Donald John Trump
+
+The soon-to-be president of the United States and former president, Donald John Trump, is often compared to Musk and has brought some trading opportunities for Memecoins. At least so far, Donald John Trump has been the one caught in the crossfire.
+
+In May 2024, during an NFT gala for Trump cards held at Mar-a-Lago, an attendee introduced him to the "boden" meme coin with a market cap of $240 million, to which Trump replied, "I don't like that investment." However, shortly after, the meme coin surged by 25% on Wednesday, reaching a high of $0.42.
+
+On August 12, 2024, a $TRUMP Memecoin related to Trump reportedly saw a trader spend 0.052 ETH (about $96 at the time) to purchase 608,650 "TRUMP" tokens, and by June 2024, the coin's market cap had soared to $788 million.
+
+---
+
+Title: Dark MAGA (DMAHA) Breaking Out: Trump Goes to Musk SpaceX
+URL: https://99bitcoins.com/news/dark-maga-dmaga-breaking-out-70-in-24-hours-and-99btc-launch-is-live/
+Published: 2024-08-08T13:47:19.000Z
+Author: Fatima
+Highlights:
+- 99BTC Goes Live in Huge BRC-20 DEX Launch: Don't Forget To Claim Your Tokens Ahead of Potential 25x Move
+- 99Bitcoins Pioneer Of The Learn-To-Earn System
+
+Donald Trump announced that he would be Elon Musk’s guest on SpaceX, reigniting the spark for DMAGA, which rose by 70% in the last 24 hours.
+
+## PolitiFi Tokens Are Getting Hot Again: From DMAGA To HARRIS
+
+After Biden’s withdrawal and the support for Kamala Harris as a possible new Democratic candidate, the American political scene is heating up again, and with it, also the PolitiFi Coins.
+
+Harris, a token launched on Solana yesterday, has a $8 million market cap and $1.7 million in volume.
+
+Dmaga is also benefitting from this escalation in the American elections. It had been rumored for some time that Musk intended to bring Donald Trump back to X, planning a live event on social media for several months. A post by Trump on Truth Social confirms this story.
+
+> JUST IN: Elon Musk confirms interview with President Donald Trump on Monday will be on X. pic.twitter.com/mvkYhRkk1f
+> 
+> — Watcher.Guru (@WatcherGuru) August 7, 2024
+
+Dmaga’s success comes precisely from Elon’s choice to change his profile photo to one personalized for him by the Dmaga team. That move catapulted this crypto meme to an ATH of $91 million.
+
+Dmaga, despite still being well below its ATH, broke up yesterday with a +70% in the last 24 hours following the rumors about the possible return of Trump on X.
+
+...
+
+There are also rumors that Donald Trump intends to launch his own crypto project, perhaps precisely during the live on X with Musk.
+
+---
+
+Title: Elon Musk's Laser-Eyes Boosts $DMAGA Meme Coin by 15,548%
+URL: https://www.coinlive.com/news/elon-musk-s-laser-eyes-boosts-dmaga-meme-coin-by-15-548
+Published: 2024-07-22T00:00:00.000Z
+Author: ZeZheng 2024/07/22
+Highlights:
+Tesla CEO Elon Musk recently updated his X (formerly Twitter) avatar, which has attracted great interest from the cryptocurrency community. His new avatar features a blue “laser eye” on a dark red background with an American flag, a meme associated with bullish Bitcoin sentiment. The update coincides with a sharp surge in the value of the $DMAGA meme coin.
+
+In response, the well-known Chinese crypto KOL “0xSun” posted this morning that Musk’s big avatar is the main reason behind the surge in the Solana ecosystem meme coin $DMAGA today.
+
+0xSun explained that Musk’s latest avatar was made for him by @DarkMagaCoin community members. Musk just chose this picture as his avatar from the comments section today, saying it was a “dream come true.”
+
+At the same time, 0xSun expressed his regret for missing out on the golden investment opportunity of $DMAGA due to illness, and analyzed his bullishness on this meme coin.
+
+0xSun believes that the narrative of $DMAGA is comparable to $Fight and $Miggles. The most important thing is that $DMAGA's narrative has a directly related token, which is better than the latter two. Because $DMAGA's token is strongly associated with the event, while other meme coins need to go through the event mapping process to be associated with the token.
+
+...
+
+## $DMAGA surges 155 times
+
+As part of the Solana ecosystem, the price of $DMAGA coin surged by more than 15,500% after Musk changed his profile picture. It surged from a low of $0.0005325 to a high of $0.08333, and the current price is about $0.06979. The trading volume has exceeded $42.5 million, and the increase in 24 hours has reached 10,058%, making it one of the largest increase in the emoji coin field.
+
+...
+
+From an emotional perspective, as the world's richest man who is closely related to the cryptocurrency circle, Musk's change of his profile picture with laser eyes coincides with the recent strong rebound of the market, which is very exciting. In addition, the American flag and the main red color in this profile picture also coincide with the hot events of the recent US election, expressing Musk's support for Trump. Therefore, this is likely to become a striking news.
+
+######## Dark MAGA DMAGA dev team wallet sold lawsuit rug accusation ZachXBT OR bubblemaps 2024
+# fetched_at=2026-11-02T22:54:35Z source=exa.web_search_exa target=Dark MAGA DMAGA dev team wallet sold lawsuit rug accusation ZachXBT OR bubblemaps 2024 sha256=e74f409e9a4c365c chars=21905
+Title: Alleged "Meme Coin Mastermind" Sahil Arora Estimated to Have Netted $3 Million from Celebrity-Backed Coin Launches - Coinspeaker
+URL: https://www.coinspeaker.com/sahil-arora-netted-3-million-celebrity-coin-launches/
+Published: 2024-08-15T13:58:34.000Z
+Author: Temitope Olatunji
+Highlights:
+Blockchain investigator ZachXBT has revealed that Sahil Arora is estimated to have made around $3 million this year through his involvement in launching a number of celebrity-backed meme coins. The analysis made by ZachXBT contradicts an earlier report by blockchain data platform Bubblemaps that claimed Arora had netted $30 million from launching celebrity tokens.
+
+While ZachXBT didn’t dispute Arora’s illegal dealings, they pointed out that the figures from Bubblemaps were inaccurate, saying that it is impossible for Arora to have made such figures and the most feasible he could have achieved is between $2 and $3 million. 
+
+> Sorry the math for this seems incorrect there is no way Sahil made $26M check the liquidity on these coins.
+> 
+> Would estimate he made <$5M at most and likely only $2-3M.
+> 
+> The Celeb meta also died off extremely quickly. pic.twitter.com/cFzMSVLLRg
+> 
+> — ZachXBT (@zachxbt) August 14, 2024
+
+ZachXBT noted that Bubblemaps incorrectly added an address, which is an exchange hot wallet for Poloniex, to be part of Arora’s. The blockchain investigator proceeded by releasing the actual main deposit address of Arora, which has 6,700 SOL, worth around $1 million.
+
+## Celebrities Accuse Arora of Scams and Illicit Activities
+
+Sahil has been accused by different celebrities of perpetrating scams related to the meme coins he promoted using their brands. Celebrities who have fallen victim to his illicit activities include the likes of Mayweather, Caitlyn Jenner, Iggy Azalea, Jason Derulo, Amber Rose, Lil Pump, Davido, and others.
+
+According to Bubblemaps, Sahil, who was born in India but is now based in Dubai, uses a pump-and-dump scheme. He would launch a token, sometimes without the knowledge of the celebrities, then convince them to promote the coins on their social media, promising financial rewards. He would then allegedly sell off his substantial holdings, removing liquidity and causing the token prices to plummet. It was reported that Sahil is not shy about his illicit activities, as he even shares the profit he ma
+
+He also recently promoted a partnership with crypto exchange BingX, which the company has firmly denied, noting that they are not working with him.
+
+Despite being called out for scams and fraudulent activities by some celebrities, Bubblemaps revealed that Sahil’s actions still fall within a legal gray area, making him difficult to sue. Celebrities could not go after him because they are also responsible in a way.
+
+---
+
+Title: Dark MAGA Price, dmaga to USD, Research, News & Fundraising | Messari by Blockworks
+URL: https://messari.io/project/dark-maga
+Published: N/A
+Author: N/A
+Highlights:
+## dmaga Metrics
+
+Spot Volume (24H)
+
+$152.33-55.70%
+
+Marketcap
+
+$77,482
+
+FDV
+
+$77,489
+
+Mindshare
+
+Very Low
+
+Circ. Supply
+
+999.8M
+
+Max Supply
+
+1.0B
+
+Mcap/FDV
+
+99.99%
+
+Total Supply
+
+999.8M
+
+Sector Ranking
+
+#373
+
+About & Links
+
+Dark Maga is a Solana-based memecoin dedicated to the fans of Donald Trump.
+
+---
+
+Title: Kryll³ | $DMAGA (dark maga) X-Ray Score – Trusted Token Audit, On-Chain DYOR & Financial Insights
+URL: https://app.kryll.io/x-ray/dark-maga-2
+Published: N/A
+Author: Kryll³ Agent
+Highlights:
+Audit Report
+
+$0.0 1 3771 +0.39%
+
+2.4
+
+❗️High Risk
+
+A memecoin about Elon Musk Donald Trump alliance and the Dark Maga movement promoting making america great again during these dark times. Elon musk has recently changed his profile photo on x to a photo taken of him at a Trump Rally in Butler Pennsylvania of him wearing a dark black maga hat and has said "i am Dark Maga" This has went viral in the news and on x. This project is meant to spark virality during the upcoming 2024 elections
+
+...
+
+## $DMAGA Smart Contract Audit
+
+Token Security
+
+Poor Good
+
+- Contract
+
+```
+0x5640e0560e6afd6a9f4ddb41230d0201d181fea7
+```
+
+Copy
+- Owner
+
+```
+0x0000000000000000000000000000000000000000
+```
+
+Copy
+- Created 5/20/24
+- Audit alerts
+
+ 27 
+
+ 2 
+
+ 0 
+
+ 0
+
+Sign In To Kryll³
+
+To Access In-Depth X-Ray
+
+Audit Of Permission Settings
+
+Including Minting And Blacklist Rights
+
+And Update Privileges For Fees
+
+Authenticate To Kryll³
+
+To Run A Full Smart Contract Security Scan
+
+And Check For Suspicious Logic
+
+Airdrop-Related Phishing Attempts
+
+General Contract Vulnerabilities
+
+To Access Contract Transparency Analysis
+
+And Detect The Use Of External Functions
+
+And Obfuscated Ownership Patterns
+
+...
+
+Decentralization
+
+This indicator assesses the project's level of decentralization. It shows whether a large portion of the tokens is concentrated in a small number of wallets, which could pose a risk of control or manipulation by a few actors.
+
+Bad Good
+
+Total holders
+
+123
+
+Total transactions
+
+123
+
+| Chain | Holders | Holders (24h) | Transactions | Transactions (24h) |
+| --- | --- | --- | --- | --- |
+| Ethereum Details | 123 | +5 | 123 | +9 |
+| Number of tokens% of tokens Value of holding 1 Sign in to Kryll³ 1.23 1% $0.00 2 to unlock the complete 2.34 1% $0.00 3 Top 10 holders list 3.45 1% $0.00 4 with detailed breakdowns 4.56 2% $0.00 5 per chain for this project 5.67 2% $0.00 | | | | |
+
+---
+
+Title: Elon Musk Puts On 'Dark MAGA' Laser Eyes, Turning $5K Into $1.8M For One Lucky Trader
+URL: https://www.benzinga.com/markets/cryptocurrency/24/07/39891699/elon-musk-puts-on-dark-maga-laser-eyes-turning-5k-into-1-8m-for-one-lucky-trader
+Published: N/A
+Author: N/A
+Highlights:
+# Elon Musk Puts On 'Dark MAGA' Laser Eyes, Turning $5K Into $1.8M For One Lucky Trader
+
+Elon Musk changing his profile picture on his social media account spiked the valuation of Dark Maga (CRYPTO: DMAGA), a politics-themed meme coin, and catapulted several traders to quick riches.
+
+What Happened: The Dark Maga meme coin, a parody meme featuring Donald Trump with laser eyes, surged 4,300% in the past 24 hours, related to Musk changing his profile picture.
+
+On this change, the official page of Dark Maga commented that the picture was created by the DMAGA team specifically for him. The tweet added that it was "DMed to him by a team member."
+
+The post concluded, "Dark MAGA coin is here to stay. There is only ONE DMAGA."
+
+...
+
+Why It Matters: In the past 24 hours, DMAGA spiked 4,179%, with one trader highlighting a $5,000 trade by a wallet that turned into $1.8 million after DMAGA multiplied from a $50,000 valuation to $65 million.
+
+Advertisement
+
+Another crypto content creator revealed a trader who purchased $1,086 worth of DMAGA around a week ago.  His investment is currently worth $1 million, out of which he has already sold $175,000.
+
+...
+
+```json
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","address":{"@type":"PostalAddress","addressCountry":"US","addressLocality":"Detroit","addressRegion":"MI","postalCode":"48226","streetAddress":"1 Campus Martius Suite 200"},"brand":[{"@type":"Brand","name":"PreMarket Playbook","url":"https://www.benzinga.com/premarket"},{"@type":"Brand","name":"Benzinga Markets","url":"https://www.benzinga.com/markets/"},{"@type":"Brand","name":"Benzinga Pro","url":"https://pro.benzinga.com/"},{"@t
+{"@context":"https://schema.org","@type":"WebPage","name":"Benzinga","speakable":{"@type":"SpeakableSpecification","xpath":["/html/head/title"]},"url":"https://www.benzinga.com/"}
+{"@context":"https://schema.org","@type":"WebSite","name":"Benzinga","potentialAction":{"@type":"SearchAction","query-input":"required name=search_term_string","target":"https://www.benzinga.com/search/fast?cx={search_term_string}"},"url":"https://www.benzinga.com/"}
+{"@context":"https://schema.org","@type":"SiteNavigationElement","name":["Premium Services","Financial News","Investment Ideas","Markets","Top Stocks","Learn"],"url":["https://www.benzinga.com/services","https://www.benzinga.com/news","https://www.benzinga.com/stock-ideas","https://www.benzinga.com/markets","https://www.benzinga.com/quote","https://www.benzinga.com/money"]}
+{"@context":"https://schema.org","@type":"NewsArticle","author":{"@type":"Person","name":"Khyathi Dalal","url":"https://www.benzinga.com/author/khyathi-dalal"},"dateCreated":"2024-07-22T14:52:06.000-04:00","dateModified":"2024-07-22T14:52:07.000-04:00","datePublished":"2024-07-22T14:52:06.000-04:00","description":"Elon Musk changing his profile picture on his social media account spiked the valuation of Dark Maga (CRYPTO: DMAGA), a politics-themed meme coin, and catapulted several traders to qui
+
+---
+
+Title: Dark MAGA is Latest Donald Trump Themed PolitiFi Pump in 2024
+URL: https://99bitcoins.com/news/the-dark-saga-beggins-dark-maga-pumps-100x-in-just-one-day-also-check-out-this-presale/
+Published: 2024-07-22T15:27:07.000Z
+Author: Fatima
+Highlights:
+The American elections continue to churn out new memes and Dark MAGA is now leading the trend pumpig 100x in just one day. Could it replicate the success of the more well-known $TRUMP?
+
+The second half of July truly held several surprises for us: from the attack on Donald Trump to Biden’s resignation as a candidate in the next elections to Elon’s full support for Trump and the upcoming ETH ETF.
+
+As the race for the American presidency heats up, the crypto world is not left behind, and a new meme steals the show with an incredible pump in just 24 hours: Dark MAGA, DMAGA, surges 93x in just 24 hours reaching an ATH of $91 million and Elon Mask might have been the primary cause of it.
+
+## Elon Mask Changes Profile Pictures On X To Laser Eyes And Dark MAGA Surges 100x
+
+Yesterday, Elon changed his profile pictures on X, and the DMAGA team declared in X’s post that they made that PFP specifically for him and sent it in a dm. Whatever the truth is, DMAGA pumped right after that.
+
+> DMAGA team created Elon's pfp specifically for him. He chose it after it was DMed to him by a team member. Dark MAGA coin is here to stay. There is only ONE DMAGA. https://t.co/kM7ddnw2pv
+> 
+> — Dark Maga (@DarkMagaCoin) July 22, 2024
+
+Launched on Solana 8 days ago, DMAGA continued to rise slowly after reaching an initial ATH of 950,000 and a subsequent correction of 60%.
+
+For days, the market capitalization hovered around 500 thousand, and perhaps no one would have expected such a surge: almost 100x in less than a day. Right now DMAGA is at $72 million market cap.
+
+---
+
+Title: Crypto developer made $30M shilling celebrity meme coins: Bubblemaps
+URL: https://cryptorank.io/news/feed/c71ad-crypto-developer-made-30m-shilling-celebrity-meme-coins-bubblemaps
+Published: 2024-08-15T06:07:00.000Z
+Author: CryptoPolitan
+Highlights:
+Aug 15, 2024 2 min read
+
+ by CryptoPolitan
+
+Blockchain data provider Bubblemaps has released an investigation report on serial meme coin launcher and developer Sahil Arora. Sahil reportedly bagged over $30 million by launching celebrity tokens on Solana. However, on-chain investigator ZachXBT disagrees with the data in the report.
+
+According to an investigation report by Bubblemaps, Sahil has launched tokens for several celebrities, with the majority of the coins dumping to zero. Sahil, who currently resides in India, reportedly used his follower base to onboard celebrities into crypto.
+
+Some of the famous celebrities that he has issued tokens for include Floyd Mayweather, Caitlyn Jenner, Iggy Azalea, Jason Derulo, Amber Rose, Lil Pump, Davido, Sunny Leon, Bobbi Althoff, Trippie Redd, etc.
+
+### Bubblemaps: Sahil dumped the tokens as soon as tweets went live
+
+Leveraging pump.fun and his millions of followers on Instagram, Sahil reportedly DM’ed celebrities with an offer for a large payment and asked them to tweet the contract address of the token.
+
+According to Bubblemaps, Sahil followed a pattern of dumping as soon as the tweet went live, as he owned nearly all the supply of the token. Sahil leverages the celebrity audience as his exit liquidity.
+
+Source: Sahil Arora’s Instagram conversation with Derulo (Bubblemaps)
+
+Bubblemaps has identified over 40 crypto addresses that are linked to Sahil. Interestingly, he held anywhere between 25-40% of the supply in one address and sent the SOL after the sale of the token to a main address.
+
+2024 has been notably lucrative for Sahil, as the developer has bagged $26.4 million so far until August. In the months of January, February, March, April, May, June, July, and August, Sahil made $3M, $1.8M, $3.2M, $2.5M, $4.8M, $2.5M, July $2M, and August $6.6M, respectively.
+
+Bubblemaps also identified that Sahil is launching tokens daily on Pumpfun, where he buys tokens for 10 SOL and dumps them quickly after shilling them on his Telegram channel.
+
+### ZachXBT disagrees with Bubblemaps report
+
+On-chain sleuth ZachXBT was quick enough to post a tweet below the report, disagreeing with the profit numbers shared by Bubblemaps. “Sorry the math for this seems incorrect there is no way Sahil made $26M check the liquidity on these coins,” ZachXBT said.
+
+> Ya I found the issue with your investigation @bubblemaps you counted this address as Sahil’s when in reality it is an exchange hot wallet for Poloniex. 7Ci23i82UMa8RpfVbdMjTytiDi2VoZS8uLyHhZBV2Qy7 Not sure how you arrived at the conclusion this was his normal address since… pic.twitter.com/px3w88sYM2
+> 
+> — ZachXBT (@zachxbt) August 14, 2024
+
+ZachXBT also shared an estimate that Sahil would have earned less than $5 million and most likely $2-$3 million. The on-chain sleuth pointed out that Bubblemaps made a mistake in their investigation by counting a Poloniex hot wallet address as Sahil’s.
+
+ZachXBT also called out Bubblemaps for not making any corrections to their post even after being proven to be entirely wrong.
+
+---
+
+Title: Dark MAGA coin boosted to $0.0004: How Elon Musk helped - AMBCrypto
+URL: https://ambcrypto.com/dark-maga-coin-boosted-to-0-0004-how-elon-musk-helped/
+Published: N/A
+Author: N/A
+Highlights:
+At the event, Musk showcased his support by putting on a distinctive ‘Make America Great Again’ cap and identifying himself as ‘Dark MAGA.’
+
+During his speech, Musk said, 
+
+AD
+
+> “As you can see, I am not just MAGA, I’m dark MAGA.”
+
+...
+
+## Impact on Dark MAGA coin and other crypto tokens
+
+Following his remarks, the price of MAGA surged by 20%, while Dark MAGA (DMAGA) skyrocketed by an astonishing 227%, reaching around $0.0073.
+
+Other meme coins linked to Trump also saw notable gains: MAGA (TRUMP) increased by 3%, Doland Tremp (TREMP) jumped 10%, and Super Trump (STRUMP) rose by 5%.
+
+However, by the time of writing, DMAGA had declined by 44.8%.
+
+...
+
+Needless to say, Elon Musk has long been a prominent advocate for cryptocurrencies, particularly Dogecoin [DOGE].
+
+In fact, his recent decision to halt crypto promotions came after a significant legal victory wherein U.S. District Judge Alvin Hellerstein in Manhattan ruled in Musk’s favor, dismissing a federal lawsuit against him.
+
+This lawsuit alleged that Musk had defrauded investors by manipulating DOGE’s price and engaging in insider trading, which purportedly resulted in billions of dollars in losses.
+
+...
+
+```json
+{"@context":"https://schema.org","@type":"WebPage","name":"Dark MAGA coin boosted to
+
+---
+
+Title: Celeb tokens that burned bright, then burned out, in 2024
+URL: https://cointelegraph.com/news/celeb-crypto-tokens-lose-value-2024
+Published: 2024-12-29T16:00:00.000Z
+Author: Jesse Coghlan
+Highlights:
+In what became a familiar story with later celeb token launches, Bubblemaps said a cluster of wallets held a quarter of the token’s supply at launch and sold early to bag $500,000.
+
+Source: Bubblemaps
+
+Jenner pinned the blame for the token’s early price drop on memecoin adviser Sahil Arora, claiming he scammed her team. She then launched the token on Ethereum, but it has now essentially lost all its value and is down 98.5% from its peak, per CoinGecko.
+
+Jenner was hit with a class-action lawsuit in November over her promotion of the tokens, with a complaint alleging she and her manager, Sophia Hutchins, “fraudulently solicited financially unsophisticated investors [...] to purchase the unregistered securities.”
+
+...
+
+Crypto analytics firm Bubblemaps claimed MOTHER saw insider activity upon its launch, with a handful of wallets buying up 20% of the supply before Azalea publicly announced it. The wallets then reportedly immediately dumped their bags for $2 million in profits.
+
+> We found huge insider activity on $MOTHER 🚨 Insiders bought 20% of the supply at launch, before Iggy Azaela (@IGGYAZALEA) made the announcement, and already dumped $2M. A thread 🧵 ↓ pic.twitter.com/tQFHt1yZfO— Bubblemaps (@bubblemaps) May 29, 2024
+
+...
+
+HAWK launched on Dec. 4 and immediately lost nearly all of its value, with Bubblemaps’ analytics alleging insider wallets and snipers bought up and then dumped massive quantities of the token at launch.
+
+Source: Bubblemaps
+
+Welch denied that her team was part of any insider activity, but by then, HAWK was a PR nightmare, with Community Notes on her X posts pointing out that the token was already a bust.
+
+...
+
+Sharks started to circle amid the drama, with lawyers rounding up HAWK buyers, who launched a class-action lawsuit on Dec. 20 against Schultz, overHere, its founder Clinton So and the Tuah the Moon Foundation, a group behind the token.
+

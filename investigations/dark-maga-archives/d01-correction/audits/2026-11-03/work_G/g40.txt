@@ -1,0 +1,47 @@
+tailles {'P1 créateur et dépôt 9W9b': 46, 'P2 groupe de 33 et salve du 23/07': 33, 'H3QsBr': 1, 'GXZvX': 1, '9PrmF8': 1} 33 dans P1 ['5QhJJcFZ', '7FGoCB63'] chevauchement P1 P2 0
+lignes pures 2719 lignes au-delà de la troncature (raw/flows, pureté inconnue) 708 retirées car ordres inter-chaînes 4
+== P1 créateur et dépôt 9W9b : dénominateur hors interne, pools et routes 3627.2 SOL éq. ; interne 826.5 ; pools et routes 0.0
+   compte de dépôt balayé vers Coinbase : 3138.6 ; 86.5 %
+   wallet non suivi : 428.3 ; 11.8 %
+   service ou pool non nommé : 30.8 ; 0.8 %
+   pont, ordre inter-chaînes : 22.1 ; 0.6 %
+   wallet sondé, trace arrêtée : 6.2 ; 0.2 %
+   interne [au-delà de la troncature, pureté inconnue] : 1.2 ; 0.0 %
+   DMAGA transférés, M de jetons {'interne': 58.71, 'wallet non suivi': 41.47, 'service ou pool non nommé': 28.7, 'autre périmètre P2': 20.5}
+== P2 groupe de 33 et salve du 23/07 : dénominateur hors interne, pools et routes 12293.2 SOL éq. ; interne 509.5 ; pools et routes 368.3
+   pont, ordre inter-chaînes : 5464.9 ; 44.5 %
+   wallet sondé, trace arrêtée : 3014.9 ; 24.5 %
+   wallet non suivi : 1868.3 ; 15.2 %
+   wallet non suivi [au-delà de la troncature, pureté inconnue] : 714.5 ; 5.8 %
+   wallet sondé, trace arrêtée [au-delà de la troncature, pureté inconnue] : 547.0 ; 4.4 %
+   service ou pool non nommé [au-delà de la troncature, pureté inconnue] : 304.0 ; 2.5 %
+   compte de dépôt balayé vers Coinbase : 147.9 ; 1.2 %
+   compte balayé vers autre plate-forme : 143.0 ; 1.2 %
+   service ou pool non nommé : 30.5 ; 0.2 %
+   compte de dépôt balayé vers Coinbase [au-delà de la troncature, pureté inconnue] : 29.0 ; 0.2 %
+   autre périmètre P1 : 28.2 ; 0.2 %
+   interne [au-delà de la troncature, pureté inconnue] : 1.1 ; 0.0 %
+   DMAGA transférés, M de jetons {'interne': 306.1, 'wallet non suivi': 48.51, 'autre périmètre P1': 17.0, 'wallet sondé, trace arrêtée': 6.27, 'service ou pool non nommé': 1.28}
+== H3QsBr : dénominateur hors interne, pools et routes 5070.6 SOL éq. ; interne 0.0 ; pools et routes 774.3
+   wallet sondé, trace arrêtée : 4038.9 ; 79.7 %
+   wallet non suivi [au-delà de la troncature, pureté inconnue] : 642.2 ; 12.7 %
+   service ou pool non nommé [au-delà de la troncature, pureté inconnue] : 382.9 ; 7.6 %
+   wallet non suivi : 6.6 ; 0.1 %
+   DMAGA transférés, M de jetons {}
+== GXZvX : dénominateur hors interne, pools et routes 2669.5 SOL éq. ; interne 0.0 ; pools et routes 0.0
+   wallet sondé, trace arrêtée : 1530.3 ; 57.3 %
+   compte balayé vers autre plate-forme : 1123.1 ; 42.1 %
+   wallet non suivi : 16.0 ; 0.6 %
+   DMAGA transférés, M de jetons {}
+== 9PrmF8 : dénominateur hors interne, pools et routes 2077.0 SOL éq. ; interne 0.0 ; pools et routes 26.9
+   compte de dépôt balayé vers Coinbase : 2025.5 ; 97.5 %
+   compte de dépôt balayé vers Coinbase [au-delà de la troncature, pureté inconnue] : 26.5 ; 1.3 %
+   wallet non suivi : 17.6 ; 0.8 %
+   wallet non suivi [au-delà de la troncature, pureté inconnue] : 7.5 ; 0.4 %
+   DMAGA transférés, M de jetons {'wallet non suivi': 0.16}
+P1 ventes de jetons M 127.13 encaissé SOL 329.0 USD 55816.5 wallets 46 sur 46
+P2 ventes de jetons M 360.26 encaissé SOL 5714.2 USD 23076.8 wallets 33 sur 33
+H3 ventes de jetons M 16.82 encaissé SOL 5498.1 USD 0.0 wallets 1 sur 1
+GX ventes de jetons M 14.7 encaissé SOL 2565.2 USD 0.0 wallets 1 sur 1
+P9 ventes de jetons M 81.76 encaissé SOL 2011.6 USD 0.0 wallets 1 sur 1
+série 15 : ventes jetons M, SOL, USD 50.38 280.4 33441.1 vers 9W9b 312.2 vers Caw4 873.6

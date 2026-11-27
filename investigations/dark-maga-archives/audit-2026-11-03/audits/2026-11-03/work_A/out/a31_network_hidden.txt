@@ -1,0 +1,5 @@
+appels 17 {'requests': 20, 'http_429': 3, 'ok': 17}
+mint dans les clés Counter({False: 17})
+programmes [('ComputeBudget111111111111111111111111111111', 17), ('TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA', 17), ('HQ2UUt18uJqKaQFJhgV9zaTdQxUZjNrsKFgoEDquBkcx', 10), ('MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr', 1)]
+types [('transfer', 17)]
+garde : fini, code 0, pic 27 Mo

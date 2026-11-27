@@ -1,0 +1,23 @@
+lignes SOL 963402 motif +1 lamport 8880 wallets 139
+top expéditeurs [('543jATiP', 1072, ''), ('BHCm58Vs', 937, ''), ('E1mh1Wfm', 915, ''), ('6bKNmmyc', 836, ''), ('FQTftdZ6', 827, ''), ('DmjHk56Q', 788, ''), ('5Kt6RbrT', 393, ''), ('8RLzJXUw', 365, ''), ('6b9iQzj1', 288, ''), ('FgHjf7uY', 243, '')]
+P1 avec le motif 2 33 avec le motif 2
+destinations à >=2 expéditeurs avec ce motif [('2hGaey2Qu9', 3, ['2ChX2H', 'CXVJqb', 'HQq78K']), ('26tSikAEpt', 3, ['4RDiix', 'DmjHk5', 'FgHjf7']), ('D8BTpSjYgN', 3, ['4RDiix', '543jAT', '5Kt6Rb']), ('5N4mPRv8yT', 3, ['4hyqAF', '543jAT', 'E1mh1W']), ('E9MCsy9NY7', 3, ['543jAT', '824RSN', 'EDLySU']), ('J9j9ZGu6ma', 3, ['543jAT', '9XjHYi', 'EDLySU']), ('DttWaMuVvT', 3, ['6bKNmm', 'BHCm58', 'hJRWEX']), ('ADaUMid9yf', 3, ['6bKNmm', 'BHCm58', 'hJRWEX'])]
+HFRc5Nmw tx 100 suite True
+  2024-08-14T22:58:15 signe 8QX8nyg6 SOL 10.0012 jetons {'GGmxm2': 731750000.0} programmes ['6EF8rrec', 'metaqbxx'] contre ['8QX8nyg6', 'GGmxm2dV', 'HWEoBxYs']
+  2024-08-14T22:58:16 signe orcACRJY SOL 0.9949 jetons {'GGmxm2': -19529908.52} programmes ['6EF8rrec'] contre ['orcACRJY', '3QZePQU8', 'CebN5WGQ']
+  2024-08-14T22:58:16 signe 3VRfNWeT SOL 0.0 jetons {} programmes ['6EF8rrec', '9uW2TqLy'] contre ['3VRfNWeT']
+  2024-08-14T22:58:16 signe orcACRJY SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['orcACRJY']
+  2024-08-14T22:58:16 signe GetGuDsE SOL 0.4337 jetons {'GGmxm2': -8220122.57} programmes ['6EF8rrec'] contre ['GetGuDsE', '4ZDhMppv', 'CebN5WGQ']
+  2024-08-14T22:58:16 signe GetGuDsE SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['GetGuDsE']
+  2024-08-14T22:58:16 signe GetGuDsE SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['GetGuDsE']
+  2024-08-14T22:58:18 signe orcACRJY SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['orcACRJY']
+  2024-08-14T22:58:18 signe orcACRJY SOL 0.0 jetons {} programmes ['6EF8rrec', 'HQ2UUt18'] contre ['orcACRJY']
+  2024-08-14T22:58:18 signe GetGuDsE SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['GetGuDsE']
+  2024-08-14T22:58:18 signe AZ1wHjhG SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['AZ1wHjhG']
+  2024-08-14T22:58:31 signe orcACRJY SOL -0.2072 jetons {'GGmxm2': 3905981.7} programmes ['6EF8rrec', 'HQ2UUt18'] contre ['orcACRJY', 'CebN5WGQ', 'Cw8CFyM9']
+  2024-08-14T22:58:35 signe GetGuDsE SOL -0.4294 jetons {'GGmxm2': 8220122.57} programmes ['6EF8rrec'] contre ['GetGuDsE', 'CebN5WGQ']
+  2024-08-14T22:58:35 signe GetGuDsE SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['GetGuDsE']
+  2024-08-14T22:58:35 signe GetGuDsE SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['GetGuDsE']
+  2024-08-14T22:58:35 signe GetGuDsE SOL 0.0 jetons {} programmes ['6EF8rrec'] contre ['GetGuDsE']
+signées 0
+{'requests': 2, 'http_429': 1, 'ok': 1}
