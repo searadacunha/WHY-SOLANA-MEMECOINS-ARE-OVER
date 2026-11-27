@@ -1,0 +1,63 @@
+== événements en dur
+creation_mint 1720922725 2024-07-14 02:05:25 | source: signature fePxr7ER…, slot 277417695 | snowflake: 
+migration_raydium 1720923331 2024-07-14 02:15:31 | source: signature 2zmB9nbU…, slot 277419045 | snowflake: 
+pmarca_image_rouge 1721512043 2024-07-20 21:47:23 | source: post 1814779160377602331, 20/07 21:47:23 UTC | snowflake: 2024-07-20 21:47:23
+kikisknees_elon_mooning 1721566245 2024-07-21 12:50:45 | source: post 1815006501896872388, 21/07 12:50 UTC, supprimé, texte par la Wayb | snowflake: 2024-07-21 12:50:45
+kikisknees_reponse_musk 1721577608 2024-07-21 16:00:08 | source: post 1815054158367432804, 21/07 16:00:08 UTC, supprimé, média perdu | snowflake: 2024-07-21 16:00:08
+winig_visuel 1721577749 2024-07-21 16:02:29 | source: post 1815054750775173447, 21/07 16:02:29 UTC, plus ancienne image exac | snowflake: 2024-07-21 16:02:29
+annonce_biden 1721583960 2024-07-21 17:46:00 | source: 21/07 17:46 UTC, donnée de la mission, non revérifiée ici | snowflake: 
+musk_borne_basse 1721588607 2024-07-21 19:03:27 | source: capture Wayback 19:03:27 UTC, ancien avatar | snowflake: 
+musk_envoi_image 1721589800 2024-07-21 19:23:20 | source: snowflake de l'image 1815105297410666496, 19:23:20 UTC, lecture à conf | snowflake: 2024-07-21 19:23:20
+musk_borne_haute 1721590213 2024-07-21 19:30:13 | source: post 1815107030606385507, 19:30:13 UTC, nouvel avatar visible | snowflake: 2024-07-21 19:30:13
+darkmagacoin_dm 1721635821 2024-07-22 08:10:21 | source: post 1815298322325811663, 22/07 08:10:21 UTC, déclaration | snowflake: 2024-07-22 08:10:21
+musk_retrait_borne_haute 1721745389 2024-07-23 14:36:29 | source: capture Wayback, 23/07 14:36:29 UTC | snowflake: 
+WINIG code 2024-07-21 16:02:29 AVATAR code 2024-07-21 19:23:20 snowflake image 1721589800.585 2024-07-21 19:23:20 CREATED 2024-07-14 02:15:31 Butler code 2024-07-13 22:11:00
+== premiers acheteurs : EARLY_BUYERS contre slot brut
+lignes 1000 écarts 0 décalages distincts [0]
+== TIMELINE : lignes avec signature
+| 14/07/2024 02:05:25 | fePxr7ER3EDx brut 2024-07-14 02:05:25
+| 14/07/2024 02:15:31 | 2zmB9nbUp6FJ brut 2024-07-14 02:15:31
+== TIMELINE : capitalisation recalculée (prix du pool juste avant l'instant × 1e9 × SOLUSDT minute)
+14/07 02:15:31 rapport 55000.0 recalcul 55193 
+14/07 03:00:28 rapport 60000.0 recalcul 60271 
+14/07 03:31:32 rapport 33000.0 recalcul 32960 
+14/07 16:15:27 rapport 42000.0 recalcul 41811 
+16/07 00:14:58 rapport 556000.0 recalcul 556101 
+17/07 21:06:43 rapport 461000.0 recalcul 460826 
+20/07 21:47:23 rapport 504000.0 recalcul 503932 
+21/07 12:43:30 rapport 797000.0 recalcul 796897 
+21/07 12:50:45 rapport 735000.0 recalcul 734683 
+21/07 13:38:12 rapport 844000.0 recalcul 843932 
+21/07 15:58:43 rapport 1640000.0 recalcul 1637387 
+21/07 16:00:08 rapport 1640000.0 recalcul 1639257 
+21/07 16:02:29 rapport 1640000.0 recalcul 1640940 
+21/07 17:46:00 rapport 1350000.0 recalcul 1351816 
+21/07 18:46:37 rapport 961000.0 recalcul 961269 
+21/07 18:55:15 rapport 929000.0 recalcul 929202 
+21/07 19:03:27 rapport 892000.0 recalcul 891589 
+21/07 19:23:20 rapport 834000.0 recalcul 834108 
+21/07 19:30:13 rapport 1260000.0 recalcul 1264460 
+21/07 19:33:05 rapport 2310000.0 recalcul 2306896 
+21/07 19:33:11 rapport 2300000.0 recalcul 2302435 
+21/07 20:06:46 rapport 3800000.0 recalcul 3824767 
+21/07 20:44:29 rapport 4600000.0 recalcul 4600412 
+21/07 20:56:20 rapport 5630000.0 recalcul 5633729 
+21/07 21:03:57 rapport 6020000.0 recalcul 6006020 
+21/07 21:04:38 rapport 6090000.0 recalcul 6091468 
+22/07 08:10:21 rapport 70260000.0 recalcul 70308408 
+22/07 09:01:46 rapport 74730000.0 recalcul 73817667 
+23/07 14:01:24 rapport 36010000.0 recalcul 36008746 
+24/07 06:40:49 rapport 9420000.0 recalcul 9415978 
+26/07 14:43:42 rapport 5370000.0 recalcul 5366975 
+08/10 17:25:42 rapport 8369999.999999999 recalcul 8373210 
+écarts de capitalisation > 2 % 0
+== gestes du jour et autres époques de group_split.json, en UTC
+gestes [('2024-07-20 22:41:20', 9.0), ('2024-07-21 07:57:16', 6.5), ('2024-07-21 08:05:08', 5.5), ('2024-07-21 08:15:06', 6.0), ('2024-07-21 08:16:07', 6.5), ('2024-07-21 08:17:04', 4.5), ('2024-07-21 08:18:58', 4.0), ('2024-07-21 08:24:02', 6.5), ('2024-07-21 08:25:14', 5.0), ('2024-07-21 08:27:31', 6.5), ('2024-07-21 08:28:20', 6.0), ('2024-07-21 08:30:38', 6.0), ('2024-07-21 08:32:13', 5.2), ('2024-07-21 08:33:36', 1.0), ('2024-07-21 11:10:25', 6.0), ('2024-07-21 14:22:00', 6.5), ('2024-07-21 14:23:52', 5.5), ('2024-07-21 14:24:21', 6.0), ('2024-07-21 14:24:45', 6.5), ('2024-07-21 14:25:44', 1.5)]
+g41 0,5 SOL ['2024-07-14 01:46:23', '2024-07-14 01:46:41', '2024-07-14 01:52:15'] ... ['2024-07-14 02:03:23', '2024-07-14 02:03:38'] n 13
+== price_hourly contre la chaîne
+heures 12790 première {'hour_utc': '1720922400', 'open_sol': '3.8185287179797e-07', 'high_sol': '1.501624221405e-06', 'low_sol': '3.8185287179797e-07', 'close_sol': '4.1835892972222733e-07', 'n': '1493'} dernière {'hour_utc': '1793660400', 'open_sol': '6.864717969684356e-07', 'high_sol': '6.864717969684356e-07', 'low_sol': '6.864717969684356e-07', 'close_sol': '6.864717969684356e-07', 'n': '1'}
+sommet csv {'hour_utc': '1721638800', 'open_sol': '0.0004051347644582894', 'high_sol': '0.0006313636344070145', 'low_sol': '0.0003263843765761214', 'close_sol': '0.00042290459545104463', 'n': '3100'} 2024-07-22 09:00:00
+sommet propre (1721638800, 0.0006313636344070145) 2024-07-22 09:00:00 capitalisation SOL 631363.6344070145
+== autres fichiers : motifs d'heures et signatures sur la même ligne, reports et docs
+signatures contrôlées 40 écarts 0
+garde : fini, code 0, pic 231 Mo

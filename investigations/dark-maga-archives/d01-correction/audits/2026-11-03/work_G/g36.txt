@@ -1,0 +1,22 @@
+7mdCAs8C n_net 1200 dernier 2025-05-15 | au-delà dans raw/flows : SOL 216.8 USD 0 lignes 107 top [('5Q544fKr', 'Raydium ', 92.1, 'S'), ('A3JMnJSj', '', 42.8, 'S'), ('7EykHrYL', '', 18.7, 'S'), ('H49FG32W', '', 7.0, 'S'), ('4spfEhSS', '', 5.0, 'S'), ('A7f7NB8s', '', 4.4, 'S')]
+8SaiGWJn n_net 1200 dernier 2025-04-03 | au-delà dans raw/flows : SOL 1.2 USD 0 lignes 8 top [('7FGoCB63', '', 1.0, 'S'), ('6ty9DM4s', '', 0.1, 'S'), ('GoPCTrS3', '', 0.1, 'S'), ('EEpSRR12', '', 0.1, 'S'), ('7VtkbUQm', '', 0.0, 'S')]
+9PrmF8sf n_net 1200 dernier 2024-08-24 | au-delà dans raw/flows : SOL 60.9 USD 0 lignes 26 top [('5Q544fKr', 'Raydium ', 26.9, 'S'), ('H9Xezqfd', '', 26.5, 'S'), ('D4rARK2o', '', 4.4, 'S'), ('CRbvuSFo', '', 3.1, 'S'), ('8B5ekuLt', '', 0.0, 'S')]
+BuHUkjUy n_net 1184 dernier 2025-10-30 | au-delà dans raw/flows : SOL 0 USD 0 lignes 0 top []
+C73Yv9iH n_net 1200 dernier 2024-10-17 | au-delà dans raw/flows : SOL 4444.1 USD 187161.8 lignes 604 top [('RBsneDCL', '', 1631.3, 'S'), ('5Q544fKr', 'Raydium ', 1477.4, 'S'), ('8sLbNZoA', '', 309.0, 'S'), ('CAPhoEse', '', 157.3, 'S'), ('CYbD9RaT', '', 150.2, 'S'), ('g184ttRE', '', 137.1, 'S')]
+DfYyxDNE n_net 1200 dernier 2024-09-14 | au-delà dans raw/flows : SOL 0 USD 0 lignes 0 top []
+EZXUvi4X n_net 1200 dernier 2025-08-03 | au-delà dans raw/flows : SOL 13.4 USD 14722.2 lignes 11 top [('5Q544fKr', 'Raydium ', 10.0, 'S'), ('EcNRBhxr', '', 6200.0, 'U'), ('AQVgyg8P', '', 5400.0, 'U'), ('5uBQKQqL', '', 3001.0, 'U'), ('8iGru4ac', '', 2.2, 'S'), ('CqC3Hz1V', '', 1.0, 'S')]
+Ei5yGz8d n_net 1200 dernier 2024-10-14 | au-delà dans raw/flows : SOL 3107.7 USD 133076.4 lignes 369 top [('5Q544fKr', 'Raydium ', 1335.9, 'S'), ('3nQAMo83', '', 523.0, 'S'), ('G1fC4Vgk', '', 482.0, 'S'), ('GP8StUXN', 'Jupiter,', 445.0, 'S'), ('DEuwaZcb', '', 106223.4, 'U'), ('K9n9wcAp', '', 40.0, 'S')]
+GFpqfjEQ n_net 1200 dernier 2025-08-27 | au-delà dans raw/flows : SOL 130.1 USD 1628.8 lignes 48 top [('4ZeeNAHJ', '', 24.4, 'S'), ('6WQMrmne', '', 19.1, 'S'), ('FpyosQzp', '', 15.9, 'S'), ('BEgrtDs3', '', 12.4, 'S'), ('C3iueD7Z', '', 5.5, 'S'), ('GpMZbSM2', '', 5.2, 'S')]
+H3QsBrri n_net 1200 dernier 2024-10-19 | au-delà dans raw/flows : SOL 2843.4 USD 11339.8 lignes 344 top [('5Q544fKr', 'Raydium ', 1361.3, 'S'), ('5guD4Uz4', '', 174.0, 'S'), ('3CgvbiM3', 'Jupiter,', 136.7, 'S'), ('AjM8Qn62', '', 84.1, 'S'), ('7iWnBRRh', 'Jupiter,', 80.0, 'S'), ('3LoAYHuS', 'Jupiter,', 80.0, 'S')]
+sorties unilatérales : programmes, tx, wallets, SOL, USD, exemple
+  ['DCA265Vj8a9CEu'] 65 19 126.25 54971.6 29CJHjhASLp4UEym 3jNNcV,6ty9DM,815sxp,9Dxk6i,AFDkwJ,B252js,BuHUkj,G
+  ['j1o2qRpjcyUwEv'] 5 3 41.13 500.0 4LtaqRLg1dwiFi8g BuHUkj,F5h42E,Ei5yGz
+  ['HQ2UUt18uJqKaQ'] 6 3 7.4 0.0 2KfJYWtCYt3fD4th 6t2dz4,8YrEVP,99Xrt5
+  ['Pinks8fXRcJ8Ep'] 2 1 2.4 0.0 3EEnabEDqipdMULi H3QsBr
+  ['DoVEsk76QybCEH', 'PERPHjGBqRHArX'] 3 1 0.91 0.0 3y1JmScLWEtyzX4n 7mdCAs
+  ['src5qyZHqTqecJ'] 5 3 0.1 266574.4 3SrZnJG88Ja3GPKz Gcyg2j,HGBiEx,Ei5yGz
+  ['DeJBGdMFa1uynn'] 32 18 0.07 65313.5 23HHk5tYSW5YHABP 6ty9DM,DDcEfN,EGtyQE,EZXUvi,2VTfi1,3ZnQ1f,5QhJJc,8
+  ['AMsgYtqR3EXKfs', 'BrdgN2RPzEMWF9'] 1 1 0.02 7855.5 YXPbdX5ueH1JLBXB Ei5yGz
+  ['jCebN34bUfdeUY', 'namesLPneVptA9'] 1 1 0.0 20.0 2oVuL8kFQZFtoYA9 C73Yv9
+  ['RAPRxaJc8Xz2bq'] 1 1 0.0 344.4 8F3VSn3xqXXR5v7n Akp46D
+  ['ENicYBBNZQ91to'] 4 4 0.0 863.6 3a42xrB85Nn2J3vS A9PkAt,GFpqfj,H3QsBr,2VTfi1

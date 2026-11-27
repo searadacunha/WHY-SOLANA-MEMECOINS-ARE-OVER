@@ -1,0 +1,12 @@
+P1 entrées pures externes SOL éq. {'hot wallet étiqueté': 703.2, 'famille présumée': 639.0, 'wallet ou service sans étiquette': 573.2} dont avant mint {'hot wallet étiqueté': 171.4, 'wallet ou service sans étiquette': 151.6} par étiquette [('Coinbase 1', 334.3), ('Coinbase 2', 322.5), ('Coinbase 3', 31.4), ('Binance 1', 15.0)]
+P2 entrées pures externes SOL éq. {'wallet ou service sans étiquette': 2314.7, 'hot wallet étiqueté': 1018.6} dont avant mint {'hot wallet étiqueté': 413.7, 'wallet ou service sans étiquette': 237.9} par étiquette [('Coinbase 2', 365.8), ('KuCoin 2', 349.7), ('Binance 1', 200.7), ('MEXC 1', 53.1), ('Coinbase 1', 26.5)]
+H3QsBr entrées pures externes SOL éq. {'wallet ou service sans étiquette': 28.0, 'hot wallet étiqueté': 14.7} dont avant mint {'wallet ou service sans étiquette': 27.7, 'hot wallet étiqueté': 14.7} par étiquette [('KuCoin 2', 8.0), ('Binance 1', 5.8), ('Coinbase 1', 0.8)]
+GXZvX entrées pures externes SOL éq. {'wallet ou service sans étiquette': 47.3, 'hot wallet étiqueté': 6.9} dont avant mint {'wallet ou service sans étiquette': 0.0} par étiquette [('MEXC 1', 6.9)]
+9PrmF8 entrées pures externes SOL éq. {'hot wallet étiqueté': 430.0, 'wallet ou service sans étiquette': 13.1} dont avant mint {'hot wallet étiqueté': 106.0, 'wallet ou service sans étiquette': 10.0} par étiquette [('Coinbase 1', 203.6), ('Coinbase 3', 164.2), ('Coinbase 2', 62.3)]
+DCA 5QhJJcFZ 24 h 0 toutes dates 34.27
+DCA 7FGoCB63 24 h 0 toutes dates 0
+DCA série 15, 24 h 639.7
+C73Yv9iH premières ventes [('2024-07-15 17:05:40', -0.686, 5.05, '5tYm63FLQTZV45k7xA32cMg2c2qopxtMrSAWWTCiQJj1MRfkbxuzyc6QTvMtrRpx9fZL3augYmuiTSCGBbDWYggM'), ('2024-07-16 17:53:54', -1.86, 7.7, '5nra5YokxLk9FnXZ6EJjfto1h7NEzE2sXquAqv3fNqmcz7K8Nc6MTm5XXvktTsHEeuTNTFLgnYTZdCGTCMpn8mcd'), ('2024-07-17 18:14:50', -1.454, 3.89, '3iUNGvP1KCQQ39gm86T7fpvds7SZC2va3ZL9kNDXy7guuobwrN9fkiwpU6cLGAfwWZt7QAaJqy3k2BG7syfJe3Pk')]
+  bloc ('28hD6bSnbyhZPqXSXsavq7gGsU2iTECmmd8SFfwUXaPdPLuLTuExeEXe7TtMU1YpuUXHzwhrxxZhbSC1fKthjaXf', '4AVe3VMDWnfwxo3Ydi4N8m411TvPwe3BjXmPnRg4GU4a', 289361337, 351, 12108788.527231, -623.427113362)
+  bloc ('5au4mKnXzBtp64qHbD1bJvNaqPYko38F8Mp7J7D7cwcobW6KdP9sXtvjai1r6xEnMe4eHFGeNEbrKvXv8gAVgZbW', '4AVe3VMDWnfwxo3Ydi4N8m411TvPwe3BjXmPnRg4GU4a', 289361337, 353, -12108788.527231, 623.462848329)
+  tiers ('2rtRvNXEB64KaXgwxwK8jw7KLccg8bhNGKQ6JEBunokQzFD8AKngqVgKt5f66BRwsHcekVxQC6CV1JWyiY436WqK', '5vzA6PjBFnAimFFQiFLag7iz1JyTgrHamajZZC8hekhy', 352, 79936.014769, -5.841691828)

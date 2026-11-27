@@ -1,0 +1,8 @@
+ordres DCA vendant DMAGA 51 {'P1_jetons': 113374287.4, 'P1_ordres': 47, 'P1_sol_eq': 1292.4, 'hors_P1_jetons': 21674875.7, 'hors_P1_ordres': 4, 'hors_P1_sol_eq': 30.3}
+P1, encaissé par DCA : avant 19:30:13 le 21/07 0 ; 24 h après 639.7
+  2024-07-15 15:52:16 4pKFTQxs jetons 2000000 série 3pHR5fXim4ryaS
+  2024-07-21 19:53:13 Fp6kgqHU jetons 1423862 série kVYYDiVXcgxiq2
+  2024-07-21 21:21:17 5s3ogzsq jetons 1322583 série DZ5GHazgCs2ycg
+  2024-07-21 21:38:25 HqwpWyvb jetons 1321861 série 4eS5vZCgHpm2sC
+  2024-07-21 22:07:30 ERMtiLod jetons 254070 série 528JUCND1PtQtp
+  2024-07-21 22:16:49 EEpSRR12 jetons 2458312 série 4arWAn5YViLE5K

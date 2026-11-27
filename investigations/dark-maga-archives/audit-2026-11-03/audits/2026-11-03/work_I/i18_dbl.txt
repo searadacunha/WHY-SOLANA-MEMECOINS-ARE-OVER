@@ -1,0 +1,27 @@
+ordres avec compte de dépôt identifié 76 sur 76
+lignes de la table vers un compte d'ordre 0
+SOL éq. 0
+lignes pont 26 par périmètre Counter({'P2 groupe de 33 et salve du 23/07': 20, 'hors périmètres': 3, 'P1 créateur et dépôt 9W9b': 3})
+SOL éq. {'P2 groupe de 33 et salve du 23/07': 5464.873379999997, 'hors périmètres': 279.726474, 'P1 créateur et dépôt 9W9b': 22.137733} USD {'P2 groupe de 33 et salve du 23/07': 981299.2736790004, 'hors périmètres': 41587.239524000004, 'P1 créateur et dépôt 9W9b': 3656.16834}
+wallets dans >1 périmètre []
+ordres hors périmètres (hors dénominateur) [('J2EuNwCS', '20462.509029'), ('8YSi5yNR', '9912.827353'), ('7SEoKiBL', '11211.903142')]
+ordres avant le mint 18 USD 4632.17 Counter({'74qFhHyp': 8, 'C7i9beNH': 6, 'DfYyxDNE': 3, 'EZXUvi4X': 1})
+après 58 1014055.01
+vers 0x2d86 dans les 24 h après 22:53:42 12 296074.5
+ b298 2024-07-16T09:05:01Z Ei5yGz8d 6042.19 1 0x000000
+ b298 2024-07-16T18:53:11Z Ei5yGz8d 2381.41 1 0x000000
+ b298 2024-07-23T20:34:34Z Ei5yGz8d 10361.81 1 0x000000
+ b298 2024-07-26T02:10:39Z Ei5yGz8d 3001.21 8453 0x000000
+ b298 2024-08-08T19:41:19Z Ei5yGz8d 21771.85 1 0x000000
+ b298 2024-10-11T22:34:29Z Ei5yGz8d 4775.71 8453 0x000000
+ b298 2024-10-11T23:42:52Z HGBiExZR 1760.91 8453 0x000000
+ b298 2024-10-17T14:18:47Z Ei5yGz8d 1389.73 1 0x000000
+ b298 2024-11-07T02:42:01Z Ei5yGz8d 1903.28 8453 0x000000
+ b298 2024-11-07T03:15:59Z Ei5yGz8d 1897.07 8453 0x000000
+ b298 2024-11-07T17:48:06Z Ei5yGz8d 1193.98 1 0x000000
+ b298 2024-11-08T06:12:30Z Ei5yGz8d 1996.39 1 0x000000
+ b298 2024-11-11T22:12:31Z Ei5yGz8d 1231.52 8453 0x000000
+ b298 2024-11-14T05:38:07Z Ei5yGz8d 106223.39 1 0x000000
+ b298 2024-11-14T23:59:51Z Ei5yGz8d 1461.76 8453 0x000000
+ b298 2024-11-26T03:06:54Z Ei5yGz8d 5186.03 8453 0x000000
+hors historique []

@@ -1,0 +1,39 @@
+lignes, signatures [(919783, 796883)]
+groupes en double, lignes en trop, n max [(5903, 5903, 2)]
+en trop par kind, source, SOL absolu en trop [('swap', 'pool', 3174, 6699.87, 3137.17, 3562.7), ('internal', 'pool', 1159, 4.69, 0.0, 0.0), ('fee_share', 'pool', 558, 0.0, 0.0, 0.0), ('internal', 'venue', 470, 6.86, 0.0, 0.0), ('swap', 'venue', 452, 62.91, 14.22, 48.69), ('lp_remove', 'pool', 56, 2.37, -2.37, 0.0), ('lp_remove', 'venue', 15, 0.08, -0.08, 0.0), ('transfer', 'pool', 12, 0.0, 0.0, 0.0), ('lp_add', 'pool', 5, 1.85, 0.0, -1.85), ('swap_other', 'pool', 2, 0.0, 0.0, 0.0)]
+en trop par jour et source [('2024-07-24', 'pool', 4966, 6708.77), ('2024-07-23', 'venue', 77, 0.86), ('2024-07-22', 'venue', 63, 27.96), ('2024-10-06', 'venue', 45, 10.34), ('2024-07-27', 'venue', 37, 0.37), ('2024-08-23', 'venue', 31, 1.98), ('2024-08-13', 'venue', 25, 0.05), ('2024-10-07', 'venue', 25, 0.51), ('2024-07-25', 'venue', 22, 0.25), ('2024-08-12', 'venue', 20, 0.07), ('2024-08-04', 'venue', 20, 0.09), ('2024-09-11', 'venue', 20, 1.9), ('2024-10-08', 'venue', 19, 0.11), ('2024-10-04', 'venue', 18, 0.15), ('2024-08-08', 'venue', 18, 0.01)]
+plage de la source pool [('2024-07-24 00:00:11', '2024-07-24 05:36:26', 4966)]
+en trop avant la borne haute de Musk []
+en trop dans les 24 h après Musk [('internal', 'venue', 47, 1.205, 0.0), ('swap', 'venue', 1, 19.035, 19.035)]
+membres du groupe touchés [('C7i9beNHXYonZYB5riXE6kaLpFWLj9BPzh2FSBoUUePK', 'swap', 1, 26.54), ('Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB', 'swap', 35, 95.786)]
+A-02 swap_other au vault mobile : n, SOL vault, M jetons [(1708, 1434, 2840.7, 142.1)]
+A-02 swap GpMZ : n, écart absolu |SOL ligne - vault|, n écart > 1 % [(1136, 391.2, 1097)]
+A-02 exemples [('23sVBqK6uG9W5jGD2iKjy9rJmWjeVAntyjxk1gBNYyuQow5CCmst7xy6yY5PzrKnyoY7iRSHehEpHouaWEGFU28F', '7Mjg8z2FjLAvKGGZmAbz6z52z4K17Lb42QZxhhTtKBdE', 'swap_other', -1032576.953231, 0.0, -106.312900611), ('2WCiMw9Ss66aWTWteUja5Ma899fZQsXANpXKWjjeiaYkau7HGpixTrtBzMxh9rUsmZSKi68bz3hrghsUNPLTAupe', 'DswkYbBhV9MKWhymaawezWEEZoWPV1az79wcm1J644na', 'swap_other', 730546.53702, 0.0, 80.622654657), ('41D3qgZn3aQSKRZDLx6r5RAqFwahjghHY7M3BiZQNuvHog2iyqpBbcYCXMRYmuXiXwsX561ztr4afrkGS2rCoNkP', 'DswkYbBhV9MKWhymaawezWEEZoWPV1az79wcm1J644na', 'swap_other', 500000.0, 0.0, 80.181769954)]
+A-02 part dans 24 h après Musk : swap_other, SOL vault, sens vente, sens achat [(35.23, 5.52, 29.71, 54)]
+A-02 part dans 24 h après Musk : swap GpMZ, écart signé vente [(0.0, 0.0, 2)]
+A-02 avant Musk : n, SOL [(13, 6.86)]
+A-02 membres du groupe et nommés [('7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu', 'swap_other', 2, 1.15), ('7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu', 'swap', 2, 1.75)]
+A-02 plus gros propriétaires [('DswkYbBhV9MKWhymaawezWEEZoWPV1az79wcm1J644na', 'swap_other', 14, 840.41), ('45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp', 'swap_other', 236, 235.27), ('GmibrdRC6WjajT7t5sTsFVmnwy5rEYKBdeQqfctoR4F', 'swap', 3, 127.08), ('7Mjg8z2FjLAvKGGZmAbz6z52z4K17Lb42QZxhhTtKBdE', 'swap_other', 1, 106.31), ('KA8fyYzYY3Fzd2rHZfN8KFNPY8TDuZ7kfjfF3Lfe9vU', 'swap_other', 17, 86.7), ('HGh5acuYdhoBBJxUuLyW1weAcp6H8ck49nkwAP3kT1yG', 'swap', 4, 77.57), ('HGh5acuYdhoBBJxUuLyW1weAcp6H8ck49nkwAP3kT1yG', 'swap_other', 3, 72.66), ('DcsmeHj2NdKFyrxLtnVabu1g5QZv2P25t45StnDDrWfy', 'swap', 2, 54.79)]
+démarrage PnL
+transferts gtba ajoutés (22853,)
+lignes traitées 830275 lignes corrigées en fix 2844
+écart tel/wallets.parquet (doit être 0) : n, sum|réalisé| [(71706, 4.7e-05, 3, 3)]
+dedup : wallets touchés, Σ|Δ réalisé|, Δ acheté, Δ vendu [(861, 2673.49, 3151.39, 3609.72)]
+dedup : entrés après Musk (1721590213), réalisé > 0 ; n [(53893, 18309, 9885, 18309, 53893)]
+fix : wallets touchés, Σ|Δ réalisé|, Δ acheté, Δ vendu [(1599, 4069.73, 1875.59, 1929.98)]
+fix : entrés après Musk (1721590213), réalisé > 0 ; n [(53968, 18259, 9827, 18259, 53968)]
+tel : idem [(53893, 18367, 18367, 53893)]
+nommés [('8YLEuUtZ', 0.0, 0.0, 0.0), ('Akp46Dic', 364.49, 268.7, 268.7), ('ET8ZG5zA', 359.14, 203.63, 203.63), ('5FzhCSWL', 144.58, 187.91, 187.91), ('5QhJJcFZ', 74.17, 74.17, 74.17), ('9PrmF8sf', 1747.8, 1747.8, 1747.8), ('C7i9beNH', 404.55, 378.01, 378.01), ('GXZvXsD6', 2540.1, 2540.1, 2540.1), ('H3QsBrri', 5490.86, 5490.86, 5490.86)]
+groupe de 33 : réalisé tel, dedup, fix ; acheté [(5594.0, 5471.7, 5469.8, 831.9, 831.9)]
+plus gros écarts fix-tel [('ET8ZG5zAcEA4n1bNN5B5MkeStCGw7T1f6ZJwwH7G3rMB', 359.1, 203.6, 203.6), ('7mmfWfL2peNMk1vM8LPe77HBVTuLdq6a5zywe13CWtm8', -7.3, -7.3, -137.6), ('4CwtDpX8ghpJAtwiArg6waKSPin87ksLnVrbmE2idias', 346.3, 228.9, 228.9), ('FjQ9nsw12kyUq63hNi6tfkW74towyfqmdVgkpgJ6bktW', 137.4, 34.3, 34.3), ('Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB', 364.5, 268.7, 268.7), ('6bKNmmyckNZNtcgPbxZU9arsQwGEFosvZtLGsXixhxED', -714.7, -808.2, -808.2), ('DswkYbBhV9MKWhymaawezWEEZoWPV1az79wcm1J644na', 93.6, 93.6, 4.4), ('GyhmtpsSS5YftjkRkFuqqAvV5hu1vR9EDfWnBMxcXihT', -40.8, -120.4, -120.4), ('ACKwQuge5bS7YmNQHnSEiUtfXpsjWe5iTRfYyjcDGDuL', -113.3, -185.7, -185.7), ('BBcYhznjGjWVNVhaVGC5oBdkipydkjmqsiNciadXBXbY', 422.7, 352.3, 352.3), ('342ds52fTJKZv3eCzY1sWffS3JXpZHnaN1rLyqNWenfn', 0.0, 0.0, -60.5), ('FMbfmHxYGECZAoNA7LdXa5dN9rKTKgeiyzdrVh7egrym', 378.1, 432.7, 432.7)]
+top 100 : commun tel/dedup 97 tel/fix 97 top 10 identique dedup True fix True top 5 tel ['H3QsBrri', 'GXZvXsD6', 'FTKTNFqe', '9PrmF8sf', 'F1DRDBNW']
+entrants dedup ['7uRDe43i', 'BBcYhznj', 'CQQqZgro'] sortants ['D4zVhwuU', '9Q2iQTt6', 'CtXRQVs2']
+entrants fix ['7uRDe43i', 'BBcYhznj', 'CQQqZgro'] sortants ['D4zVhwuU', '9Q2iQTt6', 'CtXRQVs2']
+C05 borne basse -> envoi {'ach_tel': 3.291, 'ven_tel': 14.616, 'ach_dedup': 3.291, 'ven_dedup': 14.616, 'ach_manquant': 0.0, 'ven_manquant': 0.0}
+C05 envoi -> borne haute {'ach_tel': 145.44, 'ven_tel': 76.262, 'ach_dedup': 145.44, 'ven_dedup': 76.262, 'ach_manquant': 0.0, 'ven_manquant': 0.0}
+C05 heure suivante {'ach_tel': 5377.608, 'ven_tel': 5195.346, 'ach_dedup': 5377.608, 'ven_dedup': 5195.346, 'ach_manquant': 0.361, 'ven_manquant': 0.0}
+C06 Biden -> borne basse {'ach_tel': 13.557, 'ven_tel': 89.096, 'ach_dedup': 13.557, 'ven_dedup': 89.096, 'ach_manquant': 0.0, 'ven_manquant': 0.0}
+C15 24 h après Musk {'ach_tel': 194396.973, 'ven_tel': 190551.167, 'ach_dedup': 194396.973, 'ven_dedup': 190532.132, 'ach_manquant': 29.709, 'ven_manquant': 5.52}
+3 h avant envoi {'ach_tel': 236.553, 'ven_tel': 363.46, 'ach_dedup': 236.553, 'ven_dedup': 363.46, 'ach_manquant': 0.006, 'ven_manquant': 0.0}
+3 h avant Winig {'ach_tel': 507.926, 'ven_tel': 366.548, 'ach_dedup': 507.926, 'ven_dedup': 366.548, 'ach_manquant': 0.0, 'ven_manquant': 0.0}
+C15 groupe, ventes 24 h, tel et dedup [(4524.91, 4524.91, 48.804)]

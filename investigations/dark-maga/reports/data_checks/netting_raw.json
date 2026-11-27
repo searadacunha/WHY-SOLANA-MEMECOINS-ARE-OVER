@@ -1,0 +1,19 @@
+{
+ "compte": {
+  "tx_token2022": 386,
+  "tx_fermeture_de_compte": 17469,
+  "tx_plusieurs_mouvements_dmaga": 27682,
+  "proprietaires_controles": 83245,
+  "aretes": 35676,
+  "signatures": 31750,
+  "signatures_non_trouvees_dans_le_brut": 0
+ },
+ "contre_exemples": {},
+ "exemples": {},
+ "jambes_de_passage": {
+  "aretes": 701,
+  "jetons_M": 49.431,
+  "deux_bouts_a_net_nul_ou_venue": 701
+ },
+ "limite": "les transactions absentes de trades (arêtes ajoutées par ana_20 et dmaga.positions) ne sont pas dans le brut local"
+}

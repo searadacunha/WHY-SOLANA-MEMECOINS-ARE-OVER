@@ -1,0 +1,22 @@
+lignes conformes 47 sur 49 écarts [('FDcq9SwbFpAQEiT9d139qK4amd69RhmpA5EUsBDuimLP', 3, '3'), ('9v5TRd1pUYaXfbX1EUZA6w5HLgpTmm6ffm8D5d4EGpGi', 3, '3')]
+DMAGA {'G1': 34, 'G2': 0.217, 'G3': 50, 'svc': 0, 'nodes': 54, 'pda': 3, 'pda_in_best': 0, 'top_out': 11, 'top_out_share': 0.19, 'max_deg': 11, 'multi_recv_edges': 0, 'repeat_amount_edges': 25, 'G1_noPDA': 34, 'G2_noPDA': 0.217, 'G1_hub5': 7, 'G2_hub5': 0.0676, 'G1_nomulti': 34}
+G1 {'DMAGA': 34, 'mediane': 8.0, 'maxi': 77, 'pairs_ge': 6, 'pct_rang': 87.5, 'p_rang': 0.143}
+G2 {'DMAGA': 0.217, 'mediane': 0.03225, 'maxi': 0.805, 'pairs_ge': 4, 'pct_rang': 91.7, 'p_rang': 0.102}
+G3 {'DMAGA': 50, 'mediane': 22.5, 'maxi': 114, 'pairs_ge': 8, 'pct_rang': 83.3, 'p_rang': 0.184}
+G1_noPDA {'DMAGA': 34, 'mediane': 6.0, 'maxi': 77, 'pairs_ge': 6, 'pct_rang': 87.5, 'p_rang': 0.143}
+G2_noPDA {'DMAGA': 0.217, 'mediane': 0.0368, 'maxi': 0.7249, 'pairs_ge': 4, 'pct_rang': 91.7, 'p_rang': 0.102}
+G1_hub5 {'DMAGA': 7, 'mediane': 4.0, 'maxi': 22, 'pairs_ge': 9, 'pct_rang': 81.2, 'p_rang': 0.204}
+G2_hub5 {'DMAGA': 0.0676, 'mediane': 0.009049999999999999, 'maxi': 0.1776, 'pairs_ge': 5, 'pct_rang': 89.6, 'p_rang': 0.122}
+G1_nomulti {'DMAGA': 34, 'mediane': 8.0, 'maxi': 77, 'pairs_ge': 6, 'pct_rang': 87.5, 'p_rang': 0.143}
+pairs avec PDA dans le réseau 24 médiane PDA 0.5 ; part médiane du plus gros expéditeur 0.189 DMAGA 0.19
+pairs à G1>=34 :
+  DMks7an9ua BFUadco9hktp8wrLas34DL5jmVYE17qYmfxZykV7pump G1 77 G2 0.1121 G3 114 svc 0 nœuds 98 PDA 0 topout 13 0.1 multi 0 rép 69 jours 27.99 avant_created 2 sansPDA 77 hub5 7 sansmulti 77 ext True
+  9NfKxDftb6 iUTxa3m6JedGj6XTGwYEe324M5iWrBvnWzpUhXopump G1 65 G2 0.805 G3 90 svc 1 nœuds 67 PDA 16 topout 16 0.109 multi 0 rép 84 jours 36.66 avant_created 41 sansPDA 49 hub5 3 sansmulti 65 ext False
+  95qmJL2qUD 4xqQAEBeMH1MJ85MsuWiVwRTc4F7AC2UikttcVvcpump G1 48 G2 0.1741 G3 109 svc 3 nœuds 126 PDA 1 topout 19 0.102 multi 0 rép 78 jours 30.36 avant_created 57 sansPDA 48 hub5 5 sansmulti 48 ext True
+  F2eZPT2pLE 9QzkX7JnpaPNmDoHyRyCSzJw4Qcf78MRCjDN2LHTpump G1 43 G2 0.019 G3 105 svc 0 nœuds 95 PDA 4 topout 13 0.107 multi 0 rép 68 jours 38.81 avant_created 5 sansPDA 43 hub5 22 sansmulti 43 ext True
+  B195Fs89Ss 61tQHzDU1j5aiSKAWpMbEMd7dm7mdY5LNTfvtamxpump G1 40 G2 0.0603 G3 98 svc 0 nœuds 94 PDA 1 topout 8 0.071 multi 0 rép 44 jours 54.92 avant_created 34 sansPDA 40 hub5 13 sansmulti 40 ext True
+  HNMhwV9nMg HqrAGvyVPMfCKRX2V4UixyW7t7biVSvJPr8me5JTpump G1 38 G2 0.6123 G3 47 svc 0 nœuds 47 PDA 0 topout 5 0.094 multi 0 rép 13 jours 3.98 avant_created 2 sansPDA 38 hub5 3 sansmulti 38 ext False
+  CuDuvotmGD 98KzLGK2wobwYuJ2RyM9SJSyvizTLN2XhKHm5MR7pump G1 29 G2 0.0722 G3 37 svc 0 nœuds 42 PDA 1 topout 6 0.128 multi 0 rép 19 jours 12.22 avant_created 1 sansPDA 28 hub5 4 sansmulti 29 ext False
+  ApLBXfZckb HyzUwAJu7mBZZjaKTYSMqzoSSgwU2H27irPaN5VDpump G1 20 G2 0.2096 G3 39 svc 0 nœuds 43 PDA 0 topout 8 0.154 multi 0 rép 35 jours 5.77 avant_created 1 sansPDA 20 hub5 6 sansmulti 20 ext False
+  2ZJwRUAGdK 8ox5sWDfRAHh8LwzRkmYUQw6MfzngVLgtgEmWJaBxQDo G1 19 G2 0.1743 G3 33 svc 0 nœuds 42 PDA 9 topout 16 0.32 multi 0 rép 23 jours 3.62 avant_created 3 sansPDA 19 hub5 5 sansmulti 19 ext False
+  HmGqPnrVb7 78PFcG83Vmf5zspcfTEHAzRKvqZ7hM7VEDqQJ8i1pump G1 19 G2 0.0268 G3 54 svc 2 nœuds 93 PDA 57 topout 17 0.132 multi 0 rép 42 jours 13.74 avant_created 2 sansPDA 21 hub5 4 sansmulti 19 ext True

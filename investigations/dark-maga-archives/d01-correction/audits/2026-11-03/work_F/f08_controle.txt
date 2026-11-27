@@ -1,0 +1,168 @@
+OK   R01 présent : Il n'apporte donc d'élément ni pour ni contre une connaissance préalable
+OK   R01 présent : Verdict : **DMAGA NON DISTINGUABLE DE SES PAIRS**
+OK   R01 absent : Aucune preuve d'achat informé
+OK   R01 absent : Test gelé non significatif
+OK   R01 absent : Test gelé non significatif
+OK   R01 absent : test sans puissance
+OK   R02 présent : contrôle de la plomberie seulement
+OK   R02 présent : 3,3 % pour l'effet moyen
+OK   R02 présent : 7,5 % pour le fort
+OK   R02 présent : contrôle de la plomberie seulement
+OK   R03 absent : copie neuve
+OK   R03 absent : tests.json` et `verdict.json` identiques
+OK   R03 absent : copie neuve
+OK   R03 présent : audits A, B et D
+OK   R04 présent : Le verdict ne bascule que si DMAGA dépasse tous les pairs sur au moins une mesure
+OK   R04 présent : M3 et M4 ne peuvent pas ouvrir
+OK   R04 présent : Niveau réel 2,4 %
+OK   R05 « autour du créateur » seulement dans la liste des retraits
+OK   R05 absent : autour du créateur
+OK   R05 absent : autour du créateur
+OK   R05 présent : Le groupe de 33, relié par des transferts
+OK   R05 présent : Le périmètre du créateur, relié par une série
+OK   R06 présent : 13 des 2 201 destinataires
+OK   R06 présent : B pour le même opérateur ou le même compte de dépôt, sur le créateur et 12 wallets
+OK   R06 absent : Un hot wallet coupe la trace
+OK   R06 absent : rupture de traçabilité
+OK   R06 présent : le créateur et 12 wallets
+OK   R07 présent : est un compte de dépôt Coinbase
+OK   R07 présent : un plancher
+OK   R07 présent : 31 de ses 48 expéditeurs
+OK   R07 présent : 8 sur 1 365
+OK   R07 présent : c'est un plancher
+OK   R07 absent : pas un service de masse
+OK   R07 absent : non tranché
+OK   R07 absent : non tranché
+OK   R08 présent : BuHUkjUyWGTwz1suyWpqY6ZcYLX9rbfRsT5nnHFGXykc reçoit 6,576337507 SOL
+OK   R08 présent : vaut B pour 2025, sans valeur pour le lancement
+OK   R08 absent : non interprété
+OK   R09 présent : au moins 2,4 %
+OK   R09 présent : 2,9 % avec 3 destinataires
+OK   R09 présent : 37,3 % contre 40,8 à 43,7 %
+OK   R09 absent : Résultat favorable à une lecture modeste
+OK   R10 présent : sans étiquette 42,4 %, pools 22,1 %, Jupiter 20,6 %, échanges étiquetés 14,8 %
+OK   R10 présent : 189 échange, 184 sans étiquette, 114 Jupiter, 4 service
+OK   R10 présent : borne basse
+OK   R10 présent : du 14/07/2023 au mint
+OK   R10 « Surtout d'échanges » retiré de Q6
+OK   R11 présent : 100,78 SOL hors allers-retours
+OK   R11 présent : 145,44 SOL
+OK   R11 présent : Part des allers-retours sous 10 s, par fenêtre
+OK   R11 présent : 30,7 %
+OK   R11 5V97uEb4 retiré du classement des acheteurs
+OK   R11 AD65fgYt retiré du classement des acheteurs
+OK   R11 BmanDqQE retiré du classement des acheteurs
+OK   R11 bots retirés des deux tableaux d'avant Musk
+OK   R12 présent : 27 196 ruptures sur 1 168 comptes
+OK   R12 présent : 2 845 M
+OK   R13 présent : 09:01:46
+OK   R13 présent : 18 247 sur 53 960
+OK   R13 présent : 9 816 à plus de 0,1 SOL
+OK   R13 absent : 18 367
+OK   R13 absent : 09:00 UTC
+OK   R14 présent : Cohortes de premier achat
+OK   R14 présent : ## Plus gros acheteurs dans les 6 h avant le visuel
+OK   R14 présent : ## Plus gros acheteurs entre le visuel et la borne basse
+OK   R14 absent : Deux cohortes distinctes
+OK   R14 absent : Les deux cohortes sont distinctes
+OK   R15 présent : Acheté M, toute la vie
+OK   R15 présent : SOL engagé, toute la vie
+OK   R16 présent : de 16,0 à 17,7 %
+OK   R16 présent : de 16,0 à 17,7 %
+OK   R17 présent : 34 wallets et 41 arêtes
+OK   R17 présent : 34 wallets et 41 arêtes
+OK   R18 présent : 11 à 12 dans le groupe selon le seuil, 11 G41vRrsH
+OK   R19 présent : 83,03 %
+OK   R19 présent : 90,18 %
+OK   R20 présent : 508 SOL au vault
+OK   R20 présent : 402 SOL au lieu de 508
+OK   R21 présent : 4 500 USDC
+OK   R21 présent : 7 397 559
+OK   R21 présent : escrow
+OK   R21 présent : le créateur déplace sa position
+OK   R21 absent : non vérifié)
+OK   R22 présent : 93 522 SOL éq.
+OK   R22 présent : dont 12 tronqués
+OK   R22 présent : 82 194 SOL éq.
+OK   R23 présent : 71 706 wallets ici, 71 682
+OK   R23 présent : 71 682 wallets sur 71 706
+OK   R24 présent : 89,78 M détenus à S
+OK   R24 présent : 76,3 M de transferts nets
+OK   R24 présent : dans l'heure de S, hors des mesures
+OK   R25 présent : 1 370 sur 1 719
+OK   R25 présent : meilleur p = 0,148
+OK   R26 présent : 121 comparaisons
+OK   R26 présent : hors du registre gelé
+OK   N ligne N01 au rapport
+OK   N ligne N02 au rapport
+OK   N ligne N03 au rapport
+OK   N ligne N04 au rapport
+OK   N ligne N05 au rapport
+OK   N ligne N06 au rapport
+OK   N ligne N07 au rapport
+OK   N ligne N08 au rapport
+OK   N ligne N09 au rapport
+OK   N ligne N10 au rapport
+OK   N ligne N11 au rapport
+OK   N ligne N12 au rapport
+OK   N ligne N13 au rapport
+OK   N ligne N14 au rapport
+OK   N ligne N15 au rapport
+OK   N ligne N16 au rapport
+OK   N ligne N17 au rapport
+OK   encadré CASE
+OK   encadré COORD
+OK   encadré ATTR
+OK   encadré TOP
+OK   encadré EARLY
+OK   encadré MISS
+OK   interdit absent : 845,72
+OK   interdit absent : 0,55 %
+OK   interdit absent : B pour même bénéficiaire
+OK   interdit absent : Dépôt partagé écarté
+OK   interdit absent : 9 contre 3
+OK   interdit absent : 68 %
+OK   style CASE sans tiret cadratin ni demi-cadratin
+OK   verbatim CASE sans jeton non injecté
+OK   interdit absent : 845,72
+OK   interdit absent : 0,55 %
+OK   interdit absent : B pour même bénéficiaire
+OK   interdit absent : Dépôt partagé écarté
+OK   interdit absent : 9 contre 3
+OK   interdit absent : 68 %
+OK   style COORD sans tiret cadratin ni demi-cadratin
+OK   verbatim COORD sans jeton non injecté
+OK   interdit absent : 845,72
+OK   interdit absent : 0,55 %
+OK   interdit absent : B pour même bénéficiaire
+OK   interdit absent : Dépôt partagé écarté
+OK   interdit absent : 9 contre 3
+OK   interdit absent : 68 %
+OK   style ATTR sans tiret cadratin ni demi-cadratin
+OK   verbatim ATTR sans jeton non injecté
+OK   interdit absent : 845,72
+OK   interdit absent : 0,55 %
+OK   interdit absent : B pour même bénéficiaire
+OK   interdit absent : Dépôt partagé écarté
+OK   interdit absent : 9 contre 3
+OK   interdit absent : 68 %
+OK   style TOP sans tiret cadratin ni demi-cadratin
+OK   verbatim TOP sans jeton non injecté
+OK   interdit absent : 845,72
+OK   interdit absent : 0,55 %
+OK   interdit absent : B pour même bénéficiaire
+OK   interdit absent : Dépôt partagé écarté
+OK   interdit absent : 9 contre 3
+OK   interdit absent : 68 %
+OK   style EARLY sans tiret cadratin ni demi-cadratin
+OK   verbatim EARLY sans jeton non injecté
+OK   interdit absent : 845,72
+OK   interdit absent : 0,55 %
+OK   interdit absent : B pour même bénéficiaire
+OK   interdit absent : Dépôt partagé écarté
+OK   interdit absent : 9 contre 3
+OK   interdit absent : 68 %
+OK   style MISS sans tiret cadratin ni demi-cadratin
+OK   verbatim MISS sans jeton non injecté
+OK   validée le mot n'apparaît que pour dire qu'il est interdit
+ÉCHECS 0

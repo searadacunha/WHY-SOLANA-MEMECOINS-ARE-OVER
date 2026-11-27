@@ -1,0 +1,60 @@
+## verrous
+etude_final gele 2026-11-02 23:47:06 fichiers 17 non conformes [] ajouts [(None, ['derived/metrics.csv', 'derived/selection_counts.json'])]
+etude_groupe gele 2026-11-03 10:53:59 fichiers 10 non conformes [] ajouts [(None, ['derived/par_token.jsonl', 'derived/table.csv'])]
+## metrics principal
+k 211 pics distincts 84 84
+M1 39.867 med 3.755 p 0.1698 centile 83.4 pairs>= 35
+M2 9.371 med 1.464 p 0.184 centile 82.0 pairs>= 38
+M3 0.68 med 0.45 p 0.2406 centile 76.3 pairs>= 50
+M4 0.308 med 0.347 p 0.5472 centile 45.5 pairs>= 115
+M5 433.798 med 176.327 p 0.2642 centile 73.9 pairs>= 55
+M6 0.205 med 0.075 p 0.1557 centile 84.8 pairs>= 32
+M7 0.138 med 0.074 p 0.1792 centile 82.5 pairs>= 37
+S1 {'winig': {'sol_achete': 401.520390162, 'mediane_sol_passe': 6.059999020999999, 'p_sol': 0.03571428571428571, 'n_fenetres_passees': 27}, 'avatar': {'sol_achete': 229.28047037800002, 'mediane_sol_passe': 6.1799995105, 'p_sol': 0.06896551724137931, 'n_fenetres_passees': 28}}
+funder 0.08 0.0 0.07317073170731707 40
+## etude_groupe
+k 48 ext plafonnee 10 courbe tronquee 10
+principal_G1 34.0 med 8.0 max 77.0 strict> 6 egaux 0 centile 87.5 zero 4.2
+principal_G2 0.217036500598045 med 0.0356279458785765 max 0.804950925233741 strict> 4 egaux 0 centile 91.7 zero 25.0
+principal_G3 50.0 med 22.5 max 114.0 strict> 7 egaux 1 centile 83.3 zero 4.2
+## ordres de pont
+tailles P1 46 P2 33 33 hors P2 ['5QhJJcFZ', '7FGoCB63'] P2 hors 33 ['EGtyQEgM', 'G41vRrsH']
+ordres 76 1023933.51
+par population usd {'33': 979324.28, 'autre': 41587.23, 'P1': 3022.0} ordres {'33': 68, 'autre': 5, 'P1': 3}
+wallets autres Counter({'DfYyxDNE': 3, '8YSi5yNR': 2, 'J2EuNwCS': 2, '7SEoKiBL': 1})
+dates 2024-05-07 18:57:51 2025-06-09 20:19:03 avant 01/08/2024 usd 621516.57
+C73 27 496371.6 2024-07-21 22:53:42 2025-06-09 20:19:03
+0xb947 Counter({'Gcyg2jeL': 2, 'Ei5yGz8d': 1, 'HGBiExZR': 1}) 263573.16 2024-07-22 00:54:36 2024-07-22 01:04:12
+perimetres Counter({'P2 groupe de 33 et salve du 23/07': 546, 'P1 créateur et dépôt 9W9b': 324, 'H3QsBr': 96, 'hors périmètres': 82, 'balayage de dépôt': 47, '9PrmF8': 12, 'GXZvX': 6})
+P2 comme la table {}
+33 exacts {'pont, ordre inter-chaînes': 5468.8, 'wallet sondé, trace arrêtée': 2936.0, 'wallet sondé, trace arrêtée [au-delà de la troncature, pureté inconnue]': 547.0, 'pool ou route [au-delà de la troncature, pureté inconnue]': 368.3, 'wallet non suivi': 1796.1, 'interne': 563.6, 'service ou pool non nommé [au-delà de la troncature, pureté inconnue]': 304.0, 'compte balayé vers autre plate-forme': 143.0, 'wallet non suivi [au-delà de la troncature, pureté inconnue]': 714.5, 'compte de dépôt balayé vers Coinbase': 136.7, 'compte de dépôt balayé vers Coinbase [au-delà de la troncature, pureté inconnue]': 29.0, 'autre périmètre P1': 28.2, 'service ou pool non nommé': 30.5, 'interne [au-delà de la troncature, pureté inconnue]': 1.1, 'autre périmètre P2': 0.0}
+## dépôts
+9W9b lignes 88 exped 48 {'SOL': 956.52} sol_eq 956.52
+Caw4 lignes 123 exped 55 {'USDC': 590933.95, 'SOL': 35.63} sol_eq 3438.04
+communs 27 9W9b vs d20 48 48 48 serie∩Caw4 10 serie∩9W9b 13 union 14
+salve 23/07 [('AtZjv3Du', 8.0), ('C73Yv9iH', 8.0), ('EGtyQEgM', 7.9), ('G41vRrsH', 8.0)]
+DCA tous 51 135.05 1322.7 p1 47 g33 5
+## frise
+16/07/2024 00:14:58 1813004360592552354 snow 16/07/2024 00:14:58 meta 15/07/2024 22:56:01  ECART_META kanpai
+corpus 5155 dates différentes 372
+avatar snowflake 21/07/2024 19:23:20
+## N01 à N17
+N01 niveau_egal True texte_egal True 
+N02 niveau_egal True texte_egal True 
+N03 niveau_egal True texte_egal True 
+N04 niveau_egal True texte_egal True 
+N05 niveau_egal True texte_egal True 
+N06 niveau_egal True texte_egal True 
+N07 niveau_egal True texte_egal True 
+N08 niveau_egal True texte_egal True 
+N09 niveau_egal True texte_egal True 
+N10 niveau_egal True texte_egal False 
+N11 niveau_egal True texte_egal False 
+N12 niveau_egal True texte_egal False 
+N13 niveau_egal True texte_egal False 
+N14 niveau_egal True texte_egal True 
+N15 niveau_egal True texte_egal True 
+N16 niveau_egal True texte_egal False 
+N17 niveau_egal True texte_egal False 
+## chiffre sériel
+n 13 duree 507 CV 0.245 0.256

@@ -1,0 +1,24 @@
+9W9b {'n': 88, 'senders': 48, 'any_': 9, 'rnd': 9, 'emp': 9, 'both': 9, 'mult': 18}
+témoin any_: médiane 1.0, p90 3, max 18 ; dépôts >= valeur de 9W9b (9) : 4 sur 120
+témoin rnd: médiane 1.0, p90 2, max 6 ; dépôts >= valeur de 9W9b (9) : 0 sur 120
+témoin emp: médiane 1.0, p90 2, max 18 ; dépôts >= valeur de 9W9b (9) : 4 sur 120
+témoin both: médiane 0.0, p90 1, max 3 ; dépôts >= valeur de 9W9b (9) : 0 sur 120
+témoins aux rafales brutes les plus fortes [(18, 28, 3, '2VBC3k2E'), (12, 32, 0, '8oHB8mrM'), (10, 131, 1, 'D56bXyuQ'), (9, 30, 1, '9zG3wWhR'), (8, 19, 0, 'Et9PYGGn'), (6, 97, 1, '59AYovg1'), (6, 23, 1, 'GnxDz92j'), (4, 41, 1, '27zuuSAH')]
+témoins à 20 expéditeurs ou plus : 18
+écarts 26/01/2025 [69, 37, 49, 35, 35, 3490, 51, 35, 39, 38, 33, 38, 111, 172]
+   01:32:23 8YLEuUtZ tx 946 1re tx = retrait True
+   01:33:05 GoPCTrS3 tx 64 1re tx = retrait True
+   01:33:30 AFDkwJXJ tx 69 1re tx = retrait True
+   01:34:09 A52fNskQ tx 165 1re tx = retrait False
+   01:34:15 EEpSRR12 tx 161 1re tx = retrait True
+   01:35:00 6ty9DM4s tx 671 1re tx = retrait True
+   01:35:40 ERMtiLod tx 51 1re tx = retrait True
+   01:36:14 HqwpWyvb tx 71 1re tx = retrait True
+   01:36:57 6ZMaqHjP tx 291 1re tx = retrait True
+   01:37:49 5s3ogzsq tx 98 1re tx = retrait True
+   01:38:21 Fp6kgqHU tx 79 1re tx = retrait True
+   01:38:58 7FGoCB63 tx 88 1re tx = retrait True
+   01:39:38 Gmc1EGGV tx 73 1re tx = retrait True
+   01:40:13 4pKFTQxs tx 135 1re tx = retrait True
+   01:40:50 5QhJJcFZ tx 403 1re tx = retrait True
+série : 1re tx = retrait 14 sur 15

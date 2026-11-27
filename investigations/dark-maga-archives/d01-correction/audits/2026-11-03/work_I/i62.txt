@@ -1,0 +1,9 @@
+tx 1200
+première touche DMAGA 2024-07-14 02:28:56+00:00 2863869.685285 -4.198647957 34AxmsXpqeH2ZLzfQbfQf5S3s9DGkcmqyiXqddrKFz7LP7DZC271Ctoxuspbb7meJDhhQUWHKMyi818LGoHfSiNw
+jetons reçus sans dépense de SOL, 30/03 au 31/05/2024 : 6
+  2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss 600000000.0 ('2024-04-24', '3KPtRScV', [])
+  BbciExji4fhSbqcEWRvqrvNpumJy2y3kCKajc2XGDvLi 29613784.44 ('2024-05-06', '67cU3qpn', [])
+  7iRohcB6jC7GQ5FCU1bYyPwQRuZeDm6pPv8ha7GVCYn7 18412343.09 ('2024-04-14', '9PrmF8sf', ['675kPX9M', 'JUP6LkbZ'])
+  AZcjPDj4z1jsxbeof1uUTrgZQ5aDNN2zegjjutSQLohR 4989547.85 ('2024-04-21', 'HJSEJQws', [])
+  2zrEU83oD5xSvikXn7wqC3Vg7UVUqXyRFf1wKUEuewiv 1360395.12 ('2024-04-14', '9PrmF8sf', ['675kPX9M', 'JUP6LkbZ'])
+  3p6xTgv9uN9z9dFG9hKKbYzdexUsacq7v6vcLjDJwEHV 4173.29 ('2024-04-14', '9PrmF8sf', ['675kPX9M', 'JUP6LkbZ'])

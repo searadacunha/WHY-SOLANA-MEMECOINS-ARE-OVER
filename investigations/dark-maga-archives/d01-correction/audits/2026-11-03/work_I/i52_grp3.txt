@@ -1,0 +1,11 @@
+arêtes code 2560 plan littéral 2539 tokens avec écart 3 ; DMAGA 58 58
+G1 code = table pour tous True
+G1_code {'DMAGA': 34, 'med': 8.0, 'maxi': 77, 'pairs_ge': 6, 'p_rang': 0.143}
+G1_plan {'DMAGA': 34, 'med': 8.0, 'maxi': 77, 'pairs_ge': 6, 'p_rang': 0.143}
+G3_code {'DMAGA': 50, 'med': 22.5, 'maxi': 114, 'pairs_ge': 8, 'p_rang': 0.184}
+G3_plan {'DMAGA': 50, 'med': 22.5, 'maxi': 114, 'pairs_ge': 8, 'p_rang': 0.184}
+cohorte_in_G1 {'DMAGA': 7, 'med': 1.5, 'maxi': 24, 'pairs_ge': 5, 'p_rang': 0.122}
+aretes_coh {'DMAGA': 0, 'med': 0.0, 'maxi': 22, 'pairs_ge': 48, 'p_rang': 1.0}
+G1_cohorte {'DMAGA': 0, 'med': 0.0, 'maxi': 17, 'pairs_ge': 48, 'p_rang': 1.0}
+pairs à fenêtre <= 15,4 j (2 x DMAGA) : n 37 cohorte_in_G1>=DMAGA 3
+top cohorte_in_G1 [('9NfKxDft', 24, 65, 33.14), ('HNMhwV9n', 15, 38, 4.12), ('95qmJL2q', 12, 48, 27.93), ('34Rhfubx', 8, 18, 7.74), ('CuDuvotm', 7, 29, 12.38), ('JXTyyT6k', 4, 12, 22.1), ('CLJg4QgT', 4, 13, 5.88), ('FRi5dHta', 4, 11, 51.08)]

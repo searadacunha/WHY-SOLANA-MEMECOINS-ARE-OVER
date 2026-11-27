@@ -1,0 +1,3 @@
+winig fenêtres passées 27 SOL 401.52 médiane 6.06 p 0.0357 nouveaux 44 méd 1.0 p 0.0357 | vault entier SOL 507.926 médiane 6.06 p 0.0357 | rapport {'sol_achete': 401.520390162, 'mediane_sol_passe': 6.059999020999999, 'p_sol': 0.03571428571428571, 'nouveaux_wallets': 44, 'p_new': 0.03571428571428571, 'n_fenetres_passees': 27}
+avatar fenêtres passées 28 SOL 229.28 médiane 6.18 p 0.069 nouveaux 55 méd 1.0 p 0.069 | vault entier SOL 236.56 médiane 6.18 p 0.069 | rapport {'sol_achete': 229.28047037800002, 'mediane_sol_passe': 6.1799995105, 'p_sol': 0.06896551724137931, 'nouveaux_wallets': 55, 'p_new': 0.06896551724137931, 'n_fenetres_passees': 28}
+garde : fini, code 0, pic 68 Mo

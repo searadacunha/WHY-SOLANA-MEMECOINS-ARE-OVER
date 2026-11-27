@@ -1,0 +1,4 @@
+série lue depuis cb_series.csv 15
+{'24 h apres S': 639.69, '24 h apres S sol': 0, '24 h apres S usdc': 639.69, 'avant S': 8.64, 'avant S sol': 8.64, 'avant S usdc': 0.0, 'ensuite': 857.18, 'ensuite sol': 204.52, 'ensuite usdc': 652.66}
+série seule {'avant S': 8.64, '24 h apres S': 639.69, 'ensuite': 104.41}
+total 1505.51

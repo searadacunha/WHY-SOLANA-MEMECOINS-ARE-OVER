@@ -1,0 +1,12 @@
+retrait_plus_7j : achats, ventes, lignes (tel) [(106081.51, 106272.24, 89727)]
+retrait_plus_7j : achats, ventes, lignes (dédoublonné) [(102944.34, 102709.54, 86553)]
+zone de chevauchement 24/07 00:00-05:36:29 : achats, ventes, lignes (tel) [(6450.25, 7310.19, 7178)]
+zone de chevauchement 24/07 00:00-05:36:29 : achats, ventes, lignes (dédoublonné) [(3313.08, 3747.49, 4004)]
+musk_6h_24h : achats, ventes, lignes (tel) [(124493.38, 122466.39, 40196)]
+musk_6h_24h : achats, ventes, lignes (dédoublonné) [(124493.38, 122447.36, 40195)]
+doublons hors zone de chevauchement, par source [('pool', True, 4966, 4966), ('venue', False, 937, 937)]
+vault Raydium : achats SOL, ventes SOL, tx [(772254.1, 771753.0, 355958, 324075, 1266)]
+tx de swap vault sans ligne swap dans trades : n, SOL, kinds [(127539, 98759.1, 1720955641, 1793371182)]
+  kinds de ces tx [('internal', 124821, 96088.0), ('swap_other', 1434, 2547.3), ('lp_remove', 1283, 112.9), ('lp_add', 1, 10.9)]
+écart de C05c : achat vault de l'heure suivante sans ligne swap [('4ooY57RTxbFJuvwjRzXKTmApAcWWTKAYFRYcfpfJ3Zhes7J5PrxrZEa9f8AHoWPpYP8ExiVevS1bbBQFa6MMqnSE', 0.180740383, 1721592546)]
+garde : fini, code 0, pic 497 Mo

@@ -1,0 +1,152 @@
+{
+ "b947.base": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "b947.bsc": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "b947.arbitrum": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "b947.polygon": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "b947.ethereum": {
+  "nonce": 16,
+  "balance_native": 0.005280427320623487,
+  "code_len": 0
+ },
+ "b298.base": {
+  "nonce": 897,
+  "balance_native": 0.000798342570395571,
+  "code_len": 0
+ },
+ "b298.bsc": {
+  "nonce": 95,
+  "balance_native": 0.009463355543979843,
+  "code_len": 0
+ },
+ "b298.arbitrum": {
+  "nonce": 36,
+  "balance_native": 0.00998844058,
+  "code_len": 0
+ },
+ "b298.polygon": {
+  "nonce": 63,
+  "balance_native": 1.26e-13,
+  "code_len": 0
+ },
+ "b298.ethereum": {
+  "nonce": 497,
+  "balance_native": 0.002856008949960136,
+  "code_len": 0
+ },
+ "2d86.base": {
+  "nonce": 2196,
+  "balance_native": 0.29199355865213356,
+  "code_len": 0
+ },
+ "2d86.bsc": {
+  "nonce": 620,
+  "balance_native": 0.4559881004813456,
+  "code_len": 0
+ },
+ "2d86.arbitrum": {
+  "nonce": 366,
+  "balance_native": 0.17158787748027338,
+  "code_len": 0
+ },
+ "2d86.polygon": {
+  "nonce": 10,
+  "balance_native": 99.37761069035167,
+  "code_len": 0
+ },
+ "2d86.ethereum": {
+  "nonce": 20386,
+  "balance_native": 1.7837367688752068,
+  "code_len": 0
+ },
+ "86f9.base": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "86f9.bsc": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "86f9.arbitrum": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "86f9.polygon": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "86f9.ethereum": {
+  "nonce": 23,
+  "balance_native": 0.05882794847620787,
+  "code_len": 0
+ },
+ "relay_4978.base": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "relay_4978.bsc": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "relay_4978.arbitrum": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "relay_4978.polygon": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "relay_4978.ethereum": {
+  "nonce": 8,
+  "balance_native": 1.079615229e-06,
+  "code_len": 0
+ },
+ "mexc_dep_311e.base": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "mexc_dep_311e.bsc": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "mexc_dep_311e.arbitrum": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "mexc_dep_311e.polygon": {
+  "nonce": 0,
+  "balance_native": 0.0,
+  "code_len": 0
+ },
+ "mexc_dep_311e.ethereum": {
+  "nonce": 32,
+  "balance_native": 0.0,
+  "code_len": 0
+ }
+}

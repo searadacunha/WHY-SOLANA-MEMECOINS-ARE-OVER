@@ -1,0 +1,11 @@
+scenario,detection_pct,n_detectes,p_min_median,dmaga_passe,dmaga_p_min,dmaga_mesures
+nul,2.36,5,0.1392,False,0.1557,
+"0,25 R, 1 wallet, 3 h",2.36,5,0.0849,False,0.0849,
+"1 R, 1 wallet, 3 h",2.36,5,0.0236,False,0.0236,
+"2 R, 1 wallet, 3 h",3.3,7,0.0142,False,0.0142,
+"5 R, 1 wallet, 3 h",100.0,212,0.0047,True,0.0047,M7
+"2 R, 25 wallets, 3 h",3.3,7,0.1014,False,0.1038,
+"2 R, 25 wallets, moitié dans un slot",11.32,24,0.0708,False,0.1038,
+"2 R, 5 wallets, 24 h",3.3,7,0.0519,False,0.0519,
+"moyen du contrôle (6 wallets, 6 x lognormale, moitié slot)",3.3,140,0.1132,False,0.1557,
+"fort du contrôle (18 wallets, 25 x lognormale, moitié slot)",7.52,319,0.0472,False,0.1038,

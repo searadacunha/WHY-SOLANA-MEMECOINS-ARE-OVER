@@ -1,0 +1,17 @@
+emp8	classe	transcriptions	autres_fichiers	date_min	date_max	exemples_hors_transcriptions
+9c57d852	inconnue	13	4	2026-10-09	2026-10-30	test_gpt_review.py ; test_gpt_review.py ; test_gpt_review_v7.py ; test_gpt_review_v7.py
+aeb8ab7b	inconnue	7	0	2026-08-07	2026-10-26	
+e3f9bc03	inconnue	3	0	2026-08-02	2026-11-03	
+048735c3	inconnue	1	1	2026-08-17	2026-10-26	.env
+4201833b	inconnue	1	0	2026-08-23	2026-08-23	
+43f54e49	inconnue	0	2	2026-06-25	2026-07-30	detector.log ; run.out
+668dcbcd	pool	24	10	2026-06-27	2026-10-26	ENQUETE_ONCHAIN_PROMPT.md ; RELANCE_PROPRE.md ; REVERIF_PROMPT.md ; reverif_c3.py
+8d0837a9	pool	1	0	2026-10-26	2026-10-26	
+d2ee2f02	pool	1	1	2026-09-29	2026-10-26	.helius_keys
+4b1c52fc	pool	1	1	2026-09-29	2026-10-26	.helius_keys
+5142ccc4	pool	1	1	2026-09-29	2026-10-26	.helius_keys
+89b11db1	service	11	3	2026-06-30	2026-10-26	.env.bak_20260728_avant_ajout_helius ; bot_helius_v2.py ; project_pump_bundle_detector.md
+c9b7d184	service	8	4	2026-05-08	2026-10-26	.env.bak_20260728_avant_ajout_helius ; check_helius.py ; project_dbr_network.md ; project_pump_bundle_detector.md
+541c134e	service	1	1	2026-07-28	2026-10-26	.env.bak_20260728_avant_ajout_helius
+4ffc5871	service	1	0	2026-10-26	2026-10-26	
+1b41221e	service	1	0	2026-10-26	2026-10-26	

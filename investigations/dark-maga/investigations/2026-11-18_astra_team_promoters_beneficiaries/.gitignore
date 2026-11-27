@@ -1,0 +1,2 @@
+# Publiés malgré la règle *.gz du dépôt : reçus RPC figés nécessaires aux tests hors ligne
+!evidence/receipts/*.jsonl.gz

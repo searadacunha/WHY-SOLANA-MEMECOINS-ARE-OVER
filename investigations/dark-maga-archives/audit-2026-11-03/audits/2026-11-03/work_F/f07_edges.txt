@@ -1,0 +1,6 @@
+par how [('ancien', 'gtba', 62491), ('nouveau', 'gtba', 57828), ('ancien', 'tx_balances', 45566), ('nouveau', 'tx_balances', 45566)]
+absentes du nouveau, par how et par étiquette (nouvelle lecture des clés) [('gtba', 4663, 99.43707386194497)]
+absentes, plus fréquentes par src ou dst préfixe JD/DCAK [(4663, 56, 4663)]
+présentes dans le nouveau seul []
+transferts ajoutés au PnL : ancien, nouveau (gtba sans ligne trades, sans (multiple)) [(22853, 22853)]
+garde : fini, code 0, pic 250 Mo

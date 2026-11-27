@@ -1,0 +1,30 @@
+== 9W9b 9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL tx 285 err 0 2024-04-28 06:18:11+00:00 2025-08-26 09:08:42+00:00
+ in {'SOL': 956.521079}
+ out {'SOL': 956.519761}
+ signé par le dépôt 59 programmes {'11111111111111111111111111111111': 59, 'ComputeBudget111111111111111111111111111111': 59}
+ expéditeurs SOL 83 dont >=0.01/1: 48
+ sortie ('SOL', 'H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS') 554.099456 26
+ sortie ('SOL', 'GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE') 187.653597 11
+ sortie ('SOL', '2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm') 161.740859 13
+ sortie ('SOL', 'D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf') 20.402619 2
+ sortie ('SOL', '9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE') 11.440041 1
+ sortie ('SOL', 'FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q') 10.08501 1
+ sortie ('SOL', 'DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo') 8.471968 3
+ sortie ('SOL', '8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF') 1.9651 1
+ sortie ('SOL', '4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw') 0.661111 1
+== Caw4 Caw4RrwkmxqtbLSFzgSs6id3XiFxWQxs2t1mrn5a3mME tx 508 err 0 2024-07-02 18:10:13+00:00 2026-08-05 17:43:11+00:00
+ in {'USDC': 590933.959267, 'SOL': 35.627018}
+ out {'SOL': 35.625489, 'USDC': 590933.959267}
+ signé par le dépôt 85 programmes {'TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA': 82, 'ComputeBudget111111111111111111111111111111': 85, '11111111111111111111111111111111': 3}
+ expéditeurs SOL 57 dont >=0.01/1: 4
+ expéditeurs USDC 66 dont >=0.01/1: 52
+ sortie ('USDC', '9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE') 215403.081624 17
+ sortie ('USDC', 'H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS') 170283.610635 13
+ sortie ('USDC', '2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm') 139516.677458 25
+ sortie ('USDC', 'FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q') 20581.332654 6
+ sortie ('USDC', 'GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE') 19753.349512 7
+ sortie ('USDC', 'D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf') 18692.623001 5
+ sortie ('USDC', '4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw') 3603.23877 3
+ sortie ('USDC', 'DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo') 3100.045613 6
+ sortie ('SOL', '2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm') 35.616209 3
+ sortie ('SOL', '?') 0.00928 82

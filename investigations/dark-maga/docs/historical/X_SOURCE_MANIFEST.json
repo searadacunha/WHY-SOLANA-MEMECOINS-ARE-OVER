@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "created_utc": "2026-11-06",
+  "mint": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+  "source_document": "DMAGA_HISTORICAL_INTELLIGENCE_2026-11-06.md",
+  "note": "Source times and descriptions transcribed from the supplied historical memo, not independently reproduced. Status is evidentiary, not a guilt or fraud score. No new on-chain transaction was verified at import.",
+  "sources": [
+    {
+      "id": "A1",
+      "topic": "original_repost_confusion",
+      "url": "https://x.com/pmarca/status/1814763940410499481",
+      "post_id": "1814763940410499481",
+      "handle": "pmarca",
+      "time_utc": "2024-07-20T20:46:54Z",
+      "status": "source-metadata-reported",
+      "claim": "Repost 1814779160377602331 belongs to DarkMagaCoin; original content/quote needs source review",
+      "related_post_ids": [
+        "1814779160377602331"
+      ]
+    },
+    {
+      "id": "A2",
+      "topic": "earlier_avatar_screenshot",
+      "url": "https://x.com/AutismCapital/status/1815106321810919673",
+      "post_id": "1815106321810919673",
+      "handle": "AutismCapital",
+      "time_utc": "2024-07-21T19:27:24Z",
+      "status": "visual-source-reported",
+      "claim": "Upper bound for observed Musk avatar, NOT exact click time",
+      "related_post_ids": []
+    },
+    {
+      "id": "A3",
+      "topic": "7GVC_jupiter_190SOL_distribution",
+      "url": "https://x.com/JeffroBTC/status/1815291249102119198",
+      "post_id": "1815291249102119198",
+      "handle": "JeffroBTC",
+      "time_utc": "2024-07-22T07:42:14Z",
+      "status": "onchain-unverified",
+      "claim": "190 SOL, 41.2M DMAGA, 20M transferred and satellite funding are social claims",
+      "related_post_ids": []
+    },
+    {
+      "id": "A4",
+      "topic": "noah_four_clusters",
+      "url": "https://x.com/Noah_nftn/status/1815372294426124565",
+      "post_id": "1815372294426124565",
+      "handle": "Noah_nftn",
+      "time_utc": "2024-07-22T13:04:17Z",
+      "status": "cluster-unverified",
+      "claim": "Four claimed groups; same owner per group not established",
+      "related_post_ids": []
+    },
+    {
+      "id": "A5",
+      "topic": "atzj_20_to_60k",
+      "url": "https://x.com/Orkusx/status/1815332020765049139",
+      "post_id": "1815332020765049139",
+      "handle": "Orkusx",
+      "time_utc": "2024-07-22T10:24:15Z",
+      "status": "pnl-unverified",
+      "claim": "Wallet AtZj documented; external 60k claim not reconciled for transfer cost",
+      "related_post_ids": []
+    },
+    {
+      "id": "A6",
+      "topic": "gxzvx_sales_before_avatar_removal",
+      "url": "https://x.com/JLKHatesYou/status/1815778958337602027",
+      "post_id": "1815778958337602027",
+      "handle": "JLKHatesYou",
+      "time_utc": "2024-07-23T16:00:13Z",
+      "status": "onchain-unverified",
+      "claim": "Three pictured sales total $88,771; timing relative to removal unverified",
+      "related_post_ids": []
+    },
+    {
+      "id": "A7",
+      "topic": "retiredi0_rotation_before_avatar",
+      "url": "https://x.com/dissident42069/status/1815088124193579253",
+      "post_id": "1815088124193579253",
+      "handle": "dissident42069",
+      "time_utc": "2024-07-21T18:15:06Z",
+      "status": "source-relation-inconsistent",
+      "claim": "Claimed reply time paradox: contextual post 1815088727250858444 is later than A7; validate relation",
+      "related_post_ids": [
+        "1815088727250858444"
+      ]
+    },
+    {
+      "id": "A8",
+      "topic": "bossie_wallet_promise",
+      "url": "https://x.com/bossiethetroll/status/1815627489802387584",
+      "post_id": "1815627489802387584",
+      "handle": "bossiethetroll",
+      "time_utc": "2024-07-23T05:58:20Z",
+      "status": "wallet-control-unverified",
+      "claim": "Self-claimed wallet control and balance are not signed",
+      "related_post_ids": []
+    },
+    {
+      "id": "A9",
+      "topic": "cristusvictor_day1",
+      "url": "https://x.com/CristusVictor/status/1812482060818186492",
+      "post_id": "1812482060818186492",
+      "handle": "CristusVictor",
+      "time_utc": "2024-07-14T13:39:32Z",
+      "status": "source-reported",
+      "claim": "Public promotion before Musk event, not inside knowledge",
+      "related_post_ids": [
+        "1812491802844471629"
+      ]
+    },
+    {
+      "id": "A10",
+      "topic": "team_october_musk_claim",
+      "url": "https://x.com/DarkMagaCoin/status/1842790031007920519",
+      "post_id": "1842790031007920519",
+      "handle": "DarkMagaCoin",
+      "time_utc": "2024-10-06T04:52:35Z",
+      "status": "claim-unverified",
+      "claim": "Media reprint is not an independent confirmation",
+      "related_post_ids": []
+    },
+    {
+      "id": "A11",
+      "topic": "h3qs_joe_zoomer_comparator",
+      "url": "https://x.com/toupaiwang/status/1818184433498755544",
+      "post_id": "1818184433498755544",
+      "handle": "toupaiwang",
+      "time_utc": "2024-07-30T07:18:43Z",
+      "status": "trading-unverified",
+      "claim": "Promotional list identifies possible comparative tokens; mints need to be resolved",
+      "related_post_ids": []
+    },
+    {
+      "id": "A12",
+      "topic": "ethereum_ticker_homonym",
+      "url": "https://x.com/CryptoGirlAnna/status/1797198462930317356",
+      "post_id": "1797198462930317356",
+      "handle": "CryptoGirlAnna",
+      "time_utc": "2024-06-02T09:27:58Z",
+      "status": "control",
+      "claim": "ETH homonym; exclude from official Solana mint timeline",
+      "related_post_ids": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[S−24h,S): SOL acheté enquête 1075.81, test 956.44 ; lignes de l'enquête absentes du test : 8 lignes, 2 wallets, 119.37 SOL ; écart sur lignes communes 0.00
+[S−96h,S): SOL acheté enquête 1400.70, test 1273.73 ; lignes de l'enquête absentes du test : 13 lignes, 2 wallets, 128.25 SOL ; écart sur lignes communes 0.00
+[création,S): SOL acheté enquête 6398.80, test 6138.68 ; lignes de l'enquête absentes du test : 53 lignes, 2 wallets, 263.50 SOL ; écart sur lignes communes 0.00
+principaux lignes hors test sur 24 h :
+   5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx 117.18 7 ARsCio3NSiKWopRGBqVSKHq6sLToExvXtvrUrt2xUHxa non signataire
+   AD65fgYti96iSSzSPaNazV9Bs29m7JbNomGjG4Cp5WFS 2.19 1 DkoAiPdbsAPVitZxe5RcG4z2sYu4fgkmQSUJ4FG9FFaJ non signataire
+lignes du test absentes de l'enquête sur 24 h : (1, 0.01)
+courbe : jetons M reçus par achat 1193.18 acheteurs 106
+M3 DMAGA : SOL 24 h 956.44, SOL de wallets « nouveaux » 650.1 (166 wallets) ; dont déjà acheteurs sur la courbe 0.0 SOL (0 wallets) ; dont déjà destinataires d'un transfert de jetons avant la fenêtre 0.0 SOL (0 wallets)
+transferts de jetons reçus sur 24 h avant S : wallets 35 M jetons 114.96
+M6 : 654 précoces Raydium ; 106 acheteurs de la courbe, dont 76 hors M6 ; jetons courbe 1193.18 M, dont hors M6 845.72 M

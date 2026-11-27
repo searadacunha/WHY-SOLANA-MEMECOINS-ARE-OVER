@@ -1,0 +1,21 @@
+HTTP/2 200 
+perf: 7402827104
+content-type: image/jpeg
+cache-control: max-age=604800, must-revalidate
+last-modified: Sun, 14 Jul 2024 02:39:55 GMT
+x-transaction-id: 28baab59633c3b6f
+timing-allow-origin: https://twitter.com, https://mobile.twitter.com, https://x.com, https://mobile.x.com, https://lite.x.com
+access-control-allow-origin: *
+access-control-expose-headers: Content-Length
+cross-origin-resource-policy: cross-origin
+strict-transport-security: max-age=631138519; includeSubdomains
+x-content-type-options: nosniff
+accept-ranges: bytes
+date: Wed, 18 Nov 2026 17:05:30 GMT
+x-cache: MISS, MISS
+vary: origin
+x-tw-cdn: FT
+x-served-by: t4_a, cache-pdk-kfty8610046-PDK, cache-cmh1290059-CMH, cache-tw-ZZZ1
+server-timing: x-cache;desc=MISS, x-tw-cdn;desc=FT
+content-length: 10685
+

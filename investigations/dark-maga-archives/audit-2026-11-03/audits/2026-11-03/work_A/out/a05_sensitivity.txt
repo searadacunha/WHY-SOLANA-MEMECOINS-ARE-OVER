@@ -1,0 +1,7 @@
+M1 DMAGA 39.8669 médiane pairs 3.7546 p90 163.0889 rang p 0.1698
+M1v DMAGA 41.0426 médiane pairs 3.3596 p90 149.2381 rang p 0.1651
+M2 DMAGA 9.3706 médiane pairs 1.4635 p90 64.5647 rang p 0.184
+M2v DMAGA 9.8682 médiane pairs 1.4934 p90 64.1566 rang p 0.184
+lost DMAGA 0.111 médiane pairs 0.0496 p90 0.1595 rang p 0.2075
+diff DMAGA 0.0048 médiane pairs 0.0016 p90 0.0336 rang p 0.3585
+tot DMAGA 1075.8137 médiane pairs 352.9438 p90 1446.9685 rang p 0.1792

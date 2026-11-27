@@ -1,0 +1,32 @@
+réserve DMAGA à S-3 h 427.660815613 A3 246.823603606 plus gros achat 24 h 51.610967117 reserves nulles 0
+scénario | détection | p min médian | DMAGA
+nul | 2.4 % (5/212) | 0.139 | (False, 0.1557, [])
+0,25 R, 1 wallet, 3 h | 2.4 % (5/212) | 0.085 | (False, 0.0849, [])
+1 R, 1 wallet, 3 h | 2.4 % (5/212) | 0.024 | (False, 0.0236, [])
+2 R, 1 wallet, 3 h | 3.3 % (7/212) | 0.014 | (False, 0.0142, [])
+5 R, 1 wallet, 3 h | 100.0 % (212/212) | 0.005 | (True, 0.0047, ['M7'])
+2 R, 25 wallets, 3 h | 3.3 % (7/212) | 0.101 | (False, 0.1038, [])
+2 R, 25 wallets, moitié dans un slot | 11.3 % (24/212) | 0.071 | (False, 0.1038, [])
+2 R, 5 wallets, 24 h | 3.3 % (7/212) | 0.052 | (False, 0.0519, [])
+moyen du contrôle (6 wallets, 6 x lognormale, moitié slot) | 3.3 % (140/4240) | 0.113 | (False, 0.1557, [])
+fort du contrôle (18 wallets, 25 x lognormale, moitié slot) | 7.5 % (319/4240) | 0.047 | (False, 0.1038, [])
+facteur : ['M1', 'M2', 'M3', 'M4', 'M5', 'M6', 'M7'] toutes
+[2, 2.4, 3.3, 2.4, 2.4, 2.4, 10.4, 2.8, 11.8]
+[10, 4.7, 6.6, 2.4, 2.4, 9.9, 49.5, 5.7, 55.2]
+[100, 9.4, 9.4, 2.4, 2.4, 51.4, 97.6, 78.3, 100.0]
+[1000, 21.2, 17.5, 2.4, 2.4, 81.1, 99.1, 99.1, 100.0]
+quantile vrai 0.95 1 mesure 0.0 7 mesures indép. 0.01
+quantile vrai 0.975 1 mesure 0.48 7 mesures indép. 3.3
+quantile vrai 0.99 1 mesure 12.0 7 mesures indép. 59.12
+quantile vrai 0.995 1 mesure 34.73 7 mesures indép. 94.95
+quantile vrai 0.999 1 mesure 80.97 7 mesures indép. 100.0
+M1 DMAGA 39.8669 c 35 p 0.1698 rang 36 pct sous 83.4 max pairs 26825.43 nb au max 1 p minimal si dépasse tout 0.00472
+M2 DMAGA 9.3706 c 38 p 0.184 rang 39 pct sous 82.0 max pairs 17040.652 nb au max 1 p minimal si dépasse tout 0.00472
+M3 DMAGA 0.6797 c 50 p 0.2406 rang 51 pct sous 76.3 max pairs 1.0 nb au max 5 p minimal si dépasse tout 0.0283
+M4 DMAGA 0.3079 c 115 p 0.5472 rang 116 pct sous 45.5 max pairs 1.0 nb au max 3 p minimal si dépasse tout 0.0189
+M5 DMAGA 433.7979 c 55 p 0.2642 rang 56 pct sous 73.9 max pairs 16290.909 nb au max 1 p minimal si dépasse tout 0.00472
+M6 DMAGA 0.2046 c 32 p 0.1557 rang 33 pct sous 84.8 max pairs 0.474 nb au max 1 p minimal si dépasse tout 0.00472
+M7 DMAGA 0.1379 c 37 p 0.1792 rang 38 pct sous 82.5 max pairs 4.977 nb au max 1 p minimal si dépasse tout 0.00472
+au-dessus médiane ['M1', 'M2', 'M3', 'M5', 'M6', 'M7'] au-dessus P75 ['M1', 'M2', 'M3', 'M6', 'M7']
+pairs >= DMAGA sur k mesures {0: 48, 1: 61, 2: 50, 3: 28, 4: 10, 5: 7, 6: 7, 7: 0}
+centile moyen DMAGA 0.7549 pairs au-dessus 8 p exploratoire 0.0425

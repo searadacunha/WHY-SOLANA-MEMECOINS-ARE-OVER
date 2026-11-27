@@ -1,0 +1,280 @@
+{
+ "b947": {
+  "first_seen": "2022-05-02 02:35:47",
+  "last_seen": "2025-12-02 08:55:47",
+  "age_days": 1310,
+  "rows": 61,
+  "own_signed_tx": 16,
+  "counterparties": 10,
+  "tokens_distinct": 4,
+  "volume_in": {
+   "stable_usd": 839141.9,
+   "eth": 0.038
+  },
+  "volume_out": {
+   "stable_usd": 839151.9,
+   "eth": 0.013
+  },
+  "activity_rows": {
+   "before_dmaga": 45,
+   "during_dmaga": 6,
+   "after_dmaga": 10
+  },
+  "outflows_stable_eth": 14,
+  "sweeps_to_under_1pct": 7,
+  "median_receipt_to_outflow_h": 0.17,
+  "n_delays": 22,
+  "cex_hot_wallets_tagged": [
+   "KuCoin: Hot Wallet",
+   "MEXC: Hot Wallet"
+  ],
+  "cex_deposits_inferred": [
+   "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "0x311ef6b5953ae605dbe469e6566280f0514d3d2e",
+   "0xe1daccdc81b6f18e18b6704e9214b6e03a0fef1c"
+  ],
+  "bridges": [],
+  "dln_fills_in": 5,
+  "nonce_other_chains": {
+   "base": 0,
+   "bsc": 0,
+   "arbitrum": 0,
+   "polygon": 0,
+   "ethereum": 16
+  }
+ },
+ "b298": {
+  "first_seen": "2020-05-08 12:48:24",
+  "last_seen": "2026-10-19 20:56:11",
+  "age_days": 2355,
+  "rows": 1245,
+  "own_signed_tx": 497,
+  "counterparties": 270,
+  "tokens_distinct": 134,
+  "volume_in": {
+   "stable_usd": 1831488.2,
+   "eth": 441.9952
+  },
+  "volume_out": {
+   "stable_usd": 1831488.22,
+   "eth": 441.8103
+  },
+  "activity_rows": {
+   "before_dmaga": 657,
+   "during_dmaga": 231,
+   "after_dmaga": 357
+  },
+  "outflows_stable_eth": 348,
+  "sweeps_to_under_1pct": 77,
+  "median_receipt_to_outflow_h": 0.05,
+  "n_delays": 224,
+  "cex_hot_wallets_tagged": [
+   "AscendEX: Hot Wallet",
+   "Binance Deposit",
+   "Binance: Deposit Address",
+   "Binance: Hot Wallet",
+   "Bybit: Deposit Address",
+   "Cobo: Custody 1",
+   "Coinbase Exchange: Hot Wallet",
+   "Coinbase: Deposit",
+   "DEPOSIT ADDRESS",
+   "Exchange",
+   "FTX: Deposit Address",
+   "HTX 2",
+   "KuCoin 1",
+   "KuCoin 4",
+   "KuCoin: Hot Wallet",
+   "MEXC 21",
+   "MEXC: Hot Wallet",
+   "Null: 0x000...000",
+   "Stake: Hot Wallet",
+   "Wyvern Exchange v1"
+  ],
+  "cex_deposits_inferred": [
+   "0x100a38ed14c25a5f456557e9e08298bbb14d4b98",
+   "0x311ef6b5953ae605dbe469e6566280f0514d3d2e",
+   "0xe1daccdc81b6f18e18b6704e9214b6e03a0fef1c"
+  ],
+  "bridges": [
+   "0x0439e60f02a8900a951603950d8d4527f400c3f1",
+   "0x22648c12acd87912ea1710357b1302c6a4154ebc",
+   "0x2796317b0ff8538f253012862c06787adfb8ceb6",
+   "0x3154cf16ccdb4c6d922629664174b904d80f2c35",
+   "0x3666f603cc164936c1b87e207f36beba4ac5f18a",
+   "0x401f6c983ea34274ec46f84d70b31c151321188b",
+   "0x470458c91978d2d929704489ad730dc3e3001113",
+   "0x5427fefa711eff984124bfbb1ab6fbf5e3da1820",
+   "0x5cbe98480a790554403694b98bff71a525907f5d",
+   "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251",
+   "0x9a47f3289794e9bbc6a3c571f6d96ad4e7baed16",
+   "0xc564ee9f21ed8a2d8e7e76c085740d5e4c5fafbe",
+   "0xe7351fd770a37282b91d153ee690b63579d6dd7f",
+   "0xe78388b4ce79068e89bf8aa7f218ef6b9ab0e9d0",
+   "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+  ],
+  "dln_fills_in": 22,
+  "nonce_other_chains": {
+   "base": 897,
+   "bsc": 95,
+   "arbitrum": 36,
+   "polygon": 63,
+   "ethereum": 497
+  }
+ },
+ "86f9": {
+  "first_seen": "2024-07-22 10:02:47",
+  "last_seen": "2026-03-29 08:55:23",
+  "age_days": 614,
+  "rows": 72,
+  "own_signed_tx": 23,
+  "counterparties": 11,
+  "tokens_distinct": 6,
+  "volume_in": {
+   "stable_usd": 0,
+   "eth": 25.0448
+  },
+  "volume_out": {
+   "stable_usd": 0,
+   "eth": 24.964
+  },
+  "activity_rows": {
+   "before_dmaga": 0,
+   "during_dmaga": 71,
+   "after_dmaga": 1
+  },
+  "outflows_stable_eth": 12,
+  "sweeps_to_under_1pct": 1,
+  "median_receipt_to_outflow_h": 0.23,
+  "n_delays": 12,
+  "cex_hot_wallets_tagged": [],
+  "cex_deposits_inferred": [],
+  "bridges": [
+   "0xe7351fd770a37282b91d153ee690b63579d6dd7f"
+  ],
+  "dln_fills_in": 2,
+  "nonce_other_chains": {
+   "base": 0,
+   "bsc": 0,
+   "arbitrum": 0,
+   "polygon": 0,
+   "ethereum": 23
+  }
+ },
+ "2d86": {
+  "first_seen": "2021-08-25 01:09:26",
+  "last_seen": "2026-11-05 21:05:59",
+  "age_days": 1898,
+  "rows": 41330,
+  "own_signed_tx": 20384,
+  "counterparties": 5835,
+  "tokens_distinct": 4400,
+  "volume_in": {
+   "stable_usd": 877737.36,
+   "eth": 4681.1743
+  },
+  "volume_out": {
+   "stable_usd": 877737.35,
+   "eth": 4941.3322
+  },
+  "activity_rows": {
+   "before_dmaga": 34044,
+   "during_dmaga": 926,
+   "after_dmaga": 6360
+  },
+  "outflows_stable_eth": 11467,
+  "sweeps_to_under_1pct": 49,
+  "median_receipt_to_outflow_h": 0.13,
+  "n_delays": 5361,
+  "cex_hot_wallets_tagged": [
+   "Binance: Deposit Address",
+   "Binance: Hot Wallet",
+   "Bitrefill: Deposit Address",
+   "ChangeNOW: hot wallet",
+   "ChangeNow: Deposit Address",
+   "FIXEDFLOAT: Deposit Address",
+   "FixedFloat Dep: 0x121...a77",
+   "FixedFloat: Hot Wallet 2",
+   "KuCoin: Hot Wallet",
+   "Null: 0x000...000",
+   "OpenOcean: Exchange V2",
+   "Phemex",
+   "Rollbit: Hot Wallet",
+   "SideShift: Deposit Address",
+   "SideShift: Hot Wallet",
+   "Stake: Hot Wallet",
+   "StockExchangeSpxNasdaqDowJones",
+   "Yeet.com: Hot Wallet"
+  ],
+  "cex_deposits_inferred": [],
+  "bridges": [
+   "0x08c4b60fda8aa6239b7de7d165bcf6f1686cad82",
+   "0x110c2bd9c33f35ade41008ed41379cc175e759e4",
+   "0x49048044d57e1c92a77f79988d21fa8faf74e97e",
+   "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f",
+   "0x50d1c8e131dca8b9226c0a0f78947557497374b3",
+   "0x5d22045daceab03b158031ecb7d9d06fad24609b",
+   "0x604dd02d620633ae427888d41bfd15e38483736e",
+   "0x64192819ac13ef72bf6b5ae239ac672b43a9af08",
+   "0x6571d6be3d8460cf5f7d6711cd9961860029d85f",
+   "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251",
+   "0x80c67432656d59144ceff962e8faf8926599bcf8",
+   "0x8696a96c606bd48872e7e42fcbef41c250e8792a",
+   "0x8a2021a9dfb43d655daeecf8865e4926825a4282",
+   "0xbbbd1bbb4f9b936c3604906d7592a644071de884",
+   "0xc564ee9f21ed8a2d8e7e76c085740d5e4c5fafbe",
+   "0xd9e1bc3d2f5a1e3cc181f51c3b57a5a243aa110b",
+   "0xe039fbbc45cc93c58c167fcbd0c721f56c315a27",
+   "0xe4edb277e41dc89ab076a1f049f4a3efa700bce8",
+   "0xe7351fd770a37282b91d153ee690b63579d6dd7f",
+   "0xe78388b4ce79068e89bf8aa7f218ef6b9ab0e9d0",
+   "0xe91598331a36a78f7fefe277ce7c1915da0afb93",
+   "0xef4fb24ad0916217251f553c0596f8edc630eb66",
+   "0xf70da97812cb96acdf810712aa562db8dfa3dbef"
+  ],
+  "dln_fills_in": 185,
+  "nonce_other_chains": {
+   "base": 2196,
+   "bsc": 620,
+   "arbitrum": 366,
+   "polygon": 10,
+   "ethereum": 20386
+  }
+ },
+ "relay_4978": {
+  "first_seen": "2024-10-01 15:46:11",
+  "last_seen": "2026-05-19 04:28:47",
+  "age_days": 594,
+  "rows": 22,
+  "own_signed_tx": 8,
+  "counterparties": 3,
+  "tokens_distinct": 2,
+  "volume_in": {
+   "stable_usd": 434291.32,
+   "eth": 0.02
+  },
+  "volume_out": {
+   "stable_usd": 434291.33,
+   "eth": 0.0083
+  },
+  "activity_rows": {
+   "before_dmaga": 0,
+   "during_dmaga": 0,
+   "after_dmaga": 22
+  },
+  "outflows_stable_eth": 7,
+  "sweeps_to_under_1pct": 1,
+  "median_receipt_to_outflow_h": 123.45,
+  "n_delays": 3,
+  "cex_hot_wallets_tagged": [],
+  "cex_deposits_inferred": [],
+  "bridges": [],
+  "dln_fills_in": 0,
+  "nonce_other_chains": {
+   "base": 0,
+   "bsc": 0,
+   "arbitrum": 0,
+   "polygon": 0,
+   "ethereum": 8
+  }
+ }
+}

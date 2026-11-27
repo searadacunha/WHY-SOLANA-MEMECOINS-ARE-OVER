@@ -1,0 +1,40 @@
+courbe : wallets avec delta DMAGA, achat brut M, vente brute M [(108, 108, 1400.08, 400.08)]
+achats avant migration (trades) : wallets, M brut [(106, 1193.18)]
+acheteurs courbe hors M6 : n, achat brut M, solde à S M ; dans M6 : n, brut, solde [(False, 76, 845.72, 158.88), (True, 30, 347.45, 129.53)]
+  dont solde à S >= 1 M, hors M6 [(17, 158.88)]
+  groupe de 33 parmi eux : n, solde [(4, 75.53)]
+  sources périmées dans cet ensemble (transferts vers AtZjv3Du) : solde [('AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5', 15.44), ('6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M', 26.65), ('8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh', 23.41), ('99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb', 19.03)]
+transferts 24 h avant S, reçus : M, wallets ; envoyés M [(114.96, 35, 114.91)]
+  solde net positif par wallet (M), wallets [(76.3, 28)]
+  part reçue par le groupe, envoyée par le groupe [(110.2, 110.2)]
+  net par wallet, top [('BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3', 14.0), ('C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae', 12.0), ('HkFSNPjNFUVtdykP8kSyWCKhocY85k1S4MyjXHNqesvv', 6.5), ('ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft', 6.0), ('Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB', 6.0), ('2mW45kXp4Wd4xRkF2mmh5rKdzjnjbJR2o53skWcxGa2d', 6.0)]
+activité: heures listées 0 exemple clés []
+
+achats [S,S+1 h) swaps gelés SOL [(2762.2, 826)]
+G41 virements système 64 exacts 0,5 SOL 15 fenêtre 01:46-02:04 : 13
+  premier 2024-07-14T01:46:23Z dernier 2024-07-14T02:03:38Z autres 0,5 ['2024-11-20T21:53:31Z', '2024-11-22T18:21:40Z']
+  destinataires distincts [(13,)]
+  ayant un achat swap (trades) 6 donc sans achat 7
+  recevant du DMAGA de quelque façon dans mon brut 11
+  sans achat : ['2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT', 'HB16TNghDeEjrSJ7MZw7dTYddLhUq1RXJ3Kxf2RV5Qi8', 'C3i6zfhv9Bvr1QxzNEURzasSvyXPLTeMipS9hJmjGu3L', '8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv', 'HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV', 'HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a', 'FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV']
+  créateur, membres ? dans groupe 11
+  premiers reçus 6t2dz4jm [('2024-06-30T02:57:50Z', '74qFhHyp', 0.331308528), ('2024-06-30T02:59:24Z', 'AtZjv3Du', 5.44), ('2024-07-01T21:47:09Z', 'AtZjv3Du', 3.35)] avant mint s 1206455
+  premiers reçus 8YrEVPQq [('2024-07-14T00:59:41Z', '6t2dz4jm', 1.980417484)] avant mint s 3944
+  premiers reçus 99Xrt5uu [('2024-07-14T01:00:08Z', '6t2dz4jm', 2.088986109), ('2024-07-14T02:10:55Z', '8YrEVPQq', 0.873778464)] avant mint s 3917
+liens SOL entre membres avant le mint (>=0,001 SOL), paires 10
+   2024-04-10T17:02:43Z ('GFpqfjEQ', 'NxtXcmEW') 12
+   2024-05-17T22:04:40Z ('74qFhHyp', 'C7i9beNH') 2
+   2024-05-25T10:26:37Z ('C7i9beNH', 'C7i9beNH') 1
+   2024-05-26T22:31:21Z ('35nAuv6j', '74qFhHyp') 6
+   2024-06-02T22:03:32Z ('35nAuv6j', 'C7i9beNH') 4
+   2024-06-05T10:13:44Z ('74qFhHyp', 'AtZjv3Du') 14
+   2024-06-30T02:57:50Z ('6t2dz4jm', '74qFhHyp') 4
+   2024-06-30T02:59:24Z ('6t2dz4jm', 'AtZjv3Du') 8
+   2024-07-14T00:59:41Z ('6t2dz4jm', '8YrEVPQq') 2
+   2024-07-14T01:00:08Z ('6t2dz4jm', '99Xrt5uu') 2
+composantes SOL pré-mint [7, 2] [['35nAuv6j', '6t2dz4jm', '74qFhHyp', '8YrEVPQq', '99Xrt5uu', 'AtZjv3Du', 'C7i9beNH'], ['GFpqfjEQ', 'NxtXcmEW']]
+financement niveau 0, 12 mois avant le mint, décimales saines : classe, n, SOL, part [('sans_etiquette', 29403, 480, 605403.0, 41.1), ('pool', 49402, 358, 362575.0, 24.6), ('jupiter', 8886, 224, 290384.0, 19.7), ('echange', 2535, 224, 211157.0, 14.3), ('autre', 35, 11, 1995.0, 0.1)]
+sans étiquette : SOL depuis la famille Coinbase non étiquetée (C-03 et D) [(None, 0)]
+sans étiquette : sources à >= 15 wallets, 2024 : n sources, SOL ; part de la classe [(40, 122821.0, 20.3)]
+  top sources sans étiquette (wallets, SOL) [('Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96', 200, 0.0), ('FLiPggWYQyKVTULFWMQjAk26JfK5XRCajfyTmD5weaZ7', 198, 0.0), ('CAvRiGmen8LZuxQTLnRevypwcEmfEYfWi5qjpvrQ3kNi', 69, 0.0), ('2QdhepnKRTLjjSqPL1PtKNwqrUkoLee5Gqs8bvZhRdMv', 50, 4434.0), ('FERjPVNEa7Udq8CEv68h6tPL46Tq7ieE49HrE2wea3XT', 49, 646.0), ('8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj', 45, 1360.0), ('FpCMFDFGYotvufJ7HrFHsWEiiQCGbkLCtwHiDnh7o28Q', 44, 9428.0), ('HVoJWyPbQn4XikG9BY2A8wP27HJQzHAoDnAs1SfsATes', 32, 5365.0)]
+  top sources sans étiquette par SOL [('45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp', 1, 93842.0), ('3B5vXBEYAmV8y13pgvzSi7eLDFS5tRd4pZZZPNuA4Ao2', 28, 42184.0), ('63A99xoxxUVBm8VUguBcJZbYWDLi9AjYvYtB16xWqCzw', 1, 27800.0), ('F5GkEY9zmFLaDtrJZAu8oojgczy2KW1siCtT1GDK8Yru', 29, 27128.0), ('AVzP2GeRmqGphJsMxWoqjpUifPpCret7LqWhD8NWQK49', 4, 16812.0), ('HAsNv9GjHsCrcSN6bRWwsxbH8fD89tZiYY5D6YpaUQLz', 1, 16549.0)]

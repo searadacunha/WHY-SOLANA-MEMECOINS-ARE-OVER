@@ -1,0 +1,7 @@
+groupes 19 [(33, 40, 217.0), (3, 2, 45.3), (2, 1, 36.8), (3, 3, 25.0), (5, 4, 18.3), (2, 1, 17.1), (2, 1, 14.2), (2, 1, 13.0), (3, 2, 11.5), (2, 1, 7.3), (2, 1, 3.3), (3, 2, 3.0), (3, 2, 2.2), (2, 1, 1.8), (2, 3, 1.2), (2, 1, 1.1), (2, 1, 0.0), (2, 1, 0.0), (2, 2, 0.0)]
+arêtes listées 70 absentes du brut 5
+arêtes dans une transaction d'échange 1 [(4, '4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g', '5w2evcxFzfUnCSJDRdwS3Z3Uu2DwtwjZ5NhwbQR3yeAS', 2.0, '3pHR5fXim4ryaSkVaswQq9F7pUzb1jX32S1KiaK1ehuNHSF3TEM2VndNfbP27UdquBnQDETNbjB2q8Y5o621thxL', ['dca'], '4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g')]
+groupes touchés Counter({4: 1})
+groupe 0 : signataire est la source ? 35 sur 35
+composantes du groupe 0 sur ses 40 arêtes 1 nœuds hors liste [] montant min 1.0
+garde : fini, code 0, pic 160 Mo

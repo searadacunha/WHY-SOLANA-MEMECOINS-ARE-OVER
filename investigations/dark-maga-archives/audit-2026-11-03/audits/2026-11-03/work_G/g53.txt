@@ -1,0 +1,6 @@
+blocs 1913 jambes par bloc [(2, 1913)]
+('achat_puis_vente', 'même quantité', 'signataire') 967 marge SOL 9.44
+('vente_puis_achat', 'même quantité', '4ToQp55m') 946 marge SOL 185.41
+tiers entre les jambes : vente_puis_achat|même quantité|4ToQp55m blocs 946 jambes tierces 946 achats tiers SOL 0 ventes tierces SOL 17954.8
+tiers entre les jambes : achat_puis_vente|même quantité|signataire blocs 967 jambes tierces 967 achats tiers SOL 12068.1 ventes tierces SOL 0
+jambes signées par le propriétaire de la jambe 1934 sur 3826

@@ -1,0 +1,38 @@
+{
+ "KLLARY": {
+  "mint": "AUS4wtGQZcb6GPQxU4K8FRVqQMwUx2Q8G7K9JKuUpump",
+  "metadata_account": "J5mBQLgmh4Yo9WZJwXsBqiPb3vMH8qYuL2LUPM2kEL3F",
+  "name": "The Clinton Kill List",
+  "symbol": "KLLARY",
+  "create_signature": "5kGaZNhDcm7PaPFAeYhDYctpQGj5VJ6Y3nEDgxBbR9JZTimHAcFdRVmJkgwvd8VP1wnj6F2rBTgGxjvDo5MK5Chf",
+  "create_slot": 274204490,
+  "create_utc": "2024-06-26 23:59:41",
+  "create_event": {
+   "name": "The Clinton Kill List",
+   "symbol": "KLLARY",
+   "uri": "https://cf-ipfs.com/ipfs/QmdJUHZSFoE8nKHGorEFTqoRokQMZ6sia4exxr3cG54dkX",
+   "mint": "AUS4wtGQZcb6GPQxU4K8FRVqQMwUx2Q8G7K9JKuUpump",
+   "bonding_curve": "GHdBhQLRQiE12mzwQabk7Zn1UWLC1XQZqLKhiz7yhHD7",
+   "user": "DhXfnvDztmE8PaERTjdwc1YwckFCjAEwCdKEFM292NSu"
+  },
+  "event_mint_matches": true
+ },
+ "RETIREDIO": {
+  "mint": "DyKwrqZMEDVHYAd4gn9V8vFioQQg1bVEgGxqbUr5Mkvo",
+  "metadata_account": "9YAAmm87xbjVCHWANjuyNsCeYqjrGmLcuLAFrU8UVmvs",
+  "name": "RETIREDIO",
+  "symbol": "RETIREDIO"
+ },
+ "JOE": {
+  "mint": "JoeXBUqpCJbaNLMTDxC6o1sLTYHsLef32ga2RDRF89m",
+  "metadata_account": "BcBP9zTu3H5rZk3LRjACsX5jhCsi7j5D5ktAz4TUkW1",
+  "name": "JoeCoin",
+  "symbol": "JOE"
+ },
+ "ZOOMER": {
+  "mint": "9MBzpyMRkj2r5nTQZMMnxnCm5j1MAAFSYUtbSKjAF3WU",
+  "metadata_account": "6Gy2BxzipJjqoDudz2c13drBi7chCfNgrw25vPxTnQRx",
+  "name": "Zoomer",
+  "symbol": "ZOOMER"
+ }
+}

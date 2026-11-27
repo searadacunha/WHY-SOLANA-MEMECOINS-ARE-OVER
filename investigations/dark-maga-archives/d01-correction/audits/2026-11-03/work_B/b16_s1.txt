@@ -1,0 +1,42 @@
+lignes B 12800 lignes étude 12800 t max B 1721591997 t max étude 1721591997
+B winig: fenêtres passées 27, début de la plus ancienne 2024-07-18 04:02:29, SOL 400.499, médiane passé 6.050, p 0.0357, nouveaux 44, médiane 1.0, p 0.0357, 5 plus grandes fenêtres SOL [400.5 173.9  87.6  65.8  52.1], p minimal possible 0.0357
+B avatar: fenêtres passées 28, début de la plus ancienne 2024-07-18 04:23:20, SOL 229.142, médiane passé 6.175, p 0.0690, nouveaux 55, médiane 1.0, p 0.0690, 5 plus grandes fenêtres SOL [385.9 229.1 160.4  95.7  76.8], p minimal possible 0.0345
+étude winig: fenêtres passées 27, début de la plus ancienne 2024-07-18 04:02:29, SOL 401.520, médiane passé 6.060, p 0.0357, nouveaux 44, médiane 1.0, p 0.0357, 5 plus grandes fenêtres SOL [401.5 174.   87.8  65.9  52.3], p minimal possible 0.0357
+étude avatar: fenêtres passées 28, début de la plus ancienne 2024-07-18 04:23:20, SOL 229.280, médiane passé 6.180, p 0.0690, nouveaux 55, médiane 1.0, p 0.0690, 5 plus grandes fenêtres SOL [386.9 229.3 160.5  95.8  76.9], p minimal possible 0.0345
+Holm séparé à 4 tests : premier seuil 0,0125, p minimal possible 1/28 = 0,0357 : ne peut pas passer
+Chevauchement des fenêtres winig et avatar : fenêtres de avatar qui recoupent [E_winig−3 h, E_winig) : [13:23,16:23) et [10:23,13:23)
+             sol    n  wallets
+20 15:00     0.4    4        3
+20 16:00     5.3    3        3
+20 17:00     0.6    4        4
+20 18:00     9.6    5        5
+20 19:00     2.7    8        4
+20 20:00     0.3    1        1
+20 21:00     3.6    4        4
+20 22:00     9.9   11        5
+20 23:00     3.0    6        5
+21 00:00     1.8    4        3
+21 01:00    62.8   38       30
+21 02:00    57.1   13        6
+21 03:00    54.0   65       39
+21 04:00    10.9   18       15
+21 05:00    57.4   79       25
+21 06:00    19.4   24       17
+21 07:00     1.4    3        3
+21 08:00     3.5    2        2
+21 09:00     1.1    2        2
+21 11:00     1.1    2        2
+21 12:00    17.7   17       16
+21 13:00   174.7   50       34
+21 14:00   169.1  116       67
+21 15:00    56.6   51       33
+21 16:00   143.3  193      154
+21 17:00    90.7  114       59
+21 18:00    12.6   40       33
+21 19:00  2756.4  826      488
+[Winig−3 h, Winig) : SOL 400.5 acheteurs 102 part du premier 0.248 des 5 premiers 0.507
+Répartition de ces achats dans la fenêtre par tranche de 30 min : {0: 35.5, 1: 140.7, 2: 154.6, 3: 13.1, 4: 43.0, 5: 13.7}
+5 premiers acheteurs : [('JC5MLur7syXrMRvcdX2dFGNtChP9ZEn5ufnuEyj5QS2K', 99.22), ('5xyUFj7a8sP9y7DS93MnVvAfBAW3Sq3hbcfyuhyawSD9', 33.83), ('D12r2UMT4yEhQca9p5aJeKMZYoerpaXEPT4zNTxSQ5ir', 32.95), ('7Mjg8z2FjLAvKGGZmAbz6z52z4K17Lb42QZxhhTtKBdE', 20.87), ('BfkBxeDE29dnFP4ptpEHhQWGL9xMu9LYv7hbUAmzU667', 16.09)]
+EXPLORATOIRE S=16:00 UTC: {'M1': 66.1031, 'M2': 5.2244, 'M3': 0.7215, 'M4': 0.3699, 'M5': 760.6139, 'M6': 0.2081, 'M7': 0.1379} ; p face aux pairs à leur S : {'M1': np.float64(0.1415), 'M2': np.float64(0.2406), 'M3': np.float64(0.1981), 'M4': np.float64(0.4481), 'M5': np.float64(0.1651), 'M6': np.float64(0.1509), 'M7': np.float64(0.1792)}
+EXPLORATOIRE E=Winig 16:02:29: {'M1': 66.1031, 'M2': 5.1858, 'M3': 0.7268, 'M4': 0.3727, 'M5': 783.9763, 'M6': 0.2081, 'M7': 0.1379} ; p face aux pairs à leur S : {'M1': np.float64(0.1415), 'M2': np.float64(0.2453), 'M3': np.float64(0.1981), 'M4': np.float64(0.4434), 'M5': np.float64(0.1604), 'M6': np.float64(0.1509), 'M7': np.float64(0.1792)}
+EXPLORATOIRE S=19:00 (plan): {'M1': 39.8934, 'M2': 9.3758, 'M3': 0.68, 'M4': 0.3083, 'M5': 433.7979, 'M6': 0.2047, 'M7': 0.1379} ; p face aux pairs à leur S : {'M1': np.float64(0.1698), 'M2': np.float64(0.184), 'M3': np.float64(0.2406), 'M4': np.float64(0.5472), 'M5': np.float64(0.2642), 'M6': np.float64(0.1557), 'M7': np.float64(0.1792)}

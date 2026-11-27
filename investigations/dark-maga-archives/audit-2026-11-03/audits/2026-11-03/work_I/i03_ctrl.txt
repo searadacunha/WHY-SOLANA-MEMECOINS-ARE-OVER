@@ -1,0 +1,15 @@
+dépôts 120 tx par dépôt : médiane 110.0 max 300
+dépôts à 300 tx ou plus (coupés par 3 pages) 40
+durée lue, jours : médiane 267.8 p90 871.1 max 1218.7
+expéditeurs SOL >=0,01 : médiane 4.0 p90 30 max 131 ; dépôts avec >=48 : 6 ; >=27 : 14
+expéditeurs USDC/USDT >=1 : dépôts qui en ont 9 médiane parmi eux 1 max 1
+paires 7140 paires où le plafond min(|A|,|B|) atteint 27 : 91 ; atteint 5 : 1485
+top recouvrement [(4, 14, 31, 'B81oFSuo', 'FSecGDLf'), (3, 11, 31, '4knw5Rom', 'FSecGDLf'), (3, 11, 31, '3CgEVgrN', 'FSecGDLf'), (3, 11, 14, '3CgEVgrN', 'B81oFSuo'), (3, 11, 6, '3CgEVgrN', '5GpFo8mz'), (3, 11, 3, '3CgEVgrN', '5q7m3yaq'), (3, 6, 31, '5GpFo8mz', 'FSecGDLf'), (3, 6, 14, '5GpFo8mz', 'B81oFSuo')]
+distribution Counter({0: 6912, 1: 196, 2: 21, 3: 10, 4: 1})
+coefficient recouvrement/min, paires >=5 expéditeurs chacun, top : [(0.5, 3, 11, 6), (0.5, 3, 6, 31), (0.5, 3, 6, 14), (0.4, 2, 32, 5), (0.4, 2, 31, 5), (0.4, 2, 28, 5), (0.4, 2, 14, 5), (0.333, 2, 6, 31)]
+paires >=20 chacun 153 max recouvrement 2 max coef 0.071
+9W9b/Caw4 : coefficient recouvrement/min = 27/48 = 0.562
+croisement SOL(a) x USDC(b) dans le témoin : paires testées 1071 top [(1, 97, 1, '59AYovg1', 'EkbB75aN'), (1, 31, 1, 'FSecGDLf', 'EkbB75aN'), (1, 31, 1, 'FSecGDLf', '8MshP1ip'), (1, 28, 1, 'HpHoFY7m', 'EkbB75aN'), (1, 14, 1, 'B81oFSuo', 'EkbB75aN'), (1, 11, 1, '4knw5Rom', '8MshP1ip')]
+même dépôt, SOL et USDC : recouvrement [(1, 27, 1), (1, 12, 1), (1, 10, 1), (1, 8, 1), (1, 4, 1), (1, 3, 1)]
+expéditeurs à >=3 dépôts [('ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ', 10), ('GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 9), ('BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6', 8), ('2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 8), ('H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS', 8), ('AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS', 7), ('5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9', 7), ('AC5RDfQFmDS1deWZos921JfqscXdByf8BKHs5ACWjtW2', 6), ('RBHdGVfDfMjfU6iUfCb1LczMJcQLx7hGnxbzRsoDNvx', 6), ('53unSgGWqEWANcPYRF35B2Bgf8BkszUtcccKiXwGGLyr', 4), ('G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t', 4), ('Gua5EchG1AXmxzRVsNLsUHrYeTJ8q8SAoQFxjha4Csda', 4)]
+59L2oxym versé dans dépôts témoins (toute somme) : 7 [0.00879588, 0.00124788, 0.01759176, 0.00614888, 0.00513938, 0.00124788, 0.00514099]

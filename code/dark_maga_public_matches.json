@@ -1,0 +1,2617 @@
+[
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/telegram/tg_DMAGACoin_s.html",
+    "kind": "telegram reflink",
+    "sha256": "f65f2dbc44b6aa5261e5d374fa0e1c98f9a6bf63f41ee50f69dfd5a33a9c9b96"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/telegram/tg_s_BARRONTRVMP.html",
+    "kind": "telegram reflink",
+    "sha256": "b68ca8f4306d7cc6c849cd4e54005530d408b65a2d08083b601f932da3b4c944"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/telegram/tg_s_BARRONTRVMP_b20.html",
+    "kind": "telegram reflink",
+    "sha256": "b68ca8f4306d7cc6c849cd4e54005530d408b65a2d08083b601f932da3b4c944"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/telegram/tg_s_DMAGA.html",
+    "kind": "telegram handle",
+    "sha256": "9b0f9a0d4ddc71fabc37e9ab6d15477edbeda97337dc45c44d6df917746c1787"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/telegram/tg_s_DarkMAGAonSOL.html",
+    "kind": "telegram reflink",
+    "sha256": "2d997845bc7dcae8366bfe343af97a7699e309f04d0fcf47904d0374a401e8e9"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1810125422937448549.raw",
+    "kind": "telegram handle",
+    "sha256": "fda6cd5d8670b4e3455e16e3a11f84b1e141d84f94f97d90b11142044bb749b3"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1811606225584366046.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1811816983224021096.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1812658760269144386.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1812659759725597128.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1813008919070974098.raw",
+    "kind": "telegram handle",
+    "sha256": "810d097596f25c660308b304c83bc2e5c75797183b2137d6ada8fdaa600c9dd6"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1813008919070974098.raw",
+    "kind": "telegram reflink",
+    "sha256": "3f0e680ea36012b2eb177d2fa8d82d60e271b9dd9abf7891bd16639dac0430a7"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1814400047477600753.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1814713008020402518.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1814713528281968818.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1814749717785460895.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1814832524507431323.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/x_raw_new/1815314626596512111.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "d779c59afdf1af2761c6671e586715f2a3eb9225eec064d76967f09bd89320e7"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/x_raw_new/1815354636666069036.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "7d775a5961673b5904e8438d94a14d8e22dd8f5122f60905be538bf81eab15c9"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/x_raw_new/1815357723577340268.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "b458f6ec770a42a21a5107fccd236680398aef2111ac120eaf088f9853779e53"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/wb_status_recovered.jsonl",
+    "kind": "telegram handle",
+    "sha256": "810d097596f25c660308b304c83bc2e5c75797183b2137d6ada8fdaa600c9dd6"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/wb_status_recovered.jsonl",
+    "kind": "telegram handle",
+    "sha256": "fda6cd5d8670b4e3455e16e3a11f84b1e141d84f94f97d90b11142044bb749b3"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/data/visual_matches.csv",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/data/visual_matches.csv",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/data/x_posts.jsonl",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/data/x_posts.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/data/x_posts.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/tg_DMAGACoin.html",
+    "kind": "telegram reflink",
+    "sha256": "f65f2dbc44b6aa5261e5d374fa0e1c98f9a6bf63f41ee50f69dfd5a33a9c9b96"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812280242284961807.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812280242284961807.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812444871313002777.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812444871313002777.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812637379745726483.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812637379745726483.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812890975779643447.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812890975779643447.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812963236582445108.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812963236582445108.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812970027035029904.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812970027035029904.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812970030747033898.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812970040129728975.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812970040129728975.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812970194459107765.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812977997751984517.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1812977997751984517.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813007565468614975.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813007565468614975.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813052375231287599.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813052375231287599.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813215869591290214.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813215869591290214.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813291112309608875.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813291112309608875.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813342999780139267.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813342999780139267.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813710777670377869.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813932861101408440.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813932861101408440.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813932865014431815.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813932881775153311.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813932881775153311.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1813933400153260202.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817178224016724404.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817178224016724404.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817300959720251564.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817300959720251564.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817315140229824766.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817315140229824766.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817323710245703949.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817323710245703949.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817430386848252021.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817430386848252021.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817964818202288425.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1817964818202288425.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818202275577508084.fx.json",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818202275577508084.synd.json",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818273409731801396.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818273409731801396.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818273538979283446.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818273538979283446.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818303595009438046.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818303595009438046.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818358054485999925.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818407624628421045.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818407624628421045.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818547153335099428.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818547153335099428.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818714213357174795.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1818714213357174795.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1819149795052642540.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1819149795052642540.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1820189675203485970.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1820189675203485970.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1820232888622735407.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_raw/1820232888622735407.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815014264916136139.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815018789018165702.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815022609529966632.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815071441575977410.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815081312635461770.raw",
+    "kind": "telegram reflink",
+    "sha256": "9dc3e655df353309636815a517ccf6745686af69e34985442b9a76b58210d016"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815128043716796750.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815232676514632129.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815238289063915913.raw",
+    "kind": "telegram reflink",
+    "sha256": "428e25df5062ee9ce77f819dede292509c0f42c8bda1b1a12dbc869ad360a923"
+  },
+  {
+    "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/x_wayback/1815238353224188352.raw",
+    "kind": "telegram reflink",
+    "sha256": "428e25df5062ee9ce77f819dede292509c0f42c8bda1b1a12dbc869ad360a923"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/telegram/tg_DMAGACoin_s.html",
+    "kind": "telegram reflink",
+    "sha256": "f65f2dbc44b6aa5261e5d374fa0e1c98f9a6bf63f41ee50f69dfd5a33a9c9b96"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/telegram/tg_s_BARRONTRVMP.html",
+    "kind": "telegram reflink",
+    "sha256": "b68ca8f4306d7cc6c849cd4e54005530d408b65a2d08083b601f932da3b4c944"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/telegram/tg_s_BARRONTRVMP_b20.html",
+    "kind": "telegram reflink",
+    "sha256": "b68ca8f4306d7cc6c849cd4e54005530d408b65a2d08083b601f932da3b4c944"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/telegram/tg_s_DMAGA.html",
+    "kind": "telegram handle",
+    "sha256": "9b0f9a0d4ddc71fabc37e9ab6d15477edbeda97337dc45c44d6df917746c1787"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/telegram/tg_s_DarkMAGAonSOL.html",
+    "kind": "telegram reflink",
+    "sha256": "2d997845bc7dcae8366bfe343af97a7699e309f04d0fcf47904d0374a401e8e9"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1810125422937448549.raw",
+    "kind": "telegram handle",
+    "sha256": "fda6cd5d8670b4e3455e16e3a11f84b1e141d84f94f97d90b11142044bb749b3"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1811606225584366046.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1811816983224021096.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1812658760269144386.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1812659759725597128.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1813008919070974098.raw",
+    "kind": "telegram handle",
+    "sha256": "810d097596f25c660308b304c83bc2e5c75797183b2137d6ada8fdaa600c9dd6"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1813008919070974098.raw",
+    "kind": "telegram reflink",
+    "sha256": "3f0e680ea36012b2eb177d2fa8d82d60e271b9dd9abf7891bd16639dac0430a7"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1814400047477600753.raw",
+    "kind": "telegram reflink",
+    "sha256": "82b6022d88d59b6315ddaf5a0889bd3697579a64058e08997193f7a9c0204dfc"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1814713008020402518.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1814713528281968818.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1814749717785460895.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1814832524507431323.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/x_raw_new/1815314626596512111.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "d779c59afdf1af2761c6671e586715f2a3eb9225eec064d76967f09bd89320e7"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/x_raw_new/1815354636666069036.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "7d775a5961673b5904e8438d94a14d8e22dd8f5122f60905be538bf81eab15c9"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/x_raw_new/1815357723577340268.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "b458f6ec770a42a21a5107fccd236680398aef2111ac120eaf088f9853779e53"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/wb_status_recovered.jsonl",
+    "kind": "telegram handle",
+    "sha256": "810d097596f25c660308b304c83bc2e5c75797183b2137d6ada8fdaa600c9dd6"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/wb_status_recovered.jsonl",
+    "kind": "telegram handle",
+    "sha256": "fda6cd5d8670b4e3455e16e3a11f84b1e141d84f94f97d90b11142044bb749b3"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/data/visual_matches.csv",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/data/visual_matches.csv",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/data/x_posts.jsonl",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/data/x_posts.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/data/x_posts.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/web/tg_DMAGACoin.html",
+    "kind": "telegram reflink",
+    "sha256": "f65f2dbc44b6aa5261e5d374fa0e1c98f9a6bf63f41ee50f69dfd5a33a9c9b96"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812280242284961807.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812280242284961807.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812444871313002777.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812444871313002777.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812637379745726483.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812637379745726483.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812890975779643447.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812890975779643447.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812963236582445108.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812963236582445108.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812970027035029904.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812970027035029904.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812970030747033898.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812970040129728975.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812970040129728975.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812970194459107765.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812977997751984517.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1812977997751984517.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813007565468614975.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813007565468614975.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813052375231287599.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813052375231287599.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813215869591290214.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813215869591290214.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813291112309608875.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813291112309608875.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813342999780139267.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813342999780139267.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813710777670377869.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813932861101408440.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813932861101408440.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813932865014431815.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813932881775153311.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813932881775153311.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1813933400153260202.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817178224016724404.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817178224016724404.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817300959720251564.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817300959720251564.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817315140229824766.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817315140229824766.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817323710245703949.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817323710245703949.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817430386848252021.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817430386848252021.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817964818202288425.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1817964818202288425.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818202275577508084.fx.json",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818202275577508084.synd.json",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818273409731801396.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818273409731801396.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818273538979283446.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818273538979283446.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818303595009438046.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818303595009438046.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818358054485999925.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818407624628421045.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818407624628421045.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818547153335099428.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818547153335099428.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818714213357174795.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1818714213357174795.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1819149795052642540.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1819149795052642540.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1820189675203485970.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1820189675203485970.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1820232888622735407.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_raw/1820232888622735407.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815014264916136139.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815018789018165702.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815022609529966632.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815071441575977410.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815081312635461770.raw",
+    "kind": "telegram reflink",
+    "sha256": "9dc3e655df353309636815a517ccf6745686af69e34985442b9a76b58210d016"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815128043716796750.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815232676514632129.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815238289063915913.raw",
+    "kind": "telegram reflink",
+    "sha256": "428e25df5062ee9ce77f819dede292509c0f42c8bda1b1a12dbc869ad360a923"
+  },
+  {
+    "path": "investigations/dark-maga-archives/d01-correction/evidence/x_wayback/1815238353224188352.raw",
+    "kind": "telegram reflink",
+    "sha256": "428e25df5062ee9ce77f819dede292509c0f42c8bda1b1a12dbc869ad360a923"
+  },
+  {
+    "path": "investigations/dark-maga/data/visual_matches.csv",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/data/visual_matches.csv",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga/data/x_posts.jsonl",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga/data/x_posts.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/data/x_posts.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga/docs/historical/pass3/DMAGA_PASS3_FINDINGS.md",
+    "kind": "telegram handle",
+    "sha256": "9ce33df1f4fcc690199d4dd3c44830e9ecaef3637ca992e68a8c5ed25d1f1a9e"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/web/tg_DMAGACoin.html",
+    "kind": "telegram reflink",
+    "sha256": "f65f2dbc44b6aa5261e5d374fa0e1c98f9a6bf63f41ee50f69dfd5a33a9c9b96"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812280242284961807.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812280242284961807.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812444871313002777.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812444871313002777.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812637379745726483.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812637379745726483.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812890975779643447.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812890975779643447.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812963236582445108.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812963236582445108.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812970027035029904.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812970027035029904.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812970030747033898.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812970040129728975.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812970040129728975.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812970194459107765.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812977997751984517.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1812977997751984517.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813007565468614975.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813007565468614975.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813052375231287599.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813052375231287599.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813215869591290214.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813215869591290214.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813291112309608875.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813291112309608875.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813342999780139267.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813342999780139267.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "bbee3f5edc33e8a22144ba12fb6f1ca49099b406e1bbe9cd9077bc4f2e4093e2"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813710777670377869.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813932861101408440.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813932861101408440.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813932865014431815.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813932881775153311.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813932881775153311.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1813933400153260202.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817178224016724404.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817178224016724404.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817300959720251564.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817300959720251564.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817315140229824766.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817315140229824766.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817323710245703949.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817323710245703949.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817430386848252021.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817430386848252021.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817964818202288425.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1817964818202288425.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818202275577508084.fx.json",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818202275577508084.synd.json",
+    "kind": "telegram handle",
+    "sha256": "04a7796cb0b19a8508f044de0eeb73af2fe1ff5ae39e0956fef3a0e4af2618ad"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818273409731801396.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818273409731801396.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818273538979283446.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818273538979283446.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818303595009438046.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818303595009438046.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818358054485999925.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818407624628421045.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818407624628421045.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818547153335099428.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818547153335099428.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818714213357174795.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1818714213357174795.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1819149795052642540.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1819149795052642540.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1820189675203485970.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1820189675203485970.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1820232888622735407.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_raw/1820232888622735407.synd.json",
+    "kind": "telegram reflink",
+    "sha256": "4ddf800824190f277f34f475c9badac26be5599b5df5605922c28c946e14c69d"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815014264916136139.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815018789018165702.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815022609529966632.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815071441575977410.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815081312635461770.raw",
+    "kind": "telegram reflink",
+    "sha256": "9dc3e655df353309636815a517ccf6745686af69e34985442b9a76b58210d016"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815128043716796750.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815232676514632129.raw",
+    "kind": "telegram reflink",
+    "sha256": "7ea2454cc3a06740f9c841d8a81ffe666243ea2cb157f9e5207f1f79dee43bdd"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815238289063915913.raw",
+    "kind": "telegram reflink",
+    "sha256": "428e25df5062ee9ce77f819dede292509c0f42c8bda1b1a12dbc869ad360a923"
+  },
+  {
+    "path": "investigations/dark-maga/evidence/x_wayback/1815238353224188352.raw",
+    "kind": "telegram reflink",
+    "sha256": "428e25df5062ee9ce77f819dede292509c0f42c8bda1b1a12dbc869ad360a923"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "00f2764095a04252435c55412cdc1d2badb5a3f582c765bf5f630e2133dd8d30"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "158373214c647cea3ede29a3ea61e973e5b6adb1f25a4236e0c9d5b3f2f9e002"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "1d9ed9c4f01853307f6f98bf4a7ac7cfd063e0486557c2639184db8a18dc4edc"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "2d13610f55f19d408db7baa78a0bda0d6e1ebc046e757c409dca2f03a76271a4"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "3b9f04973ceca25c02c5ce4e70df4e1a12e3958d89762515a8516567cfdf0cec"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "56df7ed2a1690e372e7a5c1f1b3f3683b1e2f7967c42ac4bf16cad2f8168106f"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "5d100e92994141128734285b145532034c5d194f0bd0e3ba3aa44976baa9c4d3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "5e60e801e07c4d21503962ebbe57cd4c9caf2ef32cb696adbe0d508ae07e0e2f"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "695ef1ff8b1009502d6a9557a823d27a21f5b9097689a58eed0ff9276be22b8d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "74896a628e337b4ee8146511389a11e4bb5e6c8e4ced11ce937104a2bfc9ddd3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "75d52f8af3ac04127aa922e7ba0af29c0cd596d866374828f0ed910c7a3295c9"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "76bc0521f9b430fdd108791141a1aea2424135d9c9478915212ec5cdecbfdc19"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "7d1e4b1faaf1b2336f79d20e1258efad8bd90da55d631e6d14ebe2c26a359f6e"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "7e7ea107275f168e930a2e103a633555db4580f72d457f3d7898d40d4abbc62a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "c4adaed7789b6ae3c487bc6dc519a38223fca89476e8a2f3cc1f11771741721d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "dcd4f42b6c6a35c567400433a0629e7440252155084a4661502857c41c2672c0"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "ed74fe9889ea1b164c6c5b7cc78a3e43dca0a24a58a37c4e0a342b3cb8d08ab1"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "f0eed51be25a25bc66a85f09fadbce421af16772c4377cc7a106d19d5d2a1e36"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "f2b66006aecbb3891aec24a8e7c1245289d2e558131050d56800152e6fabd3dc"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "f4925cd2224ff060ff6c65649bc17a0f4cf8983de25db9aeec22f8adde2ead1c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-05_evm-recipient-deeptrace/evidence/2d86_full_history.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "fae4d2e0bb27183cb13b0d85970ed8b59dd55c0902c1efed16d16da667e286f4"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_debridge_base_bsc_solana/data/base_0xb298_ledger.csv",
+    "kind": "api key (32 hex)",
+    "sha256": "d1ca66e7dcb0aca66f344f680886c8c731aded8b6eb8c7ee43461390b63b31c9"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "105be7583c96941ce253c42e96e45e5c5a025c25c73c4080e0ad96b15176b8c7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "1238fc5b626905dd571a1996a23c4a0f2392690bc315cca2ef75bc3f1e458fc7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "16cfdf58b95df6f2e979dddc82afedaa13d0c57f902837dbe4f4ce5ab9bbd640"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "176abf786964d743e99f629befbbdfff9e945968eb11ad5ed00059b0020ebe9d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "205db1dfef80377594b43357fe2534bfc71cdfd7db873420cd132927d1c618ee"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "2975a28af3fbd7ed7f9dc9b658eacbda874c048be56bd2c47e0b5989d94bcd3d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "2bfc7ada67594e99ebc9524ab4020b50191e4b0c5556393b73529899e80cfdab"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "2d5e21618c16dd676a46e4d42a6b9f7a16434b527bfc8dff28ab14917661070b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "30f50cbd3a29b10e9f2cb8fc793843e0d156103568ca7f1d3794fa2411b96d41"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "370c05cdede1408777224365d703890fa870429bbe4a24e59beae81cf3f00165"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3896727cf4a5a07d64f29a7df58d493e72104b9a63e7f50df8609ccb58b0e956"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "42ce1d50ea94d61e8923791bf98325e632d7d23159ad4a21abe394d5c34fe01a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "4b12df4f45e1b5551e76303217b1a67ca5350afccaf0f65a7430aa4e0698a935"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "52455c69bf40b809ecfc362e277d487e6a4ebd6a0b5fc7fbd9892dee068606fe"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "58da7198aeea9b5e2ba5ea719191e6aa78b5169326ba15ae829513b6ee910898"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "5dfec3c52308257906944fd392f8de7eeb8f4a04158e2d5112adacaf5c81d1c2"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "62164b489bcc0c21e2b790e284723ad178539823a1e44f705fbe3a6d1d6d6d39"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "6e64daaeaacfae06b7e367d0f566fe2a70d11bbbe46e70904ff7da26d4533c47"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "72897f90bf7d344988ef5f63884b0f6316a082154982bfb84d502b3992eb94c6"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7ebfc8c56b47aa3d91d4b3419739a72f29a5241aab654f85587eabfb96d69774"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "89355f70ce44eccf41170d5d3443b5276a9bda7810d9ee225483abe990170add"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8af2b9433eb7d9465ea86a8309472ae2cd90a4ca83ca968d62bda29917e659b0"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8e7e4b28e1fc58580a4ed1e3377f3f04fc7a59037b67567a43ed3b9a40574088"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "950eac3fa6972e15657d57a83bfa2656c8042bb451310bae2b1265da34c878ab"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "98e48519896884b2ac2b449756efcb3e02d881f52c72b89ae502bd18172b5c86"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "a4b00ea00bfb3f4c9366e43644036c868b83d760f9a1092dc33b380b85977594"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c1fcc4b6804a7eb6a2a2132e15c195a3f401c0b8d0c995d5f469d391178254ef"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c6df3434fc9ce1cdd0f06f8fd155d0ac75dba5513e404d3204976e3a2688ef12"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c9cf034c8f7c90381546d2d34bd46d8a7f5c8da038d90b546372eb6819900ef0"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c9f28f1aac08c7520f8b50f58e4fb3c6e773681ce5029e9f5c2895af5624b811"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "cd318f89b1e9f2dca1d83053b8f31c0faf051ede20105194e8453f80a3d2c5e3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "d09f4448a31152e0de12ae82e924bd44354cfc422ff0375f47bec39685aea1d7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "e46f65800839322ffdd9730e844c56fdbbb9d8f3782eeeddc0dfbb4abe0c0972"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "e65a8c6573e3a236ba3b8acd58abc78446170efb8677bc1f7eba42da5e6685b5"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "e6a0fc6f1e4ee528404979ca1a3d692bdb5f3fa7567bb7634787f63808f3973c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "fad82b1e57464b061d1f08ad174be8019e20b266f3d9a8f616767b3088d5e2f5"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "02b21fb9be1392f89e9fca43af039f1fadbaf3a08ec27f2b997902f5d0ec99c6"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "05bcbba6a8c18fc9a0a81228f88440661888372155fec54743c851ea7644516c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "073fd9bf805e3f16f7dce739bcf9d1e49006046a337f55cf2932eac89eb37f22"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "07b896fa99bcda299b639a2abdce4934a8299872047381a6e4092263ddc2eb41"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "07dc6996e0baee359f76e330d4974d8f90f640c29267edfba605a52cf3252e39"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "0833f657ebf33a4e13c6679cd881948e4df3006f32ab7b87ea4ee8ec1eb393bd"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "0a3ba256e5ae885c7fda4e3e831ac01bec90382478d2f5fef06d6f0b0eba34dc"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "0f4af9949ea16c8b09317a5f35bc624e1e2a088807e798601f6e615e90b5ad7c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "12a00819f3a235bd6a75c98f8e6a6da99ff57f169523438a830ca61edc78c513"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "12c02f3b6c1735b2d32d71f7e8719582cd7041ca110fc485c56cb3b202535636"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "15332bea352a5560eb75a967ffd8bbd491d0469b71cfc26643365d299eb47024"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "158726346d9063d40953cd5cdceb50568a3c9dbcf752bf35e4378db1a1ee2a7b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "166295366fd2c0014528f3a3f67ac6efe00f5de1508d3cf51530e91d767e5b7f"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "1b1bf4b58f4c8313e3a41c0dd2508cb9c5bea340623277e12c31ff8c62fce09c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "1b4bfa569ed5a4e8601280d6cd64cf2cad801227bfa7c9650269ea90d9692086"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "1cb584f4fc7530e6548cc40d9be14bf9be0688b8d7ff3073456efb421bbe5d33"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "1cfb0510ce21c757416008ffe043c3c3309234843726e3049c129af3592c78d5"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "203b1d37f6ea3f32f4b0c5dce9ea79b12bf6f941f8024ba1b81f28b98c60d503"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "2054843196c356966d4de4e2fe450643b326805b886ddf338dd973908a9fa25c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "205b60baac57aab61dd34e135c4fc5a5598fe6f48fefe2df165f827768e5239b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "2328049761064beaed1dc9adf8d0a4c3dc47dd56c3cb9bb8b38ab77127dcba41"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "234a28fbd4a4d4f0ecf1b0e3b991bb879407c6692957a3f98eefa70591fd4e0e"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "23810467d9b714ab29fd1ca3c0a67f7886b2b5a7d0e340dab8489fc8167f87d7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "23d7c333e0c13f4672093048bcccd0905d90241649832e1ba48a0e8b2a631a2a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "24367c232f8ae95fadecde3d52d07660610e2945902c9b7fa7a4d72f713035a9"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "2777f7193e473760c1c7588847ba1eb806da70514fa679a59349d98f31c5f198"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "2b62a1dfa5b4e8c9b07b4be62101892c68d446033f62c49b64401d54ced75fcd"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "325c44d0dabbf2be96f9df13a8ec795cc8a76daa7cdf060bf2cae51949ecab84"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3456ed5bb799402c980edb10e5ea1c4ade663138b9e1c6a2c03941dd60cad09a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "349fee7c5e3f1db19d58397d24d4e399d1da2dc65cbf7ca11001b17e39a716e7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "373498333b8849a3c1c21110c6df4cd9099f1609107b549e9aaa8e235027ee4a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "389ef05985f73f9bb32e301e3e585a702c5294197687961b964978dde73deace"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3921d8808c5e41c00be4286e27538cd153714c903d02ae5453ffed25bbcb0553"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3957364407454b9a18ef47a2a6646830f1411097e2a03c1f35cf6b1c05f594a3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3bc8fc5bed8eb98b17b12804b1ee8a947e1a7f2ead0d3ffe7226545cea9008c8"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3f49c2e9775d15dd3b1260f4bcdd121369ab0d16734f48456df4be12fb2eaa15"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3f788da9ddf4a13a96bbfc618b30868d6f308916447ac54565cadd18cce33825"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "3fc96b3f065537ae5df04a49450a44a77814508230de6d8a8f56d503c8bb66d8"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "42ed03cc73392fd6d77697f8712add862658f79d6935ed826c1ac6ad36a84de5"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "42ff3b67c393e89aa64fc8e8d6b70f58601815a5cf7f1788019c5946f9e877ae"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "43c14d98ba7144934aed3ad6b763d9f49f0853f9ccbfdb47cacc074ba0baeb0d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "44869b6b8e87d623f4309d68ee75a39b609035939f7fc1fba825e31c4781db3c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "4772075b445df338990f99962d3999474e0488a234f617f904780dff589bcb11"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "481a093a5e3bf0a5f8e84ab647f2fea003c721bf6c8de92f5e6ff88e6c227de2"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "4ff73ec914de4334709676de48b34201ac139f4c85c683cfb3900c06d70dc146"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "50e38416af10b90d2dd9dfe2834c9affd70910ccc72feea41b6c4160819d0009"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "52188e5fa017568919e303aced8f35a2e8d6e862492bca3803e74a54f8a56642"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "522662ab0449bbcecca5f9d0965abb51ce5778d98dc0137b08ca8fa837e1e100"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "52d0baf545ba2834d94a6e1443a468532597ba12bc037fc3d01063b1af8274a1"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "54a808b199915c4c0f2504cc0dadddda8a43e0ec8130516937f32b8a18b8eb00"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "5512ffd1b652c60f68d8bfc50fc0e836d4dab541ea7d2c3c7d16c62864122ffe"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "58284a00621182ba2a5bca79a7e190642be521b2ac93fe0b754b1cb00e08e557"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "5c5477e62d888158d0ccc21fd0d53840ca954139aed066f087aa4669f8e53134"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "5f83b3447b15f29cc425c889588969e7f219d56f32fa6fca647b0908b7c53b0b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "5fff86f11fca292e64fc52240715159aaf6bb5d4c5cbea75168df8220ffafe78"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "636814fc98a12f1ee7e15456295b8eac50f99de87be7bfb9b1ae8422908b44b4"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "6721ab306e351254075092d3f25c77e7aae6206141c5a5251a3403f7cc926260"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "6737ada25f16cb2c60f2a7eb817443eba49b6f050cc48d63a2e9e451fb165d45"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "6d7c22d29c4b75370f4e736874e365efa7cef9f6b8df810e876d1140c10eca07"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "6db87b71979352dc0952e8f9f6c8be4bee4ba5816c5d9cd045defd36291c8a52"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "6e63602fc3431c4c02652de692973484578cefe9b9574e164c35f43d457655ff"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "6ed97a8c358a36ee61f9306c49e94fc154982e519cf2db0db1e5d638691794b0"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "701231ea207e60c9bcd630646e20b9c7247a4ae6227b6a3cee57c54c2a8254c1"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "71d53bf98e68b14529f221f3ecdb3b8be19fcc45739578e14d38b257d2cfafe2"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7369140c226cc773c411fa7a4c4a6bf2db503004fe455664525b295aefc6398b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7518523e2f16c92343bdab3322525e34959bf4643ab413326fdc6523d192f5c8"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "752b7f45e14545fc651ae84f1a90091e0fb2bf7af228dcef4868f065b93d1b53"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "754e957fc0ae32562844683a00e85ac2358fceb36af6840e3a7038ae42fbf0ab"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "77caeb63642645ed3dcc3af02492971d2db820b8bc027be4294d5eec9dc71cb2"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7806a3ddcee0ce3f17b3165bec54b1f61667bd64e7468027a113d49f0772aaa7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7a1170484512ac9b2b7dab394bb5d0129195f92e8fd1d6d6d54086499d92d666"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7c72f03f2b9f5e57795d3a41f86a60d5aa63e01760e1ea484be5de987415eba7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7d2bd8ef3a1702deb65b749b39f13be124d6251e43a5dee47af356a72dbd385c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7eecbe73638fb7033b4e54bfa201fccc5c5912777dbfec08603285491db00cef"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "7f94b0d22e5e11a1cfa1afbd180e0deb88e9b3c0899a2b21ccca1047300fe864"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "80b42c26ee0b7dc976416e42acb48e035adca99b5b9288bbd4ea470fc66e8f3b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8100f10fd2f062778cace40c1fdc12c0ec812ccf231e5c7a46ff7fffdb87f729"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "84a15d78d25c7285462f4a81023ecfe24e34c50b03049bd444be21b652fba71a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "870245aee839ba8652a7046a197c3f570a4182c87968295bca335f7172a79dce"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "879352944650e4b02d2b5229568c3ac25b26645577acf4cda48287b5e53f6e64"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "87a1dfb65789539ed254230161bee9beec8ca621c7e5dab286e3cc9a67396bd2"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "87aa3dc17394a5d54c57a8e01921c04391c2b6a9f22355c3257b21a29b9c9362"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "87bf2e23b77d2e9492ca2d0c62d29760e369bc54c88f1d9f8c7299bbe32d64e4"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "87d2098c8d957c95d5a7f71a6fa90e06d54893e510d6fa042aa10f66f8e14cb4"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "88dce130c51bc5bb52b7731d2b4e642f7bb6140521ebc0c6eed6e48fb2876cd8"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8a5aa48844e07908020201e9c8a993b060ead2f4f5b08256adcd57eb8632688f"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8b871c644cb6d1725359a2ac1f1e288aa06b25e7d8496393dc5cc7188a19452f"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8c9153101a9120fef3b0841813520004630ffe395f4e309880b731094a8ddd2d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8f6c213593ce2330eb78c2655a14fbef617b71bcf3db599b1fa4b494333b2112"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "8fe501c903f62d7cc4768346ae36876f0c5ba4c8c3365cece42b0904a06e4796"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "90a32fd50e56b1c06c10db5488cb21189fc6f0a8d4135c0d7cb96b839d733a2b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "90a52f32de432ee75fca17bffc98b8e6bcecb4448b06a01145515271cebbec4b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "90bbc1dadffad363c196b0ca98f07e26d31f7e21da049b8f4c26f07dc3ef40f2"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "91204e88c5f71e8abb2d2a851a6b92822145b222af55257e0a6d830161764632"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "95e8ac12af80e80ea50d48a63f42851e4cd0e8a536326f5c9224358da4b82725"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "9668767f49c0d556e2f682a74719020567fdc2d099423a54567254db70ab32c1"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "97aaf72b7e5b6cfbddc60de5af92f3605700c49b099125ea2a6ec6cdf73251df"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "98f3bcea3615ae5a9372b1298fe977b48613308d37ed6f5584cad2ece8267b9f"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "991e8eda9e33a1bb2dfd09481941cb58e86317efcd1ed7e15e200b0c92f9004c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "992fca88245e423f0cdc820cbdf01f101a4092fe72b40f60cd4df6e465c71ce6"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "99be4c8c015bfa894336fa231a4e75ac6e04dfd3c3e61252da279e0107b9d2f5"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "9bfe34fcaca22641b20f35ade28d8ed6bcb7f8e3ba5830916bdc4725404a53d7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "9c9b4f80e7b2b129eea3fa060f0c96b784442fa53934408a3b6ce71b84b02157"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "9f921bc63952b4eed650cf0750d16e74e4aa2224a363f9c94599c1db2d5674dd"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "a082a0a0a4368efd6f92aba4de5d0bc99922d6ff7b54f6af969b4f3d5cc5bc9e"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "a089f32551656bfb617c4350f0b5dd909bc885078a9bb6f19f2b3bdcbb03d6e3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "a30e2574f169e22dca6fc1a94addab362370c5994d94e4b1e27a39bc4049139c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "a51a1b96f28c6591a359f14870828a4b542f66648bf41d4a57938f8790ffcae8"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "a7d7e8a7858b298be22652a003edf09c34322641468fbe989bb9f0cb9d42212d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "a8c485d51c4e357dfc401a450396c352221ae871c2ddb2cdd7d982034ae0990d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "aa0345734138b5fb18aa4fe5bd0a9d0bbb8bd5b09e576dfc563a697e08763f6d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "aa72a2e30ea77b0884d18cc1a82c6aac650174db82b1278ac24370cec327cad7"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "aca2170f755ec5ab106eda0d8df3b6b4c418abea9a2b603c7f2bed0c6eb154fa"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "ad7e98841168b57c97936c573aae649422675935366c3d6c7db1bf875e4a407b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "af969a5e248a11a7c5ae500cef5a39fd9e299587ce404f915a1a0cabf39ded6a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b0c84c20a91e6fdb33c378f4ec3e8852f0d6795c3e60282ffb5b2ffd1f0c475e"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b2627a65872faf9e8e6ffab1ab4c8a3db55d7ff082c4a73fd11122acdfc3ba09"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b3030c5e6fe6f4b58ec5bbecd09a077ca0f6931d7203096bc7c2a8cef17b520c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b47f18606ea62181405781ce9b06e3e8f874584b8891e7e4ada96db54bccf948"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b75dc7f17921ca727570e97d0004823d3d477943f1b1d8b4cb6599ffd5cf30a5"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b8ae007d4a9b5113553c929e6ad8ef7b265aeefa8bc435792a1de15463ab27ac"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b9ae31337df58a320204ecd7584a713fa74567a04cc5149c84971836f2e69560"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b9e8d50292aec4483c76e369cde0dbd4ea5a7c94535252f3d29a1625a8c46c42"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "bab50a507b092912c7718485689ff7d9fbd984996220d2df78cb2898fb96e44a"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "bc1c0a5a088b5e4775d2bf23bb5dac4c474271c01ddaba78916a0bb82f695257"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "be73817725d9dc5a5c236e746f88aa31573d718dda2ca3f9e8d7e93a81548a20"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c087a7d3f934b9d0a5c987d9656f7039fdd2d1c5c0406c82a1796c3ec36799ca"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c15e6e0c7d607220e7a174297cf85ab88eb194c1eedd48771359fcc41f1267dc"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c21c462423f6ee3b6e7efd9a132ebffac92e852424f3a879e9bd2b81d8b602af"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c2e86dfaa6e914acedd03ddaacaa57f32b9dd11b857754123686871176f1eff0"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c49eb4462a053d7cbfa1aa9fade5935c977f6bc4425f6cdade2fcd4409e4c0ec"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c4f9eac4469684ba0aade282e9afd277234b47cda8549cabd93819a695ab1f08"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c54a61846e57e08c5974fc62028d008d6a7e3f69910c08b6a1632e99808fb4d3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c572c00a47ec1c1c8ec21b5c402549de84a1b13400e882508cf6733391d24242"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c88f95624b22c6ea8880815f0c49968cad5837465e0b8c91da4a586f5cb346d3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "c97a394d576e74f67164b6ad30973e6bf9a7abf1fd1fdcc5ab53d4716912f39d"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "cd6fd8c8e76944d51e9bf43e867edd1c174f921fa6ae075685543bcb37c910d1"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "cd85317c93ae3e47cf3ee03856e362fb5afb30b0fc4cdec048925fab9e3affcc"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "cef13c87f92ebac4cd18677037f65e6ee408d860dfb5cdfe59fe6451156777f2"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "cfe4b6ee6bfe580f9a9cc9fb54d11e405d7ff52bb381c0d1a38da7752efe39bd"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "d0c3d8bfa6a0510e0fd1d306bf2db794f0e4ba59a308922b9ae7840d09d77022"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "d151b5ef602f18339b0a9788f20714378bf175daad0582168c862d75e75d94e5"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "d28c4c9f69ecee0ec6ce447e45ea1591a1b38c0d013a1ae28c8b2f877503c5aa"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "dbcb39dd700e084df339899d334d759efc02ac7a4b3257aea97a68dc3b769a81"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "dbd8aaf20b07dc4e0d150f2688384316ce834691b0219dd879e184563ba0b22e"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "e1084bad91d3bb2d984f369d92b17a9f44ccf449b4cbd4fc765b202d46f78cc3"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "e4004851d8238d7872aa7beb1c0588cedbaae5d62fe392b79385ed20ee962694"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "e79dee2d82188d5e61294e2b36744faf003733a92f17e7bedf226415ce522ba6"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "ebd96edbd93d37a04ea68467675cbcae12425a901b4024f1dcde9e771cb184a0"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "ebf6c5e097ee695e58047b6cf3baf1a02389a0da11c2b402fea03b38aaff5ab0"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f034ef1ea463e94944d19bc8372803a8ed3df686502d8d86ef465cb7dff8186c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f1656e04f7420d8122646bf7fab9c67385bc3baf374c0bd9d65a9aeab33f8210"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f36b0ed9a6e243f9742517d76166f40246ab8de88897068fd5ea9d421563c76f"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f3c3b3445c2801304d4da4f181372b2b348a171561fc30160b36006a700c9c03"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f43e37b8140758817291d9aedf6a41c5ecfcecfd55342213992b0680b1718c06"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f5da7a7578cedf8ffa596237276a9a76958dae26b3248816da0896cabddb4366"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f6b01be581d1efdc9c80aaec258cda48b77014e93737119a90727396face3a26"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f7956509d3e21bc55f7e9999d3fb9d95da26e2f5ad4bbe0fc787d0bb1a6276fd"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f7a120c2c2a6edbf205a226332abfcd5f55d4be7f178b61fb7e4946be17bb911"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "f93cdd99c3c251b39b0839dae4d236961d720f9b7593942c4be4ac85aa6dfc81"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "fa3091e551134171c3f1cda5756589fbcddeb3f09d744b6d364278d8119fbb6c"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "fb6b605a13495189b5c8294d554cb09f1305822324adb623a581631f5775a806"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "fedf26e99602460d0cabc6c400969db0a32eb430de712f89a6555031c9ca9f79"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_9Sxm_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "ffc626acb9e44b392a1cd08f343d693a2c30d9182ef3f64caa21031dd2841349"
+  },
+  {
+    "path": "investigations/dark-maga/data/historical_x_pass2/DMAGA_X_ARCHIVE.part-003.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "d8faaabc395b9e9ce65f8eefadf94c5253597453714ca7e3709edc1a5f2664d5"
+  },
+  {
+    "path": "investigations/dark-maga/data/historical_x_pass2/DMAGA_X_ARCHIVE.part-005.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "d779c59afdf1af2761c6671e586715f2a3eb9225eec064d76967f09bd89320e7"
+  },
+  {
+    "path": "investigations/dark-maga/data/historical_x_pass3/DMAGA_PASS3_DELTA.part-004.jsonl",
+    "kind": "telegram reflink",
+    "sha256": "276a1990e28ed680517370aec883b2b4eb5cf00475400a4979a421aa92508bfb"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_debridge_base_bsc_solana/evidence/fixtures/sol/Hp2BtvnZvw7YxbQvSehqb1LC5jBSX1aLApzHQnDVwf3q.jsonl",
+    "kind": "api key (32 hex)",
+    "sha256": "de408413c87a1f99d5af45a8391e74165540f2ff23d8b8b343451c80df4db1b6"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "kind": "telegram bot token",
+    "sha256": "b8d511b99e9a85eb1e5ce161dfb3cf1fa52c99310d36010b6fee5726979af2ec"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/evidence/x_hist/1818184433498755544.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "a60171186126e81fff27d88f9c1a71db82250230b8a61b8eb7250bd760491a3b"
+  },
+  {
+    "path": "investigations/dark-maga/investigations/2026-11-06_historical_replay/evidence/x_hist/1818184433498755544.fx.json",
+    "kind": "telegram reflink",
+    "sha256": "1dca94e385a8b9849be92e2bd2029abc8fa09f1d559b527b2a7f2f451d8868ca"
+  }
+]

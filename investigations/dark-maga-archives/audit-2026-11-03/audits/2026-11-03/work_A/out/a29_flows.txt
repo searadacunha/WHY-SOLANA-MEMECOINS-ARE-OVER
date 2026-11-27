@@ -1,0 +1,12 @@
+requêtes, tronquées [(('dmaga_all', 'n'), 1219), (('dmaga_all', 'tronque'), 20), (('first_in', 'n'), 1219), (('first_in', 'tronque'), 819), (('in_before', 'n'), 1219), (('in_before', 'tronque'), 279), (('sol_out_after', 'n'), 1219), (('sol_out_after', 'tronque'), 318), (('usdc_out_after', 'n'), 1219), (('usdc_out_after', 'tronque'), 98), (('usdt_out_after', 'n'), 1219), (('usdt_out_after', 'tronque'), 53)]
+membres tracés 32 sur 33
+C36 sans filtre : financeur dans le groupe 11 G41 10
+C36 avec >= 0,01 SOL : financeur dans le groupe 11 G41 10 premier différent 4
+  premiers financeurs poussière [('9u5JKgWd', 'FeH4RBx9', '0.00203928', '6aWmxmeQ', '3.29'), ('BuBXTWEC', 'HKXb8Lfy', '0.00203928', 'C73Yv9iH', '3'), ('Ei5yGz8d', 'RRbvsvJH', '0.00203928', '3nMFwZXw', '2.326807054'), ('GPMYCuus', '74qFhHyp', '0.00203928', '35nAuv6j', '0.5')]
+  rapport {'dans_le_groupe': 11, 'g41': 10, 'n': 32}
+C28 premier reçu du créateur GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE Coinbase 3 0.5 1720920743 écart au mint (s) 1982 signature 5Ys6ggx4Fr3eYA4fdaDwowiuZg4HEbcRd6MYcPfspDX3g9KzLKMuKVh7ukUNVy3bpZwwhFT9ZLe2tQFMunHea4Dd
+C16 lignes 5QhJJc vers créateur []
+C30 virements de 0,5 SOL 13 relus dans le first_in du destinataire 10 jamais acheteurs 7
+C41 groupe : vendu M en 24 h, part de 217,04 M (48.80351164895, 22.486315273675164)
+C41 autres détenteurs >= 1 M à la borne basse (110, 643.600239344131, 224.951216030366, 34.95200938079287)
+garde : fini, code 0, pic 146 Mo

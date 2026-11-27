@@ -1,0 +1,12 @@
+fenêtres [('00:13:56', '00:22:23'), ('00:22:23', '00:30:50'), ('01:21:32', '01:29:59'), ('01:46:53', '01:55:20')] destinataires {0: 8, 1: 13, 2: 8, 3: 15}
+crédits comptés à 10 par page 440 erreurs 0 stats {'requests': 47, 'http_429': 3, 'ok': 44}
+fenêtre 0 wallets lus 8 neufs 5 max sur une même destination 7
+   destinations communes [('CebN5WGQ4j', 7, None), ('HWEoBxYs7s', 6, None), ('9yMwSPk9mr', 2, None), ('HFqU5x63VT', 2, None), ('Ciddahnpbs', 1, None), ('5d9Mz5mwYL', 1, None)]
+fenêtre 1 wallets lus 13 neufs 5 max sur une même destination 6
+   destinations communes [('CebN5WGQ4j', 6, None), ('HWEoBxYs7s', 4, None), ('GCA3RPWDwH', 3, None), ('8zW3MKKJTy', 3, None), ('368bK8pXug', 3, None), ('96gYZGLnJY', 2, None)]
+fenêtre 2 wallets lus 8 neufs 3 max sur une même destination 4
+   destinations communes [('HWEoBxYs7s', 4, None), ('CebN5WGQ4j', 4, None), ('DfXygSm4jC', 2, None), ('Cw8CFyM9Fk', 2, None), ('ADaUMid9yf', 2, None), ('DttWaMuVvT', 2, None)]
+fenêtre 3 wallets lus 15 neufs 4 max sur une même destination 9
+   destinations communes [('HWEoBxYs7s', 9, None), ('CebN5WGQ4j', 9, None), ('F4hJ3Ee3c5', 6, None), ('Ddp8wy1oE5', 5, None), ('ACny1VEZFY', 4, None), ('DttWaMuVvT', 4, None)]
+série, 100 premières tx wallets lus 15 neufs 14 max sur une même destination 10
+   destinations communes [('9W9b3zgHH9', 10, None), ('HWEoBxYs7s', 6, None), ('87g44hEXP7', 6, 'DMAGA bonding curve'), ('CebN5WGQ4j', 6, None), ('DttWaMuVvT', 4, None), ('A9PkAtBdN5', 3, None)]

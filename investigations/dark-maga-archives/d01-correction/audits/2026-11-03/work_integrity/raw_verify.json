@@ -1,0 +1,15 @@
+{
+ "manifeste_lignes": 33033,
+ "conformes": 33033,
+ "differents": [],
+ "manquants": [],
+ "octets_relus": 7076282910,
+ "hors_manifeste_fichiers": {
+  "raw/ctrl_tx": 16548
+ },
+ "hors_manifeste_octets": {
+  "raw/ctrl_tx": 12571409863
+ },
+ "ctrl_tx_haches": 16548,
+ "duree_s": 685
+}

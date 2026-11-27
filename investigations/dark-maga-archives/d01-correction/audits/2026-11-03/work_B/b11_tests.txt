@@ -1,0 +1,67 @@
+primary: k=211, tests.json identique=True, jours=84, min p=0.1557, passe Holm=[], p<0,05 brut=[]
+  holm_primary de tests.json tous faux : True  seuils : {'M6': 0.00714, 'M1': 0.00833, 'M7': 0.01, 'M2': 0.0125, 'M3': 0.01667, 'M5': 0.025, 'M4': 0.05}
+R1_10x: k=212, tests.json identique=True, jours=86, min p=0.1596, passe Holm=[], p<0,05 brut=[]
+R2_bande_large: k=240, tests.json identique=True, jours=86, min p=0.1411, passe Holm=[], p<0,05 brut=[]
+R3_S_moins_1h: k=210, tests.json identique=True, jours=84, min p=0.1422, passe Holm=[], p<0,05 brut=[]
+                                     0            1        2        3            4        5         6
+mesure                              M1           M2       M3       M4           M5       M6        M7
+D_etude                       39.86686      9.37058  0.67971  0.30787    433.79791  0.20457   0.13787
+D_B                           39.89336      9.37579  0.68003  0.30832    433.79791  0.20466   0.13787
+med_pairs                      3.75459      1.46355  0.44985  0.34669    176.32653  0.07549    0.0745
+p75                           15.08015      4.67195  0.66336  0.54407    445.55567  0.12979    0.1175
+p90                           163.0889      64.5647  0.86305   0.7844   1115.39225   0.2633   0.22298
+p99                        10633.26822  10437.07963      1.0  0.99982   6396.73268  0.44645   1.75074
+max_pairs                  26825.42998   17040.6516      1.0      1.0  16290.90909  0.47441   4.97742
+ex_aequo_au_max                      1            1        5        3            1        1         1
+c                                   35           38       50      115           55       32        37
+c_B                                 35           38       50      115           55       32        37
+p                              0.16981      0.18396  0.24057  0.54717      0.26415  0.15566   0.17925
+p_B                            0.16981      0.18396  0.24057  0.54717      0.26415  0.15566   0.17925
+rang_sur_212                        36           39       51      116           56       33        38
+percentile                     0.83412      0.81991  0.76303  0.45498      0.73934  0.84834   0.82464
+q_IC95_bas                     0.77693      0.76129  0.69981  0.38647      0.67462   0.7927   0.76649
+q_IC95_haut                    0.88166      0.86929  0.81871  0.52476      0.79719  0.89389   0.87343
+q_borne_haute_unilat95         0.88166      0.86929  0.81871  0.52476      0.79719  0.89389   0.87343
+facteur_pour_depasser_max     672.8754   1818.52706  1.47122  3.24813     37.55414  2.31905  36.10324
+sup_ou_ega_1                       152          133        5        3          171        0         4
+
+mesures à plafond : M3 pairs à 1,0 : 5 ; M4 pairs à 1,0 : 3 ; M6 pairs à 1,0 : 0
+p minimal atteignable sur M3 : 0.02830188679245283 sur M4 : 0.018867924528301886 seuil 1re marche 0.0071428571428571435
+
+Spearman entre mesures (pairs) :
+      M1    M2    M3    M4    M5    M6    M7
+M1  1.00  0.62  0.43 -0.17  0.09 -0.08  0.26
+M2  0.62  1.00  0.56 -0.20  0.14 -0.11  0.27
+M3  0.43  0.56  1.00 -0.18 -0.03 -0.11  0.12
+M4 -0.17 -0.20 -0.18  1.00 -0.07  0.36 -0.35
+M5  0.09  0.14 -0.03 -0.07  1.00 -0.07  0.30
+M6 -0.08 -0.11 -0.11  0.36 -0.07  1.00 -0.27
+M7  0.26  0.27  0.12 -0.35  0.30 -0.27  1.00
+nombre effectif de tests : Nyholt 6.54, Li et Ji 6.00 ; valeurs propres [0.34 0.52 0.59 0.66 1.05 1.37 2.46]
+
+EXPLORATOIRE, dominance : nombre de mesures sur lesquelles un pair est >= DMAGA ; distribution : {np.int64(0): np.int64(48), np.int64(1): np.int64(61), np.int64(2): np.int64(50), np.int64(3): np.int64(28), np.int64(4): np.int64(10), np.int64(5): np.int64(7), np.int64(6): np.int64(7)}
+  pairs >= DMAGA sur au moins 1 mesures : 163
+  pairs >= DMAGA sur au moins 2 mesures : 102
+  pairs >= DMAGA sur au moins 3 mesures : 52
+  pairs >= DMAGA sur au moins 4 mesures : 24
+  pairs >= DMAGA sur au moins 5 mesures : 14
+  pairs >= DMAGA sur au moins 6 mesures : 7
+  pairs >= DMAGA sur au moins 7 mesures : 0
+EXPLORATOIRE centile moyen sur 7 : DMAGA 0.756, pairs >= DMAGA 8/211, p 0.0425
+EXPLORATOIRE Fisher sur p de rang : DMAGA 20.808, pairs >= DMAGA 32/211, p 0.1557
+EXPLORATOIRE mesures au-dessus de la médiane : DMAGA 6.000, pairs >= DMAGA 22/211, p 0.1085
+EXPLORATOIRE mesures >= P75 des pairs : DMAGA 5.000, pairs >= DMAGA 13/211, p 0.0660
+EXPLORATOIRE Fisher sans M4 : p 0.1321 (c=27)
+nb comparaisons exploratoires dans ce bloc : 5 (combinaisons), aucune ne remplace le verdict gelé
+
+Taux de verdict « inhabituel » si chaque token est pris tour à tour comme cible contre les 211 autres : 5/212 = 0.024 [('8v3o717m31', ['M1']), ('9NfKxDftb6', ['M6']), ('7PFSuA3XNx', ['M5']), ('En5kRkyQ1b', ['M2']), ('WTjW42N5wH', ['M7'])]
+
+Jours de pic : distincts 84 max par jour 12 tokens sur les 10 jours les plus chargés 59 jour de DMAGA (21/07/2024) : 7 même heure : 1
+Premier et dernier S : 2024-06-21 06:00:00 2024-10-14 22:00:00  created min/max : 2024-06-16 00:43:12 2024-08-31 23:22:49
+ICC jour de pic M1: -0.161 ; k effectif 211
+ICC jour de pic M2: 0.137 ; k effectif 175
+ICC jour de pic M3: -0.116 ; k effectif 211
+ICC jour de pic M4: -0.028 ; k effectif 211
+ICC jour de pic M5: 0.154 ; k effectif 172
+ICC jour de pic M6: 0.090 ; k effectif 186
+ICC jour de pic M7: 0.028 ; k effectif 202

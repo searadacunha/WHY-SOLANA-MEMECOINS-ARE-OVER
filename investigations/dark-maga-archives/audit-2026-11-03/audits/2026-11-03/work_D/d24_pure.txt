@@ -1,0 +1,6 @@
+fenêtre 0 wallets 8 max par destination (virement pur >= 0,05 SOL) 1 [(1, 'J5v11FHJZR'), (1, 'D7RctdeKsp'), (1, 'CiC6T5jM71'), (1, 'BT7k9rheM8'), (1, 'BM4VrKZt6L')]
+fenêtre 1 wallets 13 max par destination (virement pur >= 0,05 SOL) 3 [(3, 'GCA3RPWDwH'), (1, 'J2kAKWTNfX'), (1, 'HUNW1SnvAf'), (1, 'GWs76AiNiQ'), (1, 'FF1nqkB4bB')]
+fenêtre 2 wallets 8 max par destination (virement pur >= 0,05 SOL) 1 [(1, 'EYQ9ku7Tpi'), (1, 'Dt5pRy4Edx'), (1, '7JLmyBy1aN'), (1, '5EwvJECXbB'), (1, '4y6qXcCux6')]
+fenêtre 3 wallets 15 max par destination (virement pur >= 0,05 SOL) 1 [(1, 'mLMVUot1KG'), (1, 'GpUYLNAsh9'), (1, 'EGAyDre5yr'), (1, 'Ci8xQ2Nk3J'), (1, 'CXzVqYe64a')]
+série, 100 premières tx [(10, '9W9b3zgHH9'), (2, 'Bt7SaDU6WF'), (1, 'A9PkAtBdN5'), (1, '9iVx8sZJ4d'), (1, '6dtexZ9Emu')]
+série, historique complet [(13, '9W9b3zgHH9'), (2, 'Bt7SaDU6WF'), (1, 'A9PkAtBdN5'), (1, '9iVx8sZJ4d'), (1, '6dtexZ9Emu')]

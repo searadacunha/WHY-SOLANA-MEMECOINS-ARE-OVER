@@ -1,0 +1,19 @@
+tx 3826 blocs 1913 Counter({2: 1913}) échecs 0
+programmes [(('3GMsedVPsXjWR7HYUvwm1YUpvBC2bTgSkXixm4gMXnPk', '675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8'), 3824), (('3GMsedVPsXjWR7HYUvwm1YUpvBC2bTgSkXixm4gMXnPk', 'LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo'), 2)]
+signature multiple Counter({1: 3826})
+pourboires connus : tx 1913 SOL 24.571316495
+formes Counter({'achat_vente': 967, 'vente_achat': 946}) acteur Counter({('achat_vente', 'signataire'): 967, ('vente_achat', 'trésor'): 946})
+écart d'index Counter({2: 1913}) même signataire 1913
+achat_vente n 967 quantité égale à 1 % 967 exacte 967 | trésor : WSOL net -1.178 SOL net 0.94 DMAGA net M 3.047 | signataire : SOL net 0.011 WSOL 0.0 DMAGA net M 0.0 | frais 0.01 pourboires 9.423
+    marge trésor en WSOL+SOL : positives 436 médiane 0.0 ; jetons gardés >0 967 médiane 447.45
+vente_achat n 946 quantité égale à 1 % 946 exacte 946 | trésor : WSOL net 169.533 SOL net 0.771 DMAGA net M 0.0 | signataire : SOL net -0.008 WSOL 0.0 DMAGA net M 0.0 | frais 0.009 pourboires 15.148
+    marge trésor en WSOL+SOL : positives 945 médiane 0.03035 ; jetons gardés >0 0 médiane 0.0
+trésor, DMAGA net total sur les blocs, M 3.0469
+tiers par forme et sens Counter({('achat_vente', 'achat'): 1124, ('vente_achat', 'vente'): 968, ('achat_vente', 'vente'): 2, ('vente_achat', 'achat'): 1})
+SOL tiers {('vente_achat', 'vente'): 18099.8, ('achat_vente', 'achat'): 12198.3, ('achat_vente', 'vente'): 0.0, ('vente_achat', 'achat'): 0.0}
+blocs avec tiers 1913 sur 1913 tiers par bloc Counter({1: 1767, 2: 110, 3: 36}) ; tiers distincts 832 ; 10 premiers 0.2
+sans tiers, formes Counter()
+signataires 45 tiers aussi signataires 0 tiers = trésor 0
+10 premiers tiers [('5FzhCSWLT84QdgX9wYWWuWY1ZY3G9kMUu2fRifxLLhmx', 130), ('CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2', 71), ('G11LHDyKR4RiyL4Fq4sDFsMTMTHDsHC35YTn7rDueYuq', 37), ('27ZASRjinQgXKsrijKqb9xyRnH6W5KWgLSDveRghvHqc', 33), ('4CwtDpX8ghpJAtwiArg6waKSPin87ksLnVrbmE2idias', 27), ('j1oAbxxiDUWvoHxEDhWE7THLjEkDQW2cSHYn2vttxTF', 27), ('F1a56zkdu8cheUs5rLbEbZJGixWC22LcixAgYyTKPUba', 26), ('DKs3wSE35ckDixo9TCYTFpYtdzEHtnGBDZyWc2iHRKP5', 24), ('FTKTNFqeu9wzckDzmsaL1dTgB19BK6fE6DMTHdbETtd1', 24), ('F2pf9dqTqtM9qEUPJEivwTpqrUvVV8TXgV8zezkEbyVq', 21)]
+marché achats SOL 788864.76 jambes dans trades (4867, 24723.718094978) part 3.134 %
+période 2024-07-14 03:27:43+00:00 2024-10-06 15:57:15+00:00

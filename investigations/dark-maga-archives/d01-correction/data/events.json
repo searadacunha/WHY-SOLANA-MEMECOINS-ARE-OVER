@@ -1,0 +1,74 @@
+[
+ {
+  "name": "creation_mint",
+  "t": 1720922725,
+  "fiabilite": "A",
+  "source": "signature fePxr7ER…, slot 277417695"
+ },
+ {
+  "name": "migration_raydium",
+  "t": 1720923331,
+  "fiabilite": "A",
+  "source": "signature 2zmB9nbU…, slot 277419045"
+ },
+ {
+  "name": "pmarca_image_rouge",
+  "t": 1721512043,
+  "fiabilite": "A",
+  "source": "post 1814779160377602331, 20/07 21:47:23 UTC"
+ },
+ {
+  "name": "kikisknees_elon_mooning",
+  "t": 1721566245,
+  "fiabilite": "B",
+  "source": "post 1815006501896872388, 21/07 12:50 UTC, supprimé, texte par la Wayback"
+ },
+ {
+  "name": "kikisknees_reponse_musk",
+  "t": 1721577608,
+  "fiabilite": "B",
+  "source": "post 1815054158367432804, 21/07 16:00:08 UTC, supprimé, média perdu"
+ },
+ {
+  "name": "winig_visuel",
+  "t": 1721577749,
+  "fiabilite": "A",
+  "source": "post 1815054750775173447, 21/07 16:02:29 UTC, plus ancienne image exacte archivée"
+ },
+ {
+  "name": "annonce_biden",
+  "t": 1721583960,
+  "fiabilite": "C",
+  "source": "21/07 17:46 UTC, donnée de la mission, non revérifiée ici"
+ },
+ {
+  "name": "musk_borne_basse",
+  "t": 1721588607,
+  "fiabilite": "A",
+  "source": "capture Wayback 19:03:27 UTC, ancien avatar"
+ },
+ {
+  "name": "musk_envoi_image",
+  "t": 1721589800,
+  "fiabilite": "B",
+  "source": "snowflake de l'image 1815105297410666496, 19:23:20 UTC, lecture à confirmer"
+ },
+ {
+  "name": "musk_borne_haute",
+  "t": 1721590213,
+  "fiabilite": "A",
+  "source": "post 1815107030606385507, 19:30:13 UTC, nouvel avatar visible"
+ },
+ {
+  "name": "darkmagacoin_dm",
+  "t": 1721635821,
+  "fiabilite": "A",
+  "source": "post 1815298322325811663, 22/07 08:10:21 UTC, déclaration"
+ },
+ {
+  "name": "musk_retrait_borne_haute",
+  "t": 1721745389,
+  "fiabilite": "A",
+  "source": "capture Wayback, 23/07 14:36:29 UTC"
+ }
+]

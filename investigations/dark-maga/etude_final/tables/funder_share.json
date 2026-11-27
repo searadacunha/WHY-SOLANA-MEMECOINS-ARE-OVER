@@ -1,0 +1,405 @@
+{
+ "statut": "EXPLORATOIRE, hors plan",
+ "dmaga": {
+  "pool": "CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k",
+  "n": 50,
+  "part": 0.08,
+  "n_financeurs_communs": 2,
+  "services_ecartes": 7,
+  "exemples": {
+   "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E": [
+    "AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5",
+    "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p"
+   ],
+   "BKscDVDfQzRHMa8Q3NoUQpBMdCZ4n2gt9tuhesDNSLBY": [
+    "5x4JHRoJEB7buXaKRpFxr4qtuXaY8YGiRXqrVYUovtih",
+    "BteHCeVLvbSDYy9X5ZUZLyfLLzE7MrQ4jcrWSF7F65D2"
+   ]
+  }
+ },
+ "p_rang": 0.07317073170731707,
+ "k": 40,
+ "comparateurs": [
+  {
+   "pool": "H28tExedb1zsuBkPQJK5kWzMZPrwMpRAsHJM8yoLYKFh",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 10,
+   "exemples": {}
+  },
+  {
+   "pool": "318SZtUSBgfjxxFVdYUguGu1kSXhJEvdEZANkhH3FUGN",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 7,
+   "exemples": {}
+  },
+  {
+   "pool": "G9NBKR3J2jubce5GxH4bmJzaXayd36uM3JrkrkWsbmjz",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 14,
+   "exemples": {}
+  },
+  {
+   "pool": "8rgtT1GtJjkREEU5AqxhLZynh1WTca49eBLEZSUKW3qC",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 11,
+   "exemples": {}
+  },
+  {
+   "pool": "Gd8xDg8WCSBi7vhJGBJYogLBKXZp2FqVcw57PENxrpdi",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 7,
+   "exemples": {}
+  },
+  {
+   "pool": "Bw2Bjrmzbi7d65u7H33zo1f8L3pJ3j1q5GC83VajFyY1",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 18,
+   "exemples": {}
+  },
+  {
+   "pool": "ErKkeaDJjsSLYAKNESkVRk6AH4QDeUuoBWkyRt1oPsqB",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 11,
+   "exemples": {}
+  },
+  {
+   "pool": "4uJ7TFTGub8HzyNUPdZQ7fjyCujSgGVVCxnyHxgQBFaX",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 10,
+   "exemples": {}
+  },
+  {
+   "pool": "CWchFrnRT6x4EwmBA5fAgooPyXLtxHbUnT7eLn5q41yY",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 7,
+   "exemples": {}
+  },
+  {
+   "pool": "9dWvW9mCTVtcZ4ntqA4SgBM6B6QQirG66tS4q5KhT9nZ",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 9,
+   "exemples": {}
+  },
+  {
+   "pool": "98eqLxSuisamq92fHZDkF64NtDhRsiZbfwZSe5rGT4KB",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 16,
+   "exemples": {}
+  },
+  {
+   "pool": "Fhmjp6SMtmD8GXkq8tw6aZjBk3sDpKtKKSH6RToLAX3m",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 13,
+   "exemples": {}
+  },
+  {
+   "pool": "AJSHtNbJYvjxUafutGmKBvLQjCMCHMKpYcRw1RQKLXro",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 7,
+   "exemples": {}
+  },
+  {
+   "pool": "HUeFk1DwStiuhC4c22yU4XScTDRjZPSgPJxJAMA1fiHJ",
+   "n": 50,
+   "part": 0.04,
+   "n_financeurs_communs": 1,
+   "services_ecartes": 12,
+   "exemples": {
+    "9Q34hfy44EfoQFpBDKNqp4ndNvwM6E1zC5cPAwqYTW9v": [
+     "3hAV1hFwNoZcaoKDekpjhG25wm9pcrPaWj5PtDyqBgmM",
+     "8xPcknzFUqqdCTNX7m1b5Xx8oxuwpRw4rNfzxvWgpQ4y"
+    ]
+   }
+  },
+  {
+   "pool": "z3hRHAY666GKaAV8HJdtim9HzGkM8QkmS7wTR6rqKM7",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 7,
+   "exemples": {}
+  },
+  {
+   "pool": "6yw7oV2DZXVsFN2wyvrYxGtMa5Sf1Grct1vhHnexLYHD",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 10,
+   "exemples": {}
+  },
+  {
+   "pool": "6xgESgMtPrsrKuPHMUe42JJwYo9AWC1upHq56XK9Ga1k",
+   "n": 50,
+   "part": 0.04,
+   "n_financeurs_communs": 1,
+   "services_ecartes": 11,
+   "exemples": {
+    "4c7WEHiHkJp9jXLFBxd4QjaPhA7ykZux1X3qbUQvxfWG": [
+     "4RtjA88Mo6wETj9JHYc8sokj75ZVRTzd86riD2H92GWA",
+     "Ed2KxdgC1yjj2S98hamDHUCkY64x5FtT2AxFzgz6hwEH"
+    ]
+   }
+  },
+  {
+   "pool": "7PFSuA3XNxfNMUUrqK5wxDa6smmeGPsyBL1wQNJJD7Pp",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 12,
+   "exemples": {}
+  },
+  {
+   "pool": "CL7QkzTHBgSSEW35Hr2CZmf3ZQEf44q138a7pqfA1iBB",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 20,
+   "exemples": {}
+  },
+  {
+   "pool": "63CRbu6YWi1hXMDMTFXXB7iwVdCtxVRAycyRnR29dJZ2",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 13,
+   "exemples": {}
+  },
+  {
+   "pool": "HXBaVxYYKEZh8Sate677M8cu1HcGNgjBWs94LX3JESf2",
+   "n": 50,
+   "part": 0.04,
+   "n_financeurs_communs": 1,
+   "services_ecartes": 15,
+   "exemples": {
+    "D5PHbuUrSLyVaFvgKrUh7YNuE4JvpbQXV2XWf9HoTrcy": [
+     "2vCAhT1GPR23RVhbUb6ehVCvyKv6pxi278nXACp3kYjd",
+     "98qJuFwK3NcgvwRdkzUjnL3czu8X8NV1Z9UzX7MnF43L"
+    ]
+   }
+  },
+  {
+   "pool": "B47xX5WgK9vUE6unE7BMDuxwR7fqGuwKh8U14hwvF72Y",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 10,
+   "exemples": {}
+  },
+  {
+   "pool": "FxXojszdrN1eX46QYRdve5W28hsJZfjz3Kb4ztCjtWvT",
+   "n": 50,
+   "part": 0.06,
+   "n_financeurs_communs": 2,
+   "services_ecartes": 8,
+   "exemples": {
+    "3DGTsptMohE7fcSVxdjSMcydfMNhYU7s29b5YYKuDpKE": [
+     "8UReyd7AvQrkDasVvgWcqNhSTasLVmGcGxtYCJkB1Yuh",
+     "9E9ERcnwwnNuj6zXic5GkZvZifE49iZsn78cey8NfATp"
+    ],
+    "CKssSwpS8ECcFJLBbqvycbtpfNxapEcy22Mh6ZeKNQ78": [
+     "68q89BUndhEgv5Zsb6ZMFJUHJ2yHgGRXS7F2DXp449gx",
+     "9E9ERcnwwnNuj6zXic5GkZvZifE49iZsn78cey8NfATp"
+    ]
+   }
+  },
+  {
+   "pool": "85pr8E41Ex8QjSxeCAmdi8KzkQysTZfxaQCA13cLZAbu",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 12,
+   "exemples": {}
+  },
+  {
+   "pool": "4ihEnMQvfHUkTQG7gCp41TYuV8o722hHDT7kBUfeR1DN",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 23,
+   "exemples": {}
+  },
+  {
+   "pool": "EAGFo6NQ8qpCphLwWusGdqT2PAGhyAQdecr2vxKDuJ65",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 4,
+   "exemples": {}
+  },
+  {
+   "pool": "ELEMTdM1uEE27GX8bAWztLYgqfnPWnpeodACpxdf9ja2",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 6,
+   "exemples": {}
+  },
+  {
+   "pool": "2253supEF6RzUbMPgthvsU7mEJBfrcPbwC9HT8hKwSj5",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 11,
+   "exemples": {}
+  },
+  {
+   "pool": "2ZJwRUAGdKoWvGJUjozXXa3tGgtgGg76ZcgYTRjBu1sa",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 6,
+   "exemples": {}
+  },
+  {
+   "pool": "7SKgoUzk9FXBfp8tcigPgsu7gHHAoLNAcB4Sct7bGofT",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 20,
+   "exemples": {}
+  },
+  {
+   "pool": "CuDuvotmGDQ4whCnPbEht8gp4Pxtmx7Gcm4XwtGYHH7r",
+   "n": 50,
+   "part": 0.04,
+   "n_financeurs_communs": 1,
+   "services_ecartes": 10,
+   "exemples": {
+    "3QhestyjpPkFkL8pkcWA8P3qC3utAdzhNo7q1JrdKbmh": [
+     "HwgokmwC62cKGsSHSmCviygNYWnpTe1mYeH4c6CsQd9N",
+     "tV61xsViyGmtFgNrXV43sbaChrxjfemhjV689AQxr1o"
+    ]
+   }
+  },
+  {
+   "pool": "4CUjbmcn5Xfm9JQqoEbvUXQ2FKHDjv24K1NLuVJ3n5nD",
+   "n": 50,
+   "part": 0.08,
+   "n_financeurs_communs": 2,
+   "services_ecartes": 6,
+   "exemples": {
+    "4Dvxzaa5Zmkqy8mUYftgwEpgndKt2VzV3tpyR1FgMmSF": [
+     "EQgbBS13DRhUGfJpPifZdUgocxmfbmiQF66JfDxjBuHj",
+     "HxvS5wZg8twptDi8LPaUH99zgCBvLC8T55GdxKkCQen"
+    ],
+    "8ZWvaahypb83Xs48JJYYq7QAtSWErhNi2fNUDtT49owZ": [
+     "9jCENGzLMsZsmTqT33HysPuYFuDbRvkRLADzxeNS6vLp",
+     "vi8DMikjySsufKTa75CfpoFizq7NSnsgdY6jqRzzxBj"
+    ]
+   }
+  },
+  {
+   "pool": "En5kRkyQ1bymoVxDQr3xEeNsA1taJTVXKwnUibALrvaf",
+   "n": 50,
+   "part": 0.22,
+   "n_financeurs_communs": 5,
+   "services_ecartes": 6,
+   "exemples": {
+    "DkJQY94oJ83QtfPZEXSdtaUWPDikamGreUzW6HXmmbPH": [
+     "7qcVoGgTwRmUFhN5WoRERvAgxs3k2PudQDwr1CdAx5Qw",
+     "Ejnc6dHCA7VFnP1xzGQDzECTiD6bH7E7EeHPoJhCXx5x"
+    ],
+    "9zJw3WtcVw6B4nnrdAEr2GCSdUBdUn4k7LgBP1qNCs2o": [
+     "ADDfESfm1inDX9DDDdZPn9KGLsRFWVwCxX9aUMnQNKe7",
+     "V4GLYcyVqXpKpKZZbitPeCztVtZApjDqe4E3XuCHTmj"
+    ],
+    "FTeN1DBFC6qX9WQpMssEQQ88Ufu9XzmHYr9FyGCHcLMM": [
+     "CHfu2F4r12PD9U3UfFKsTCuuDgoMh61Ma3LWGnZqENvn",
+     "Ci3Evo4AmgLrRmHemfCjdwRmMVBtWozRgR2T1prmeE3V",
+     "Ent1DNEVvyRjHouPucrPycXEM1wdcQFEkiuQfxDV8uQ5"
+    ],
+    "7qcVoGgTwRmUFhN5WoRERvAgxs3k2PudQDwr1CdAx5Qw": [
+     "4unwXc9UUZSWoTxvRrNRGgN3GKL4e5N8kSqVgqZnAxHj",
+     "9mqTfNCA1ZBjuybdN7uKPe1FMo2DJzPwt9EdfzvukW4i"
+    ],
+    "9mqTfNCA1ZBjuybdN7uKPe1FMo2DJzPwt9EdfzvukW4i": [
+     "DPXM34r3sDAWsrGR2WyuMpLeGxSc6REfc7bPKgi6U9hy",
+     "HXsmshsV92JvxbK6APyH1xNquqz24tyKSxNSKuPp1JgH"
+    ]
+   }
+  },
+  {
+   "pool": "4KcVpeMyWEuT3yGxKFcKWQXa2RSKSAbFamH2BmEsjnZ2",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 8,
+   "exemples": {}
+  },
+  {
+   "pool": "C8cpxxzoY8hcRynjVDM9tfLPY8fLrmDMsNRAm63x71DW",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 7,
+   "exemples": {}
+  },
+  {
+   "pool": "8GGEGhZRPs3WgWvzyytce7Wufp6stf1Siaqmk41pTUQk",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 5,
+   "exemples": {}
+  },
+  {
+   "pool": "F2eZPT2pLEhSq2SCFzT2SB1rjPep2JvgRheQwYzmU3fF",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 15,
+   "exemples": {}
+  },
+  {
+   "pool": "GcA3bDR8npKrC26zjJhvBW3wvjudmW99cxyNVyz3tWPA",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 10,
+   "exemples": {}
+  },
+  {
+   "pool": "6PExoxh83PErebmB9dNR21STPv7WC5Pri9xrmvGVWyF1",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 13,
+   "exemples": {}
+  },
+  {
+   "pool": "9tGVDAaBRCes1m23cCY3fKd2RpjCmeHj2CW7ECnATGyF",
+   "n": 50,
+   "part": 0.0,
+   "n_financeurs_communs": 0,
+   "services_ecartes": 4,
+   "exemples": {}
+  }
+ ],
+ "mediane_comparateurs": 0.0
+}

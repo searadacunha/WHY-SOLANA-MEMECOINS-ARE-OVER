@@ -1,0 +1,10 @@
+somme résiduels M, somme derniers soldes des mêmes wallets M [(937.1, 739.3)]
+wallets résiduel >= 1 M : n, |écart| > 10 %, |écart| M [(146, 37, 271.0)]
+les 8 plus grands écarts [('7gEQ6syDZmyPE4JdfJm4qatawnDqvqdh6i8jJjCXio6h', 122.28, 0.0, -2872.1), ('ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn', 43.01, 0.0, 0.0), ('HGs9NdwD2c4mYHb9fYdgp2Due5gbaSEdUV871wAiCkTd', 34.35, 0.04, 0.0), ('6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M', 0.0, 26.65, -2.0), ('8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh', 0.0, 23.41, -1.0), ('99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb', 0.0, 19.03, -2.5), ('AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5', 0.0, 15.44, -5.7), ('2QJb6V8MbFtSQpaMHnXVLXyynZMdNpfh9J1MBnc9vSFM', 0.0, 14.86, 0.0)]
+programme 3GMsedVP : tx, signataires distincts [(3826, 45, 1720927663, 1728230235)]
+4ToQp55m dans nodes [('4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S', 'wallet', None, 47, 2859, 0.0, 222300398.43420336)]
+4ToQp55m dans wallets [(283.4699668954558, 10095.833413433, 10356.614433898, 970, 1110, 978, 'partiel: ventes sans quantité connue', 1720923407)]
+  financeur de wallets tracés [(47, 46100.0)]
+ventes signataires 'rien de visible' : part dans une tx 3GMsedVP [(True, 967, 14567.5), (False, 1136, 2057.9)]
+toutes lignes propres en tx 3GMsedVP : achats, ventes [(24537.4, 24732.2, 46)]
+garde : fini, code 0, pic 312 Mo

@@ -1,0 +1,27 @@
+== chronologie complète de HKzkNSH2
+  2024-07-21 23:00:23 2bHLM1r9t7YAih - [] [('DMAGA', 'GoPCTrS3', 'HKzkNSH2', 1000000.0)]
+  2024-07-24 14:45:35 63yNHJVhTF32q1 - [] [('SOL', '8XNJJjvC', 'HKzkNSH2', 8.435)]
+  2024-07-26 14:22:40 2jgmmDe7ap288f signe ['675kPX', 'routeU'] [('DMAGA', 'HKzkNSH2', '5Q544fKr', 1000000.0), ('WSOL', '5Q544fKr', 'HKzkNSH2', 28.9)]
+  2024-07-26 15:40:43 7nPdtRkAY4fHdT signe [] [('SOL', 'HKzkNSH2', '428zLa7x', 37.33)]
+  2024-09-26 14:34:41 2NvfBcYbrE5w4U - [] [('SOL', 'ASTyfSim', 'HKzkNSH2', 100.552)]
+  2024-09-26 14:40:11 57jNzvj88dFmiL signe ['675kPX', 'routeU'] [('SOL', 'HKzkNSH2', '3QM7Zmij', 100.0), ('WSOL', 'HKzkNSH2', '5Q544fKr', 100.0)]
+  2024-09-26 16:32:38 AjZNNPEJNgGKvL - [] [('SOL', 'ASTyfSim', 'HKzkNSH2', 63.462)]
+  2024-09-26 16:37:06 2hsAKPZGyu7pdg signe ['675kPX', 'routeU'] [('SOL', 'HKzkNSH2', '3QM7Zmij', 64.0), ('WSOL', 'HKzkNSH2', '5Q544fKr', 64.0)]
+  2024-09-30 03:12:42 4M4aAYsCPSrPTg signe ['675kPX', 'routeU'] [('WSOL', '5Q544fKr', 'HKzkNSH2', 54.893)]
+  2024-09-30 03:13:01 2Jkz5aWG2a87AM signe [] [('SOL', 'HKzkNSH2', '8N4AvP9j', 54.8)]
+  2024-10-01 14:54:03 2J1xGsGeiW5TJW signe ['675kPX', 'routeU'] [('WSOL', '5Q544fKr', 'HKzkNSH2', 53.955)]
+  2024-10-01 14:54:50 3H3DVGf5AXq1Dv signe [] [('SOL', 'HKzkNSH2', '8N4AvP9j', 54.0)]
+  2024-11-03 14:02:45 5BCp5eHHQ2v73U signe [] [('SOL', 'HKzkNSH2', '4rJxpqPU', 0.063)]
+== raw/flows, DMAGA de HW5MqvM1
+== échanges entre ERMtiLod et HW5MqvM1 , toutes dates (net et raw/flows)
+   transfert 2024-07-15 18:39:06 1500000.0 4HEH3WcanD16CFvbym5NwzxojkgmfpshSXMa3MEsmamaTYc4M9b8hwdsegGvtUBXQhhY5QC5tmbMZJsP7L4R9C1c signataires ['ERMtiLod'] pure True
+   SOL ou USD de HW5MqvM1 vers ERMtiLod dans 7 j : (0, None)
+   solde de jetons de ERMtiLod dans les tx proches : ventes dans ±1 h
+== échanges entre GoPCTrS3 et HKzkNSH2 , toutes dates (net et raw/flows)
+  2024-07-21 23:00:23 GoPCTrS3 -> HKzkNSH2 7D7BR 1000000000000.0 2bHLM1r9t7YAih6rp2QQ8V7Kk4sXYFxGMqfSByj6aHr7KP8wawojaDNDRTLxbVa4rqt9HQCHpS1dbzK3aKERT4uZ
+  2024-07-21 23:00:23 GoPCTrS3 -> HKzkNSH2 So111 2039280.0 2bHLM1r9t7YAih6rp2QQ8V7Kk4sXYFxGMqfSByj6aHr7KP8wawojaDNDRTLxbVa4rqt9HQCHpS1dbzK3aKERT4uZ
+   transfert 2024-07-21 23:00:23 1000000.0 2bHLM1r9t7YAih6rp2QQ8V7Kk4sXYFxGMqfSByj6aHr7KP8wawojaDNDRTLxbVa4rqt9HQCHpS1dbzK3aKERT4uZ signataires ['GoPCTrS3'] pure True
+   SOL ou USD de HKzkNSH2 vers GoPCTrS3 dans 7 j : (0, None)
+   solde de jetons de GoPCTrS3 dans les tx proches : ventes dans ±1 h
+     2024-07-21 22:28:08 GoPCTrS3 -> 2jj58AyE 500000 3yvLsKr9Jo8z
+     2024-07-21 23:00:23 GoPCTrS3 -> HKzkNSH2 1000000 2bHLM1r9t7YA

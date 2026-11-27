@@ -1,0 +1,47 @@
+selection.jsonl lignes 13920 statuts {'pas_de_pic': 12809, 'hors_bande': 453, 'reporte_budget': 278, 'retenu_superset': 245, 'tronque_sans_pic': 135}
+S20 identiques (aux heures) : 13920 sur 13920
+S10 identiques (aux heures) : 13920 sur 13920
+différences S : aucune
+S20 et fdv_s20 dans la bande, tous statuts : 213 {'retenu_superset': 213}
+S20 total 954 S10 total 976 fdv_s20 renseigné 954 fdv_s10 renseigné 976
+tronque_sans_S20 : 5 dont statut {'reporte_budget': 5}
+R1 théorique (S10 et fdv_s10 dans la bande) : 233 {'retenu_superset': 214, 'reporte_budget': 19}
+R2 théorique (S20 et fdv_s20 dans la bande large) : 500 {'reporte_budget': 258, 'retenu_superset': 242}
+metrics.csv {'R2_bande_large': 241, 'R1_10x': 213, 'primary': 212, 'R3_S_moins_1h': 211}
+
+== population : B retenu 212 étude 212 communs 212 B seul [] étude seule []
+
+== primary : lignes étude 212, communes 212, S identique 212
+M1: NaN étude 0, NaN B 0, écart relatif médian 7.94e-04, p95 4.73e-03, max 1.905e-02, >1 % : 1, >10 % : 0, corr rangs 0.99999
+M2: NaN étude 0, NaN B 0, écart relatif médian 6.31e-04, p95 3.08e-03, max 2.261e-02, >1 % : 1, >10 % : 0, corr rangs 0.99999
+M3: NaN étude 0, NaN B 0, écart relatif médian 3.74e-04, p95 2.74e-03, max 3.591e-02, >1 % : 1, >10 % : 0, corr rangs 0.99995
+M4: NaN étude 0, NaN B 0, écart relatif médian 6.71e-04, p95 2.45e-03, max 2.359e-02, >1 % : 1, >10 % : 0, corr rangs 0.99996
+M5: NaN étude 0, NaN B 0, écart relatif médian 0.00e+00, p95 3.97e-03, max 1.333e-01, >1 % : 8, >10 % : 1, corr rangs 0.99999
+M6: NaN étude 0, NaN B 0, écart relatif médian 3.07e-03, p95 4.18e-02, max 1.023e+00, >1 % : 71, >10 % : 4, corr rangs 0.99950
+M7: NaN étude 0, NaN B 0, écart relatif médian 0.00e+00, p95 8.50e-03, max 2.578e-01, >1 % : 5, >10 % : 2, corr rangs 0.99921
+cap B/étude sur le primaire : écart relatif médian 1.04e-03 max 5.556e-02
+DMAGA M1: étude 39.866861, B 39.893358, écart +0.066 %
+DMAGA M2: étude 9.370579, B 9.375793, écart +0.056 %
+DMAGA M3: étude 0.679708, B 0.680034, écart +0.048 %
+DMAGA M4: étude 0.307870, B 0.308322, écart +0.147 %
+DMAGA M5: étude 433.797909, B 433.797909, écart +0.000 %
+DMAGA M6: étude 0.204573, B 0.204665, écart +0.045 %
+DMAGA M7: étude 0.137866, B 0.137866, écart +0.000 %
+
+== R1_10x : lignes étude 213, communes 213, S identique 213
+M1: NaN étude 0, NaN B 0, écart relatif médian 8.48e-04, p95 4.53e-03, max 9.928e-03, >1 % : 0, >10 % : 0, corr rangs 0.99999
+M2: NaN étude 0, NaN B 0, écart relatif médian 6.41e-04, p95 3.20e-03, max 2.261e-02, >1 % : 1, >10 % : 0, corr rangs 0.99999
+M3: NaN étude 0, NaN B 0, écart relatif médian 3.51e-04, p95 2.66e-03, max 3.591e-02, >1 % : 1, >10 % : 0, corr rangs 0.99995
+M4: NaN étude 0, NaN B 0, écart relatif médian 7.07e-04, p95 2.58e-03, max 2.359e-02, >1 % : 1, >10 % : 0, corr rangs 0.99996
+M5: NaN étude 0, NaN B 0, écart relatif médian 0.00e+00, p95 3.91e-03, max 1.333e-01, >1 % : 9, >10 % : 1, corr rangs 0.99999
+M6: NaN étude 0, NaN B 0, écart relatif médian 3.02e-03, p95 4.18e-02, max 1.023e+00, >1 % : 67, >10 % : 4, corr rangs 0.99957
+M7: NaN étude 0, NaN B 0, écart relatif médian 0.00e+00, p95 8.50e-03, max 2.578e-01, >1 % : 5, >10 % : 2, corr rangs 0.99935
+
+== R3_S_moins_1h : lignes étude 211, communes 211, S identique 211
+M1: NaN étude 0, NaN B 0, écart relatif médian 8.22e-04, p95 3.72e-03, max 4.909e-02, >1 % : 1, >10 % : 0, corr rangs 0.99999
+M2: NaN étude 0, NaN B 0, écart relatif médian 6.54e-04, p95 2.86e-03, max 2.072e-02, >1 % : 1, >10 % : 0, corr rangs 0.99999
+M3: NaN étude 1, NaN B 1, écart relatif médian 4.32e-04, p95 2.89e-03, max 2.160e-02, >1 % : 1, >10 % : 0, corr rangs 0.99997
+M4: NaN étude 1, NaN B 1, écart relatif médian 6.25e-04, p95 2.33e-03, max 2.308e-02, >1 % : 1, >10 % : 0, corr rangs 0.99997
+M5: NaN étude 2, NaN B 2, écart relatif médian 0.00e+00, p95 7.47e-03, max 3.162e-01, >1 % : 10, >10 % : 2, corr rangs 0.99987
+M6: NaN étude 0, NaN B 0, écart relatif médian 3.08e-03, p95 3.92e-02, max 1.023e+00, >1 % : 72, >10 % : 4, corr rangs 0.99951
+M7: NaN étude 1, NaN B 1, écart relatif médian 0.00e+00, p95 8.50e-03, max 2.578e-01, >1 % : 3, >10 % : 2, corr rangs 0.99899

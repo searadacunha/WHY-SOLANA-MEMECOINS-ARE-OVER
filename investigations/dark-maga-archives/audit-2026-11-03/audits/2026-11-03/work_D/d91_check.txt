@@ -1,0 +1,9 @@
+AUDIT_FINAL.md octets 23342 tirets longs 0 identifiants absents du corpus [] motif de clé 0
+CORRECTIONS.md octets 10835 tirets longs 0 identifiants absents du corpus [] motif de clé 0
+CLAIM_VERIFICATION.csv octets 28232 tirets longs 0 identifiants absents du corpus [] motif de clé 0
+projet_amendement_003.md octets 2974 tirets longs 0 identifiants absents du corpus [] motif de clé 0
+lignes 68 C 51 N 17 colonnes ['id', 'assertion', 'verdict', 'verdict_A', 'verdict_B', 'verdict_C', 'valeur_rapport', 'valeur_verifiee', 'preuve', 'correction_requise']
+{'PASS': 44, 'FAIL': 5, 'INCONCLUSIVE': 2}
+écarts avec auditeurs [('C30', 'PASS', 'INCONCLUSIVE', 'non couvert', 'PASS'), ('C37', 'PASS', 'non couvert', 'non couvert', 'INCONCLUSIVE'), ('C49', 'FAIL', 'INCONCLUSIVE', 'FAIL', 'non couvert')]
+couverts par D sans auditeur []
+problèmes 0

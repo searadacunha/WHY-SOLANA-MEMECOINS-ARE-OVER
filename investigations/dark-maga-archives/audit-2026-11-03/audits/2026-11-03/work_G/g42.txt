@@ -1,0 +1,22 @@
+schéma a15_tx ['signature', 'slot', 'tx_index', 't', 'failed', 'dt', 'ds', 'payer', 'fee', 'progs', 'signers']
+schéma a15_leg ['signature', 'owner', 't', 'slot', 'tx_index', 'sg', 'dmaga', 'sol']
+tx DMAGA du programme (3826, 1720927663, 1728230235)
+signataires 45 groupes de signataires 45
+expéditeurs de SOL vers les signataires, vus par raw/flows [('4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S', 45, 54546.42, 9469), ('5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1', 45, 54118.36, 11221), ('9Met6xrmyjKKrbS34pqScJk3k648Jg65VG4CbCLkZ9e2', 2, 0.0, 2), ('8u9gjuNqJb84Hygvw3UTckDu5Cn42ECMDSKu22CvUqU9', 1, 0.0, 1)]
+signataires présents dans raw/flows comme traçés (45,)
+destinations de SOL des signataires [('4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S', 45, 292787.77, 48734), ('CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM', 45, 49.1, 274), ('5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1', 45, 325974.45, 61264), ('DttWaMuVvTiduZRnguLF7jNxTgiMBZ1hyAumKUiL2KRL', 8, 19.42, 66), ('DfXygSm4jCyNCybVYYK6DwvWqjKee8pbDmJGcLWNDXjh', 7, 17.41, 71), ('HFqU5x63VTqvQss8hp11i4wVV8bD44PvwucfZ2bU7gRe', 7, 17.39, 60), ('ADuUkR4vqLUMWXxW9gh6D6L8pMSawimctcNZ5pGwDcEt', 7, 20.61, 69), ('3AVi9Tg9Uo68tJfuvoKvqKNWKkC5wPdSSdeBnizKZ6jT', 6, 13.29, 58), ('ADaUMid9yfUytqMBgopwjb2DTLSokTSzL1zt6iGPaS49', 6, 13.95, 52), ('96gYZGLnJYVFmbjzopPSU6QiEV5fGqZNyN9nmNhvrZU5', 6, 19.57, 69), ('Cw8CFyM9FkoMi7K7Crf6HNQqf4uEMzpKw6QNghXLvLkY', 5, 11.26, 65), ('FigKBwVYzwxTkvXHwWY4QMnZaTpv4nSBfJk1XURXjRcc', 4, 5.8, 4)]
+virements directs 4ToQp55m et signataires vus (65507,)
+lignes de jambes (3826, 46, 3826)
+colonnes exemple [('128ZRpauPkVMm2Tf8rWUVCeQ13CZhzztwWtCMxgD2Do9Y2sTy3vxSAFwn8s55kXS84uZHopSJ7RC5SryhwicF13Q', '4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S', 1721652303, 279013928, 3165, False, -18901348859, 6164602785.0), ('21txE17EY9bUSn76jFBf78pH7GsBvXsqCDymxnFD43yP3ri3XeMNSBiBgRJnKpQJY2jQKsTTa6mAEAELXJvdULM2', 'PKt5x4i2JRHYbPcuEsTELyCfkn1EEMYhDKBC6n6Ya4g', 1721653385, 279016317, 821, True, -97399372053, 30998102445.999996)]
+3 h avant S achats du programme SOL, total, propriétaires (11.28, 254.1, 2) part % 4.44
+24 h avant S achats du programme SOL, total, propriétaires (26.25, 1075.81, 5) part % 2.44
+24 h après 19:30:13 achats du programme SOL, total, propriétaires (7619.91, 194421.46, 44) part % 3.92
+toute l'histoire achats du programme SOL, total, propriétaires (24537.38, 787109.31, 46) part % 3.12
+par propriétaire de jambe (top 8) [('4ToQp55m', 9979.3, 10164.7, 946, 946, 0.0), ('CPUvH6fY', 2218.7, 2219.3, 85, 85, 0.0), ('4AVe3VMD', 1017.5, 1017.7, 19, 19, 0.0), ('CRkHxYzD', 573.2, 573.5, 19, 19, 0.0), ('5TjNWUQR', 558.0, 558.3, 21, 21, 0.0), ('8kfdvbYM', 492.4, 492.4, 15, 15, 0.0), ('8fqhaeWt', 436.3, 436.6, 24, 24, 0.0), ('AMbH5m2K', 383.8, 383.9, 26, 26, 0.0)]
+somme achats, ventes 24537.4 24732.2 propriétaires 46 net jetons M 0.0
+signataires avec un net de jetons nul à 1 % près 46 sur 46
+délai achat puis revente (s), p10 p50 p90, paires ([0.0, 0.0, 0.0], 1913)
+  tx du chargeur 2024-07-13 14:14:06 39VeLqqgaucVNCFLznaLH5RfrHmUcX6waPuZAmXq39yi3phd7fAvtsmPBVUxazaejH8p5pdHZ9M8XAkWzLGRGRYq signataires ['FyC5nr3WJAir6cntnwwQRuurq4JUCWvsH2VS5p4vYZ8k', '3GMsedVPsXjWR7HYUvwm1YUpvBC2bTgSkXixm4gMXnPk'] payeur FyC5nr3WJAir6cntnwwQRuurq4JUCWvsH2VS5p4vYZ8k [None, None, 'createAccount']
+Xixm4gMXnPk.jsonl.gz tx 100 où le solde de jetons de 4ToQp55m bouge 79 mints distincts 25 signataires 26 4ToQp55m signe False
+  tx du chargeur 2024-10-10 07:42:08 3pENHTDXXS7GKi6W6U8pzSjKGN4mepP3aeDoqq6wwTCggzJVrzCEQyHw9ooiWCXFWGbjBD7X2qPzNyHwZdVFNxCa signataires ['FyC5nr3WJAir6cntnwwQRuurq4JUCWvsH2VS5p4vYZ8k'] payeur FyC5nr3WJAir6cntnwwQRuurq4JUCWvsH2VS5p4vYZ8k ['close']
+gMXnPk.desc.jsonl.gz tx 100 où le solde de jetons de 4ToQp55m bouge 99 mints distincts 42 signataires 27 4ToQp55m signe False

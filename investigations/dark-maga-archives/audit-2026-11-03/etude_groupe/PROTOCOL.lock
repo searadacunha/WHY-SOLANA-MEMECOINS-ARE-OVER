@@ -1,0 +1,44 @@
+{
+ "version": 2,
+ "etude": "etude_groupe",
+ "gele_le_utc": "2026-11-03 10:53:59",
+ "plan": "analysis_plan.md",
+ "fichiers": {
+  "analysis_plan.md": "b8ea5507a64528f3e784be7a7cee04f717172ef2636ae7c920e7d338dc972d08",
+  "code/ana_grp.py": "ce8befbcb4db7044d878752d1746e1a4c50c9e26a4145bc2b2397337493b7098",
+  "code/col_grp.py": "dad62dc25441431282b5d7fd4b9b6ede8ba49995c5afa55d58d1d465ce47196b",
+  "code/ctl_synth.py": "b734e4a9f952053ce69e26aa2f743352b466e749390c4fb976d71720b9a6635c",
+  "code/graphe.py": "dd174244b99f0d239db468b896cb3481f391c3af1386ea18ba66cc90046e3788",
+  "code/registre.py": "7cf1c70ef1f1ce14dda90be8c00329069432a8e5ce473652d0b33b06601c27a3",
+  "../dmaga/labels.py": "760c458de453cbc238ff0bf18e3cefe4bdb86e1f9bc0c0fb96cc65a244bfb104",
+  "controles/synth.md": "e07bf329e79261872be3a06562b251f7336d0ebc4803a9e06f073744a4133d34",
+  "derived/table.csv": "8fb2a0e43db38afd84b4f8e1f4e90855bcc1fd87efb07f87d48b3019415bf7a7",
+  "derived/par_token.jsonl": "e633a0d935b9c751154f5ab23616a2353b1c469b7681ba2813e5560c3b96a8d9"
+ },
+ "controles_positifs": "controles/synth.md",
+ "sans_controles_raison": null,
+ "git": {
+  "depot_relatif": "..",
+  "commit_head": "ef9ef3270b31d8bc543f45ab52d2696d04f70c13",
+  "fichiers_non_committes": true,
+  "tag": null
+ },
+ "immuable": false,
+ "ajouts": [
+  {
+   "t_utc": "2026-11-03 13:32:09",
+   "fichiers": [
+    "derived/par_token.jsonl",
+    "derived/table.csv"
+   ],
+   "raison": "AJOUT TARDIF : table calculée par le code gelé, mais la commande d'ajout a échoué par une erreur de shell (variable non découpée par zsh), elle n'a donc été gelée qu'après le calcul des tests. Table non modifiée depuis.",
+   "controles": null,
+   "sans_controles_raison": "table de mesures, code déjà couvert par controles/synth.md",
+   "lock_sha_avant": "f25b32bd8c1ee0da724e6882a33af771ad9575e9353919403a710aefe773870c"
+  }
+ ],
+ "regle": "These files no longer change. Any change of method = a NEW file in amendements/ (resultats_vus: oui|non). Only Benjamin unfreezes.",
+ "_historique_sha": [
+  "f25b32bd8c1ee0da724e6882a33af771ad9575e9353919403a710aefe773870c"
+ ]
+}

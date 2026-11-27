@@ -1,0 +1,56 @@
+gelé le 2026-11-02 23:47:06 commit_head b0445db3e87d0d360b7bb166ef4bc4c0dac95bbb non committés True immuable False ajouts ['2026-11-03 03:25:30']
+empreintes conformes 17 différentes 0
+mtime UTC 2026-11-02 23:40:29 etude_final/analysis_plan.md
+mtime UTC 2026-11-03 03:25:30 etude_final/PROTOCOL.lock
+mtime UTC 2026-11-03 02:46:05 etude_final/amendements/001-2026-11-03.md
+mtime UTC 2026-11-03 04:12:09 etude_final/amendements/002-2026-11-03.md
+mtime UTC 2026-11-03 03:25:19 etude_final/derived/metrics.csv
+mtime UTC 2026-11-03 03:25:36 etude_final/tables/tests.json
+mtime UTC 2026-11-03 03:25:38 etude_final/tables/verdict.json
+mtime UTC 2026-11-03 03:33:09 etude_final/tables/funder_share.json
+mtime UTC 2026-11-03 04:13:08 etude_final/results.md
+mtime UTC 2026-11-02 23:47:06 etude_final/controles/synth.md
+mtime UTC 2026-11-03 03:24:24 data/controls/selection.jsonl
+mtime UTC 2026-11-03 03:23:46 data/controls/swaps_stats.jsonl
+mtime UTC 2026-11-03 00:47:04 data/controls/activity.jsonl
+mtime UTC 2026-11-02 23:06:24 data/controls/migrations.jsonl
+26cf5c7 2026-11-02T23:47:50+00:00 Gel du plan de tests DMAGA contre comparateurs, code et controles positifs
+
+ etude_final/PROTOCOL.lock          |  34 +++
+ etude_final/analysis_plan.md       | 129 ++++++++++++
+ etude_final/code/ana_10_table.py   |  99 +++++++++
+ etude_final/code/ana_50_tests.py   | 108 ++++++++++
+ etude_final/code/ana_90_verdict.py |  19 ++
+ etude_final/code/chainutil.py      |  30 +++
+ etude_final/code/col_50_ctrl.py    | 269 +++++++++++++++++++++++
+ etude_final/code/ctl_01_synth.py   | 110 ++++++++++
+ etude_final/code/ctl_02_e2e.py     | 188 +++++++++++++++++
+ etude_final/code/metrics.py        | 123 +++++++++++
+ etude_final/code/registre.py       | 422 +++++++++++++++++++++++++++++++++++++
+ etude_final/controles/synth.md     |  26 +++
+ etude_final/registre/tests.jsonl   |  10 +
+ 13 files changed, 1567 insertions(+)
+
+7f6f1c9 2026-11-03T03:46:09+00:00 Resultats des tests geles, groupes, flux et rapports DMAGA
+
+ etude_final/PROTOCOL.lock                 |  23 +-
+ etude_final/amendements/001-2026-11-03.md |  18 +
+ etude_final/derived/metrics.csv           | 878 ++++++++++++++++++++++++++++++
+ etude_final/derived/selection_counts.json |  24 +
+ etude_final/registre/tests.jsonl          |  15 +
+ etude_final/tables/funder_share.json      | 405 ++++++++++++++
+ etude_final/tables/tests.json             | 297 ++++++++++
+ etude_final/tables/verdict.json           |   3 +
+ 8 files changed, 1660 insertions(+), 3 deletions(-)
+
+fdb5693 2026-11-03T04:14:00+00:00 Rapports corriges apres audit des conclusions, groupes, collecteur, garde memoire
+
+ etude_final/amendements/002-2026-11-03.md | 11 +++++++++++
+ etude_final/results.md                    | 24 ++++++++++++++++++++++++
+ 2 files changed, 35 insertions(+)
+
+commits de 001 : 7f6f1c9 2026-11-03T03:46:09+00:00
+commits de metrics.csv : 7f6f1c9 2026-11-03T03:46:09+00:00
+lignes registre 25 dernière empreinte recalculée b5c2f087f1e488b6
+témoins présents 33
+contenu etudes-gelees : ['.verrou', 'index.json', 'temoins']

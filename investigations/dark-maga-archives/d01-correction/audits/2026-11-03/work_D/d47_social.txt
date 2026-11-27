@@ -1,0 +1,19 @@
+C03 profil {'screen_name': 'DarkMagaCoin', 'joined': 'Tue Jun 11 16:25:03 +0000 2024'}
+C03 thread ' the idea that we\'d refurbish the Dark MAGA aesthetic from 2022 this time. \n      thread#showTweet" data-screenname="Aristos_Revenge" data-tweet="1843704371336630475" dir="auto">\n        What we didn\'t count on was that two days later, Trump would survive an assassination attempt at his Butler, PA r'
+C03 mention de mint dans le thread 0
+C04 fichiers archive 23 ['twitter.com_20240721124011.dec.html', 'twitter.com_20240721124011.html', 'twitter.com_20240721184510.html', 'twitter.com_20240721190327.html', 'twitter.com_20240721205925.html', 'twitter.com_20240722030800.html']
+C04 snowflake avatar 2024-07-21T19:23:20Z ancien 2024-04-16T01:24:11Z
+C31 pHash Winig/avatar 0 Winig/ancien 18 snowflake Winig 2024-07-21T16:02:29Z
+C31 images proches : n 703 à distance <= 4 : 12 la plus ancienne   avant Winig, distance <= 10 : [('', '')]
+C32 kikisknees récupérés 234 [('2024-07-21T20:06:46Z', '@blknoiz06 $DMAGA pfp by me and @ChrisWinig https://t.co/RySUR5iblq'), ('2024-07-21T20:26:34Z', '@tvd33c @bennyjohnson $DMAGA pfp by me and @ChrisWinig')]
+C32 16:00:08 [('2024-07-21T16:00:08Z', "@elonmusk He survived, they didn't expect that. https://t.co/uui3cUK2N", 'None')]
+x_posts 5155 clés ['id', 'author', 'author_name', 'created_utc_metadata', 'created_utc_snowflake', 'ts_reliability', 'text', 'reply_to_user', 'reply_to_id', 'quote_id', 'retweets', 'likes', 'replies', 'views']
+C33 koreanjewcrypto n 24 [('', '#NewProfilePic\n\n$dmaga'), ('', '$dmaga starting to look like it wants to go again')] mentionne DMAGA 9
+C33 kanpai n 10 [('', '#NewProfilePic #DarkMAGA $dmaga\n\n@DarkMagaCoin'), ('', '$dmaga')] mentionne DMAGA 6
+C33 DarkMagaCoin n 891 [('', ''), ('', '')] mentionne DMAGA 115
+C33 pmarca n 2 [('', "THAT'S RIGHT."), ('', 'https://t.co/HQilnzynOc')] mentionne DMAGA 0
+IMG_5658 [] 2024-07-21T21:04:38Z
+C22 adresses publiées par le noyau {'7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump': ['DarkMagaCoin'], 'CRSwXnfF21yHDXdYBVWwCwQ5Ni2A4QuK3qGYis5k7x7k': ['DarkMagaCoin']}
+C14 (15, 206.87, 52.27)
+B-06 activité 21/07 par heure [(9, 5), (10, 6), (11, 10), (12, 36), (13, 119), (14, 269), (15, 112), (16, 296), (17, 289), (18, 95), (19, 1719), (20, 2463)]
+  médiane 72 h avant 14:00 7 plancher 5, ratio 38.42857142857143

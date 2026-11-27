@@ -1,0 +1,997 @@
+{
+  "scope": "Published source snapshots. Potential credentials and personal local paths removed; exact public evidence matches retained. Original hashes refer to unmodified source snapshots; the originals remain in the source repository.",
+  "modified_files": [
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a03_ctrl.py",
+      "original_sha256": "956d2cccee494769f3cf85f743f6003a3825083be941d540d70795c910128b80",
+      "published_sha256": "ead745e1433ca22df7eee685b86a68f6e25360008c7adcff76cea1b7f268d0af"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a04_metrics.py",
+      "original_sha256": "92d0cd5fad4f06aa730444e77bb4d4ff0ccc900a65e42177b47509dbf7ca3620",
+      "published_sha256": "3f1c879ff16a64d2487efd41744aec5bd68906af5b1a906ace7e20d8ef0ac9c9"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a05_sensitivity.py",
+      "original_sha256": "98995ce67121f31a743e5e01c279f8ae56f8f3d57e89990d2581947c0f2ba42f",
+      "published_sha256": "ea6ae98184dafd95ae88623cd7349a8bc0e898c87d34fcf41521efb9edadb732"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a06_registre.py",
+      "original_sha256": "7857a64e11bbaf89abd3117f9d1c82fcb7914ef81f7f9f160415ab368ae2dafb",
+      "published_sha256": "6a9a8053e3982bfdd9d8097e137cc72c232c2d797c709cb97783b01f464cae63"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a07_ranks.py",
+      "original_sha256": "64855327cb7f0fde4bd8080e7f09542d7f6375c69cdcaa3b58e77e5d3eadc9bd",
+      "published_sha256": "935d5fa6b25ee9e66c64c79e8e255f7466d08c37aaa13fe1a2ecdd13a639c96c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a10_selection.py",
+      "original_sha256": "bcdf8117c4c83615e3423e572e7580b9e8be3e74929dab17590d6ec58de7a62b",
+      "published_sha256": "7d0d4301d9132a887955fbbae4bdeb37345d751af6083fee53343cc37062a3f8"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a14_pnl.py",
+      "original_sha256": "481e7ea6b25cd7eabeaf08031fd633702e194b296b1520a19d58b40511cc9c84",
+      "published_sha256": "e85e79e1c0acd432a16981db369e7dc446924c40c2cc326ca855ec7ddddf00a2"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a15_named.py",
+      "original_sha256": "8927053f2f038d7fe373386da8e9a9fef839d7fe62f9a2fc2d99ce5717a14e1a",
+      "published_sha256": "46abdc8f43bc7f3c3c7b0fe83482f5d75a855668628de94d7a370a21e124dc4e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a16_labels.py",
+      "original_sha256": "5fe67cdf4506b0694a521c8c260ec0a2308efdeeef2c0017706292ebd40e2193",
+      "published_sha256": "172f10e7a450b71e123e3358c49396a6fdb1c83e3e3dce617e1bbac0f636b823"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a18_misc.py",
+      "original_sha256": "4c559f104a508ba7d7c0bfb1a63e4b997344b31f6f8efe72e4c9d81afcc2eb06",
+      "published_sha256": "a4e5f6ba22adf4d77702ab7bc645002baedc8b669c5981ec53aca770eb1f97da"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a19_gaps.py",
+      "original_sha256": "c4d6f7fbfa7628af1b048f122c7f53d71c0a0b11922c2cdc02e5422820ab52ee",
+      "published_sha256": "00844d8d54b45111dcb52f5458b2dddec8b0eeab8881fc8e99f9438bc742f244"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a20_time.py",
+      "original_sha256": "3de10c56350d030cf882cf4d9ba5b449c8e51c58ded0d20fd978acbdc733aff7",
+      "published_sha256": "3b650b6c4e661e5b2488ebb60dc579d8104756ad685be26e4955575df1250bb9"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a21_ruptures.py",
+      "original_sha256": "7efbff008a15e6cf7c97bca64a73cb7773fdee76ae09143dd933dac3304de9c0",
+      "published_sha256": "fbe4f594d626ccbee618491eaa7a9eaa1a6916bb068f4ad0a91b29ead37b1b86"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a22_fdv.py",
+      "original_sha256": "e03b13ddd0db19999c5a5bc39f6f107dfd80a618609e2834d2631d181dd3a0fb",
+      "published_sha256": "20175fdc9a509cef96f08ffc93e56b3ebae8fa0adabed4ad9a63a7918ef99966"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a23_group.py",
+      "original_sha256": "79d225ae97821213f4090ba457fd7d6717d912c095482762445a3333f7cf4048",
+      "published_sha256": "5ae9c769fc6039d66b9d3a368d7beb50260c08ae64ac05925446476ed4b5c49e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a24_roundtrip.py",
+      "original_sha256": "2fe2f78cf876710b0ac19afd8d83dd49a38153c0d84b41aacbaa53ee50b75602",
+      "published_sha256": "b5de3ce85b28478fe6b632a5c0701a4e4bee2819ac8d09042c654c6761992b67"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a25_s1.py",
+      "original_sha256": "677e12e05bb7a39502b0d876e7738059980d96b0ffa521eaec3d0d30230b4ded",
+      "published_sha256": "9dfc94d2c69c4b5362dc58d88ca8af2f1e2c696a222bfeb8af0e735f2559036e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a26_hidden.py",
+      "original_sha256": "266511636f9dfb774d3ac984138ea9122b0ee2a6b856e101ef3b7c1bb8c7fbab",
+      "published_sha256": "1c08eea893640bbdfdee1fdb36962c71816be8f7c76a5bb3870d3383d6d47973"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a29_flows.py",
+      "original_sha256": "2009f07c72960a365e4de2d02f6871e618a4637816930529b411258245fb66d7",
+      "published_sha256": "8b8757595ba1140062a3db69cef47d33eef0449d73cef7ceea61ae1045abb888"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a30_network.py",
+      "original_sha256": "1f3917b64b926f7dcb1a8bca10748b8c5dd62b449a0e1f45ecdff174a3f33057",
+      "published_sha256": "cced85b5d1e09f4633418d71e539b6fa3b6e59a2fa6d1f8e4e3e6fa9d4768c9b"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a31_network_hidden.py",
+      "original_sha256": "97a0c15092f236a3d28dc77dc402ef79ffd180ce19eea97616ba03a0f05658b5",
+      "published_sha256": "c8cb104012be15ef56849479cf0911d2d73a64d106b7845de9edf88eec8f48f3"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a33_dca_edges.py",
+      "original_sha256": "8cbc37baf19af9a08222c043df5ad59bb4a91137869e0c8c1564a68e5cc04346",
+      "published_sha256": "4512d18b8b39b612219fe94d89c53efbc54a648b9fb94efc06dd2754ff2769a7"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a34_payout.py",
+      "original_sha256": "c646aa8b72c36774cf92a6c0aa4a4b41a89e5a2a3a99fcb266f965c35b7a22fc",
+      "published_sha256": "cd5c853de5fa0535b44bdb9ff34ce19c894c58eb6f25e666b5306c2ae03846da"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a37_svc.py",
+      "original_sha256": "818a702e32bf4c81136635e12197488c5143e1909656ea85aabcf0ea12229e3d",
+      "published_sha256": "d1a10bd3c7eddeb4b9d25789f949159e41ec9bfd083e6d9b3eac65009a16e76d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a41_first1000.py",
+      "original_sha256": "9b0751633d9be9d6b9185b0aa936c6c729ee1e819ffa41a6d305f2e451def763",
+      "published_sha256": "aa37bcf7f38955b33fa471fb59b8a1eba95746f1983f2deef918cea620fc987e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a42_roundtrip_peers.py",
+      "original_sha256": "edf732750b993a9d820e98bb0a0f0fe00bce268e42c8a1224183332ef1b2b8f8",
+      "published_sha256": "24594f303f4bc824476a42d43dcdbb4ca390537056e4bbcf90f096bc7e4246ae"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/a43_subset.py",
+      "original_sha256": "4fa99091c2a4af96ed461fb7cdd020378fb158d96183b26fc3190e58793f8be2",
+      "published_sha256": "645671b173114e4d983ac5fa8dff417745eabe7eebee76605f6fe2746d5ba9b1"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/mk_claims.py",
+      "original_sha256": "f94a4ef2ffd5f620518d57848de90916130562410988534dd35b669a3530fc46",
+      "published_sha256": "3d89927586e08f6b4c4482419e429bdd2cd4e40b84c19126902fcacff93de9d1"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/out/a04_metrics.log",
+      "original_sha256": "7601482cbc3ecd8266f0d0ab2559d7a8a0aba1646f7ad2a20355bee2f18c6da4",
+      "published_sha256": "7e1ee50de062f5391a910e682fc212cddbb8a02a657765b9d35014773a48bd9c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/run_chain1.sh",
+      "original_sha256": "4b824ed3b4e752889a0b56c6d51769fe7512f978c41fdc435bf0e98a621022b8",
+      "published_sha256": "4d248c6833edf9eb49f07ca40173f8c991e404fb47b901c5b2e866a887b3ad46"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/run_chain2.sh",
+      "original_sha256": "71469e9270814fb2a1382eb9a54480c8b8e9f6a24bf0835650e23a602c2b1147",
+      "published_sha256": "287c53945abd26a2104747ae74a11f88115bccca4497ad649d881a553b7b2995"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/run_chain3.sh",
+      "original_sha256": "bbffb8b306fdd7d288aa513ca237ddf425127dc1c1e3db7a0bf28a23c51c9535",
+      "published_sha256": "d19076e6af760440c04648d83274b0476f353b5e92ca48146a060cf7d8d30234"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/run_chain4.sh",
+      "original_sha256": "16bc7893df691bbb07f8bfa02789f418f6e8ee5deab9e4e202b724d6dbb2a366",
+      "published_sha256": "7b9988a7a45a522dc428da11521e1b31a0d40fc2c0d216c4b8634c8b12260b18"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/run_chain5.sh",
+      "original_sha256": "dddb0b7903bdb13af4d99a36f679df86ebc9ea25fee80a8376a860da3625fe08",
+      "published_sha256": "5518a6a5f88d80f237dff306d67f129a426e32fc64f12c25e73945a07c013dee"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/run_chain6.sh",
+      "original_sha256": "057f0d6afe1f4d91de9ceacffcaf926045558b65b62d22df4d8bf20638463ba6",
+      "published_sha256": "ac8c3a6b1306ff2a7cfb768080c833ecdae74e4b58f45630b8aeeaf405abc4cb"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_A/run_chain7.sh",
+      "original_sha256": "bcb7a95343a0dc2ac69af8abf0a4a0e222568bdfa9951961d9cffd03ecec810a",
+      "published_sha256": "44b281685ce5d88245adfa3a8034bb7611cf25ff02c3e74f0c08fb1753a58314"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_B/b02_parse_rev.log",
+      "original_sha256": "e4e9709daad1822a3c7a6f184d078a8ca8935ceca824c3e0f9e57ab4735a1c61",
+      "published_sha256": "bd87c5fab1efa0083bb91f7fc96e5d82893009c3ba157a53158dca250f1d2af2"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_B/b03_run.sh",
+      "original_sha256": "280b10919c8685de7ea04a025c3a4f793b0e627c57c41814a87951b8871406ec",
+      "published_sha256": "3d8d8800f2af67e1f64f028607d48dd91f10f7e50e252f260c353a3871531e72"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_B/b12_run.sh",
+      "original_sha256": "044726f9ae80ed6ea2a79e0bbfe85f9b248b98e4d0672511db8af2bd53f5046e",
+      "published_sha256": "e863a9a3b3c46a09c0300eb032cf7bab35a3e83e422d1e3ea4fc23d6f55e273a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c10b.py",
+      "original_sha256": "82d2a5a940a768c442ee9312cda29e18b1bcd6e6ad8d93408891b9d3d985ad00",
+      "published_sha256": "d04ff44497957b6f4f3a4d6191cb1a420915e8fb0403d3b0560e10a4c42eee10"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c18_programs.py",
+      "original_sha256": "3f71e7ccebdf96e8a2e9bd805656603e735ec60882894a6832d4944174b12eed",
+      "published_sha256": "16cb9e973f800f9f65eac6833b3fc8253765ae59efffbc638f1819a1baf0d448"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c24_g41v.py",
+      "original_sha256": "8df85343857700df2d0a1a01caf867af86610620a4ef16a3f4cac744ffce23fc",
+      "published_sha256": "2e8a2ad6a9886e038003a19f0506f70d358577e04ab39d083b2e7da2b6c1ebfd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c25_nodes.py",
+      "original_sha256": "92bef780e5e31e4980795e92c613c0db71f673a51d518a5d83779e67db24320c",
+      "published_sha256": "f68ab2077d5e6778588b1f749f29509ab0eb9307bc4422e5f46698253435d658"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c26_continuity.py",
+      "original_sha256": "d9b4ede5773f9182dc59d3a1d6295232c7b70f22a8fe0a9f1706ed403d86f5fb",
+      "published_sha256": "02130cdec7095fa67195f6ff1639fe0346021c4204dfa08dc19f84395ee6d268"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c27_sens.py",
+      "original_sha256": "9eb4af14b033eadedafeec51a066e5c9bc75b3bc2269d560fdaaf81a5bbdff47",
+      "published_sha256": "7feba55e06140a41b9efe541dbbc211dddd7bd3ccb92d4d633d30e651b2038ca"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c28_seed_token.py",
+      "original_sha256": "ec4d7a5fb0dd9b8c4159de014731e0affa15de67fd75ae5642700f839f8dab78",
+      "published_sha256": "479e14ac14892e28922d70462bf996c9f8028eb9285f3fe6be31adfb2724fffc"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c29_absent.py",
+      "original_sha256": "6aec0cd583ec78ea66116822d035a38407b7cf7c526c195e1cc86923a0224742",
+      "published_sha256": "2923e3ee2a6d936778ad668db17bc64e1b2194008e311d293a694f5ab2cfc2c5"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c30_abs_tx.py",
+      "original_sha256": "5da74d0a749da77b89af0d6a8e3d448fa917466d1f5adde8988fb5c0e38fd1f2",
+      "published_sha256": "a6716ce7207cc77cf93b34c44cf4e6624f6e4b2bee37b9e1f5c6830fed5184c3"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c33_protocol.py",
+      "original_sha256": "3526f6b57735940add753a528e65d399e9d03792f808f9b6f3660f27c0f52f65",
+      "published_sha256": "5a016259b45b0e194ec56d1ddafa3e86c43f80387334ac0546ce33cd451edd09"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c41_view.py",
+      "original_sha256": "652bab272dad0abf9003df8ca21b7f9da749da40ebb4789ed65dd3044ef0bc2d",
+      "published_sha256": "84647722edce87c169a5330b987866d0de03b9f8dc188a5f8b7e9eb6628fc75f"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c42_edges40.py",
+      "original_sha256": "4ce8bc4ba9d4fa254686492e9249b4adcec349a25d4d19e2243a0761cc2bbbe7",
+      "published_sha256": "7d9def09dab36a2a1c194d25330c3f24de9e4c33a6591b304551676693a4ab61"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c43_evidence.py",
+      "original_sha256": "b2545122c66684067a3a8c1441b1dc72778818cdbcaabfa5a4b02b54d99ef3c5",
+      "published_sha256": "071859bdb4c083e36b9bd6d99eb5e4c62044be303ea59e926952f99154d1cef8"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c44_links.py",
+      "original_sha256": "476fabedf63b751e3475eb2ea82e47852a778e04872c0632871aed170bf86078",
+      "published_sha256": "2c991ff86cbabc7fac506ab56d7cf957b565497afb64c36f054fb164fc98a98c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c45_prevent.py",
+      "original_sha256": "29379149f84c1bfbc88956da8998eef7ee45051423fef421adffaec553003a05",
+      "published_sha256": "b3745738dc7ab0f8a8231adde7b7805a7a7aa6cd5efd7e1119fd3d990c223d4c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c46_market.py",
+      "original_sha256": "6f74f5ac4277395a00a63778cef3947625ddea26828e9cb7a9174aabbc01bf4c",
+      "published_sha256": "0829359fb79e285c081fdc12abba1c4112356d892eaaf7925b97a98a2710e14a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c47_burst.py",
+      "original_sha256": "4fde89445a2ca08e11bad98087a027ae19312fdf288b15501b8fa915c2199a21",
+      "published_sha256": "b0ff92cee184e2a82e109a4803ca4b677481047b2bcd78c290a8056b06b09102"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c48_ctrl_fp.py",
+      "original_sha256": "103d5d4865eba513ad74da8fe119dccae60290550635fe50ee370b2e2dfd0ebe",
+      "published_sha256": "d2b1b751bd02d73c9aad2da50a37350c83e88abec76ec20b140709caf9f7f138"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c50_misc.py",
+      "original_sha256": "bb3e4b6cf6535ee04d87cb0330862179deda4c32fff42d8ff82ac211b6469b88",
+      "published_sha256": "76e19c8ecd72d5bbfa09b1d107ec48a777bce40de16192f5fed621ca21c9f610"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c54_social.py",
+      "original_sha256": "8e5c6debd66e2e184377c2e54fd5aa4c96f59d80864b6dda6f2638490312fe3f",
+      "published_sha256": "c3ab4b3653f8bee843c209b985c1d40a8abba73a3ea4a05bd7d58d973b60924d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c55_phash.py",
+      "original_sha256": "3fc77a6a011777745e46236339d9257b127d5914295130c8ba9f880cc3f2a937",
+      "published_sha256": "c4ed4e4bede418ff9c8e848b12c225c25e378cc2eab81d56911eb7e74a8f7c8f"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c60_match.py",
+      "original_sha256": "8e3b97a5b89446980ae835630efed596249dd9f4ca6b5fb8d210f11f3dc63c12",
+      "published_sha256": "9670af09743cd0b3c60c4adf8cbe626569fd186e8026cc04459ba20311c693c4"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_C/c65_checks.py",
+      "original_sha256": "69e07c613a19cc13c2853fa684da607dae2ba1e3fc033ada0fe88bf7790370eb",
+      "published_sha256": "3180d28724cf98a4eadce6088eff44872cabac985147035162b17567c9769e10"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/chan/warosu_biz2__dark_maga__.html",
+      "original_sha256": "f5f1c1da1db17889f9cdbaec35e6cb5a0abb48dfe2893d05d78f4c28c1dea4a3",
+      "published_sha256": "790d5a9038e2eda276b0593639d2f253996ea6670ed49c96974c8c0249c9abbd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/chan/warosu_biz2__laser_eyes__elon_.html",
+      "original_sha256": "e3cc7c5fba9ac6c813f2301cca2aa674b17e7b7142ac3bd7145ec2d9068759ce",
+      "published_sha256": "e0c14d6bdad838ef43d66a8bfc2861639906d4a60a4ae2e7e488a73dfa31e392"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/chan/warosu_biz2_darkmaga_.html",
+      "original_sha256": "9b5edbb55ec4cbe1ad1f2354db6ef04128584b96496634c9a641f33711d91224",
+      "published_sha256": "42cd4fe4a59818dc8a218ee08b88b659a4060d8c411d1407de6ff35867aa11b3"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/chan/warosu_biz2_dmaga_.html",
+      "original_sha256": "64393116ac188bb604268290f25aa983a57f11b33f48c8b5b57a3ec808e5300e",
+      "published_sha256": "122efb722219197b0527f57a67a6abe4c554c21058b9076a16aaa37afb106486"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/chan/warosu_biz_dmaga.html",
+      "original_sha256": "4ea27c2b8ad64fe405b3348dccc22b6c41cf38ec81e6b53b8f22df5740cccaff",
+      "published_sha256": "31ceb14626e64e2675b8ef16f03d4498abae3b1358c7a84c3a2e86045e867d71"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_E/evidence/wb_status/1814376141085434171.raw",
+      "original_sha256": "08f68331df7d2106e643c6647407f03664c94679d219aab0f7b95c7f49706872",
+      "published_sha256": "9fa68a8955469975e9e4739f130846a7a466d4bd82f7dc6aa2a67dea6ae58327"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_F/log_02_derive.txt",
+      "original_sha256": "c6ebe9db6f1675bfafb8f93b72b3010464c6651f5c1b0bf1f908b36991f2a645",
+      "published_sha256": "fe3f874bda0358c0ac56d25364c696ec11f61d93ca1c7d4bd26cf0bbabb43004"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_G/run_chain.sh",
+      "original_sha256": "23660191386139e53ecb9af151065e7795c731a31e99d16a789093f4f553f4ba",
+      "published_sha256": "6e69ff2f707200cf8b007009e7bbc56893b3e57942ad1f960500de37b422db09"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_security/key_hits_files.tsv",
+      "original_sha256": "88f5de61f08f90f5435600fbfe9e3d76907ba746f24985790dc336ae0dabe096",
+      "published_sha256": "8dce7f032be87783c9e920a1c430c4b6dc3ee4be5bc7627e3955cd8b1e639951"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_security/key_strict_files.tsv",
+      "original_sha256": "71bdb9809272391bb9c8cd05db82cd4e5659dbf517fe6a929ad1e7533cf051ba",
+      "published_sha256": "a1de2396d9c246f89f98135fab3878ab7d14c82b84d52fe02ab6e5c2ae068d7a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/audits/2026-11-03/work_security/scan_worktrees.log",
+      "original_sha256": "9806d012f0f9a1e4019826176922a7ae595d9926de65cee5ebb3458d3b3fe5b9",
+      "published_sha256": "a66c9760a62885bf3868331bbfd3f46100ba5b87a4a256561efd1198aacba21e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/docs/PRIOR_WORK.md",
+      "original_sha256": "f341aaf6478f51a04001a9f2dff9a7d1352011dc00f59538d8d9c564430cf698",
+      "published_sha256": "9d6151c9e02045b1f08df816d42d0f1820cc09e1edd2b5ac605f942babdce1ec"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/bitcoincom_laser_eyes.html",
+      "original_sha256": "0abf649a512f9f5c075655a12d83dbd80b71530882412433cae530783d39749e",
+      "published_sha256": "a1f7671eab90df26932dda267ee0ebaefa1a1ce169ef7c668013ba9a5ef758d2"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/coinness_1101358.html",
+      "original_sha256": "311c984e9ff656e10198c668f75b6c23bcf0c248937276a6dbca888b7ee0c4eb",
+      "published_sha256": "b065b1baf71fa6e87fcf17d92dca7680ab897b0e444500e83c493ae79a5089cd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/complotti.html",
+      "original_sha256": "2dd70f6bfc8a2b446de41c5651e7e7081bc8be75a474290a24720349ae6577a1",
+      "published_sha256": "3a86180a2c9ca7fc69f71f214447751b7e94d4c47c3777a8c906af02e124062d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/cryptonews_dmaga_butler.html",
+      "original_sha256": "7a8d1181b7a72d3523ef16bd301257a2c7e09b54dc14cc5c28c37faec9f05afe",
+      "published_sha256": "840e54c766583ea5f8889e21697b280ae4b63d6657bc09af9e843513ad9c94cd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/deccanherald_3115610.html",
+      "original_sha256": "56e7e1b935f501e73b41d6904b2046b2841c227e9dd4beff09e09467c27c9b4a",
+      "published_sha256": "53b081c144cc2fec57a34eb8b02fe8c8dcaa9df655804abd832fdf6fded0a05f"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/exa_searches.txt",
+      "original_sha256": "d5409ba637927db2b0e5434bf9108a0cddbe5084da9e74d2e0a6f91ea37fa221",
+      "published_sha256": "a3748fc77765cbe01597e9d8abd9c66700afa61808d4a3bc26c02f9f48d6b522"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/motherjones_2022_05_cawthorn.html",
+      "original_sha256": "6564b87c69b71654f5bb36ebfcf18c1c50d54a63429a0b3592a49b990d164bfc",
+      "published_sha256": "b92359d0049da9634179f779771cfacbb0971d554af8580a6ac1e237f0dedc2e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/odaily_5197004.html",
+      "original_sha256": "34e2321fac3a4b4e02f5efb2426a21256f81510190afa080273b69870f7d21af",
+      "published_sha256": "f0855c17c3a1865b66c7a3a01aa8f34064ffb19c3f0976e25d835543acbf848d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/qklw_383329.html",
+      "original_sha256": "a9764cebb5726b4c2e61918b56a33d20188299550f5e29cd353be3bc6102fc2b",
+      "published_sha256": "5f97bea772081e8fcc0b21f904f3c3d95f68aa1c3815f5627fcfa1ad539add1a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/thecryptobasic_0722.html",
+      "original_sha256": "c5b535e6719c28b4808559499f925bc05294c7f7d09196107df8fbb6acf28cc7",
+      "published_sha256": "5d124c7a3e1962d61d97fc8ebdded61e6f3b2164b019b201ca81a8bf0f7076a6"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/wb_darkmaga_com_20240919074820.html",
+      "original_sha256": "d0ec19805dfbe024be47be3d8d33651c98b18e49b0b1ce2bfae5dc2219fd3bb0",
+      "published_sha256": "4d94b5814a11a93afc6dcf4a97ded80fb77923dd4bb4e8580725b84fd2344302"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/wb_darkmaga_com_20241008153151.html",
+      "original_sha256": "d0ec19805dfbe024be47be3d8d33651c98b18e49b0b1ce2bfae5dc2219fd3bb0",
+      "published_sha256": "4d94b5814a11a93afc6dcf4a97ded80fb77923dd4bb4e8580725b84fd2344302"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/wb_dmaga_xyz_20240714033132.html",
+      "original_sha256": "e6bfb7b9c72a708b27a9eeabd8c67e46689bbbcac2b300fc25f8edd9c6245c71",
+      "published_sha256": "610bee2af74836d6c66a360c254a3e6b9e6ca7d9fbbc6650cb7098f5be2c0b57"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/wb_dmaga_xyz_20240723093256.dec.html",
+      "original_sha256": "58e1a558e1ca4188f066e715b199005d04175b2369110d5611c898ae0e6ae704",
+      "published_sha256": "c34c060c79446cfe25afec4d8b14897cca8e4fb01c04334ad0c619b0e9f47db5"
+    },
+    {
+      "path": "investigations/dark-maga-archives/audit-2026-11-03/evidence/web/wb_dmaga_xyz_20240808150507.html",
+      "original_sha256": "e513e5bd4ccb33dc3c84c73cf712b42d0bda096353ae00bc3cb22f8c4228ef0c",
+      "published_sha256": "e67b3ae80aef6fb5d6150ce2ab23ece9219a9737d5876380cf7edb46387a8eb0"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a03_ctrl.py",
+      "original_sha256": "956d2cccee494769f3cf85f743f6003a3825083be941d540d70795c910128b80",
+      "published_sha256": "ead745e1433ca22df7eee685b86a68f6e25360008c7adcff76cea1b7f268d0af"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a04_metrics.py",
+      "original_sha256": "92d0cd5fad4f06aa730444e77bb4d4ff0ccc900a65e42177b47509dbf7ca3620",
+      "published_sha256": "3f1c879ff16a64d2487efd41744aec5bd68906af5b1a906ace7e20d8ef0ac9c9"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a05_sensitivity.py",
+      "original_sha256": "98995ce67121f31a743e5e01c279f8ae56f8f3d57e89990d2581947c0f2ba42f",
+      "published_sha256": "ea6ae98184dafd95ae88623cd7349a8bc0e898c87d34fcf41521efb9edadb732"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a06_registre.py",
+      "original_sha256": "7857a64e11bbaf89abd3117f9d1c82fcb7914ef81f7f9f160415ab368ae2dafb",
+      "published_sha256": "6a9a8053e3982bfdd9d8097e137cc72c232c2d797c709cb97783b01f464cae63"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a07_ranks.py",
+      "original_sha256": "64855327cb7f0fde4bd8080e7f09542d7f6375c69cdcaa3b58e77e5d3eadc9bd",
+      "published_sha256": "935d5fa6b25ee9e66c64c79e8e255f7466d08c37aaa13fe1a2ecdd13a639c96c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a10_selection.py",
+      "original_sha256": "bcdf8117c4c83615e3423e572e7580b9e8be3e74929dab17590d6ec58de7a62b",
+      "published_sha256": "7d0d4301d9132a887955fbbae4bdeb37345d751af6083fee53343cc37062a3f8"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a14_pnl.py",
+      "original_sha256": "481e7ea6b25cd7eabeaf08031fd633702e194b296b1520a19d58b40511cc9c84",
+      "published_sha256": "e85e79e1c0acd432a16981db369e7dc446924c40c2cc326ca855ec7ddddf00a2"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a15_named.py",
+      "original_sha256": "8927053f2f038d7fe373386da8e9a9fef839d7fe62f9a2fc2d99ce5717a14e1a",
+      "published_sha256": "46abdc8f43bc7f3c3c7b0fe83482f5d75a855668628de94d7a370a21e124dc4e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a16_labels.py",
+      "original_sha256": "5fe67cdf4506b0694a521c8c260ec0a2308efdeeef2c0017706292ebd40e2193",
+      "published_sha256": "172f10e7a450b71e123e3358c49396a6fdb1c83e3e3dce617e1bbac0f636b823"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a18_misc.py",
+      "original_sha256": "4c559f104a508ba7d7c0bfb1a63e4b997344b31f6f8efe72e4c9d81afcc2eb06",
+      "published_sha256": "a4e5f6ba22adf4d77702ab7bc645002baedc8b669c5981ec53aca770eb1f97da"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a19_gaps.py",
+      "original_sha256": "c4d6f7fbfa7628af1b048f122c7f53d71c0a0b11922c2cdc02e5422820ab52ee",
+      "published_sha256": "00844d8d54b45111dcb52f5458b2dddec8b0eeab8881fc8e99f9438bc742f244"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a20_time.py",
+      "original_sha256": "3de10c56350d030cf882cf4d9ba5b449c8e51c58ded0d20fd978acbdc733aff7",
+      "published_sha256": "3b650b6c4e661e5b2488ebb60dc579d8104756ad685be26e4955575df1250bb9"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a21_ruptures.py",
+      "original_sha256": "7efbff008a15e6cf7c97bca64a73cb7773fdee76ae09143dd933dac3304de9c0",
+      "published_sha256": "fbe4f594d626ccbee618491eaa7a9eaa1a6916bb068f4ad0a91b29ead37b1b86"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a22_fdv.py",
+      "original_sha256": "e03b13ddd0db19999c5a5bc39f6f107dfd80a618609e2834d2631d181dd3a0fb",
+      "published_sha256": "20175fdc9a509cef96f08ffc93e56b3ebae8fa0adabed4ad9a63a7918ef99966"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a23_group.py",
+      "original_sha256": "79d225ae97821213f4090ba457fd7d6717d912c095482762445a3333f7cf4048",
+      "published_sha256": "5ae9c769fc6039d66b9d3a368d7beb50260c08ae64ac05925446476ed4b5c49e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a24_roundtrip.py",
+      "original_sha256": "2fe2f78cf876710b0ac19afd8d83dd49a38153c0d84b41aacbaa53ee50b75602",
+      "published_sha256": "b5de3ce85b28478fe6b632a5c0701a4e4bee2819ac8d09042c654c6761992b67"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a25_s1.py",
+      "original_sha256": "677e12e05bb7a39502b0d876e7738059980d96b0ffa521eaec3d0d30230b4ded",
+      "published_sha256": "9dfc94d2c69c4b5362dc58d88ca8af2f1e2c696a222bfeb8af0e735f2559036e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a26_hidden.py",
+      "original_sha256": "266511636f9dfb774d3ac984138ea9122b0ee2a6b856e101ef3b7c1bb8c7fbab",
+      "published_sha256": "1c08eea893640bbdfdee1fdb36962c71816be8f7c76a5bb3870d3383d6d47973"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a29_flows.py",
+      "original_sha256": "2009f07c72960a365e4de2d02f6871e618a4637816930529b411258245fb66d7",
+      "published_sha256": "8b8757595ba1140062a3db69cef47d33eef0449d73cef7ceea61ae1045abb888"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a30_network.py",
+      "original_sha256": "1f3917b64b926f7dcb1a8bca10748b8c5dd62b449a0e1f45ecdff174a3f33057",
+      "published_sha256": "cced85b5d1e09f4633418d71e539b6fa3b6e59a2fa6d1f8e4e3e6fa9d4768c9b"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a31_network_hidden.py",
+      "original_sha256": "97a0c15092f236a3d28dc77dc402ef79ffd180ce19eea97616ba03a0f05658b5",
+      "published_sha256": "c8cb104012be15ef56849479cf0911d2d73a64d106b7845de9edf88eec8f48f3"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a33_dca_edges.py",
+      "original_sha256": "8cbc37baf19af9a08222c043df5ad59bb4a91137869e0c8c1564a68e5cc04346",
+      "published_sha256": "4512d18b8b39b612219fe94d89c53efbc54a648b9fb94efc06dd2754ff2769a7"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a34_payout.py",
+      "original_sha256": "c646aa8b72c36774cf92a6c0aa4a4b41a89e5a2a3a99fcb266f965c35b7a22fc",
+      "published_sha256": "cd5c853de5fa0535b44bdb9ff34ce19c894c58eb6f25e666b5306c2ae03846da"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a37_svc.py",
+      "original_sha256": "818a702e32bf4c81136635e12197488c5143e1909656ea85aabcf0ea12229e3d",
+      "published_sha256": "d1a10bd3c7eddeb4b9d25789f949159e41ec9bfd083e6d9b3eac65009a16e76d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a41_first1000.py",
+      "original_sha256": "9b0751633d9be9d6b9185b0aa936c6c729ee1e819ffa41a6d305f2e451def763",
+      "published_sha256": "aa37bcf7f38955b33fa471fb59b8a1eba95746f1983f2deef918cea620fc987e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a42_roundtrip_peers.py",
+      "original_sha256": "edf732750b993a9d820e98bb0a0f0fe00bce268e42c8a1224183332ef1b2b8f8",
+      "published_sha256": "24594f303f4bc824476a42d43dcdbb4ca390537056e4bbcf90f096bc7e4246ae"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/a43_subset.py",
+      "original_sha256": "4fa99091c2a4af96ed461fb7cdd020378fb158d96183b26fc3190e58793f8be2",
+      "published_sha256": "645671b173114e4d983ac5fa8dff417745eabe7eebee76605f6fe2746d5ba9b1"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/mk_claims.py",
+      "original_sha256": "f94a4ef2ffd5f620518d57848de90916130562410988534dd35b669a3530fc46",
+      "published_sha256": "3d89927586e08f6b4c4482419e429bdd2cd4e40b84c19126902fcacff93de9d1"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/out/a04_metrics.log",
+      "original_sha256": "7601482cbc3ecd8266f0d0ab2559d7a8a0aba1646f7ad2a20355bee2f18c6da4",
+      "published_sha256": "7e1ee50de062f5391a910e682fc212cddbb8a02a657765b9d35014773a48bd9c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/run_chain1.sh",
+      "original_sha256": "4b824ed3b4e752889a0b56c6d51769fe7512f978c41fdc435bf0e98a621022b8",
+      "published_sha256": "4d248c6833edf9eb49f07ca40173f8c991e404fb47b901c5b2e866a887b3ad46"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/run_chain2.sh",
+      "original_sha256": "71469e9270814fb2a1382eb9a54480c8b8e9f6a24bf0835650e23a602c2b1147",
+      "published_sha256": "287c53945abd26a2104747ae74a11f88115bccca4497ad649d881a553b7b2995"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/run_chain3.sh",
+      "original_sha256": "bbffb8b306fdd7d288aa513ca237ddf425127dc1c1e3db7a0bf28a23c51c9535",
+      "published_sha256": "d19076e6af760440c04648d83274b0476f353b5e92ca48146a060cf7d8d30234"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/run_chain4.sh",
+      "original_sha256": "16bc7893df691bbb07f8bfa02789f418f6e8ee5deab9e4e202b724d6dbb2a366",
+      "published_sha256": "7b9988a7a45a522dc428da11521e1b31a0d40fc2c0d216c4b8634c8b12260b18"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/run_chain5.sh",
+      "original_sha256": "dddb0b7903bdb13af4d99a36f679df86ebc9ea25fee80a8376a860da3625fe08",
+      "published_sha256": "5518a6a5f88d80f237dff306d67f129a426e32fc64f12c25e73945a07c013dee"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/run_chain6.sh",
+      "original_sha256": "057f0d6afe1f4d91de9ceacffcaf926045558b65b62d22df4d8bf20638463ba6",
+      "published_sha256": "ac8c3a6b1306ff2a7cfb768080c833ecdae74e4b58f45630b8aeeaf405abc4cb"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_A/run_chain7.sh",
+      "original_sha256": "bcb7a95343a0dc2ac69af8abf0a4a0e222568bdfa9951961d9cffd03ecec810a",
+      "published_sha256": "44b281685ce5d88245adfa3a8034bb7611cf25ff02c3e74f0c08fb1753a58314"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_B/b02_parse_rev.log",
+      "original_sha256": "e4e9709daad1822a3c7a6f184d078a8ca8935ceca824c3e0f9e57ab4735a1c61",
+      "published_sha256": "bd87c5fab1efa0083bb91f7fc96e5d82893009c3ba157a53158dca250f1d2af2"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_B/b03_run.sh",
+      "original_sha256": "280b10919c8685de7ea04a025c3a4f793b0e627c57c41814a87951b8871406ec",
+      "published_sha256": "3d8d8800f2af67e1f64f028607d48dd91f10f7e50e252f260c353a3871531e72"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_B/b12_run.sh",
+      "original_sha256": "044726f9ae80ed6ea2a79e0bbfe85f9b248b98e4d0672511db8af2bd53f5046e",
+      "published_sha256": "e863a9a3b3c46a09c0300eb032cf7bab35a3e83e422d1e3ea4fc23d6f55e273a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c10b.py",
+      "original_sha256": "82d2a5a940a768c442ee9312cda29e18b1bcd6e6ad8d93408891b9d3d985ad00",
+      "published_sha256": "d04ff44497957b6f4f3a4d6191cb1a420915e8fb0403d3b0560e10a4c42eee10"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c18_programs.py",
+      "original_sha256": "3f71e7ccebdf96e8a2e9bd805656603e735ec60882894a6832d4944174b12eed",
+      "published_sha256": "16cb9e973f800f9f65eac6833b3fc8253765ae59efffbc638f1819a1baf0d448"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c24_g41v.py",
+      "original_sha256": "8df85343857700df2d0a1a01caf867af86610620a4ef16a3f4cac744ffce23fc",
+      "published_sha256": "2e8a2ad6a9886e038003a19f0506f70d358577e04ab39d083b2e7da2b6c1ebfd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c25_nodes.py",
+      "original_sha256": "92bef780e5e31e4980795e92c613c0db71f673a51d518a5d83779e67db24320c",
+      "published_sha256": "f68ab2077d5e6778588b1f749f29509ab0eb9307bc4422e5f46698253435d658"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c26_continuity.py",
+      "original_sha256": "d9b4ede5773f9182dc59d3a1d6295232c7b70f22a8fe0a9f1706ed403d86f5fb",
+      "published_sha256": "02130cdec7095fa67195f6ff1639fe0346021c4204dfa08dc19f84395ee6d268"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c27_sens.py",
+      "original_sha256": "9eb4af14b033eadedafeec51a066e5c9bc75b3bc2269d560fdaaf81a5bbdff47",
+      "published_sha256": "7feba55e06140a41b9efe541dbbc211dddd7bd3ccb92d4d633d30e651b2038ca"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c28_seed_token.py",
+      "original_sha256": "ec4d7a5fb0dd9b8c4159de014731e0affa15de67fd75ae5642700f839f8dab78",
+      "published_sha256": "479e14ac14892e28922d70462bf996c9f8028eb9285f3fe6be31adfb2724fffc"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c29_absent.py",
+      "original_sha256": "6aec0cd583ec78ea66116822d035a38407b7cf7c526c195e1cc86923a0224742",
+      "published_sha256": "2923e3ee2a6d936778ad668db17bc64e1b2194008e311d293a694f5ab2cfc2c5"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c30_abs_tx.py",
+      "original_sha256": "5da74d0a749da77b89af0d6a8e3d448fa917466d1f5adde8988fb5c0e38fd1f2",
+      "published_sha256": "a6716ce7207cc77cf93b34c44cf4e6624f6e4b2bee37b9e1f5c6830fed5184c3"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c33_protocol.py",
+      "original_sha256": "3526f6b57735940add753a528e65d399e9d03792f808f9b6f3660f27c0f52f65",
+      "published_sha256": "5a016259b45b0e194ec56d1ddafa3e86c43f80387334ac0546ce33cd451edd09"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c41_view.py",
+      "original_sha256": "652bab272dad0abf9003df8ca21b7f9da749da40ebb4789ed65dd3044ef0bc2d",
+      "published_sha256": "84647722edce87c169a5330b987866d0de03b9f8dc188a5f8b7e9eb6628fc75f"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c42_edges40.py",
+      "original_sha256": "4ce8bc4ba9d4fa254686492e9249b4adcec349a25d4d19e2243a0761cc2bbbe7",
+      "published_sha256": "7d9def09dab36a2a1c194d25330c3f24de9e4c33a6591b304551676693a4ab61"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c43_evidence.py",
+      "original_sha256": "b2545122c66684067a3a8c1441b1dc72778818cdbcaabfa5a4b02b54d99ef3c5",
+      "published_sha256": "071859bdb4c083e36b9bd6d99eb5e4c62044be303ea59e926952f99154d1cef8"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c44_links.py",
+      "original_sha256": "476fabedf63b751e3475eb2ea82e47852a778e04872c0632871aed170bf86078",
+      "published_sha256": "2c991ff86cbabc7fac506ab56d7cf957b565497afb64c36f054fb164fc98a98c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c45_prevent.py",
+      "original_sha256": "29379149f84c1bfbc88956da8998eef7ee45051423fef421adffaec553003a05",
+      "published_sha256": "b3745738dc7ab0f8a8231adde7b7805a7a7aa6cd5efd7e1119fd3d990c223d4c"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c46_market.py",
+      "original_sha256": "6f74f5ac4277395a00a63778cef3947625ddea26828e9cb7a9174aabbc01bf4c",
+      "published_sha256": "0829359fb79e285c081fdc12abba1c4112356d892eaaf7925b97a98a2710e14a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c47_burst.py",
+      "original_sha256": "4fde89445a2ca08e11bad98087a027ae19312fdf288b15501b8fa915c2199a21",
+      "published_sha256": "b0ff92cee184e2a82e109a4803ca4b677481047b2bcd78c290a8056b06b09102"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c48_ctrl_fp.py",
+      "original_sha256": "103d5d4865eba513ad74da8fe119dccae60290550635fe50ee370b2e2dfd0ebe",
+      "published_sha256": "d2b1b751bd02d73c9aad2da50a37350c83e88abec76ec20b140709caf9f7f138"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c50_misc.py",
+      "original_sha256": "bb3e4b6cf6535ee04d87cb0330862179deda4c32fff42d8ff82ac211b6469b88",
+      "published_sha256": "76e19c8ecd72d5bbfa09b1d107ec48a777bce40de16192f5fed621ca21c9f610"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c54_social.py",
+      "original_sha256": "8e5c6debd66e2e184377c2e54fd5aa4c96f59d80864b6dda6f2638490312fe3f",
+      "published_sha256": "c3ab4b3653f8bee843c209b985c1d40a8abba73a3ea4a05bd7d58d973b60924d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c55_phash.py",
+      "original_sha256": "3fc77a6a011777745e46236339d9257b127d5914295130c8ba9f880cc3f2a937",
+      "published_sha256": "c4ed4e4bede418ff9c8e848b12c225c25e378cc2eab81d56911eb7e74a8f7c8f"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c60_match.py",
+      "original_sha256": "8e3b97a5b89446980ae835630efed596249dd9f4ca6b5fb8d210f11f3dc63c12",
+      "published_sha256": "9670af09743cd0b3c60c4adf8cbe626569fd186e8026cc04459ba20311c693c4"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_C/c65_checks.py",
+      "original_sha256": "69e07c613a19cc13c2853fa684da607dae2ba1e3fc033ada0fe88bf7790370eb",
+      "published_sha256": "3180d28724cf98a4eadce6088eff44872cabac985147035162b17567c9769e10"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/chan/warosu_biz2__dark_maga__.html",
+      "original_sha256": "f5f1c1da1db17889f9cdbaec35e6cb5a0abb48dfe2893d05d78f4c28c1dea4a3",
+      "published_sha256": "790d5a9038e2eda276b0593639d2f253996ea6670ed49c96974c8c0249c9abbd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/chan/warosu_biz2__laser_eyes__elon_.html",
+      "original_sha256": "e3cc7c5fba9ac6c813f2301cca2aa674b17e7b7142ac3bd7145ec2d9068759ce",
+      "published_sha256": "e0c14d6bdad838ef43d66a8bfc2861639906d4a60a4ae2e7e488a73dfa31e392"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/chan/warosu_biz2_darkmaga_.html",
+      "original_sha256": "9b5edbb55ec4cbe1ad1f2354db6ef04128584b96496634c9a641f33711d91224",
+      "published_sha256": "42cd4fe4a59818dc8a218ee08b88b659a4060d8c411d1407de6ff35867aa11b3"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/chan/warosu_biz2_dmaga_.html",
+      "original_sha256": "64393116ac188bb604268290f25aa983a57f11b33f48c8b5b57a3ec808e5300e",
+      "published_sha256": "122efb722219197b0527f57a67a6abe4c554c21058b9076a16aaa37afb106486"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/chan/warosu_biz_dmaga.html",
+      "original_sha256": "4ea27c2b8ad64fe405b3348dccc22b6c41cf38ec81e6b53b8f22df5740cccaff",
+      "published_sha256": "31ceb14626e64e2675b8ef16f03d4498abae3b1358c7a84c3a2e86045e867d71"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_E/evidence/wb_status/1814376141085434171.raw",
+      "original_sha256": "08f68331df7d2106e643c6647407f03664c94679d219aab0f7b95c7f49706872",
+      "published_sha256": "9fa68a8955469975e9e4739f130846a7a466d4bd82f7dc6aa2a67dea6ae58327"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_F/log_02_derive.txt",
+      "original_sha256": "c6ebe9db6f1675bfafb8f93b72b3010464c6651f5c1b0bf1f908b36991f2a645",
+      "published_sha256": "fe3f874bda0358c0ac56d25364c696ec11f61d93ca1c7d4bd26cf0bbabb43004"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_G/run_chain.sh",
+      "original_sha256": "23660191386139e53ecb9af151065e7795c731a31e99d16a789093f4f553f4ba",
+      "published_sha256": "6e69ff2f707200cf8b007009e7bbc56893b3e57942ad1f960500de37b422db09"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_security/key_hits_files.tsv",
+      "original_sha256": "88f5de61f08f90f5435600fbfe9e3d76907ba746f24985790dc336ae0dabe096",
+      "published_sha256": "8dce7f032be87783c9e920a1c430c4b6dc3ee4be5bc7627e3955cd8b1e639951"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_security/key_strict_files.tsv",
+      "original_sha256": "71bdb9809272391bb9c8cd05db82cd4e5659dbf517fe6a929ad1e7533cf051ba",
+      "published_sha256": "a1de2396d9c246f89f98135fab3878ab7d14c82b84d52fe02ab6e5c2ae068d7a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/audits/2026-11-03/work_security/scan_worktrees.log",
+      "original_sha256": "9806d012f0f9a1e4019826176922a7ae595d9926de65cee5ebb3458d3b3fe5b9",
+      "published_sha256": "a66c9760a62885bf3868331bbfd3f46100ba5b87a4a256561efd1198aacba21e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/docs/PRIOR_WORK.md",
+      "original_sha256": "f341aaf6478f51a04001a9f2dff9a7d1352011dc00f59538d8d9c564430cf698",
+      "published_sha256": "9d6151c9e02045b1f08df816d42d0f1820cc09e1edd2b5ac605f942babdce1ec"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/bitcoincom_laser_eyes.html",
+      "original_sha256": "0abf649a512f9f5c075655a12d83dbd80b71530882412433cae530783d39749e",
+      "published_sha256": "a1f7671eab90df26932dda267ee0ebaefa1a1ce169ef7c668013ba9a5ef758d2"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/coinness_1101358.html",
+      "original_sha256": "311c984e9ff656e10198c668f75b6c23bcf0c248937276a6dbca888b7ee0c4eb",
+      "published_sha256": "b065b1baf71fa6e87fcf17d92dca7680ab897b0e444500e83c493ae79a5089cd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/complotti.html",
+      "original_sha256": "2dd70f6bfc8a2b446de41c5651e7e7081bc8be75a474290a24720349ae6577a1",
+      "published_sha256": "3a86180a2c9ca7fc69f71f214447751b7e94d4c47c3777a8c906af02e124062d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/cryptonews_dmaga_butler.html",
+      "original_sha256": "7a8d1181b7a72d3523ef16bd301257a2c7e09b54dc14cc5c28c37faec9f05afe",
+      "published_sha256": "840e54c766583ea5f8889e21697b280ae4b63d6657bc09af9e843513ad9c94cd"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/deccanherald_3115610.html",
+      "original_sha256": "56e7e1b935f501e73b41d6904b2046b2841c227e9dd4beff09e09467c27c9b4a",
+      "published_sha256": "53b081c144cc2fec57a34eb8b02fe8c8dcaa9df655804abd832fdf6fded0a05f"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/exa_searches.txt",
+      "original_sha256": "d5409ba637927db2b0e5434bf9108a0cddbe5084da9e74d2e0a6f91ea37fa221",
+      "published_sha256": "a3748fc77765cbe01597e9d8abd9c66700afa61808d4a3bc26c02f9f48d6b522"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/motherjones_2022_05_cawthorn.html",
+      "original_sha256": "6564b87c69b71654f5bb36ebfcf18c1c50d54a63429a0b3592a49b990d164bfc",
+      "published_sha256": "b92359d0049da9634179f779771cfacbb0971d554af8580a6ac1e237f0dedc2e"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/odaily_5197004.html",
+      "original_sha256": "34e2321fac3a4b4e02f5efb2426a21256f81510190afa080273b69870f7d21af",
+      "published_sha256": "f0855c17c3a1865b66c7a3a01aa8f34064ffb19c3f0976e25d835543acbf848d"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/qklw_383329.html",
+      "original_sha256": "a9764cebb5726b4c2e61918b56a33d20188299550f5e29cd353be3bc6102fc2b",
+      "published_sha256": "5f97bea772081e8fcc0b21f904f3c3d95f68aa1c3815f5627fcfa1ad539add1a"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/thecryptobasic_0722.html",
+      "original_sha256": "c5b535e6719c28b4808559499f925bc05294c7f7d09196107df8fbb6acf28cc7",
+      "published_sha256": "5d124c7a3e1962d61d97fc8ebdded61e6f3b2164b019b201ca81a8bf0f7076a6"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/wb_darkmaga_com_20240919074820.html",
+      "original_sha256": "d0ec19805dfbe024be47be3d8d33651c98b18e49b0b1ce2bfae5dc2219fd3bb0",
+      "published_sha256": "4d94b5814a11a93afc6dcf4a97ded80fb77923dd4bb4e8580725b84fd2344302"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/wb_darkmaga_com_20241008153151.html",
+      "original_sha256": "d0ec19805dfbe024be47be3d8d33651c98b18e49b0b1ce2bfae5dc2219fd3bb0",
+      "published_sha256": "4d94b5814a11a93afc6dcf4a97ded80fb77923dd4bb4e8580725b84fd2344302"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/wb_dmaga_xyz_20240714033132.html",
+      "original_sha256": "e6bfb7b9c72a708b27a9eeabd8c67e46689bbbcac2b300fc25f8edd9c6245c71",
+      "published_sha256": "610bee2af74836d6c66a360c254a3e6b9e6ca7d9fbbc6650cb7098f5be2c0b57"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/wb_dmaga_xyz_20240723093256.dec.html",
+      "original_sha256": "58e1a558e1ca4188f066e715b199005d04175b2369110d5611c898ae0e6ae704",
+      "published_sha256": "c34c060c79446cfe25afec4d8b14897cca8e4fb01c04334ad0c619b0e9f47db5"
+    },
+    {
+      "path": "investigations/dark-maga-archives/d01-correction/evidence/web/wb_dmaga_xyz_20240808150507.html",
+      "original_sha256": "e513e5bd4ccb33dc3c84c73cf712b42d0bda096353ae00bc3cb22f8c4228ef0c",
+      "published_sha256": "e67b3ae80aef6fb5d6150ce2ab23ece9219a9737d5876380cf7edb46387a8eb0"
+    },
+    {
+      "path": "investigations/dark-maga/docs/PRIOR_WORK.md",
+      "original_sha256": "f341aaf6478f51a04001a9f2dff9a7d1352011dc00f59538d8d9c564430cf698",
+      "published_sha256": "9d6151c9e02045b1f08df816d42d0f1820cc09e1edd2b5ac605f942babdce1ec"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/bitcoincom_laser_eyes.html",
+      "original_sha256": "0abf649a512f9f5c075655a12d83dbd80b71530882412433cae530783d39749e",
+      "published_sha256": "a1f7671eab90df26932dda267ee0ebaefa1a1ce169ef7c668013ba9a5ef758d2"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/coinness_1101358.html",
+      "original_sha256": "311c984e9ff656e10198c668f75b6c23bcf0c248937276a6dbca888b7ee0c4eb",
+      "published_sha256": "b065b1baf71fa6e87fcf17d92dca7680ab897b0e444500e83c493ae79a5089cd"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/complotti.html",
+      "original_sha256": "2dd70f6bfc8a2b446de41c5651e7e7081bc8be75a474290a24720349ae6577a1",
+      "published_sha256": "3a86180a2c9ca7fc69f71f214447751b7e94d4c47c3777a8c906af02e124062d"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/cryptonews_dmaga_butler.html",
+      "original_sha256": "7a8d1181b7a72d3523ef16bd301257a2c7e09b54dc14cc5c28c37faec9f05afe",
+      "published_sha256": "840e54c766583ea5f8889e21697b280ae4b63d6657bc09af9e843513ad9c94cd"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/deccanherald_3115610.html",
+      "original_sha256": "56e7e1b935f501e73b41d6904b2046b2841c227e9dd4beff09e09467c27c9b4a",
+      "published_sha256": "53b081c144cc2fec57a34eb8b02fe8c8dcaa9df655804abd832fdf6fded0a05f"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/exa_searches.txt",
+      "original_sha256": "d5409ba637927db2b0e5434bf9108a0cddbe5084da9e74d2e0a6f91ea37fa221",
+      "published_sha256": "a3748fc77765cbe01597e9d8abd9c66700afa61808d4a3bc26c02f9f48d6b522"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/motherjones_2022_05_cawthorn.html",
+      "original_sha256": "6564b87c69b71654f5bb36ebfcf18c1c50d54a63429a0b3592a49b990d164bfc",
+      "published_sha256": "b92359d0049da9634179f779771cfacbb0971d554af8580a6ac1e237f0dedc2e"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/odaily_5197004.html",
+      "original_sha256": "34e2321fac3a4b4e02f5efb2426a21256f81510190afa080273b69870f7d21af",
+      "published_sha256": "f0855c17c3a1865b66c7a3a01aa8f34064ffb19c3f0976e25d835543acbf848d"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/qklw_383329.html",
+      "original_sha256": "a9764cebb5726b4c2e61918b56a33d20188299550f5e29cd353be3bc6102fc2b",
+      "published_sha256": "5f97bea772081e8fcc0b21f904f3c3d95f68aa1c3815f5627fcfa1ad539add1a"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/thecryptobasic_0722.html",
+      "original_sha256": "c5b535e6719c28b4808559499f925bc05294c7f7d09196107df8fbb6acf28cc7",
+      "published_sha256": "5d124c7a3e1962d61d97fc8ebdded61e6f3b2164b019b201ca81a8bf0f7076a6"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/wb_darkmaga_com_20240919074820.html",
+      "original_sha256": "d0ec19805dfbe024be47be3d8d33651c98b18e49b0b1ce2bfae5dc2219fd3bb0",
+      "published_sha256": "4d94b5814a11a93afc6dcf4a97ded80fb77923dd4bb4e8580725b84fd2344302"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/wb_darkmaga_com_20241008153151.html",
+      "original_sha256": "d0ec19805dfbe024be47be3d8d33651c98b18e49b0b1ce2bfae5dc2219fd3bb0",
+      "published_sha256": "4d94b5814a11a93afc6dcf4a97ded80fb77923dd4bb4e8580725b84fd2344302"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/wb_dmaga_xyz_20240714033132.html",
+      "original_sha256": "e6bfb7b9c72a708b27a9eeabd8c67e46689bbbcac2b300fc25f8edd9c6245c71",
+      "published_sha256": "610bee2af74836d6c66a360c254a3e6b9e6ca7d9fbbc6650cb7098f5be2c0b57"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/wb_dmaga_xyz_20240723093256.dec.html",
+      "original_sha256": "58e1a558e1ca4188f066e715b199005d04175b2369110d5611c898ae0e6ae704",
+      "published_sha256": "c34c060c79446cfe25afec4d8b14897cca8e4fb01c04334ad0c619b0e9f47db5"
+    },
+    {
+      "path": "investigations/dark-maga/evidence/web/wb_dmaga_xyz_20240808150507.html",
+      "original_sha256": "e513e5bd4ccb33dc3c84c73cf712b42d0bda096353ae00bc3cb22f8c4228ef0c",
+      "published_sha256": "e67b3ae80aef6fb5d6150ce2ab23ece9219a9737d5876380cf7edb46387a8eb0"
+    },
+    {
+      "path": "investigations/dark-maga/investigations/2026-11-18_astra_team_promoters_beneficiaries/evidence/web/yandex_result.html",
+      "original_sha256": "b0496316bfcd0eb2629c3079f56cc7a76036d671974b379d63661fcb8bfe0b5f",
+      "published_sha256": "16116547900272f5231daa036a206036a4c6b1547d9b44d0468cedc570dbc841"
+    }
+  ],
+  "redaction_counts": {
+    "local path": 180,
+    "api key (32 hex)": 232,
+    "api key (uuid)": 5506,
+    "telegram reflink": 9,
+    "telegram bot token": 1
+  },
+  "public_match_count": 523,
+  "restored_public_evidence": [
+    "investigations/dark-maga/data/historical_x_pass2/DMAGA_X_ARCHIVE.part-003.jsonl",
+    "investigations/dark-maga/data/historical_x_pass2/DMAGA_X_ARCHIVE.part-005.jsonl",
+    "investigations/dark-maga/data/historical_x_pass3/DMAGA_PASS3_DELTA.part-004.jsonl",
+    "investigations/dark-maga/investigations/2026-11-06_debridge_base_bsc_solana/evidence/fixtures/sol/Hp2BtvnZvw7YxbQvSehqb1LC5jBSX1aLApzHQnDVwf3q.jsonl",
+    "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
+    "investigations/dark-maga/investigations/2026-11-06_historical_replay/evidence/x_hist/1818184433498755544.fx.json"
+  ],
+  "note": "Initial redaction counts include matches subsequently restored after review. Frozen evidence is unchanged except for listed files; use source snapshot for byte-identical reproduction of those files."
+}

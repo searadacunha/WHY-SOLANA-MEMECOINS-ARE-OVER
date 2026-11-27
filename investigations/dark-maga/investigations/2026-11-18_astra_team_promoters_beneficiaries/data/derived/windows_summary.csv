@@ -1,0 +1,6 @@
+window,end_utc,source,tx,failed,successful_buys,distinct_successful_buyers,distinct_signers,sol_bought,repo_new_buyers,repo_first_buy_sol,repo_lifetime_bought_sol,repo_lifetime_realised_sol
+60s,2024-07-14T02:06:25Z,"RPC decode (this addendum), mint-touching txs",73,50,17,17,24,11.916,17,11.916,45.7,40.6
+5min,2024-07-14T02:10:25Z,"RPC decode (this addendum), mint-touching txs",188,87,74,69,78,76.984,69,70.509,1256.0,4132.6
+15min,2024-07-14T02:20:25Z,"repo reports/EARLY_BUYERS.md (first buy per wallet, all venues)",,,,,,,283,248.51,29209.0,8451.6
+1h,2024-07-14T03:05:25Z,"repo reports/EARLY_BUYERS.md (first buy per wallet, all venues)",,,,,,,606,471.728,33498.5,14842.5
+24h,2024-07-15T02:05:25Z,"repo reports/EARLY_BUYERS.md (first buy per wallet, all venues)",,,,,,,731,542.684,38962.3,24876.9

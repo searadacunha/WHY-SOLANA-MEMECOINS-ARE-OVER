@@ -1,0 +1,6 @@
+P1 {'DMAGA_reçu_sans_paiement_lu': 0.2, 'DMAGA_sorti_sans_valeur_reçue': -0.4, 'achat_DMAGA': -344.9, 'achat_autre_jeton': -1039.2, 'autre_programme': -276.7, 'avant_mint': 102.4, 'encaissement_DCA_non_signé': 2086.6, 'vente_DMAGA_directe': 619.1, 'vente_autre_jeton': 812.6}
+  nombres {'DMAGA_reçu_sans_paiement_lu': 310, 'DMAGA_sorti_sans_valeur_reçue': 47, 'achat_DMAGA': 238, 'achat_autre_jeton': 622, 'autre_programme': 1758, 'avant_mint': 1253, 'encaissement_DCA_non_signé': 2172, 'vente_DMAGA_directe': 143, 'vente_autre_jeton': 333}
+  jetons M sortis {'DMAGA_sorti_sans_valeur_reçue': 113.37, 'vente_DMAGA_directe': 13.76}
+P2 {'DMAGA_reçu_sans_paiement_lu': 0.0, 'DMAGA_sorti_sans_valeur_reçue': -0.1, 'achat_DMAGA': -512.7, 'achat_autre_jeton': -6707.0, 'autre_programme': -2770.6, 'avant_mint': 212.9, 'encaissement_DCA_non_signé': 0.1, 'vente_DMAGA_directe': 5843.6, 'vente_autre_jeton': 6123.7}
+  nombres {'DMAGA_reçu_sans_paiement_lu': 123, 'DMAGA_sorti_sans_valeur_reçue': 82, 'achat_DMAGA': 151, 'achat_autre_jeton': 1411, 'autre_programme': 738, 'avant_mint': 746, 'encaissement_DCA_non_signé': 10, 'vente_DMAGA_directe': 563, 'vente_autre_jeton': 765}
+  jetons M sortis {'DMAGA_sorti_sans_valeur_reçue': 112.64, 'vente_DMAGA_directe': 247.62}

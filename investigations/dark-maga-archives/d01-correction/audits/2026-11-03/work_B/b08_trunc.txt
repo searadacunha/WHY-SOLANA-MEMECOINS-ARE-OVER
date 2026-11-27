@@ -1,0 +1,4 @@
+tronqués 253
+S20: n=113 couverture médiane 15.12 j, min 4.21, max 57.72, n'atteignent pas 96 h : 0, couverture < 7 j : 21, < 30 j : 81, max_h médian 37429
+S10_seul: n=5 couverture médiane 6.24 j, min 4.22, max 59.96, n'atteignent pas 96 h : 0, couverture < 7 j : 3, < 30 j : 3, max_h médian 16083
+sans_pic: n=135 couverture médiane 1.63 j, min 1.00, max 16.85, n'atteignent pas 96 h : 127, couverture < 7 j : 129, < 30 j : 135, max_h médian 44960

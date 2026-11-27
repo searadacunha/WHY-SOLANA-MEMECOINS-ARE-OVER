@@ -1,0 +1,13 @@
+ordres 47 {'opened': 113.374, 'sold': 48.571, 'back': 64.629, 'other': 0.0, 'reste': 0.175}
+ordres avec reste > 1000 jetons 2
+  5ro5dt2eSc HQzyBQN8XV ouvert 1.0 vendu 0.889 rendu 0.0 reste 0.111 fills 8
+  5MTXWxtiGW ERMtiLodeV ouvert 0.254 vendu 0.191 rendu 0.0 reste 0.064 fills 3
+  sYBdq543ZX 5QhJJcFZu2 ouvert 3.561 vendu 3.561 rendu 0.0 reste 0.0 fills 27
+  E4gU52xpjm 8SaiGWJnpc ouvert 4.893 vendu 4.893 rendu 0.0 reste 0.0 fills 17
+  2zpF3EAS3K 6ZMaqHjPYp ouvert 0.944 vendu 0.457 rendu 0.487 reste 0.0 fills 184
+  32oA9gPFuy 8SaiGWJnpc ouvert 5.245 vendu 0.338 rendu 4.907 reste 0.0 fills 2
+  GA6NiJPjqR 9PoYaK2NZz ouvert 1.062 vendu 0.657 rendu 0.404 reste 0.0 fills 39
+  6DzdNx5etJ 7FGoCB63x3 ouvert 2.874 vendu 0.004 rendu 2.87 reste 0.0 fills 1
+  4N83WQUxZj B252jsFK2B ouvert 3.821 vendu 0.146 rendu 3.674 reste 0.0 fills 9
+  CQkBiUn2XQ HqwpWyvbCb ouvert 1.322 vendu 1.322 rendu 0.0 reste 0.0 fills 45
+ordres intégralement rendus sans vente 1 jetons M 0.504

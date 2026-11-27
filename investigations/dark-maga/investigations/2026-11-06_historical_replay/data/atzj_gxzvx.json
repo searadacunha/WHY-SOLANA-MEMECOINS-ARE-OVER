@@ -1,0 +1,86 @@
+{
+ "atzj": {
+  "own_buys": 1,
+  "own_buy_tokens": 161562.141452,
+  "own_buy_sol": 0.138527987,
+  "own_buy_usd": 19.94,
+  "senders": {
+   "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb": {
+    "tokens_sent_to_atzj": 9000000.0,
+    "own_buys_tokens": 11486139.907812,
+    "own_buys_sol": 3.5,
+    "own_buys_usd": 508.9
+   },
+   "6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M": {
+    "tokens_sent_to_atzj": 26653925.365216002,
+    "own_buys_tokens": 26653925.365216,
+    "own_buys_sol": 2.04963542,
+    "own_buys_usd": 296.58
+   },
+   "AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5": {
+    "tokens_sent_to_atzj": 15442438.863054,
+    "own_buys_tokens": 15442438.863054,
+    "own_buys_sol": 5.737198628,
+    "own_buys_usd": 829.67
+   },
+   "8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh": {
+    "tokens_sent_to_atzj": 23408504.92081,
+    "own_buys_tokens": 23408504.92081,
+    "own_buys_sol": 1.004546278,
+    "own_buys_usd": 145.25
+   },
+   "99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb": {
+    "tokens_sent_to_atzj": 19031996.094744,
+    "own_buys_tokens": 19031996.094744,
+    "own_buys_sol": 2.499240905,
+    "own_buys_usd": 361.21
+   }
+  },
+  "sells": 8,
+  "sold_tokens": 3000000.0,
+  "proceeds_sol": 327.33280036,
+  "proceeds_usd": 60107.14,
+  "first_sell_utc": "2024-07-21 22:25:43",
+  "last_sell_utc": "2024-07-21 22:40:28",
+  "avg_cost_sol_per_token_consolidated": 1.349393320611623e-07,
+  "cost_of_sold_tokens_sol_avg_method": 0.40481799618348685,
+  "cost_of_sold_tokens_usd_avg_method": 58.54,
+  "launch_senders_cost_sol": 11.290621231,
+  "launch_senders_cost_usd": 1632.71,
+  "return_senders_excluded": [
+   "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb"
+  ]
+ },
+ "gxzvx": {
+  "buys": 4,
+  "sells": 103,
+  "buy_usd": 7515.7,
+  "sell_usd": 466179.11,
+  "first_sell_utc": "2024-07-21 18:10:11",
+  "last3": [
+   {
+    "utc": "2024-07-23 11:47:09",
+    "tokens": 533860.284422,
+    "usd": 21164.93,
+    "signature": "29NFuxQwFqRe8ZkwGwWcrrAup7aBrmNcwKm7LdXTpa6rZGTo35juYjhmmRZfr39vovx4anfv6mzDipG59FvRsw7a"
+   },
+   {
+    "utc": "2024-07-23 11:47:37",
+    "tokens": 911569.381901,
+    "usd": 34110.94,
+    "signature": "2WJ1MmWWsruuJCwNF6TNPPq5ALM5cuvf2cWybXcesy7VwmEucQGyb9Ud9a534eqj9VPK1h6JSVRcVqGzbUwUh7SK"
+   },
+   {
+    "utc": "2024-07-23 11:48:23",
+    "tokens": 911569.381902,
+    "usd": 33515.45,
+    "signature": "521vdgUCSkoUQedpoJmLAe1X3pFyx9iY77psD6PT6uFbL13Rrni1bZ78Z9uVQMU8GdBKHiYzwTvzH4CjxwmPFE1b"
+   }
+  ],
+  "last3_usd": 88791.32,
+  "last_sell_to_wayback_old_s": 3918,
+  "last_sell_to_image_id_s": 7981,
+  "last_sell_to_wayback_new_s": 10086,
+  "share_of_tokens_sold_on_23_07": 0.16035359096652382
+ }
+}

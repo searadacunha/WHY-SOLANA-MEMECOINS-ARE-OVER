@@ -1,0 +1,44 @@
+== 9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL lab= tx=285 complet=True 2024-04-28 06:18 -> 2025-08-26 09:08
+   expéditeurs réels 48 ; touchent DMAGA 31 ; SOL sorti 956.51 : CB 0.945 famille 0.041 ; USD sorti 0.00 : CB 0.000 famille 0.000
+   sorties 59 signées par l'adresse 59 ; frais [(155000, 39), (8000, 8), (35000, 5)] ; solde après sortie médian 0 ; délai médian entrée à sortie 126 s ; programmes [('BGUMAp9G', 2), ('cmtDvXum', 2), ('noopb9bk', 2)]
+   sorties SOL [('H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS', 'Coinbase 1', 554.1), ('GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 'Coinbase 3', 187.65), ('2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 'Coinbase 2', 161.74), ('D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf', 'famille CB pré', 20.4), ('9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE', '', 11.44), ('FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q', 'famille CB pré', 10.08)]
+   rôles des expéditeurs {'exp9W9b': 48, 'serie15': 13, 'g33': 4, 'nomme': 3, 'createur': 1}
+== Caw4RrwkmxqtbLSFzgSs6id3XiFxWQxs2t1mrn5a3mME lab= tx=508 complet=True 2024-07-02 18:10 -> 2026-08-05 17:43
+   expéditeurs réels 55 ; touchent DMAGA 22 ; SOL sorti 35.62 : CB 1.000 famille 0.000 ; USD sorti 590933.96 : CB 0.558 famille 0.072
+   sorties 85 signées par l'adresse 85 ; frais [(106500, 40), (35000, 17), (155000, 13)] ; solde après sortie médian 4828517 ; délai médian entrée à sortie 120 s ; programmes [('E4CKSsnj', 4), ('BGUMAp9G', 2), ('cmtDvXum', 2), ('noopb9bk', 2)]
+   sorties SOL [('2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 'Coinbase 2', 35.62)]
+   sorties USD [('9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE', '', 215403.08), ('H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS', 'Coinbase 1', 170283.61), ('2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 'Coinbase 2', 139516.68), ('FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q', 'famille CB pré', 20581.33), ('GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 'Coinbase 3', 19753.35)]
+   rôles des expéditeurs {'exp9W9b': 27, 'serie15': 10, 'nomme': 2, 'g33': 1}
+== AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1 lab= tx=93 complet=True 2024-04-01 13:54 -> 2025-10-04 14:11
+   expéditeurs réels 6 ; touchent DMAGA 5 ; SOL sorti 116.04 : CB 0.623 famille 0.197 ; USD sorti 5400.00 : CB 0.556 famille 0.444
+   sorties 16 signées par l'adresse 16 ; frais [(155000, 8), (8000, 3), (106500, 3)] ; solde après sortie médian 0 ; délai médian entrée à sortie 115 s ; programmes []
+   sorties SOL [('2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 'Coinbase 2', 32.0), ('GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 'Coinbase 3', 26.24), ('D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf', 'famille CB pré', 20.0), ('4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw', '', 15.6), ('H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS', 'Coinbase 1', 14.0), ('AafGzY9eiC5Ud3YFZQwkaKApp48cVBAT2kksGvEjhUvH', '', 5.35)]
+   sorties USD [('GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 'Coinbase 3', 3000.0), ('D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf', 'famille CB pré', 2400.0)]
+   rôles des expéditeurs {'g33': 4, 'exp9W9b': 1, 'nomme': 3}
+== By6Dao4QMNeBxmdUrqsoQA8dCGbHz7xWj57CdHV5M47r lab= tx=88 complet=True 2024-07-02 23:16 -> 2025-05-18 20:37
+   expéditeurs réels 8 ; touchent DMAGA 6 ; SOL sorti 343.36 : CB 0.000 famille 0.000 ; USD sorti 0.00 : CB 0.000 famille 0.000
+   sorties 18 signées par l'adresse 18 ; frais [(95600, 2), (31600, 1), (15636, 1)] ; solde après sortie médian 0 ; délai médian entrée à sortie 1478 s ; programmes []
+   sorties SOL [('6hXrioEsSShDPJ6fFzA9YUErimddZUVWYvwiwbffgZLW', '', 192.3), ('33RuC2ig9ZtdDUHj9YWs3Qbi2pSqQGd4dxs7NuNGemZw', '', 151.06)]
+   rôles des expéditeurs {'g33': 4, 'nomme': 2, 'exp9W9b': 1}
+== H9XezqfdXuv4ZCHAAZ92oMLSSAPB6Dgm4ZSrRythCbPi lab= tx=904 complet=True 2024-01-31 03:55 -> 2026-11-03 10:29
+   expéditeurs réels 10 ; touchent DMAGA 8 ; SOL sorti 3135.76 : CB 0.863 famille 0.097 ; USD sorti 0.00 : CB 0.000 famille 0.000
+   sorties 161 signées par l'adresse 161 ; frais [(8000, 88), (155000, 48), (35000, 8)] ; solde après sortie médian 997880 ; délai médian entrée à sortie 142 s ; programmes [('BGUMAp9G', 12), ('cmtDvXum', 12), ('noopb9bk', 12), ('metaqbxx', 7)]
+   sorties SOL [('GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 'Coinbase 3', 1209.97), ('H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS', 'Coinbase 1', 986.93), ('2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 'Coinbase 2', 507.78), ('D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf', 'famille CB pré', 132.52), ('FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q', 'famille CB pré', 87.56), ('DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo', 'famille CB pré', 43.29)]
+   rôles des expéditeurs {'gagnant': 1, 'nomme': 1}
+== 42MSVeV4YbESE7mNW7DfQrfd8E4RG6njxXZLAWTmXemv lab= tx=75 complet=True 2024-07-05 11:40 -> 2024-08-27 17:50
+   expéditeurs réels 6 ; touchent DMAGA 3 ; SOL sorti 2067.85 : CB 0.000 famille 0.000 ; USD sorti 0.00 : CB 0.000 famille 0.000
+   sorties 19 signées par l'adresse 19 ; frais [(155000, 19)] ; solde après sortie médian 995000 ; délai médian entrée à sortie 233 s ; programmes []
+   sorties SOL [('94xmX5J92nZLanLvRstmxhgiS8kN8SVfFQ2zPKYB3Ynb', '', 2067.85)]
+   rôles des expéditeurs {'gagnant': 1}
+== 9kqTVnRUkVTFD7na9BTWcoG9piL4XpVTtS9kqVCV56tV lab= tx=49 complet=True 2024-08-28 23:31 -> 2024-11-03 16:58
+   expéditeurs réels 7 ; touchent DMAGA 3 ; SOL sorti 316.66 : CB 0.000 famille 0.000 ; USD sorti 0.00 : CB 0.000 famille 0.000
+   sorties 11 signées par l'adresse 11 ; frais [(155000, 9), (530000, 2)] ; solde après sortie médian 995000 ; délai médian entrée à sortie 166 s ; programmes []
+   sorties SOL [('94xmX5J92nZLanLvRstmxhgiS8kN8SVfFQ2zPKYB3Ynb', '', 316.66)]
+   rôles des expéditeurs {'gagnant': 1}
+== 8N4AvP9j5BditSQMk2WrTNxthhgpncGVzLKrYP4xdEqx lab= tx=400 complet=False 2024-01-31 20:49 -> 2025-07-24 06:43
+   expéditeurs réels 19 ; touchent DMAGA 6 ; SOL sorti 2109.31 : CB 0.000 famille 0.000 ; USD sorti 131569.31 : CB 0.000 famille 0.000
+   sorties 62 signées par l'adresse 62 ; frais [(6255000, 36), (157313, 11), (36250, 8)] ; solde après sortie médian 19346250 ; délai médian entrée à sortie 308 s ; programmes [('BGUMAp9G', 3), ('cmtDvXum', 3), ('noopb9bk', 3), ('metaqbxx', 1)]
+   sorties SOL [('ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ', 'MEXC 1', 2063.32), ('5PAhQiYdLBd6SVdjzBQDxUAEFyDdF5ExNPQfcscnPRj5', '', 45.99)]
+   sorties USD [('ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ', 'MEXC 1', 124040.8), ('5PAhQiYdLBd6SVdjzBQDxUAEFyDdF5ExNPQfcscnPRj5', '', 7528.51)]
+   rôles des expéditeurs {'gagnant': 1}
+garde : fini, code 0, pic 73 Mo

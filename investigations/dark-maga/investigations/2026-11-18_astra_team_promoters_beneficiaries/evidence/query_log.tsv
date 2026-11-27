@@ -1,0 +1,20 @@
+id	utc_run	tool	query_or_target	window	result	stored_as
+ax01	2026-11-18T17:05Z	x.search_posts_all	DMAGA (cashtag stripped)	2024-07-14 launch window → 02:50:30	25 posts, earliest relevant 02:31/02:33	evidence/x/ax01_earliest_token_mentions.json
+ax02	2026-11-18T17:05Z	x.search_posts_all	early DMAGA posts with media	launch night	posts + media keys	evidence/x/ax02_early_posts_media.json
+ax03	2026-11-18T17:06Z	x.search_posts_all	from:Murray_Gothbard	2024-07-14 00:00–06:00	25 posts	evidence/x/ax03_murray_launchnight_full.json
+ax04	2026-11-18T17:06Z	x.search_posts_all	from:Esoviz DMAGA	2024-06–2024-08	0	evidence/x/ax04_esoviz.json
+ax05	2026-11-18T17:06Z	x.search_posts_all	from:kikisknees	2024-07-14 01:00–09:00	0	evidence/x/ax05_kiki_launchwindow.json
+ax06	2026-11-18T17:16Z	x.get_users_by_usernames	9 accounts	—	profiles (minimised)	evidence/x/ax06_users.json
+ax07	2026-11-18T17:16Z	x.search_posts_all	ax01 page 2	—	0 (exhausted)	evidence/x/ax07_earliest_page2.json
+ax08	2026-11-18T17:48Z	x.search_posts_all	DMAGA OR <CA>	2024-07-13 00:00 → 2024-07-14 02:20	0 on 2 pages	evidence/x/ax08_prelaunch_dmaga_or_ca_0713_to_0220.jsonl
+x-ids	2026-11-18	x.get_posts_by_ids	1812317575411351639 (kiki RT)	—	Not Found	(noted)
+s3	2026-11-18T17:03Z	rpc getSignaturesForAddress+getTransaction	mint	create → 02:28:26	819 sigs; 436 tx decoded to 02:16:31	evidence/receipts/pump_phase_0205_0216.jsonl.gz
+s4	2026-11-18T17:25Z	rpc	74 early wallets	before first buy	direct SOL inflows	data/funding_before_first_buy.json; evidence/receipts/funding_transfers.jsonl.gz
+s6	2026-11-18T17:21Z	rpc getBlock	every 35th slot 277409000–277426500	±58 min	54 pump.fun creates	data/sniper_comparison_sample.json
+s8	2026-11-18T17:30Z	rpc	Coinbase 3 hot wallet	01:30–01:36	52 tx, 45 transfers	data/coinbase3_withdrawals_0130_0136.json
+s9	2026-11-18T17:39Z	rpc	Coinbase 2 & 3 hot wallets	01:20 → mint	607 transfers / 573 recipients	data/coinbase23_withdrawals_0120_mint.*; evidence/receipts/coinbase23_withdrawals_0120_mint.jsonl.gz
+s10	2026-11-18T17:33Z	rpc	GoPCTr, AFDkwJ, EEpSRR full histories	all	65/73/173 sigs	data/coinbase3_batch_siblings_flows.json; evidence/receipts/coinbase3_batch_siblings.jsonl.gz
+web1	2026-11-18T17:09Z	curl yandex.com/images reverse search	token image	—	exact matches only post-launch DMAGA pages; 8kun 2026-05-19	evidence/web/yandex_result.html
+web2	2026-11-18T17:09Z	curl tineye.com	token image	—	HTTP 403 Cloudflare — not bypassed	evidence/web/tineye_result.json
+web3	2026-11-18T17:09Z	curl lens.google.com	token image	—	303/empty — not bypassed	evidence/web/lens_result_empty.html
+web4	2026-11-18T17:05Z	curl pbs.twimg.com	Murray media + DMC pfp	—	Last-Modified = snowflake −120 s	evidence/media/murray_headers.txt

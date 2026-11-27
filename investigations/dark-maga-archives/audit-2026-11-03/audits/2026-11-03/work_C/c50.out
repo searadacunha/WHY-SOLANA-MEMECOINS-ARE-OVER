@@ -1,0 +1,62 @@
+verrou obtenu après 50 s
+Habp nodes [('Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96', 'wallet', None, 1, 1, 0.0, 8000000.0)]
+Habp wallets [('Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96', 0, 1, 1, 0.0, 8000000.0, 32.42509356, 8000000.0, 0.0, 0.0)]
+Habp tok [('4gzzHCqB8ZTLPNSs8fgyskcBsLpAn9UjYwqFFiqryxBqdApxBKMvzy8j7RULnJ3xCCkaC1ScepCC1PiUJdruZFS4', '5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd', 'Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96', 8000000.0, 1721006186, 'tx_balances')]
+Habp ta (2, 0.0)
+edges cand Habp [('2024-07-15T01:16:26Z', '5QhJJcFZ', 'Habp5bnc', 8.0, '5QhJJcFZ', '4gzzHCqB8ZTLPNSs8fgyskcBsLpAn9UjYwqFFiqryxBqdApxBKMvzy8j7RULnJ3xCCkaC1ScepCC1PiUJdruZFS4')]
+transferts hors groupe 24 h 34 32.101796349994
+07-21 20:22:58 Akp46Dic > FQWxzAaw 0.3 dest vend 24h: M 0.26 SOL 18.3 (3, 'wallet')
+07-21 22:26:23 C73Yv9iH > FZLmLkf9 1.714 dest vend 24h: M 4.12 SOL 779.2 (8, 'wallet')
+07-21 23:31:19 BuBXTWEC > FZLmLkf9 1.0 dest vend 24h: M 2.78 SOL 611.8 (8, 'wallet')
+07-22 00:21:47 BuBXTWEC > FZLmLkf9 1.0 dest vend 24h: M 1.86 SOL 431.3 (8, 'wallet')
+07-22 00:26:17 GPMYCuus > 9UsmwVmb 0.075 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 00:31:03 GPMYCuus > 9UsmwVmb 0.125 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 01:09:35 BuBXTWEC > FZLmLkf9 0.5 dest vend 24h: M 1.02 SOL 233.6 (8, 'wallet')
+07-22 03:10:26 GPMYCuus > D55ba7tz 0.007 dest vend 24h: M 0.0 SOL 0.0 (755, 'venue')
+07-22 03:15:20 C7i9beNH > 9UsmwVmb 0.007 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 03:27:06 GPMYCuus > 9UsmwVmb 0.022 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 03:28:23 GPMYCuus > 9UsmwVmb 0.015 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 03:29:18 GPMYCuus > 7UsfbqGu 0.031 dest vend 24h: M 0.0 SOL 0.0 (88, 'venue')
+07-22 03:34:57 74qFhHyp > 72Pgt5Mr 0.8 dest vend 24h: M 0.0 SOL 0.0 (1, 'wallet')
+07-22 03:50:21 C7i9beNH > 9UsmwVmb 0.084 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 03:57:42 35nAuv6j > 7UsfbqGu 0.03 dest vend 24h: M 0.0 SOL 0.0 (88, 'venue')
+07-22 04:09:56 35nAuv6j > 9UsmwVmb 0.005 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 04:11:03 35nAuv6j > D55ba7tz 0.005 dest vend 24h: M 0.0 SOL 0.0 (755, 'venue')
+07-22 04:11:35 35nAuv6j > 9UsmwVmb 0.01 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 04:16:44 35nAuv6j > 7UsfbqGu 0.015 dest vend 24h: M 0.0 SOL 0.0 (88, 'venue')
+07-22 04:21:50 35nAuv6j > 7UsfbqGu 0.005 dest vend 24h: M 0.0 SOL 0.0 (88, 'venue')
+07-22 04:22:41 35nAuv6j > 9UsmwVmb 0.025 dest vend 24h: M 0.0 SOL 0.0 (3005, 'venue')
+07-22 04:23:13 35nAuv6j > 7UsfbqGu 0.005 dest vend 24h: M 0.0 SOL 0.0 (88, 'venue')
+07-22 07:43:38 35nAuv6j > 7UsfbqGu 0.02 dest vend 24h: M 0.0 SOL 0.0 (88, 'venue')
+07-22 08:18:18 74qFhHyp > 7SEoKiBL 0.5 dest vend 24h: M 0.5 SOL 175.8 (1, 'wallet')
+07-22 14:00:20 GFpqfjEQ > 9662VcxW 0.05 dest vend 24h: M 0.0 SOL 0.0 (5, 'wallet')
+07-22 14:01:45 C73Yv9iH > 9662VcxW 0.05 dest vend 24h: M 0.0 SOL 0.0 (5, 'wallet')
+07-22 17:17:17 Ei5yGz8d > EMYihQ4k 3.0 dest vend 24h: M 0.0 SOL 0.0 (2, 'wallet')
+07-22 17:19:53 HGBiExZR > 5nxBz7Y9 4.0 dest vend 24h: M 0.0 SOL 0.0 (2, 'wallet')
+07-22 17:21:17 Gcyg2jeL > 8ScA8t7Q 4.0 dest vend 24h: M 0.0 SOL 0.0 (2, 'wallet')
+07-22 17:23:53 HGBiExZR > 38p6SEUo 3.0 dest vend 24h: M 0.0 SOL 0.0 (2, 'wallet')
+07-22 17:25:05 Gcyg2jeL > EMucoi7y 3.0 dest vend 24h: M 0.0 SOL 0.0 (2, 'wallet')
+07-22 17:26:27 Ei5yGz8d > GZXKYzwZ 3.0 dest vend 24h: M 0.0 SOL 0.0 (11, 'wallet')
+07-22 17:27:20 HGBiExZR > 8kNKNiHK 3.0 dest vend 24h: M 0.0 SOL 0.0 (2, 'wallet')
+07-22 17:28:59 Gcyg2jeL > BdX9J5pQ 2.7 dest vend 24h: M 0.0 SOL 0.0 (3, 'wallet')
+ventes des destinataires dans la fenetre (somme par ligne, peut compter deux fois un destinataire) 10.545959105526 2250.0254749070004
+destinataires distincts 16 ventes 24 h SOL, M, wallets (973.326374763, 4.884397505704, 3)
+premier swap du groupe apres la bascule (1721590567, 'C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae', '5iwq4mg1ddGfKLjmaB6JmEy7FTaDqUcp4s3TTqaUh2tfVmLik9toFZb2vtGuYTJQ2oLzaQJduhkw6i9cZo6q5NSp')
+ventes groupe par tranche 1 h apres [(0, 469.4, 19.6, 3), (1, 51.3, 1.66, 3), (2, 617.6, 7.74, 7), (3, 1750.6, 14.94, 7), (4, 54.1, 0.25, 1), (5, 45.9, 0.25, 1), (6, 64.2, 0.26, 1), (7, 518.5, 1.55, 3)]
+avant Musk swaps groupe ventes (139.5, 134.05, 58)
+membres sans premier financeur rapport ['CZsBW8yC']
+ecarts premier financeur [('GPMYCuus', '74qFhHyp', '35nAuv6j'), ('9u5JKgWd', 'FeH4RBx9', '6aWmxmeQ'), ('BuBXTWEC', 'HKXb8Lfy', 'C73Yv9iH')]
+clusters [(345, 772, 830, 1418.9, 'B'), (51, 63, 110, 75.0, 'B'), (30, 54, 0, 90.3, 'B'), (27, 37, 12, 24.4, 'B'), (25, 37, 0, 18.9, 'B'), (25, 41, 0, 24.1, 'B')]
+grappe max contient 345 groupe de 33 33 H3Qs False 9Prm False GXZ False C7qE True
+tx HQ2UUt (25006, 2302, 1720922743, 1748014714)
+payeurs HQ2UUt top [('NHtdVXcUuzULRJ3GkupLnZcxmUZ4rTP1u9kVkRzcash', 2626), ('HJLqkCFiNMUsXvqA9btLXFwKpWgCAXXXmNBFnSELvXSC', 1388), ('Gn96hdr1mboNUMuPEg2DBmJNvwxJf8Z51hGahVNdkSxT', 949), ('DrdCYPjXsixUnNofJgvqGnSciN3TpTT5UPfMM6YQCsVc', 923), ('4qWht7gPqJSZtXkKFPG2F1SiU3rF9mLyGGkBpc65x89A', 919), ('CVyXpJN1X3UQpgtV2YvmSkcSK4YLZHEY1ycRHcz7eiid', 893), ('ANwWDBtanRCF895L5SgjY79AQKJXwG5LdKYfTmQC1pnf', 890), ('54EiavhVatcFbcRHKm2swd6eB8reyib3kTkDGScoGjGK', 878)]
+membres avec HQ2UUt [('6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M', 2), ('8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh', 1), ('99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb', 2), ('AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5', 2)]
+hubs nodes [('6dhcL2LyRP1GY2dUrVH3b7BpVPToQkEeecqjck9FR8DB', None, 8460, 8267), ('45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp', None, 1873, 6573), ('CnZzdTH1e6ZT3mtgaXqggexCWfubm375UMuFpAycDd1r', None, 1524, 3365), ('2yqvTv7VZr7Y2J1vRKRZJjdRpPzunQVPs3wktRfNV47C', None, 875, 875), ('25mYnjJ2MXHZH6NvTTdA63JvjgRVcuiaj6MRiEQNs1Dq', None, 254, 544), ('5xyUFj7a8sP9y7DS93MnVvAfBAW3Sq3hbcfyuhyawSD9', None, 196, 284), ('EKDB7EyLPD7a2Mqo7Kh8Y4aR7gD26VErY3yj41eZjwCJ', None, 191, 544), ('HNX2Cn2nXYsJiGTNnPaHj3K3vkLWSvYRChCVRzfUmmGu', None, 171, 227), ('D5jx4wmxuPz18hqmgpCMLGVq3uSksCafCp5xjVe1nw8p', None, 140, 5511), ('8s9j5qUtuE9PGA5s7QeAXEh5oc2UGr71pmJXgyiZMHkt', None, 124, 200), ('3eGdjMdQqFUNc4G64BZb7YCALDEaturLUWcixjJfKxEh', None, 123, 9679), ('HUD74DuxojACTZQVDnxP6jrbrKqSscTH2eHztQu8La4m', None, 123, 123), ('CgANddXc7FKSsdLSdFv67X8faZqQaRTeLMXkAVANkZD4', None, 121, 486), ('AmLZB4eJfhrrhSeGyVpbFU6mZ7mixjGnpeBDXQxNw32R', None, 111, 159)]
+seuil 0.01 M, taille composante 5QhJJc avant Musk 40 noeuds max degre [(11, 'GFpqfjEQ'), (8, 'AtZjv3Du'), (4, 'NxtXcmEW'), (4, 'Gmc1EGGV'), (4, '74qFhHyp')]
+seuil 0.05 M, taille composante 5QhJJc avant Musk 40 noeuds max degre [(11, 'GFpqfjEQ'), (8, 'AtZjv3Du'), (4, 'NxtXcmEW'), (4, 'Gmc1EGGV'), (4, '74qFhHyp')]
+seuil 0.1 M, taille composante 5QhJJc avant Musk 40 noeuds max degre [(11, 'GFpqfjEQ'), (8, 'AtZjv3Du'), (4, 'NxtXcmEW'), (4, 'Gmc1EGGV'), (4, '74qFhHyp')]
+seuil 0.25 M, taille composante 5QhJJc avant Musk 34 noeuds max degre [(11, 'GFpqfjEQ'), (8, 'AtZjv3Du'), (4, 'NxtXcmEW'), (4, '74qFhHyp'), (4, '5QhJJcFZ')]
+seuil 0.5 M, taille composante 5QhJJc avant Musk 34 noeuds max degre [(11, 'GFpqfjEQ'), (8, 'AtZjv3Du'), (4, 'NxtXcmEW'), (4, '74qFhHyp'), (4, '5QhJJcFZ')]
+seuil 0.75 M, taille composante 5QhJJc avant Musk 33 noeuds max degre [(11, 'GFpqfjEQ'), (8, 'AtZjv3Du'), (4, 'NxtXcmEW'), (4, '74qFhHyp'), (3, 'Ei5yGz8d')]
+seuil 1 M, taille composante 5QhJJc avant Musk 33 noeuds max degre [(11, 'GFpqfjEQ'), (8, 'AtZjv3Du'), (4, 'NxtXcmEW'), (4, '74qFhHyp'), (3, 'Ei5yGz8d')]
+garde : fini, code 0, pic 271 Mo

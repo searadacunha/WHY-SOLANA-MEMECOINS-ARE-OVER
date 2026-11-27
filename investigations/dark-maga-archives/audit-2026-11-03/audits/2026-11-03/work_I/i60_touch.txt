@@ -1,0 +1,65 @@
+42MS expéditeurs 6 touchent 3 sans aucune source lue 1 première touche avant le premier versement 1
+8N4A expéditeurs 19 touchent 6 sans aucune source lue 13 première touche avant le premier versement 2
+9W9b expéditeurs 48 touchent 31 sans aucune source lue 0 première touche avant le premier versement 29
+9kqT expéditeurs 7 touchent 3 sans aucune source lue 4 première touche avant le premier versement 3
+AQVg expéditeurs 5 touchent 5 sans aucune source lue 0 première touche avant le premier versement 3
+    ('G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E', 36.0, 0, '2024-04-01', '2024-07-27', 24, 0, 24, True, '2024-07-14')
+    ('GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p', 30.24, 0, '2024-08-03', '2024-08-06', 81, 81, 81, True, '2024-07-14')
+    ('EZXUvi4X5k3Aj99rGzNQoBtAzFqzYUjGhHNu8A1Ty8s4', 22.85, 5400.0, '2025-02-10', '2025-08-13', 57, 57, 57, True, '2024-07-14')
+    ('2mW45kXp4Wd4xRkF2mmh5rKdzjnjbJR2o53skWcxGa2d', 20.95, 0, '2025-10-04', '2025-10-04', 9, 9, 9, True, '2024-07-14')
+    ('NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7', 6.0, 0, '2024-06-04', '2024-06-04', 11, 11, 11, True, '2024-07-14')
+By6D expéditeurs 8 touchent 6 sans aucune source lue 0 première touche avant le premier versement 4
+    ('4aJ4oko7JKQnCAc76FwfjRcWskUZDzRc7wDyD8LMV6bp', 129.0, 0, '2024-08-25', '2024-10-04', 0, 0, 0, False, '')
+    ('74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb', 58.0, 0, '2024-07-08', '2024-07-20', 15, 15, 15, True, '2024-07-14')
+    ('Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB', 45.0, 0, '2024-09-03', '2025-01-08', 89, 54, 54, True, '2024-07-21')
+    ('7SEoKiBLaGhZxr5V8JYGdiV55ZhkgC727ftSYDST148i', 36.1, 0, '2024-07-30', '2025-05-18', 11, 0, 11, True, '2024-07-22')
+    ('GPMYCuusSYfgdXXYHLyCBhBdhP9fJeXrSGUou6XAxHgm', 33.0, 0, '2024-07-26', '2024-07-26', 16, 22, 16, True, '2024-07-16')
+    ('4Tqy4SPNJjD1RPPqqiyf7faReBXF5XqesoTchZn1e9DF', 18.5, 0, '2024-08-09', '2024-08-09', 0, 0, 0, False, '')
+    ('B1KEP1nunxUGrCoWZPZzoFJZ2wvLAXuVyNQrycYKRJ91', 16.76, 0, '2025-03-29', '2025-04-21', 14, 0, 8, True, '2024-07-24')
+    ('AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk', 7.0, 0, '2024-07-02', '2024-07-23', 19, 25, 25, True, '2024-07-14')
+Caw4 expéditeurs 55 touchent 22 sans aucune source lue 16 première touche avant le premier versement 20
+H9Xe expéditeurs 10 touchent 8 sans aucune source lue 2 première touche avant le premier versement 5
+    ('9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 2051.94, 0, '2024-01-31', '2026-10-27', 66, 73, 66, True, '2024-07-14')
+    ('8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', 754.39, 0, '2024-09-14', '2025-11-12', 96, 112, 0, True, '2024-08-30')
+    ('ENvLw1g1cpeumqm6B8t5PZueEUiqTpa7q4Me85x9rSuH', 97.12, 0, '2025-02-20', '2025-03-21', 38, 40, 0, True, '2025-01-20')
+    ('DxTWPAXsek16H5Z5cWfX4vdpuXvGLBwFPHjajnbSRV3w', 79.5, 0, '2025-12-31', '2026-05-23', 25, 0, 0, True, '2025-12-27')
+    ('FPVpSxs7MjAvZW1F3HSQUahxGYhgGLecKsKem2RxWGmV', 73.53, 0, '2026-06-07', '2026-08-06', 16, 0, 0, True, '2026-06-05')
+    ('EGzN5GfcyLdqXP21AeLevwnitSgLXBbET4B6NxZfvdZM', 58.24, 0, '2024-07-09', '2025-12-03', 25, 25, 0, True, '2024-10-27')
+    ('9oZjRennUtaDaRhugAWoP7NjbbAah9y2CwJkNhDmY9HT', 12.76, 0, '2024-02-16', '2024-06-03', 0, 0, 0, False, '')
+    ('CRbvuSFoXvftSNJALdLGEXbJc1ML67PrGP6XWhLeBXUw', 4.04, 0, '2026-10-04', '2026-11-03', 20, 0, 0, True, '2026-09-27')
+    ('67cU3qpnKBBUZ48HDcFBWcQ9uyXYBBBPfWLWrEDpBzZ8', 2.92, 0, '2024-02-17', '2024-06-03', 2, 0, 0, True, '2024-10-08')
+    ('HJSEJQws1fWoTgkmrVx4w98mg3QRhBRWirT7Yf8EzeyF', 1.33, 0, '2024-02-08', '2024-02-08', 0, 0, 0, False, '')
+
+H9Xe : DMAGA reçus par les expéditeurs et d'où (net + flows dmaga_all)
+  9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq 2051.94 2024-01-31 2026-10-27 reçoit M [('5Q544fKr', 67.43), ('HFqp6ErW', 8.22), ('3LoAYHuS', 4.29), ('7iWnBRRh', 0.76)] 2024-07-14
+  8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p 754.39 2024-09-14 2025-11-12 reçoit M [('5Q544fKr', 44.9), ('EGzN5Gfc', 5.03), ('HV1KXxWF', 4.95), ('3LoAYHuS', 4.92)] 2024-08-30
+  ENvLw1g1cpeumqm6B8t5PZueEUiqTpa7q4Me85x9rSuH 97.12 2025-02-20 2025-03-21 reçoit M [('8B5ekuLt', 13.24), ('CapuXNQo', 2.86), ('5Q544fKr', 2.38), ('2MFoS3MP', 1.01)] 2025-01-20
+  DxTWPAXsek16H5Z5cWfX4vdpuXvGLBwFPHjajnbSRV3w 79.5 2025-12-31 2026-05-23 reçoit M [] 
+  FPVpSxs7MjAvZW1F3HSQUahxGYhgGLecKsKem2RxWGmV 73.53 2026-06-07 2026-08-06 reçoit M [] 
+  EGzN5GfcyLdqXP21AeLevwnitSgLXBbET4B6NxZfvdZM 58.24 2024-07-09 2025-12-03 reçoit M [('8B5ekuLt', 20.05), ('5Q544fKr', 8.57), ('2MFoS3MP', 1.18), ('4xDsmeTW', 0.84)] 2024-10-27
+  9oZjRennUtaDaRhugAWoP7NjbbAah9y2CwJkNhDmY9HT 12.76 2024-02-16 2024-06-03 reçoit M [] 
+  CRbvuSFoXvftSNJALdLGEXbJc1ML67PrGP6XWhLeBXUw 4.04 2026-10-04 2026-11-03 reçoit M [] 
+  67cU3qpnKBBUZ48HDcFBWcQ9uyXYBBBPfWLWrEDpBzZ8 2.92 2024-02-17 2024-06-03 reçoit M [] 
+  HJSEJQws1fWoTgkmrVx4w98mg3QRhBRWirT7Yf8EzeyF 1.33 2024-02-08 2024-02-08 reçoit M [] 
+
+relations directes entre expéditeurs de H9Xe (net_out, flows_out)
+  ('8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', 'EGzN5GfcyLdqXP21AeLevwnitSgLXBbET4B6NxZfvdZM', 'SOL', 228.5, 4, '2025-01-18', '2025-11-12')
+  ('EGzN5GfcyLdqXP21AeLevwnitSgLXBbET4B6NxZfvdZM', '8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', 'SOL', 199.502, 2, '2025-01-19', '2025-01-19')
+  ('8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', 'ENvLw1g1cpeumqm6B8t5PZueEUiqTpa7q4Me85x9rSuH', 'SOL', 116.5, 5, '2024-11-30', '2025-06-24')
+  ('ENvLw1g1cpeumqm6B8t5PZueEUiqTpa7q4Me85x9rSuH', '8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', 'SOL', 20.78, 3, '2025-02-03', '2025-06-22')
+  ('9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'HJSEJQws1fWoTgkmrVx4w98mg3QRhBRWirT7Yf8EzeyF', 'SOL', 10.88, 5, '2024-04-21', '2024-07-17')
+  ('67cU3qpnKBBUZ48HDcFBWcQ9uyXYBBBPfWLWrEDpBzZ8', '9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'SOL', 7.687, 7, '2024-02-07', '2024-07-01')
+  ('8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', '9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'SOL', 4.462, 2, '2024-10-03', '2024-11-22')
+  ('HJSEJQws1fWoTgkmrVx4w98mg3QRhBRWirT7Yf8EzeyF', '9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'SOL', 3.239, 4, '2024-04-26', '2024-07-15')
+  ('9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'CRbvuSFoXvftSNJALdLGEXbJc1ML67PrGP6XWhLeBXUw', 'SOL', 3.095, 1, '2026-09-27', '2026-09-27')
+  ('9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', '67cU3qpnKBBUZ48HDcFBWcQ9uyXYBBBPfWLWrEDpBzZ8', 'SOL', 3.072, 4, '2024-04-19', '2024-07-01')
+  ('9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'EGzN5GfcyLdqXP21AeLevwnitSgLXBbET4B6NxZfvdZM', 'SOL', 2.174, 3, '2024-07-09', '2024-07-10')
+  ('EGzN5GfcyLdqXP21AeLevwnitSgLXBbET4B6NxZfvdZM', '9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'SOL', 2.046, 3, '2024-07-10', '2024-07-16')
+  ('8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', '67cU3qpnKBBUZ48HDcFBWcQ9uyXYBBBPfWLWrEDpBzZ8', 'SOL', 1.463, 1, '2024-10-03', '2024-10-03')
+  ('8B5ekuLtBXypSiGq8xugLtk5UHq4JiW2U3haYJPi3u7p', '9oZjRennUtaDaRhugAWoP7NjbbAah9y2CwJkNhDmY9HT', 'SOL', 1.463, 1, '2024-10-03', '2024-10-03')
+  ('9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', '9oZjRennUtaDaRhugAWoP7NjbbAah9y2CwJkNhDmY9HT', 'SOL', 0.551, 1, '2024-04-19', '2024-04-19')
+  ('9oZjRennUtaDaRhugAWoP7NjbbAah9y2CwJkNhDmY9HT', '9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq', 'SOL', 0.101, 2, '2024-04-22', '2024-07-12')
+9W9b expéditeurs 48 paires reliées (SOL/USD) 81 densité 0.072
+Caw4 expéditeurs 55 paires reliées (SOL/USD) 86 densité 0.058
+H9Xe expéditeurs 10 paires reliées (SOL/USD) 10 densité 0.222
+8N4A expéditeurs 19 paires reliées (SOL/USD) 7 densité 0.041

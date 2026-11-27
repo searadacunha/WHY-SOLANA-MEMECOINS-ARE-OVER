@@ -1,0 +1,41 @@
+name: DARK-MAGA offline evidence
+on:
+  push:
+    paths: ['investigations/dark-maga/**', '.github/workflows/dark-maga-evidence.yml']
+  pull_request:
+    paths: ['investigations/dark-maga/**', '.github/workflows/dark-maga-evidence.yml']
+permissions:
+  contents: read
+jobs:
+  evidence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: investigations/dark-maga
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+      DMAGA_EXT: /tmp/dark-maga-offline
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install original offline test dependencies
+        run: python -m pip install -r requirements-test.txt
+      - name: Core forensic pipeline and publication guard unit tests
+        run: |
+          python -m pytest -q tests --ignore=tests/test_publication_guard.py
+          python -m unittest discover -s tests -p test_publication_guard.py -v
+      - name: Transaction receipt and cross-chain evidence tests
+        run: |
+          python investigations/2026-11-05_debridge_winners/validate.py
+          python -m unittest discover -s investigations/2026-11-05_debridge_winners -p 'test_*.py' -v
+          python -m unittest discover -s investigations/2026-11-13_debridge_bsc_delivery/tests -p 'test_*.py' -v
+          python -I -m unittest discover -s investigations/2026-11-05_evm-recipient-deeptrace/tests -v
+          (cd investigations/2026-11-05_evm-recipient-deeptrace/scripts && python -I s99_selfcheck.py)
+          python -I -m unittest discover -s investigations/2026-11-06_debridge_base_bsc_solana/tests -v
+          python -I investigations/2026-11-06_debridge_base_bsc_solana/scripts/s13_orderid_check.py
+          python -I investigations/2026-11-06_debridge_base_bsc_solana/scripts/s99_selfcheck.py
+          python -I -m unittest discover -s investigations/2026-11-06_historical_replay/tests -v
+          python -I -m unittest discover -s investigations/2026-11-06_dmaga_kekius_cross_token/tests -v

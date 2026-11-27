@@ -1,0 +1,16 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.venv/
+raw/
+logs/
+tmp/
+*.gz
+*.parquet
+*.duckdb
+.DS_Store
+data/*.parquet
+data/*.duckdb
+!data/wallet_clusters.parquet
+!data/social_links.parquet

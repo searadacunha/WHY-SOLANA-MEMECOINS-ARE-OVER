@@ -50,6 +50,8 @@ A scanner cannot prove a repository clean. What it gives is that
 from __future__ import annotations
 
 import argparse
+import hashlib
+import json
 import os
 import re
 import struct
@@ -220,6 +222,18 @@ def image_meta_text(path: str) -> str:
 
 
 # --------------------------------------------------------------------- scanning
+def evidence_exceptions() -> set[tuple[str, str, str]]:
+    """Exact public-evidence matches reviewed during the DARK-MAGA migration."""
+    path = os.path.join(settings.CODE, "dark_maga_public_matches.json")
+    if not os.path.exists(path):
+        return set()
+    with open(path, encoding="utf-8") as f:
+        return {(row["path"], row["kind"], row["sha256"]) for row in json.load(f)}
+
+
+_PUBLIC_EVIDENCE = evidence_exceptions()
+
+
 def scan_blob(rel: str, text: str, source: str, findings: Findings,
               allow: list[str]) -> None:
     """Run the leak PATTERNS over a blob of text (file body or image metadata),
@@ -246,7 +260,10 @@ def scan_blob(rel: str, text: str, source: str, findings: Findings,
             # reflink containing the author's handle) -- not merely because an
             # allowed word sits elsewhere on the same line, which would let a
             # real key ride along beside it.
-            if any(a in frag.lower() for a in allow):
+            digest = hashlib.sha256(frag.encode("utf-8")).hexdigest()
+            if (rel, name, digest) in _PUBLIC_EVIDENCE and not source:
+                findings.append(("ALLOWED public evidence " + tag, rel, line_no, "[reviewed match]"))
+            elif any(a in frag.lower() for a in allow):
                 findings.append(("ALLOWED " + tag, rel, line_no, frag[:60]))
             else:
                 findings.append((tag, rel, line_no, frag[:60]))

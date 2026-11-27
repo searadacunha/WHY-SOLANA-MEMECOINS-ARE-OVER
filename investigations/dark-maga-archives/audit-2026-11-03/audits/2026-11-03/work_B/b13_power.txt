@@ -1,0 +1,106 @@
+calcul incrémental identique à b03 sur les 212 tokens, effet nul : OK
+Nul empirique : cibles passant Holm 5 sur 212 = 0.0236
+                            scenario  taux_verdict_inhabituel  p_min_median  SOL_sur_DMAGA DMAGA_passe
+0                         0.1R_1w_3h                   0.0283        0.1344           42.8            
+1                        0.25R_1w_3h                   0.0283        0.0849          107.0            
+2                         0.5R_1w_3h                   0.0283        0.0472          213.9            
+3                           1R_1w_3h                   0.0283        0.0236          427.9            
+4                           2R_1w_3h                   0.0330        0.0142          855.8            
+5                           5R_1w_3h                   1.0000        0.0047         2139.4          M7
+6                         0.1R_5w_3h                   0.0236        0.1557           42.8            
+7                        0.25R_5w_3h                   0.0236        0.1486          107.0            
+8                         0.5R_5w_3h                   0.0236        0.1368          213.9            
+9                           1R_5w_3h                   0.0236        0.1132          427.9            
+10                          2R_5w_3h                   0.0330        0.0519          855.8            
+11                          5R_5w_3h                   0.0519        0.0236         2139.4            
+12                       0.1R_25w_3h                   0.0236        0.1580           42.8            
+13                      0.25R_25w_3h                   0.0236        0.1509          107.0            
+14                       0.5R_25w_3h                   0.0236        0.1368          213.9            
+15                         1R_25w_3h                   0.0236        0.1274          427.9            
+16                         2R_25w_3h                   0.0330        0.0991          855.8            
+17                         5R_25w_3h                   0.0519        0.0755         2139.4            
+18                  0.5R_25w_3h_sync                   0.1038        0.0708          213.9            
+19                    2R_25w_3h_sync                   0.1132        0.0684          855.8            
+20                       0.1R_1w_24h                   0.0283        0.1321           23.3            
+21                      0.25R_1w_24h                   0.0283        0.1321           58.4            
+22                       0.5R_1w_24h                   0.0283        0.1274          116.7            
+23                         1R_1w_24h                   0.0283        0.1132          233.4            
+24                         2R_1w_24h                   0.0236        0.0849          466.8            
+25                         5R_1w_24h                   0.0377        0.0472         1167.1            
+26                       0.1R_5w_24h                   0.0236        0.1604           23.3            
+27                      0.25R_5w_24h                   0.0236        0.1533           58.4            
+28                       0.5R_5w_24h                   0.0236        0.1392          116.7            
+29                         1R_5w_24h                   0.0236        0.1274          233.4            
+30                         2R_5w_24h                   0.0236        0.1014          466.8            
+31                         5R_5w_24h                   0.0377        0.0755         1167.1            
+32                      0.1R_25w_24h                   0.0236        0.1651           23.3            
+33                     0.25R_25w_24h                   0.0236        0.1627           58.4            
+34                      0.5R_25w_24h                   0.0236        0.1509          116.7            
+35                        1R_25w_24h                   0.0236        0.1321          233.4            
+36                        2R_25w_24h                   0.0236        0.1108          466.8            
+37                        5R_25w_24h                   0.0377        0.0802         1167.1            
+38                 0.5R_25w_24h_sync                   0.1038        0.0708          116.7            
+39                   2R_25w_24h_sync                   0.1038        0.0684          466.8            
+40   controle_moyen_6w_60SOL_3h_sync                   0.0330        0.1179           64.3            
+41  controle_fort_18w_740SOL_3h_sync                   0.0708        0.0613          803.7            
+réserve DMAGA S−24 h 233.4 S−3 h 427.9 S−1 h 382.6 cap S−1h 1289664.7911144367 S−24h 514393.73880696273 S−96h 379887.2446404754 somme 24 h 954.9 3 h 246.7 1 h 12.6
+dénominateurs DMAGA M1 6.1833975 M2 101.850115 acheteurs 288 nouveaux 166 paires 83.0
+M6 DMAGA : précoces 654, achetés 1838.3 M, encore détenus 376.2 M. Pour dépasser le maximum des pairs 0.4744 il faudrait 943.6 M jetons de plus détenus, soit 94.4% de l'offre
+Détenteur précoce passif :
+   part_offre      taux  M6_DMAGA  p_M6_DMAGA DMAGA_passe
+0        0.01  0.028302    0.2090      0.1509            
+1        0.02  0.028302    0.2132      0.1462            
+2        0.05  0.037736    0.2257      0.1368            
+3        0.10  0.084906    0.2457      0.1132            
+4        0.20  0.099057    0.2827      0.0849            
+5        0.30  0.132075    0.3162      0.0755            
+
+Taux de verdict inhabituel si une seule mesure de la cible est multipliée par phi (cotes pour M3, M4, M6) :
+   facteur     M1     M2     M3     M4     M5     M6     M7  toutes DMAGA_une_mesure_suffit
+0        1  0.024  0.024  0.024  0.024  0.024  0.024  0.024   0.024                        
+1        2  0.024  0.033  0.024  0.024  0.024  0.099  0.028   0.113                        
+2        5  0.038  0.057  0.024  0.024  0.052  0.231  0.033   0.288                      M6
+3       10  0.047  0.066  0.024  0.024  0.104  0.495  0.057   0.557                      M6
+4       20  0.071  0.080  0.024  0.024  0.156  0.802  0.090   0.854                      M6
+5       50  0.080  0.080  0.024  0.024  0.349  0.929  0.354   0.962                M5,M6,M7
+6      100  0.094  0.094  0.024  0.024  0.514  0.976  0.783   1.000                M5,M6,M7
+7     1000  0.212  0.175  0.024  0.024  0.811  0.991  0.991   1.000             M1,M5,M6,M7
+8    10000  0.571  0.495  0.024  0.024  0.821  1.000  1.000   1.000          M1,M2,M5,M6,M7
+
+Plancher 0,1 SOL actif : M1 25 /211 (DMAGA False ) ; M2 15 /211 ; dénominateur nul M1 21 M2 13
+Spearman avec âge, acheteurs, volume 24 h, dénominateurs, date de création, capitalisation S−1 h :
+     age  n_buyers  num24  den1  den2  created  cap1
+M1  0.11      0.19   0.24 -0.34 -0.35    -0.01  0.01
+M2  0.25      0.21   0.34 -0.41 -0.58    -0.00  0.14
+M3  0.12      0.06   0.12 -0.35 -0.42    -0.07 -0.03
+M4  0.23     -0.80  -0.74 -0.49 -0.42     0.09 -0.20
+M5 -0.04      0.08   0.12 -0.01 -0.01    -0.03  0.11
+M6 -0.17     -0.27  -0.32 -0.12 -0.08    -0.02  0.04
+M7 -0.22      0.44   0.53  0.17  0.13    -0.08  0.01
+
+Rangs conditionnels, EXPLORATOIRE, sans correction, ne remplacent jamais le verdict gelé :
+EXPLORATOIRE M1 sans plancher actif (M1) : k=186, p={'M1': np.float64(0.107), 'M2': np.float64(0.102), 'M3': np.float64(0.176), 'M4': np.float64(0.519), 'M5': np.float64(0.23), 'M6': np.float64(0.144), 'M7': np.float64(0.155)}
+EXPLORATOIRE M2 sans plancher actif (M2) : k=196, p={'M1': np.float64(0.132), 'M2': np.float64(0.127), 'M3': np.float64(0.198), 'M4': np.float64(0.533), 'M5': np.float64(0.234), 'M6': np.float64(0.157), 'M7': np.float64(0.157)}
+EXPLORATOIRE dénominateur M1 à un facteur 3 de DMAGA : k=67, p={'M1': np.float64(0.132), 'M2': np.float64(0.162), 'M3': np.float64(0.265), 'M4': np.float64(0.706), 'M5': np.float64(0.309), 'M6': np.float64(0.191), 'M7': np.float64(0.206)}
+EXPLORATOIRE au moins 100 acheteurs sur 24 h : k=137, p={'M1': np.float64(0.174), 'M2': np.float64(0.203), 'M3': np.float64(0.239), 'M4': np.float64(0.326), 'M5': np.float64(0.196), 'M6': np.float64(0.101), 'M7': np.float64(0.217)}
+EXPLORATOIRE acheteurs à un facteur 2 de DMAGA : k=93, p={'M1': np.float64(0.181), 'M2': np.float64(0.213), 'M3': np.float64(0.245), 'M4': np.float64(0.255), 'M5': np.float64(0.16), 'M6': np.float64(0.085), 'M7': np.float64(0.181)}
+EXPLORATOIRE âge à S à un facteur 1,5 de DMAGA : k=82, p={'M1': np.float64(0.133), 'M2': np.float64(0.12), 'M3': np.float64(0.265), 'M4': np.float64(0.482), 'M5': np.float64(0.241), 'M6': np.float64(0.169), 'M7': np.float64(0.145)}
+EXPLORATOIRE capitalisation S−1 h à un facteur 3 de DMAGA : k=62, p={'M1': np.float64(0.159), 'M2': np.float64(0.175), 'M3': np.float64(0.222), 'M4': np.float64(0.54), 'M5': np.float64(0.317), 'M6': np.float64(0.238), 'M7': np.float64(0.175)}
+EXPLORATOIRE capitalisation S−96 h à un facteur 3 de DMAGA : k=105, p={'M1': np.float64(0.123), 'M2': np.float64(0.094), 'M3': np.float64(0.151), 'M4': np.float64(0.632), 'M5': np.float64(0.283), 'M6': np.float64(0.208), 'M7': np.float64(0.151)}
+EXPLORATOIRE création à 14 jours de DMAGA : k=108, p={'M1': np.float64(0.147), 'M2': np.float64(0.193), 'M3': np.float64(0.239), 'M4': np.float64(0.523), 'M5': np.float64(0.294), 'M6': np.float64(0.165), 'M7': np.float64(0.202)}
+Comparaisons exploratoires de ce bloc : 9 sous-groupes × 7 mesures = 63
+EXPLORATOIRE hausse de capitalisation S−24 h à S−1 h : DMAGA x2.51, pairs >= DMAGA 40/211, p 0.193
+Bande à S−96 h : pairs avec cap S−96 h dans la bande 131 ; ratio cap S−1h / S−24h DMAGA 2.51 médiane pairs 1.17 ; ratio S−1h / S−96h DMAGA 3.39 médiane 1.66
+
+Décalage de S (EXPLORATOIRE, 3 décalages × 7 mesures = 21 comparaisons) :
+S−2 h : DMAGA [69.161, 6.276, 0.678, 0.316, 472.411, 0.207, 0.138] ; médiane pairs [1.871, 1.213, 0.404, 0.361, 158.756, 0.078, 0.07] ; p [0.113, 0.17, 0.205, 0.576, 0.244, 0.156, 0.157]
+S−3 h : DMAGA [66.103, 5.224, 0.721, 0.37, 760.614, 0.208, 0.138] ; médiane pairs [1.561, 1.2, 0.392, 0.373, 162.896, 0.078, 0.07] ; p [0.099, 0.175, 0.144, 0.507, 0.149, 0.151, 0.148]
+S−6 h : DMAGA [3.289, 2.297, 0.653, 0.484, 571.328, 0.212, 0.204] ; médiane pairs [1.05, 0.873, 0.377, 0.381, 182.027, 0.078, 0.068] ; p [0.236, 0.25, 0.201, 0.363, 0.25, 0.156, 0.059]
+S (plan) : DMAGA [39.893, 9.376, 0.68, 0.308, 433.798, 0.205, 0.138] médiane pairs [3.766, 1.464, 0.45, 0.347, 176.327, 0.076, 0.074]
+M1 : pairs au-dessus de DMAGA, étude 35, B 35, différence symétrique 0
+M2 : pairs au-dessus de DMAGA, étude 38, B 38, différence symétrique 0
+M3 : pairs au-dessus de DMAGA, étude 50, B 50, différence symétrique 0
+M4 : pairs au-dessus de DMAGA, étude 115, B 115, différence symétrique 0
+M5 : pairs au-dessus de DMAGA, étude 55, B 55, différence symétrique 0
+M6 : pairs au-dessus de DMAGA, étude 32, B 32, différence symétrique 0
+M7 : pairs au-dessus de DMAGA, étude 37, B 37, différence symétrique 0

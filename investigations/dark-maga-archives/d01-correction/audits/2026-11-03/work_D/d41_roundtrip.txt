@@ -1,0 +1,24 @@
+lignes swap uniques (603110, 785713.4)
+achats totaux SOL 785713.4 allers-retours SOL 106254.0 part 13.52
+fen_musk_19:03-19:30 achats 148.73 allers-retours 44.66 part % 30.0
+envoi_19:23-19:30 achats 145.44 allers-retours 44.66 part % 30.7
+24h_apres achats 194396.97 allers-retours 29085.79 part % 15.0
+3h_avant_envoi achats 236.55 allers-retours 24.85 part % 10.5
+3h_avant_winig achats 507.93 allers-retours 121.37 part % 23.9
+avant_S_24h achats 1075.81 allers-retours 167.98 part % 15.6
+top acheteurs (SOL), part aller-retour %, lignes signataire / total (d01_own)
+   5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx 32832.7 100.0 (0, 3163)
+   AD65fgYti96iSSzSPaNazV9Bs29m7JbNomGjG4Cp5WFS 16739.8 100.0 (0, 1474)
+   BmanDqQELF7QY5uRPw8vg3eMjR74WZnszKmNbLJKkay3 12869.3 98.7 (0, 1883)
+   D4zVhwuUsFbcaty7wJhNEZ7VEwPHXQ5d2heXPxM5yWhL 10510.1 2.6 (3587, 3587)
+   4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S 9986.8 1.2 (147, 5919)
+   8aHVf4T3t4Z2kjnNojLh87zswhH21EU2iFnVoadN3MXx 6270.7 62.6 (0, 2155)
+   Bya5eBy9KgqaXfnLKuvFYBaqzYqxip3JVimhtToKRxLp 4450.3 0.0 (0, 5283)
+   5FzhCSWLT84QdgX9wYWWuWY1ZY3G9kMUu2fRifxLLhmx 3983.9 0.0 (1639, 1639)
+   6Tt9iP2YacNi8om4qwwuTsWtrEqsftvoqaG57QqdS3GF 3884.5 0.0 (20729, 20729)
+   6bKNmmyckNZNtcgPbxZU9arsQwGEFosvZtLGsXixhxED 3341.5 0.6 (209, 209)
+   7gEQ6syDZmyPE4JdfJm4qatawnDqvqdh6i8jJjCXio6h 2855.7 0.0 (17700, 17700)
+   ErP2uLSVN2p17d4VPJzGWb9U88tNrSCDdP3rm4C9KTyW 2732.4 0.0 (333, 333)
+wallets > 50 % d'allers-retours et >= 100 SOL achetés 103 SOL 106047.8
+achats fen. envoi par propriétaire [('AD65fgYti96iSSzSPaNazV9Bs29m7JbNomGjG4Cp5WFS', 37.59, 1), ('BgDAGd7Y2HknGGcKSyVb8S734pEMbLHLxMhuQG3zZjhH', 20.0, 2), ('BBcYhznjGjWVNVhaVGC5oBdkipydkjmqsiNciadXBXbY', 14.0, 1), ('4DdrfiDHpmx55i4SPssxVzS9ZaKLb8qr45NKY9Er9nNh', 10.0, 1), ('F9HrC8S68AnnVpF26JGkxfMxw3EiG8PN23YQGpyzvR5t', 7.24, 1), ('5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx', 7.07, 2)]
+achats 3 h avant envoi [('BfkBxeDE29dnFP4ptpEHhQWGL9xMu9LYv7hbUAmzU667', 29.56, 9), ('Ct6SP2E3ckCGUCDzjAfgVR5SRbwdG6vcAydNVdMXMi3Q', 17.5, 10), ('3eJkwFDZVB27emciij1oWUVodmFhFdnkpmzKHjDzH34o', 15.15, 3), ('4GVoqTXYLRDyBZPVTeX6PeDsoJ4vJeP4gPdVPeqkeKXe', 15.0, 3), ('BDFMkurHjWM8HCibLRncxaSF8eQ3oJJztPSr4jUEo3nZ', 9.16, 1)]

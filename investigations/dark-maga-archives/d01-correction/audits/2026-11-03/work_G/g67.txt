@@ -1,0 +1,2 @@
+jambes tierces par bloc, nombre de blocs [(1, 1913)]
+écart d'index entre les deux jambes, nombre de blocs [(2, 1913)]

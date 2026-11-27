@@ -1,0 +1,1920 @@
+{
+ "C1": {
+  "sig": "44Sd6xet31me1Hc1PLCxmKTXEjpaqXjziLfB5qkkAeVq4bBM1RXDkERtJfEFDmgyhjDXUsXv83ws8Fg7GD7e3XJW",
+  "slot": 277413262,
+  "blockTime": 1720920731,
+  "utc": "2024-07-14 01:32:11",
+  "signers": [
+   "DFZcDnmEYNUK1khquZzx5dQYiEyjJ3N5STqaDVLZ88ZU"
+  ],
+  "fee": 5000,
+  "err": null,
+  "programs": [
+   "11111111111111111111111111111111",
+   "ComputeBudget111111111111111111111111111111",
+   "PERPHjGBqRHArX4DySjwM6UJHiR3sWAatqfdBS2qQJu",
+   "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+  ],
+  "log_instructions": [
+   "DecreasePosition3",
+   "Transfer",
+   "ClosePositionRequest",
+   "CloseAccount"
+  ],
+  "delta_7GVC": 189656068999,
+  "7GVC_signer": false,
+  "keeper_native_delta": {
+   "DFZcDnmEYNUK1khquZzx5dQYiEyjJ3N5STqaDVLZ88ZU": -73367
+  },
+  "closeAccount": [
+   [
+    [
+     1,
+     1
+    ],
+    {
+     "account": "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX",
+     "destination": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j",
+     "owner": "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt"
+    }
+   ]
+  ],
+  "spl_transfers": [
+   [
+    [
+     0,
+     0
+    ],
+    {
+     "amount": "189650967319",
+     "authority": "AVzP2GeRmqGphJsMxWoqjpUifPpCret7LqWhD8NWQK49",
+     "destination": "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX",
+     "source": "BUvduFTd2sWFagCunBPLupG8fBTJqweLw9DuhruNFSCm"
+    }
+   ]
+  ],
+  "system_transfers": [
+   [
+    [
+     3,
+     null
+    ],
+    {
+     "destination": "DfXygSm4jCyNCybVYYK6DwvWqjKee8pbDmJGcLWNDXjh",
+     "lamports": 68367,
+     "source": "DFZcDnmEYNUK1khquZzx5dQYiEyjJ3N5STqaDVLZ88ZU"
+    }
+   ]
+  ],
+  "accounts_losing_lamports": {
+   "DFZcDnmEYNUK1khquZzx5dQYiEyjJ3N5STqaDVLZ88ZU": -73367,
+   "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt": -3062400,
+   "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX": -2039280,
+   "BUvduFTd2sWFagCunBPLupG8fBTJqweLw9DuhruNFSCm": -189650967319
+  },
+  "accounts_gaining_lamports": {
+   "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j": 189656068999,
+   "DfXygSm4jCyNCybVYYK6DwvWqjKee8pbDmJGcLWNDXjh": 68367
+  },
+  "token_balances": {
+   "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX": {
+    "mint": "So11111111111111111111111111111111111111112",
+    "owner": "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt",
+    "pre": 0,
+    "post": 0
+   },
+   "BUvduFTd2sWFagCunBPLupG8fBTJqweLw9DuhruNFSCm": {
+    "mint": "So11111111111111111111111111111111111111112",
+    "owner": "AVzP2GeRmqGphJsMxWoqjpUifPpCret7LqWhD8NWQK49",
+    "pre": 1501041210465444,
+    "post": 1500851559498125
+   }
+  },
+  "mint_minus_block_s": 1994,
+  "closed_accounts_pre_lamports": {
+   "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt": 3062400,
+   "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX": 2039280
+  },
+  "decomposition": {
+   "wsol_tokens_transferred_into_closed_ata": 189650967319,
+   "rent_of_closed_wsol_ata": 2039280,
+   "other_closed_accounts": {
+    "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt": 3062400
+   }
+  },
+  "decomposition_sum": 189656068999,
+  "owner_of_closed_wsol_ata": "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt",
+  "2VMyrqES": {
+   "sig": "2VMyrqESwAQoc2j7oedSs9g6NpQmbufPFG3DuXANjYgum2oFHsqTH4kvcgy4CfWNXtNqjT6kAJNvUQmkWLmeFbE8",
+   "slot": 277410445,
+   "blockTime": 1720919461,
+   "utc": "2024-07-14 01:11:01",
+   "signers": [
+    "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+   ],
+   "fee": 498587,
+   "err": null,
+   "programs": [
+    "11111111111111111111111111111111",
+    "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+    "ComputeBudget111111111111111111111111111111",
+    "PERPHjGBqRHArX4DySjwM6UJHiR3sWAatqfdBS2qQJu",
+    "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+   ],
+   "log_instructions": [
+    "GetAccountDataSize",
+    "InitializeImmutableOwner",
+    "InitializeAccount3",
+    "CreateDecreasePositionRequest",
+    "GetAccountDataSize",
+    "InitializeImmutableOwner",
+    "InitializeAccount3"
+   ],
+   "7GVC_signer": true,
+   "delta_7GVC": -7639547,
+   "spl": [
+    [
+     [
+      0,
+      0
+     ],
+     "getAccountDataSize",
+     {
+      "extensionTypes": [
+       "immutableOwner"
+      ],
+      "mint": "So11111111111111111111111111111111111111112"
+     }
+    ],
+    [
+     [
+      0,
+      2
+     ],
+     "initializeImmutableOwner",
+     {
+      "account": "B67YWDgub1b5m1uJ91k1CnAiGgTRh4rPKgbRV7Gdat5F"
+     }
+    ],
+    [
+     [
+      0,
+      3
+     ],
+     "initializeAccount3",
+     {
+      "account": "B67YWDgub1b5m1uJ91k1CnAiGgTRh4rPKgbRV7Gdat5F",
+      "mint": "So11111111111111111111111111111111111111112",
+      "owner": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     }
+    ],
+    [
+     [
+      1,
+      2
+     ],
+     "getAccountDataSize",
+     {
+      "extensionTypes": [
+       "immutableOwner"
+      ],
+      "mint": "So11111111111111111111111111111111111111112"
+     }
+    ],
+    [
+     [
+      1,
+      4
+     ],
+     "initializeImmutableOwner",
+     {
+      "account": "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX"
+     }
+    ],
+    [
+     [
+      1,
+      5
+     ],
+     "initializeAccount3",
+     {
+      "account": "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX",
+      "mint": "So11111111111111111111111111111111111111112",
+      "owner": "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt"
+     }
+    ]
+   ],
+   "system": [
+    [
+     [
+      0,
+      1
+     ],
+     "createAccount",
+     {
+      "lamports": 2039280,
+      "newAccount": "B67YWDgub1b5m1uJ91k1CnAiGgTRh4rPKgbRV7Gdat5F",
+      "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j",
+      "space": 165
+     }
+    ],
+    [
+     [
+      1,
+      0
+     ],
+     "createAccount",
+     {
+      "lamports": 3062400,
+      "newAccount": "BJ9cYR9gx1gGcrHyKy8j5LWXJPbHhJ8FDVHiujVLAhFt",
+      "owner": "PERPHjGBqRHArX4DySjwM6UJHiR3sWAatqfdBS2qQJu",
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j",
+      "space": 312
+     }
+    ],
+    [
+     [
+      1,
+      3
+     ],
+     "createAccount",
+     {
+      "lamports": 2039280,
+      "newAccount": "HyqiTUTgJHZMLPpKyn3vGkGa1CJuAkSM7vF4oB78oxvX",
+      "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j",
+      "space": 165
+     }
+    ]
+   ],
+   "perps_in_outer": [
+    1
+   ]
+  },
+  "GFDyshi4": {
+   "sig": "GFDyshi4zpYGeyujyYoz2gjFp1876KM1a9CQu8z1CH1zzmMXri94Kva6KrRkW4L2rJXMS45u4Hj6UKzKzm3p4Qt",
+   "slot": 277412815,
+   "blockTime": 1720920528,
+   "utc": "2024-07-14 01:28:48",
+   "signers": [
+    "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+   ],
+   "fee": 474562,
+   "err": null,
+   "programs": [
+    "ComputeBudget111111111111111111111111111111",
+    "PERPHjGBqRHArX4DySjwM6UJHiR3sWAatqfdBS2qQJu"
+   ],
+   "log_instructions": [
+    "UpdateDecreasePositionRequest"
+   ],
+   "7GVC_signer": true,
+   "delta_7GVC": -474562,
+   "spl": [],
+   "system": [],
+   "perps_in_outer": [
+    0
+   ]
+  }
+ },
+ "C2": {
+  "4QcZWRme": {
+   "sig": "4QcZWRmeZiSzLJpDS6KriJD6zLSnZqj29Tv1n2hfQe8ZBTVp5QzSQdVvEudzEsA4PNemPBLETqc96BMFHCBBDNxQ",
+   "slot": 277418144,
+   "blockTime": 1720922930,
+   "utc": "2024-07-14 02:08:50",
+   "signers": [
+    "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+   ],
+   "fee": 16595,
+   "err": null,
+   "programs": [
+    "11111111111111111111111111111111",
+    "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+    "ComputeBudget111111111111111111111111111111",
+    "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+   ],
+   "log_instructions": [
+    "GetAccountDataSize",
+    "InitializeImmutableOwner",
+    "InitializeAccount3",
+    "Buy",
+    "Transfer"
+   ],
+   "7GVC_signer": true,
+   "dmaga_delta_7GVC": 21753031809264,
+   "native_delta_7GVC": -3026602576,
+   "pump_outer": [
+    4
+   ],
+   "dmaga_spl_moves": [
+    [
+     [
+      4,
+      0
+     ],
+     {
+      "amount": "21753031809264",
+      "authority": "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH",
+      "destination": "CY83MR5TF4DmSbfkHuXv9Cicx9a6kEnGhfX2CnJHPhSV",
+      "source": "5m4L23yodtX9WrrndcrqPj6kDwVBNMBQdcrknv71AT4C"
+     }
+    ]
+   ],
+   "system_moves": [
+    [
+     [
+      1,
+      null
+     ],
+     {
+      "destination": "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      "lamports": 3000000,
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     }
+    ],
+    [
+     [
+      4,
+      1
+     ],
+     {
+      "destination": "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH",
+      "lamports": 2991630398,
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     }
+    ],
+    [
+     [
+      4,
+      2
+     ],
+     {
+      "destination": "CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM",
+      "lamports": 29916303,
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     }
+    ]
+   ],
+   "wsol_delta_7GVC": 0,
+   "other_token_deltas_7GVC": {
+    "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump": 21753031809264
+   }
+  },
+  "34LDkYZr": {
+   "sig": "34LDkYZrfNKsRHBtH8MdGVhGh3pSARuApB9br4nEFe48wbbfimyA3uxhy9bng7ktsXkoSArsDMfrxkFpJJZockkn",
+   "slot": 277418534,
+   "blockTime": 1720923103,
+   "utc": "2024-07-14 02:11:43",
+   "signers": [
+    "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+   ],
+   "fee": 22413,
+   "err": null,
+   "programs": [
+    "11111111111111111111111111111111",
+    "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "ComputeBudget111111111111111111111111111111",
+    "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+   ],
+   "log_instructions": [
+    "Buy",
+    "Transfer"
+   ],
+   "7GVC_signer": true,
+   "dmaga_delta_7GVC": 19444106570753,
+   "native_delta_7GVC": -4963580208,
+   "pump_outer": [
+    3
+   ],
+   "dmaga_spl_moves": [
+    [
+     [
+      3,
+      0
+     ],
+     {
+      "amount": "19444106570753",
+      "authority": "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH",
+      "destination": "CY83MR5TF4DmSbfkHuXv9Cicx9a6kEnGhfX2CnJHPhSV",
+      "source": "5m4L23yodtX9WrrndcrqPj6kDwVBNMBQdcrknv71AT4C"
+     }
+    ]
+   ],
+   "system_moves": [
+    [
+     [
+      1,
+      null
+     ],
+     {
+      "destination": "HWEoBxYs7ssKuudEjzjmpfJVX7Dvi7wescFsVx2L5yoY",
+      "lamports": 3000000,
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     }
+    ],
+    [
+     [
+      3,
+      1
+     ],
+     {
+      "destination": "87g44hEXP7R8ZxoAJtz941tsVftpEXC1LqAFTf2ZHtkH",
+      "lamports": 4911443362,
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     }
+    ],
+    [
+     [
+      3,
+      2
+     ],
+     {
+      "destination": "CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM",
+      "lamports": 49114433,
+      "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     }
+    ]
+   ],
+   "wsol_delta_7GVC": 0,
+   "other_token_deltas_7GVC": {
+    "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump": 19444106570753
+   }
+  },
+  "total_dmaga": 41197138380017,
+  "claimed_total": 41197138380017
+ },
+ "C3": {
+  "sig": "2FezsDLMjqaseGDiCvkRBBXGAzs8MFyYxSZ4sKzcQmTZzxC7borK6UABkaCW6oC7h7oN9x15BDQ6STnC6ThojTJW",
+  "slot": 277420037,
+  "blockTime": 1720923789,
+  "utc": "2024-07-14 02:23:09",
+  "signers": [
+   "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+  ],
+  "fee": 15000,
+  "err": null,
+  "programs": [
+   "11111111111111111111111111111111",
+   "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+   "ComputeBudget111111111111111111111111111111",
+   "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ",
+   "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+  ],
+  "log_instructions": [
+   "GetAccountDataSize",
+   "InitializeImmutableOwner",
+   "InitializeAccount3",
+   "TransferChecked"
+  ],
+  "spl": [
+   [
+    [
+     3,
+     0
+    ],
+    "getAccountDataSize",
+    {
+     "extensionTypes": [
+      "immutableOwner"
+     ],
+     "mint": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump"
+    }
+   ],
+   [
+    [
+     3,
+     2
+    ],
+    "initializeImmutableOwner",
+    {
+     "account": "5vEbpdyPguMUg7rCnDwVPGf5A5huza8uCPXuN1vV4bni"
+    }
+   ],
+   [
+    [
+     3,
+     3
+    ],
+    "initializeAccount3",
+    {
+     "account": "5vEbpdyPguMUg7rCnDwVPGf5A5huza8uCPXuN1vV4bni",
+     "mint": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+     "owner": "9Sxmf25WG5WVQ5p86ycWeo5hMEwxiWPkFtLdRdTrHSQS"
+    }
+   ],
+   [
+    [
+     4,
+     null
+    ],
+    "transferChecked",
+    {
+     "destination": "5vEbpdyPguMUg7rCnDwVPGf5A5huza8uCPXuN1vV4bni",
+     "mint": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+     "multisigAuthority": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j",
+     "signers": [
+      "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     ],
+     "source": "CY83MR5TF4DmSbfkHuXv9Cicx9a6kEnGhfX2CnJHPhSV",
+     "tokenAmount": {
+      "amount": "20000000000000",
+      "decimals": 6,
+      "uiAmount": 20000000.0,
+      "uiAmountString": "20000000"
+     }
+    }
+   ]
+  ],
+  "dmaga_delta_7GVC": -20000000000000,
+  "dmaga_delta_9Sxm": 20000000000000,
+  "token_accounts": {
+   "CY83MR5TF4DmSbfkHuXv9Cicx9a6kEnGhfX2CnJHPhSV": {
+    "mint": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+    "owner": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j",
+    "pre": 41197138380017,
+    "post": 21197138380017
+   },
+   "5vEbpdyPguMUg7rCnDwVPGf5A5huza8uCPXuN1vV4bni": {
+    "mint": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+    "owner": "9Sxmf25WG5WVQ5p86ycWeo5hMEwxiWPkFtLdRdTrHSQS",
+    "pre": 0,
+    "post": 20000000000000
+   }
+  },
+  "non_trivial_programs": [
+   "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ"
+  ],
+  "gap_after_later_buy_s": 686,
+  "gap_hms": "11 min 26 s",
+  "mint_to_transfer_s": 1064
+ },
+ "C4": {
+  "A1UDMqcUC8RkZ8YENAktdueSQ6jxUUBickBK2y61vQ8J": {
+   "claimed_sol": "5",
+   "claimed_lag_s": "33",
+   "funding": [
+    {
+     "sig": "Wy4wZ6Uv8SUvUwaDauE3MpT59rF66X1PsFk7mPFhWeFUypJEnyKTtzm8X29Q3XGKAy9AGifBfCeGnkL64pUVgXJ",
+     "slot": 277545500,
+     "blockTime": 1720981602,
+     "utc": "2024-07-14 18:26:42",
+     "signers": [
+      "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     ],
+     "fee": 15000,
+     "err": null,
+     "programs": [
+      "11111111111111111111111111111111",
+      "ComputeBudget111111111111111111111111111111"
+     ],
+     "log_instructions": [],
+     "transfers_to_sat": [
+      [
+       [
+        2,
+        null
+       ],
+       {
+        "destination": "A1UDMqcUC8RkZ8YENAktdueSQ6jxUUBickBK2y61vQ8J",
+        "lamports": 5000000000,
+        "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+       }
+      ]
+     ],
+     "direct_from_7GVC": [
+      5000000000
+     ],
+     "7GVC_signer": true,
+     "sat_native_delta": 5000000000,
+     "non_trivial_programs": []
+    }
+   ],
+   "sum_direct_lamports": 5000000000,
+   "buy_receipts_present": [
+    "2qVPNvRy"
+   ],
+   "n_buy_sigs": 6,
+   "first_buy": {
+    "sig": "2qVPNvRywHHE1CX2zyt1b3EderM5AaDyrqTqELWUf1J3LCBMm8W71ALVqCkepD3gG5WaFtRyQAMdiJUNLmr1bsRT",
+    "slot": 277545574,
+    "blockTime": 1720981635,
+    "utc": "2024-07-14 18:27:15",
+    "signers": [
+     "A1UDMqcUC8RkZ8YENAktdueSQ6jxUUBickBK2y61vQ8J"
+    ],
+    "fee": 505001,
+    "err": null,
+    "programs": [
+     "11111111111111111111111111111111",
+     "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+     "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+     "ComputeBudget111111111111111111111111111111",
+     "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+     "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS"
+    ],
+    "log_instructions": [
+     "GetAccountDataSize",
+     "InitializeImmutableOwner",
+     "InitializeAccount3",
+     "SyncNative",
+     "GetAccountDataSize",
+     "InitializeImmutableOwner",
+     "InitializeAccount3",
+     "Transfer",
+     "Transfer",
+     "CloseAccount"
+    ],
+    "sat_signer": true,
+    "sat_dmaga_delta": 2184156028893,
+    "sat_native_delta": -752544281,
+    "dmaga_moves": [
+     [
+      [
+       1,
+       6
+      ],
+      {
+       "amount": "750000000",
+       "authority": "A1UDMqcUC8RkZ8YENAktdueSQ6jxUUBickBK2y61vQ8J",
+       "destination": "3p7DbnWekWjtMQkey6fp1emdwXbAAxecnYuD5eU9ZZPH",
+       "source": "HEv7VKeA8FN3YDAtyDMvX2ZKR8KnGU2KGNzZsjk9uhB5"
+      }
+     ],
+     [
+      [
+       1,
+       7
+      ],
+      {
+       "amount": "2184156028893",
+       "authority": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+       "destination": "H2i9u2smnzeQjE9f3QrAF5wKkwM1YXvcJvtmCgQ7uMDB",
+       "source": "5HuEsLbebeuottMsFW3hHcXTrKVsu3WUNSQnSr6aX4eL"
+      }
+     ]
+    ]
+   },
+   "lag_from_first_funding_s": 33,
+   "lag_from_last_funding_s": 33
+  },
+  "6QFDe4yu9mVhv3cbbaMtkTnakz4bGJLAjLjhwrMn5jqD": {
+   "claimed_sol": "60",
+   "claimed_lag_s": "149",
+   "funding": [
+    {
+     "sig": "5RpSsdjfB41ULuNsySPEqfgaVzUwDMMmJk9E8hJV4z128JwL3XQ6C6P2x9yzJ8YCn9yPr5JBCbbhib9fToPWDdTd",
+     "slot": 277759960,
+     "blockTime": 1721080274,
+     "utc": "2024-07-15 21:51:14",
+     "signers": [
+      "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     ],
+     "fee": 15000,
+     "err": null,
+     "programs": [
+      "11111111111111111111111111111111",
+      "ComputeBudget111111111111111111111111111111"
+     ],
+     "log_instructions": [],
+     "transfers_to_sat": [
+      [
+       [
+        2,
+        null
+       ],
+       {
+        "destination": "6QFDe4yu9mVhv3cbbaMtkTnakz4bGJLAjLjhwrMn5jqD",
+        "lamports": 30000000000,
+        "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+       }
+      ]
+     ],
+     "direct_from_7GVC": [
+      30000000000
+     ],
+     "7GVC_signer": true,
+     "sat_native_delta": 30000000000,
+     "non_trivial_programs": []
+    },
+    {
+     "sig": "54weWk69BURE5X8cmWhNZkEe3tpAZkDPiqXNPrN6DVXR9S2J9SbmJnxwAdNaXy3AHd6YhrVBkJwsR7qmvVPehXJZ",
+     "slot": 277795212,
+     "blockTime": 1721096496,
+     "utc": "2024-07-16 02:21:36",
+     "signers": [
+      "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     ],
+     "fee": 15000,
+     "err": null,
+     "programs": [
+      "11111111111111111111111111111111",
+      "ComputeBudget111111111111111111111111111111"
+     ],
+     "log_instructions": [],
+     "transfers_to_sat": [
+      [
+       [
+        2,
+        null
+       ],
+       {
+        "destination": "6QFDe4yu9mVhv3cbbaMtkTnakz4bGJLAjLjhwrMn5jqD",
+        "lamports": 30000000000,
+        "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+       }
+      ]
+     ],
+     "direct_from_7GVC": [
+      30000000000
+     ],
+     "7GVC_signer": true,
+     "sat_native_delta": 30000000000,
+     "non_trivial_programs": []
+    }
+   ],
+   "sum_direct_lamports": 60000000000,
+   "buy_receipts_present": [
+    "5fJEemgG"
+   ],
+   "n_buy_sigs": 42,
+   "first_buy": {
+    "sig": "5fJEemgGLQVrFWUFMXdwhjvPafdLxWE6UUufJZydRXJoJyrma28WhPRmqaibBXYRYYJx2Gwomkd4kB4CxZL8EZjt",
+    "slot": 277760295,
+    "blockTime": 1721080423,
+    "utc": "2024-07-15 21:53:43",
+    "signers": [
+     "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw"
+    ],
+    "fee": 43313,
+    "err": null,
+    "programs": [
+     "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+     "ComputeBudget111111111111111111111111111111",
+     "DCA265Vj8a9CEuX1eb1LWRnDT7uK6q1xMipnNyatn23M",
+     "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+     "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+    ],
+    "log_instructions": [
+     "InitiateFlashFill",
+     "Transfer",
+     "SharedAccountsRoute",
+     "TransferChecked",
+     "Transfer",
+     "Transfer",
+     "TransferChecked",
+     "FulfillFlashFill",
+     "Transfer",
+     "Transfer",
+     "Transfer"
+    ],
+    "sat_signer": false,
+    "sat_dmaga_delta": 328359053117,
+    "sat_native_delta": 0,
+    "dmaga_moves": [
+     [
+      [
+       0,
+       0
+      ],
+      {
+       "amount": "1000000000",
+       "authority": "5fKAMXCxu7wqniXKe7nigHDe8C3nA1Db6ZcwbcCd8Wdg",
+       "destination": "7DYMLxjKZwkPeK4NBMDAaUmNZzVNnc46KkFYWMLovKfe",
+       "source": "7riQnraYo8EWXQWpmPgVuJNd6s4A4ZHGqHBPnJabXU8M"
+      }
+     ],
+     [
+      [
+       1,
+       0
+      ],
+      {
+       "authority": "DCAK36VfExkPdAkYUQg6ewgxyinvcEyPLyHjRbmveKFw",
+       "destination": "8ctcHN52LY21FEipCjr1MVWtoZa1irJQTPyAaTj72h7S",
+       "mint": "So11111111111111111111111111111111111111112",
+       "source": "7DYMLxjKZwkPeK4NBMDAaUmNZzVNnc46KkFYWMLovKfe",
+       "tokenAmount": {
+        "amount": "1000000000",
+        "decimals": 9,
+        "uiAmount": 1.0,
+        "uiAmountString": "1"
+       }
+      }
+     ],
+     [
+      [
+       1,
+       2
+      ],
+      {
+       "amount": "1000000000",
+       "authority": "BQ72nSv9f3PRyRKCBnHLVrerrv37CYTHm5h3s9VSGQDV",
+       "destination": "3p7DbnWekWjtMQkey6fp1emdwXbAAxecnYuD5eU9ZZPH",
+       "source": "8ctcHN52LY21FEipCjr1MVWtoZa1irJQTPyAaTj72h7S"
+      }
+     ],
+     [
+      [
+       1,
+       3
+      ],
+      {
+       "amount": "328687740857",
+       "authority": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+       "destination": "dqf3GSXKPmvF5LiG7Wwq9ND7EaxTs9QeAYoqrQUNGaE",
+       "source": "5HuEsLbebeuottMsFW3hHcXTrKVsu3WUNSQnSr6aX4eL"
+      }
+     ],
+     [
+      [
+       1,
+       5
+      ],
+      {
+       "authority": "BQ72nSv9f3PRyRKCBnHLVrerrv37CYTHm5h3s9VSGQDV",
+       "destination": "3nBTtLH56bU9aMzQu1n8mwerjRiA8gd6Vr75Nr9TdVem",
+       "mint": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+       "source": "dqf3GSXKPmvF5LiG7Wwq9ND7EaxTs9QeAYoqrQUNGaE",
+       "tokenAmount": {
+        "amount": "328687740857",
+        "decimals": 6,
+        "uiAmount": 328687.740857,
+        "uiAmountString": "328687.740857"
+       }
+      }
+     ],
+     [
+      [
+       2,
+       0
+      ],
+      {
+       "amount": "328687740",
+       "authority": "5fKAMXCxu7wqniXKe7nigHDe8C3nA1Db6ZcwbcCd8Wdg",
+       "destination": "9Bj8sQs2q6GrYfUQAzGEsizCPf8tT25vBeicz71q6W8R",
+       "source": "3nBTtLH56bU9aMzQu1n8mwerjRiA8gd6Vr75Nr9TdVem"
+      }
+     ],
+     [
+      [
+       3,
+       0
+      ],
+      {
+       "amount": "328359053117",
+       "authority": "5fKAMXCxu7wqniXKe7nigHDe8C3nA1Db6ZcwbcCd8Wdg",
+       "destination": "4nHgnzCtt1i938NKypZe3VGy8YSiuUzfcb7WM4P3CjeR",
+       "source": "3nBTtLH56bU9aMzQu1n8mwerjRiA8gd6Vr75Nr9TdVem"
+      }
+     ]
+    ]
+   },
+   "lag_from_first_funding_s": 149,
+   "lag_from_last_funding_s": -16073
+  },
+  "H4mQu98TuxYTn3VSJone6jCTiDfXpuKcZbNZGHKUJU5y": {
+   "claimed_sol": "16",
+   "claimed_lag_s": "51",
+   "funding": [
+    {
+     "sig": "3vWWLUvXwMtEpKvxdZT7c1Co7fQMTUPxk1UVMZFdNTHB9Qm3duFSNLAiHeJyPyigVuDBbVTNsLeuRNzW8EXkYrYU",
+     "slot": 277981156,
+     "blockTime": 1721181734,
+     "utc": "2024-07-17 02:02:14",
+     "signers": [
+      "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+     ],
+     "fee": 15000,
+     "err": null,
+     "programs": [
+      "11111111111111111111111111111111",
+      "ComputeBudget111111111111111111111111111111"
+     ],
+     "log_instructions": [],
+     "transfers_to_sat": [
+      [
+       [
+        2,
+        null
+       ],
+       {
+        "destination": "H4mQu98TuxYTn3VSJone6jCTiDfXpuKcZbNZGHKUJU5y",
+        "lamports": 16000000000,
+        "source": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j"
+       }
+      ]
+     ],
+     "direct_from_7GVC": [
+      16000000000
+     ],
+     "7GVC_signer": true,
+     "sat_native_delta": 16000000000,
+     "non_trivial_programs": []
+    }
+   ],
+   "sum_direct_lamports": 16000000000,
+   "buy_receipts_present": [
+    "2x9iJY7S"
+   ],
+   "n_buy_sigs": 1,
+   "first_buy": {
+    "sig": "2x9iJY7SfJ2ZLosmLUuYJxUSgVKr8FNzA7gWnAcyzLJ8aNYDsNc8vQ3xfw4gBjetRDPAnBbK53g4WAREvrCyFrHz",
+    "slot": 277981268,
+    "blockTime": 1721181785,
+    "utc": "2024-07-17 02:03:05",
+    "signers": [
+     "H4mQu98TuxYTn3VSJone6jCTiDfXpuKcZbNZGHKUJU5y"
+    ],
+    "fee": 15377,
+    "err": null,
+    "programs": [
+     "11111111111111111111111111111111",
+     "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+     "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+     "ComputeBudget111111111111111111111111111111",
+     "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+     "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+    ],
+    "log_instructions": [
+     "GetAccountDataSize",
+     "InitializeImmutableOwner",
+     "InitializeAccount3",
+     "SyncNative",
+     "GetAccountDataSize",
+     "InitializeImmutableOwner",
+     "InitializeAccount3",
+     "Route",
+     "Transfer",
+     "Transfer",
+     "CloseAccount"
+    ],
+    "sat_signer": true,
+    "sat_dmaga_delta": 3768814500017,
+    "sat_native_delta": -15502054657,
+    "dmaga_moves": [
+     [
+      [
+       6,
+       1
+      ],
+      {
+       "amount": "15500000000",
+       "authority": "H4mQu98TuxYTn3VSJone6jCTiDfXpuKcZbNZGHKUJU5y",
+       "destination": "3p7DbnWekWjtMQkey6fp1emdwXbAAxecnYuD5eU9ZZPH",
+       "source": "75cxbtspppAojqSWcCRkdVcV4GD1KKePMaosF3QKpxoV"
+      }
+     ],
+     [
+      [
+       6,
+       2
+      ],
+      {
+       "amount": "3768814500017",
+       "authority": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+       "destination": "7d6nNvkdzytZedQHCpBLJt7Pdxie3QX92b2MfdDw9pWy",
+       "source": "5HuEsLbebeuottMsFW3hHcXTrKVsu3WUNSQnSr6aX4eL"
+      }
+     ]
+    ]
+   },
+   "lag_from_first_funding_s": 51,
+   "lag_from_last_funding_s": 51
+  }
+ },
+ "C5": {
+  "rows": [
+   {
+    "sig": "2FezsDLMjq",
+    "utc_csv": "2024-07-14 02:23:09",
+    "src": "7GVCZA",
+    "dst": "9Sxmf2",
+    "want": 20000000000000,
+    "utc": "2024-07-14 02:23:09",
+    "slot": 277420037,
+    "signers": [
+     "7GVCZA"
+    ],
+    "err": null,
+    "dst_delta": 20000000000000,
+    "src_delta": -20000000000000,
+    "moves": [
+     [
+      [
+       4,
+       null
+      ],
+      20000000000000,
+      "7GVCZA",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [
+     "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ"
+    ],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "3479pqvt1j",
+    "utc_csv": "2024-07-14 02:55:22",
+    "src": "BteHCe",
+    "dst": "Eaoxyx",
+    "want": 26354876000000,
+    "utc": "2024-07-14 02:55:22",
+    "slot": 277424324,
+    "signers": [
+     "BteHCe"
+    ],
+    "err": null,
+    "dst_delta": 26354876000000,
+    "src_delta": -26354876000000,
+    "moves": [
+     [
+      [
+       4,
+       null
+      ],
+      26354876000000,
+      "BteHCe",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [
+     "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ"
+    ],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "2o4UXdGtAF",
+    "utc_csv": "2024-07-15 01:14:34",
+    "src": "NxtXcm",
+    "dst": "5QhJJc",
+    "want": 8000000000000,
+    "utc": "2024-07-15 01:14:34",
+    "slot": 277598803,
+    "signers": [
+     "NxtXcm"
+    ],
+    "err": null,
+    "dst_delta": 8000000000000,
+    "src_delta": -8000000000000,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      8000000000000,
+      "NxtXcm",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "58NN7zF2Ah",
+    "utc_csv": "2024-07-15 19:36:18",
+    "src": "9SHtoD",
+    "dst": "APfA9d",
+    "want": 124558000000,
+    "utc": "2024-07-15 19:36:18",
+    "slot": 277742156,
+    "signers": [
+     "9SHtoD"
+    ],
+    "err": null,
+    "dst_delta": 124558000000,
+    "src_delta": -124558000000,
+    "moves": [
+     [
+      [
+       4,
+       null
+      ],
+      124558000000,
+      "9SHtoD",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [
+     "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ"
+    ],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "4B3oM5Ks6b",
+    "utc_csv": "2024-07-15 19:37:33",
+    "src": "9SHtoD",
+    "dst": "APfA9d",
+    "want": 18754648000000,
+    "utc": "2024-07-15 19:37:33",
+    "slot": 277742323,
+    "signers": [
+     "9SHtoD"
+    ],
+    "err": null,
+    "dst_delta": 18754648000000,
+    "src_delta": -18754648000000,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      18754648000000,
+      "9SHtoD",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "62tygY7ita",
+    "utc_csv": "2024-07-16 17:25:53",
+    "src": "NxtXcm",
+    "dst": "7FGoCB",
+    "want": 6000000000000,
+    "utc": "2024-07-16 17:25:53",
+    "slot": 277913006,
+    "signers": [
+     "NxtXcm"
+    ],
+    "err": null,
+    "dst_delta": 6000000000000,
+    "src_delta": -6000000000000,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      6000000000000,
+      "NxtXcm",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "3cBqaMYfeq",
+    "utc_csv": "2024-07-17 01:40:50",
+    "src": "7GVCZA",
+    "dst": "AeiMit",
+    "want": 13000000000000,
+    "utc": "2024-07-17 01:40:50",
+    "slot": 277978284,
+    "signers": [
+     "7GVCZA"
+    ],
+    "err": null,
+    "dst_delta": 13000000000000,
+    "src_delta": -13000000000000,
+    "moves": [
+     [
+      [
+       4,
+       null
+      ],
+      13000000000000,
+      "7GVCZA",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [
+     "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ"
+    ],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "2wxn47W59G",
+    "utc_csv": "2024-07-18 21:05:52",
+    "src": "5QhJJc",
+    "dst": "7mdCAs",
+    "want": 18000000000000,
+    "utc": "2024-07-18 21:05:52",
+    "slot": 278317996,
+    "signers": [
+     "5QhJJc"
+    ],
+    "err": null,
+    "dst_delta": 18000000000000,
+    "src_delta": -18000000000000,
+    "moves": [
+     [
+      [
+       4,
+       null
+      ],
+      18000000000000,
+      "5QhJJc",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [
+     "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ"
+    ],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "2epM63ZTNS",
+    "utc_csv": "2024-07-21 08:33:36",
+    "src": "NxtXcm",
+    "dst": "GFpqfj",
+    "want": 1000000000000,
+    "utc": "2024-07-21 08:33:36",
+    "slot": 278788062,
+    "signers": [
+     "NxtXcm"
+    ],
+    "err": null,
+    "dst_delta": 1000000000000,
+    "src_delta": -1000000000000,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      1000000000000,
+      "NxtXcm",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "5EA8sPHSvs",
+    "utc_csv": "2024-09-29 07:48:49",
+    "src": "7FGoCB",
+    "dst": "5QhJJc",
+    "want": 5000000792209,
+    "utc": "2024-09-29 07:48:49",
+    "slot": 292650664,
+    "signers": [
+     "7FGoCB"
+    ],
+    "err": null,
+    "dst_delta": 5000000792209,
+    "src_delta": -5000000792209,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      5000000792209,
+      "7FGoCB",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "3nY763aRqN",
+    "utc_csv": "2024-10-08 17:46:28",
+    "src": "A1UDMq",
+    "dst": "9Sxmf2",
+    "want": 2000000000000,
+    "utc": "2024-10-08 17:46:28",
+    "slot": 294469456,
+    "signers": [
+     "A1UDMq"
+    ],
+    "err": null,
+    "dst_delta": 2000000000000,
+    "src_delta": -2000000000000,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      2000000000000,
+      "A1UDMq",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "5rCnpjmRxc",
+    "utc_csv": "2024-11-06 00:05:22",
+    "src": "A1UDMq",
+    "dst": "7GVCZA",
+    "want": 19922970963,
+    "utc": "2024-11-06 00:05:22",
+    "slot": 299729164,
+    "signers": [
+     "A1UDMq"
+    ],
+    "err": null,
+    "dst_delta": 19922970963,
+    "src_delta": -19922970963,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      19922970963,
+      "A1UDMq",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "3nh2BTHNBf",
+    "utc_csv": "2024-11-06 00:06:05",
+    "src": "AeiMit",
+    "dst": "7GVCZA",
+    "want": 26379308452,
+    "utc": "2024-11-06 00:06:05",
+    "slot": 299729255,
+    "signers": [
+     "AeiMit"
+    ],
+    "err": null,
+    "dst_delta": 26379308452,
+    "src_delta": -26379308452,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      26379308452,
+      "AeiMit",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "VfprvPHnj8",
+    "utc_csv": "2024-11-06 00:06:48",
+    "src": "6QFDe4",
+    "dst": "7GVCZA",
+    "want": 13698942460,
+    "utc": "2024-11-06 00:06:48",
+    "slot": 299729343,
+    "signers": [
+     "6QFDe4"
+    ],
+    "err": null,
+    "dst_delta": 13698942460,
+    "src_delta": -13698942460,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      13698942460,
+      "6QFDe4",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   },
+   {
+    "sig": "2GHe8eowcE",
+    "utc_csv": "2024-11-06 00:08:57",
+    "src": "9Sxmf2",
+    "dst": "7GVCZA",
+    "want": 1310528914777,
+    "utc": "2024-11-06 00:08:57",
+    "slot": 299729607,
+    "signers": [
+     "9Sxmf2"
+    ],
+    "err": null,
+    "dst_delta": 1310528914777,
+    "src_delta": -1310528914777,
+    "moves": [
+     [
+      [
+       2,
+       null
+      ],
+      1310528914777,
+      "9Sxmf2",
+      "multisig-form"
+     ]
+    ],
+    "non_trivial_programs": [],
+    "verdict": "PASS"
+   }
+  ],
+  "pass": 15,
+  "fail": 0,
+  "group_mismatch_rows": [],
+  "same_group_col_inconsistent": []
+ },
+ "C6": {
+  "n_rows": 59,
+  "n_unique_sigs": 59,
+  "inbound_non_dust": [
+   {
+    "utc": "2024-07-26 17:50:59",
+    "payer": "7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 3844300000,
+    "sig": "H6G5Zxxcdv",
+    "receipt": true,
+    "receipt_utc": "2024-07-26 17:50:59",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     3844300000
+    ],
+    "HB_native_delta": 3844300000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-26 18:25:57",
+    "payer": "EEdq9Cw2GBXoVieSm2nRnCu81KRS5rNCzpKbKVeUXeD",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 3850000000,
+    "sig": "VceusQLbiT",
+    "receipt": true,
+    "receipt_utc": "2024-07-26 18:25:57",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     3850000000
+    ],
+    "HB_native_delta": 3850000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-26 18:43:31",
+    "payer": "7GVCZAYG5NfiJsuqUdvc9hB2ts2W3tSrGdya4CyR1M5j",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 10000000000,
+    "sig": "2Bzek5UnSy",
+    "receipt": true,
+    "receipt_utc": "2024-07-26 18:43:31",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     10000000000
+    ],
+    "HB_native_delta": 10000000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-26 21:33:02",
+    "payer": "2qyz7CvLhzBRW1VyKpYAk1D7YHZPW19shJSNYNw4TBj6",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 1473647307,
+    "sig": "3RcAJU8WWo",
+    "receipt": true,
+    "receipt_utc": "2024-07-26 21:33:02",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     1473647307
+    ],
+    "HB_native_delta": 1473647307,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-27 01:45:32",
+    "payer": "6GYsKt9Qh8pkW4Yma3aDpDUtvoyzKrzaGfCmvivTT5Gh",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 3850000000,
+    "sig": "2XWHk1EfKv",
+    "receipt": true,
+    "receipt_utc": "2024-07-27 01:45:32",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     3850000000
+    ],
+    "HB_native_delta": 3850000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-27 04:22:34",
+    "payer": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+    "kind": "token",
+    "mint": "EPjFWd",
+    "raw": 700000000,
+    "sig": "454BWPgWnb",
+    "receipt": true,
+    "receipt_utc": "2024-07-27 04:22:34",
+    "payer_signer": true,
+    "receipt_token_delta_HB": 700000000,
+    "receipt_token_moves": [
+     [
+      [
+       1,
+       null
+      ],
+      700000000,
+      "2AQdpH"
+     ]
+    ],
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-27 09:11:19",
+    "payer": "HRRq3jAZ2jeWEudg9scS1n42NYAkqEiTygjsMBGn9CqU",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 3000000000,
+    "sig": "59bw3LhqH5",
+    "receipt": true,
+    "receipt_utc": "2024-07-27 09:11:19",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     3000000000
+    ],
+    "HB_native_delta": 3000000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-27 23:23:46",
+    "payer": "HMYkvfKK44VMTNmQyqAd8CFHypYxWtZkocp8cx1bk8BP",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 550000000,
+    "sig": "5u33uce4PH",
+    "receipt": true,
+    "receipt_utc": "2024-07-27 23:23:46",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     550000000
+    ],
+    "HB_native_delta": 550000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-07-28 20:17:19",
+    "payer": "4JrabSska1B3eJyhVkrjQXQ5FVDT1xV3gES5PVrPouvX",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 3800000000,
+    "sig": "3Hzc7F4Lhh",
+    "receipt": true,
+    "receipt_utc": "2024-07-28 20:17:19",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     3800000000
+    ],
+    "HB_native_delta": 3800000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-08-23 21:51:21",
+    "payer": "9Sxmf25WG5WVQ5p86ycWeo5hMEwxiWPkFtLdRdTrHSQS",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 30000000000,
+    "sig": "3F2rLVzYeB",
+    "receipt": true,
+    "receipt_utc": "2024-08-23 21:51:21",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     30000000000
+    ],
+    "HB_native_delta": 30000000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-10-12 06:52:16",
+    "payer": "7GrjukBkS7epfKuYdY9qeG7B21MjoQfGeiH5SahPFnBz",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 6700000000,
+    "sig": "epF37M6g2J",
+    "receipt": true,
+    "receipt_utc": "2024-10-12 06:52:16",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     6700000000
+    ],
+    "HB_native_delta": 6700000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-10-12 11:17:12",
+    "payer": "5YVskRCmzju43SUxH6i8q9DQtQZLAG1rRpchojvywzRZ",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 1900000000,
+    "sig": "22nWwe7K2F",
+    "receipt": true,
+    "receipt_utc": "2024-10-12 11:17:12",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     1900000000
+    ],
+    "HB_native_delta": 1900000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-10-12 11:33:47",
+    "payer": "EEdq9Cw2GBXoVieSm2nRnCu81KRS5rNCzpKbKVeUXeD",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 700000000,
+    "sig": "3H2rZbpjfi",
+    "receipt": true,
+    "receipt_utc": "2024-10-12 11:33:47",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     700000000
+    ],
+    "HB_native_delta": 700000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-10-12 11:55:52",
+    "payer": "4JrabSska1B3eJyhVkrjQXQ5FVDT1xV3gES5PVrPouvX",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 3415000000,
+    "sig": "3HLXAbahx7",
+    "receipt": true,
+    "receipt_utc": "2024-10-12 11:55:52",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     3415000000
+    ],
+    "HB_native_delta": 3415000000,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-10-12 13:30:41",
+    "payer": "9f34rk31i2LDbkpb1uCkTTWLunTadh6MXPhUwMGgfZ7m",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 917462226,
+    "sig": "5hkFAZ5YXs",
+    "receipt": true,
+    "receipt_utc": "2024-10-12 13:30:41",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     917462226
+    ],
+    "HB_native_delta": 917462226,
+    "non_trivial_programs": []
+   },
+   {
+    "utc": "2024-11-09 17:17:25",
+    "payer": "EEdq9Cw2GBXoVieSm2nRnCu81KRS5rNCzpKbKVeUXeD",
+    "kind": "token",
+    "mint": "A9839d",
+    "raw": 46162,
+    "sig": "5ZhohXJTL1",
+    "receipt": false
+   },
+   {
+    "utc": "2024-11-09 17:18:11",
+    "payer": "EEdq9Cw2GBXoVieSm2nRnCu81KRS5rNCzpKbKVeUXeD",
+    "kind": "token",
+    "mint": "Csa5Nw",
+    "raw": 9385472726,
+    "sig": "59pkA2wdQa",
+    "receipt": true,
+    "receipt_utc": "2024-11-09 17:18:11",
+    "payer_signer": true,
+    "receipt_token_delta_HB": 9385472726,
+    "receipt_token_moves": [
+     [
+      [
+       4,
+       null
+      ],
+      9385472726,
+      ""
+     ]
+    ],
+    "non_trivial_programs": [
+     "DeJBGdMFa1uynnnKiwrVioatTuHmNLpyFKnmB5kaFdzQ"
+    ]
+   },
+   {
+    "utc": "2024-12-23 15:27:27",
+    "payer": "A3uYhhnzBH4xGcQjwRgNjA8cyfAVgZdTuDoC5sJ5L5i4",
+    "kind": "sol",
+    "mint": "SOL",
+    "raw": 350000000,
+    "sig": "4f4wUSyYra",
+    "receipt": true,
+    "receipt_utc": "2024-12-23 15:27:27",
+    "payer_signer": true,
+    "receipt_lamports_to_HB": [
+     350000000
+    ],
+    "HB_native_delta": 350000000,
+    "non_trivial_programs": []
+   }
+  ],
+  "outbound": [
+   [
+    "2024-07-27 22:25:40",
+    "FavehKYZ",
+    "token",
+    400000000
+   ],
+   [
+    "2024-07-27 22:27:22",
+    "Caw4Rrwk",
+    "token",
+    300000000
+   ],
+   [
+    "2024-07-27 22:28:14",
+    "9W9b3zgH",
+    "sol",
+    26000000000
+   ],
+   [
+    "2024-07-30 17:53:04",
+    "Caw4Rrwk",
+    "token",
+    1350000000
+   ],
+   [
+    "2024-07-30 17:53:48",
+    "9W9b3zgH",
+    "sol",
+    4350000000
+   ],
+   [
+    "2024-08-25 00:50:13",
+    "DxY7bGds",
+    "sol",
+    20000000000
+   ],
+   [
+    "2024-09-23 11:41:17",
+    "7xqSQnbF",
+    "sol",
+    10000000000
+   ],
+   [
+    "2024-10-14 05:01:59",
+    "Da34aTRN",
+    "sol",
+    13150000000
+   ],
+   [
+    "2024-11-16 15:32:53",
+    "C7qEaB6a",
+    "sol",
+    50000000
+   ],
+   [
+    "2024-12-05 05:30:56",
+    "Da34aTRN",
+    "sol",
+    425000000
+   ],
+   [
+    "2025-01-20 08:50:12",
+    "D8syomxN",
+    "sol",
+    50000000
+   ],
+   [
+    "2025-01-26 16:15:09",
+    "9W9b3zgH",
+    "sol",
+    322000000
+   ]
+  ],
+  "dust_in_rows": 29,
+  "band_sol_700usd": [
+   3.7838,
+   4.0
+  ],
+  "payers_in_band_or_700usdc": [
+   "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+   "4JrabSska1B3eJyhVkrjQXQ5FVDT1xV3gES5PVrPouvX",
+   "6GYsKt9Qh8pkW4Yma3aDpDUtvoyzKrzaGfCmvivTT5Gh",
+   "7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu",
+   "EEdq9Cw2GBXoVieSm2nRnCu81KRS5rNCzpKbKVeUXeD"
+  ],
+  "cross_group_rule_violations": [],
+  "service_with_max_sol_lt_0.01": [
+   [
+    "Habp5bnc",
+    "537",
+    "0.0",
+    "SOL"
+   ],
+   [
+    "FLiPggWY",
+    "336",
+    "0.0",
+    "SOL"
+   ],
+   [
+    "fLiPgg2y",
+    "275",
+    "0.0",
+    "SOL"
+   ],
+   [
+    "5Hr7wZg7",
+    "229",
+    "0.0",
+    "SOL"
+   ],
+   [
+    "7imnGYfC",
+    "74",
+    "0",
+    "USDT"
+   ],
+   [
+    "AirDQKCm",
+    "54",
+    "0.002158",
+    "SOL"
+   ],
+   [
+    "fEe1SXYG",
+    "48",
+    "0",
+    "USDC"
+   ],
+   [
+    "8zuES2hL",
+    "46",
+    "0.002039",
+    "SOL"
+   ],
+   [
+    "FLiPgGTX",
+    "42",
+    "0.0",
+    "SOL"
+   ],
+   [
+    "FLiPGqow",
+    "41",
+    "0.0",
+    "SOL"
+   ],
+   [
+    "AiRDrJiS",
+    "32",
+    "0.002158",
+    "SOL"
+   ]
+  ],
+  "candidates_review": [
+   {
+    "counterparty": "HBsgbpsM1j1YsNYqtCXcFU4mCRofwcor2qFwifNqddmH",
+    "coverage": "61 signatures, lues en entier (h33)",
+    "observed": "paiements de 700 $ par 5 payeurs distincts dont un retrait Coinbase de 700 USDC ; reverse à 9W9b3zg",
+    "reading": "fournisseur au forfait",
+    "verdict": "REJETÉ"
+   },
+   {
+    "counterparty": "F8rHedrg6DfSQ9NPs9eAEepAaKwhTHgumP8ss678dYoD",
+    "coverage": "1 000 signatures sur la seule page lue (plus existent)",
+    "observed": "reçoit 0,3 à 1,6 SOL de 10 wallets DMAGA en mars 2025",
+    "reading": "service probable (hub)",
+    "verdict": "REJETÉ"
+   },
+   {
+    "counterparty": "FJ9LmErkELZr96VKkUEMFXN1vX4XtEVPH59rTT39UE13",
+    "coverage": "1 000 signatures sur la seule page lue",
+    "observed": "envoie 0,002 à 0,2 SOL à de gros détenteurs (Eaoxy, 5QhJJc, GXZvX) le 22/07/2024",
+    "reading": "sollicitation de masse",
+    "verdict": "REJETÉ"
+   },
+   {
+    "counterparty": "Cr8oGfjwRnrFyhVyFM4S3ygR2dKy4CgTpXgVwELbfsBg",
+    "coverage": "375 signatures depuis le 13/11/2024, non lues",
+    "observed": "USDC en montants ronds (200 à 2 310) de 10 wallets DMAGA, dont 7mdCA et 7GVC",
+    "reading": "inconnu",
+    "verdict": "NON RÉSOLU"
+   }
+  ],
+  "candidates_vs_cross_group": {
+   "HBsgbpsM": "candidate",
+   "F8rHedrg": "candidate",
+   "FJ9LmErk": "candidate",
+   "Cr8oGfjw": "candidate"
+  }
+ }
+}

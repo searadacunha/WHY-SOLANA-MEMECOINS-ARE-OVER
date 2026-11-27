@@ -1,0 +1,21 @@
+venues load 83 dossiers full_venue 77
+venues sans dossier 7
+  568uySHSGgRoverMfvg4qrxVVrBP21QT2qZV3FBa1KUq orca_whirlpool 1 {'GjL1jr': 1} {'EZiUb6yd': 1, 'FqGg2Y1F': 1, 'whirLbMi': 1}
+  8CsFJ63BkJMDJzMc5Th2yaVipbGfH2JBbUMMi4NB9ns6 meteora_dlmm 19 {'So1111': 19} {'FqGg2Y1F': 19, 'EZiUb6yd': 16, 'LBUZKhRx': 16, '675kPX9M': 3}
+  CQkkQeH9W7RFLv2parJpMD7kyYCnFDGWFmd7dNxbDJCG orca_whirlpool 5 {'So1111': 4, 'ENEZ9f': 1} {'whirLbMi': 5, 'EZiUb6yd': 5, 'FqGg2Y1F': 5}
+  DLk2JC3GQNqGeiq5uwPFT3SKuobhrmaY5vHnPKDtgNza orca_whirlpool 2 {'4aW2AV': 1, 'Duwgmh': 1} {'EZiUb6yd': 2, 'whirLbMi': 2, 'FqGg2Y1F': 2}
+  GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL raydium_cpmm 1900 {'3XT6Ng': 1807, 'BEgBsV': 33, 'BoAQay': 21, 'CTJf74': 12} {'CPMMoo8L': 1900, '675kPX9M': 1897, 'B4cUJzpP': 1538, 'CAMMCzo5': 159}
+  HhPL3RsEX5qCYpYbuBJdBdaAAPgB8HFwd1WeEn7k4pcM orca_whirlpool 1 {'5wz7WV': 1} {'whirLbMi': 1, 'EZiUb6yd': 1, 'FqGg2Y1F': 1}
+  JCcrJNTHcse52S4AWPszUcpB8xutZCgfJitQYYJ29Ucr orca_whirlpool 1 {'AaNsMi': 1} {'whirLbMi': 1, 'FqGg2Y1F': 1, 'EZiUb6yd': 1}
+dossiers hors liste 1 ['DR57qGWpKNzXfGttKsU2ENmnYBWZadsr9ev7JEnABVtN']
+tx full_venue au curseur 316876
+74:2026-11-03T01:20:41Z GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL: 1 compte(s) DMAGA
+152:2026-11-03T01:20:45Z FIN venues=77 echecs=[]
+
+venues.json mtime 1793669222.3095074
+full_venue dernière écriture 1793668844.0
+programmes dominants des candidats écartés [('ChXs7eqjAKr8qrsGHcnp7sBKzrDU2JE2RjMqX59ATSeH', 3163), ('45wPVSFEiEyqRiMWjkqdrZLddb5fqiuP3haKU9DAFWMP', 2154), ('5YBiKeEKz9PrDcdLkdQL89gVW7re3S3KVpUcbEhHBigz', 1882), ('sra4HHgwsn5Ts6V1TUdLykK1gRJwDQhgscuvXDHxSCx', 1474), ('E6YoRP3adE5XYneSseLee15wJshDxCsmyD2WtLvAmfLi', 1201), ('vpeNALD89BZ4KxNUFjdLmFXBCwtyqBDQ85ouNoax38b', 384), ('7cLrezfahcmjL6ji71JWFHhejnS7AAucs9E9aX4CYDXL', 108), ('DCA265Vj8a9CEuX1eb1LWRnDT7uK6q1xMipnNyatn23M', 94), ('44vxtqq7hx2UTcogDU4mraoPD2775QMUza4oBg29p9BX', 86), ('FqGg2Y1FNxMiGd51Q6UETixQWkF5fB92MysbYogRJb3P', 58), ('Ed25519SigVerify111111111111111111111111111', 57), ('JSWX3pKDbj2EdCMu4ei7sPYSpdcwZNyjkDSteoHQ4UH', 57), ('8V227E7nJP4y9XJY8tEnw19aiaQc2Cb9xZt1J7a3idbY', 56), ('HjNfZaGbAoHqgjYeSnuEDpQ91yR6MqrAW9yhCaw1Lvau', 52), ('Zen8888uiVAni7eYnYVgGpdUujDyrzrzjG4EXRHDZ5q', 32), ('B91piBSfCBRs5rUxCMRdJEGv7tNEnFxweWcdQJHJoFpi', 30), ('4w3DZU3zBu7149sTmEZ2XFTNxuvuX3F9f9heQFi6YtS6', 20), ('SSwapUtytfBdBn1b9NUGG6foMVPtcWgpRU32HToDUZr', 18), ('ARaiGrHzFNsTf2sGye2GGASiM3QTPqZA6ZrhYBpApxUA', 12), ('FGaYBngDa5sccEZ3py9UGcGLG7ASRsjgF8xdB8ms1FRb', 8), ('obriQD1zbpyLz95G5n7nJe6a4DPjpFwa5XYPoNm113y', 6), ('gmwZZM2cNk2aVoHD5wyVouvCDQyrH1jWLQNpdBcYSPT', 4), ('2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c', 4), ('opnb2LAfJYbRMAHHvqjCwQxanZn7ReEHp1k81EohpZb', 2), ('SV2EYYJyRz2YhfXwXnhNAevDEui5Q6yrfyo13WtupPF', 2), ('so11qxvXYQq2DQjYLbZuTEuSaVg3TNCd6wHNSFQvj5L', 2), ('E4CKSsnjU9WXzrBJpNXnFi4gbb1kmLuavwZHd35TLeHs', 1), ('cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG', 1), ('BuuP1rJXnVs5GHSPoUxLqeQzV4nBXQ7RFAJ7j4rt6jEk', 1)]
+venue_chain lignes 83 tx 215309 ruptures 0
+une seule tx (chaîne vide) 2 2 à 5 tx 23
+top 5 [('AMTT5YEW', '80372', '1307000662.293317'), ('HmkyQKaa', '46322', '1172332462.526645'), ('2Ptu1unw', '40416', '112954569.698421'), ('3ennbyaV', '7456', '35539646.22312'), ('J6pfA7ab', '7081', '16088281.564378')]
+la réserve est un compte de jetons, pas le propriétaire de venues.py : 83 lignes contre 83 propriétaires est une coïncidence ou non ?

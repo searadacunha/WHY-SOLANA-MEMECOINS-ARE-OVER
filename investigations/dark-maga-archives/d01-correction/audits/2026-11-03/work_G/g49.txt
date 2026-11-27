@@ -1,0 +1,28 @@
+  2024-07-15 18:39:06 4HEH3WcanD16CF - [('DMAGA', 'ERMtiLod', 'HW5MqvM1', 1500000.0)]
+  2024-07-23 14:06:16 3rjC9q92X8LQjd signe [('WSOL', 'HW5MqvM1', 'ZG98FUCj', 0.901), ('DMAGA', 'HW5MqvM1', '5Q544fKr', 1500000.0), ('WSOL', '5Q544fKr', 'HW5MqvM1', 92.68)]
+  2024-07-24 14:46:33 4jaw247PLzWMew - [('SOL', 'BMBVwNJs', 'HW5MqvM1', 3.306)]
+  2024-07-25 14:11:03 2gh2nvDNTab6im signe [('SOL', 'HW5MqvM1', '42MSVeV4', 95.0)]
+transferts DMAGA purs de la série 15 : destinataires 28 hors série, expéditeurs 9W9b et 33 : 22 jetons M 45.42
+  5QhJJcFZ -> 7VtkbUQmUjxKvRScwQi1MnVr3Vrs96LEixA76LAxZ6gk 10.0 2024-09-29 09:41:07 dépôts utilisés ['Caw4'] 47kW1neUqXNadC
+  5QhJJcFZ -> Habp5bncMSsBC3vkChyebepym5dcTNRYeg2LVG464E96 8.0 2024-07-15 01:16:26 dépôts utilisés [] 4gzzHCqB8ZTLPN
+  8YLEuUtZ -> BuHUkjUyWGTwz1suyWpqY6ZcYLX9rbfRsT5nnHFGXykc 7.398 2025-07-13 16:09:11 dépôts utilisés ['Caw4'] 8cAyFE6ifX5anK
+  6ty9DM4s -> JCDpQ6m7mb5n2bUSQ3GQpVLxVsZtRUHhmvRXeE2Gg1rn 5.0 2024-07-14 17:00:02 dépôts utilisés [] 5iGJf47uihSN2u
+  GoPCTrS3 -> E3Gwv4p9FGrkEo7XBkcP9BXdJGQdXAbxWg87UkcSqbK4 2.0 2024-07-16 17:18:43 dépôts utilisés [] 3MjhVLGGe4xogQ
+  GoPCTrS3 -> 3GBZzBoEB7EjuPmojrJKwYTox3cuTdc45QTYQfP1TiPR 2.0 2024-08-10 19:03:38 dépôts utilisés [] 44muJBqZ91nSbk
+  ERMtiLod -> HW5MqvM1kDySFUtynMtzsWCU6VcFfpeCXsbRyLq6iHk6 1.5 2024-07-15 18:39:06 dépôts utilisés ['42MS', '8N4A', '9kqT'] 4HEH3WcanD16CF
+  Gmc1EGGV -> MTeBmYi4Hb7oKZwQKJVjD6T6kVNvRoBvtBMBhYJJeZu 1.5 2024-07-15 17:11:33 dépôts utilisés [] 5pymfx4ZdCUDjn
+  Gmc1EGGV -> 2BArxycYYVzPqV8gGkTRzt4djnYdALCzRMnoPbKxLDcp 1.5 2024-07-15 18:06:30 dépôts utilisés [] MXXM7sv6CxTwN2
+  7FGoCB63 -> 9oMMp2uz966ZuNE8iZv4xXtoksm9vUMmw27mSAEmdH3V 1.0 2024-08-05 22:13:11 dépôts utilisés [] 3JQe1bystUvf4n
+  4pKFTQxs -> 4JrabSska1B3eJyhVkrjQXQ5FVDT1xV3gES5PVrPouvX 1.0 2024-07-15 14:59:52 dépôts utilisés [] 5wE3B7b6SzzNnz
+  GoPCTrS3 -> HKzkNSH2DmfyowntFnoa1xdUuVH4Yh6bg7z8fer4JSRP 1.0 2024-07-21 23:00:23 dépôts utilisés ['8N4A'] 2bHLM1r9t7YAih
+  4pKFTQxs -> HRRq3jAZ2jeWEudg9scS1n42NYAkqEiTygjsMBGn9CqU 1.0 2024-07-15 14:59:30 dépôts utilisés [] 2QfyMzrMnvZu2n
+  5QhJJcFZ -> A3uYhhnzBH4xGcQjwRgNjA8cyfAVgZdTuDoC5sJ5L5i4 0.5 2024-07-17 15:29:22 dépôts utilisés [] 44pLUQWii4EkhT
+  GoPCTrS3 -> 2jj58AyEpGSMQuHfCWhmAm9KLiycF4Hnt5CHTRaoYNvF 0.5 2024-07-21 22:28:08 dépôts utilisés [] 3yvLsKr9Jo8zvU
+  AFDkwJXJ -> 4UAsah4mTf8kJh2Kxa57CchKFjxJsSCUrLN2KfSTfgoM 0.35 2024-07-16 05:29:14 dépôts utilisés [] YbvzPMquUiWVwX
+  AFDkwJXJ -> BiNAwtASo33BNTMU5yb8UKtrEimA25L5tDBMw5oV8udJ 0.35 2024-07-16 05:31:20 dépôts utilisés [] 4SVcus18bAGnAv
+  Gmc1EGGV -> CED7Sq5jFFSAa3vPdh4RJaeE2qY9RWpiy8phE8d8e28p 0.257 2024-07-21 14:56:24 dépôts utilisés [] 4MNRx76ryKgztE
+  7FGoCB63 -> csdiRTaZDKjqyJAX7vhVkY6KVRwGR8YiD5wdHiKYDZ9 0.2 2024-07-16 15:01:11 dépôts utilisés [] rDHwuJyaA3FhhX
+  Fp6kgqHU -> 75fXGTvc8BHKBXwNfqriso6dzLe52qMUzvGPu9DV8fog 0.1 2024-07-29 22:26:35 dépôts utilisés [] 52BPJS67H5ELfb
+  Fp6kgqHU -> 9662VcxWFW8uwYv6RDEs1Qhi2zjaiGqK9PXjdUgtjvVq 0.1 2024-08-01 16:35:44 dépôts utilisés [] 61A9DZd5LD8MqT
+  Gmc1EGGV -> A3uYhhnzBH4xGcQjwRgNjA8cyfAVgZdTuDoC5sJ5L5i4 0.1 2024-07-18 18:01:39 dépôts utilisés [] 3uCMWCAewxAoSS
+  Fp6kgqHU -> Da34aTRNs6A1HZwGEpL7tWkMGFXufj79rBh19vs78Wga 0.061 2024-08-02 18:33:28 dépôts utilisés [] 5HJQNxGsEUP3wa

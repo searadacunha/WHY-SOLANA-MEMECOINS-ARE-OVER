@@ -1,0 +1,583 @@
+{
+ "seuil_strict_tailles": [
+  19,
+  14
+ ],
+ "seuil_strict_detenu_M": [
+  145.26857817462798,
+  71.767922423417
+ ],
+ "aretes_au_seuil": [
+  {
+   "src": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+   "dst": "35nAuv6jGTVMnr7qdiRAV5PbZ3QgTJcLzBFzxGFm6Xw8",
+   "t": 1720925900,
+   "sig": "23HGSm5eRfsiQ1WWC9FkFkCe7vRqW35MEWZDZpbodVFRwZ11K5euN3m8f2PJGwiTxCeaSVcsFFmfBU7TAmDfgRYe"
+  },
+  {
+   "src": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+   "dst": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "t": 1721550816,
+   "sig": "2epM63ZTNSNSmXDo87Xn7qrJKkRXLD1znE9awNj2u2QZkdS4VNNeAsBnkaBfJ1UK6YLh8UT9gQiStAHrZ6RcYa1R"
+  }
+ ],
+ "pont_retire": {
+  "a": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+  "b": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+  "M": 41.0,
+  "autres_candidats": [
+   [
+    50.9,
+    4
+   ],
+   [
+    35.7,
+    3
+   ]
+  ]
+ },
+ "ponts_faibles": [
+  {
+   "held_M": 68.651491622543,
+   "a": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+   "b": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+   "M": 41.0,
+   "members": [
+    "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+    "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+    "7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu",
+    "9u5JKgWdLzj4xUiA4sFnaaJeKAJF8zBXExatxeSZHMkP",
+    "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7"
+   ]
+  },
+  {
+   "held_M": 50.925679868145004,
+   "a": "4wComYHQbydc9DZHsDu3t2MaTLNe7Y3ukdymrkqh9ftC",
+   "b": "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb",
+   "M": 15.0,
+   "members": [
+    "4wComYHQbydc9DZHsDu3t2MaTLNe7Y3ukdymrkqh9ftC",
+    "Ei5yGz8dPndr1aCeHZsfqJBcS3VBbz75VHEhxxJKLy3V",
+    "Gcyg2jeLfSY9gxxHf5za5QU74ijtxBb1dB2mdGSPZH3m",
+    "HGBiExZRtD2TZdQLWHE9azkTSmE2z7ygKqZMtehJDKYU"
+   ]
+  },
+  {
+   "held_M": 35.674396344425,
+   "a": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+   "b": "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+   "M": 8.0,
+   "members": [
+    "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+    "7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu",
+    "9u5JKgWdLzj4xUiA4sFnaaJeKAJF8zBXExatxeSZHMkP"
+   ]
+  }
+ ],
+ "sous_ensembles": [
+  {
+   "n": 14,
+   "members": [
+    "2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT",
+    "2mW45kXp4Wd4xRkF2mmh5rKdzjnjbJR2o53skWcxGa2d",
+    "4upmFYy6SpmCwdSRfG9akN2gRRn3DksLpDyN5YAmohbx",
+    "8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv",
+    "ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft",
+    "BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3",
+    "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae",
+    "CZsBW8yCGAiWwQ16VAokXE7h7qYL8spMA582X7F7g2jW",
+    "EZXUvi4X5k3Aj99rGzNQoBtAzFqzYUjGhHNu8A1Ty8s4",
+    "FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV",
+    "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+    "HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV",
+    "HkFSNPjNFUVtdykP8kSyWCKhocY85k1S4MyjXHNqesvv",
+    "HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a"
+   ],
+   "held_M": 71.767922423417,
+   "first_hour_buyers": 7,
+   "first_hour_M": 79.493104363968,
+   "first_hour_sol": 13.428730138
+  },
+  {
+   "n": 14,
+   "members": [
+    "35nAuv6jGTVMnr7qdiRAV5PbZ3QgTJcLzBFzxGFm6Xw8",
+    "4wComYHQbydc9DZHsDu3t2MaTLNe7Y3ukdymrkqh9ftC",
+    "6t2dz4jm3S8vJZCkWPhBxHStxFTC8wNV9QttTzfQrG7M",
+    "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb",
+    "8YrEVPQqhs1zNsGUS5inFFqy5ziHaWdnVZXqysLThAh",
+    "99Xrt5uuu2FdsgGzKo3wvs28Bw2KuUgxaeV5rTQZLkb",
+    "AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5",
+    "Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB",
+    "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+    "C7i9beNHXYonZYB5riXE6kaLpFWLj9BPzh2FSBoUUePK",
+    "Ei5yGz8dPndr1aCeHZsfqJBcS3VBbz75VHEhxxJKLy3V",
+    "GPMYCuusSYfgdXXYHLyCBhBdhP9fJeXrSGUou6XAxHgm",
+    "Gcyg2jeLfSY9gxxHf5za5QU74ijtxBb1dB2mdGSPZH3m",
+    "HGBiExZRtD2TZdQLWHE9azkTSmE2z7ygKqZMtehJDKYU"
+   ],
+   "held_M": 76.617086552085,
+   "first_hour_buyers": 6,
+   "first_hour_M": 120.301389017225,
+   "first_hour_sol": 36.917018003
+  },
+  {
+   "n": 5,
+   "members": [
+    "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+    "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+    "7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu",
+    "9u5JKgWdLzj4xUiA4sFnaaJeKAJF8zBXExatxeSZHMkP",
+    "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7"
+   ],
+   "held_M": 68.651491622543,
+   "first_hour_buyers": 2,
+   "first_hour_M": 7.077470990754,
+   "first_hour_sol": 1.924161157
+  }
+ ],
+ "acheteurs_premiere_heure": 15,
+ "sol_entre_sous_ensembles": [
+  {
+   "src": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+   "dst": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "sol": 5.0,
+   "t": 1719416826,
+   "sig": "5Hz6XCFDAWXAPi5aC2oXB9cYRoKT2RHzZGztWdgivPdimyXpMwTSA3bPC4Uor24XPUBuH2f2mP2rYtk3xDqNGdWy"
+  },
+  {
+   "src": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+   "dst": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "sol": 0.9,
+   "t": 1720923035,
+   "sig": "3LbJJBTyQyN2aV7SffCrKgPq2oc8xsBVDhhwt4X5rXFcYaGS7YbgvL25UNa8ZxBSisybHryv62gi8DhZogVVtHfu"
+  }
+ ],
+ "g41": {
+  "address": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+  "first_tx": 1703611022,
+  "recent_page": 416,
+  "more": true,
+  "label": null,
+  "avant_le_mint": [
+   {
+    "dst": "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+    "sol": "0.191365646",
+    "t": 1720886126,
+    "sig": "4DDtLbJF8T9LvrbCgpWrrXq6EHrd1H2dPdm92h9jwwj7NhSZSTpiRdwXS3vE2zBKbArW9GE1oaaAjs5NsLccMVYh",
+    "dans_le_groupe": false,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "EZXUvi4X5k3Aj99rGzNQoBtAzFqzYUjGhHNu8A1Ty8s4",
+    "sol": "0.5",
+    "t": 1720921583,
+    "sig": "2raMmNDhdkps29twoAGY8XwVuWDJX5rhnuyb444MKqKXcfRAzkdBqgGL7uoUqUVbiNjRpprutBj439VLhcvzoC4h",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "4upmFYy6SpmCwdSRfG9akN2gRRn3DksLpDyN5YAmohbx",
+    "sol": "0.5",
+    "t": 1720921601,
+    "sig": "3uPFrKc46ZnxkeABVdGy7yJEp1N6WJXdi98t7pajgx6pTPNYTMVWFk1k3sWUdfYANARtrkW6uoTpMrVNHZW53md5",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "2mW45kXp4Wd4xRkF2mmh5rKdzjnjbJR2o53skWcxGa2d",
+    "sol": "0.5",
+    "t": 1720921935,
+    "sig": "46z6pt7wxxZE2jqopbLYnHBsTcGNGJjpkarAqDBwtM69F6NWJ2ieRSM64SiRR1wvBdERDJakUXwapN5qNydhpDoU",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "HkFSNPjNFUVtdykP8kSyWCKhocY85k1S4MyjXHNqesvv",
+    "sol": "0.5",
+    "t": 1720921954,
+    "sig": "dm7hUBrEefnSyQHJQwTYebwZyoxDrx26bzny9zSu7H9wDKh7wJML1Rv3x7u4U57qmshG268oLx2ssHGbncy5kMw",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "CZsBW8yCGAiWwQ16VAokXE7h7qYL8spMA582X7F7g2jW",
+    "sol": "0.5",
+    "t": 1720921977,
+    "sig": "4orBM3TXymFdtJLsdCvoi63wbj9UdCPWpan1adUAvuR21UyMDWeoHvxhUufqFtDeRvaeemm6uEcEnzNDKNmcuYMU",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft",
+    "sol": "0.5",
+    "t": 1720922328,
+    "sig": "UQ5VEv315ou5SrYNwa27i7En7iqkHYuxTnNnUMof7N4qfvwy7DUKLJeoEFMbZRyeAnSV74YrQ6KncDJQPXxhPsr",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT",
+    "sol": "0.5",
+    "t": 1720922451,
+    "sig": "5nsFsCir8Gfcr22J4pYXwgQ6FRTm9iLpsKPadKiEq97DyzYChAFD5ee4xxnfEjVWn1sVcpUWNNrcLxqbqt8z4P8z",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "HB16TNghDeEjrSJ7MZw7dTYddLhUq1RXJ3Kxf2RV5Qi8",
+    "sol": "0.5",
+    "t": 1720922478,
+    "sig": "4NhwYABFzmq12QnDSuqqqTiCovPGeSgj4hJngy3NVBkDjpA7234aTv1Zei94CED39atwQPtLapBbeBakFV16jEBF",
+    "dans_le_groupe": false,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "C3i6zfhv9Bvr1QxzNEURzasSvyXPLTeMipS9hJmjGu3L",
+    "sol": "0.5",
+    "t": 1720922505,
+    "sig": "hgnwXjWCUWLuVDzctQh225npk79MH1Ut5iHrggQH7ohcwgJAfGTkcJ1EXkv2xrBoSMHedhrY1ViqnDw3Xf8v4tQ",
+    "dans_le_groupe": false,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv",
+    "sol": "0.5",
+    "t": 1720922538,
+    "sig": "9nAp8gU9FdGHsUBcXhjJHx568fY3nWzSFQ5gQYuBGTk634ArCs6DhqRu5wPz9XVuUDr4Z22EsehTWus7ENRdi4K",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV",
+    "sol": "0.5",
+    "t": 1720922577,
+    "sig": "3HagJEswRbBdAjnUyQpfqLCaRJNddNbuGnxgnwA4z41j3k6D7KzmFJJpwxj5TnfND94LtoEycKyW2P3icmesmLff",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a",
+    "sol": "0.5",
+    "t": 1720922603,
+    "sig": "612aPJCvejBt3BLdwZtGJLLYmEJ2a5ZVJDJTLykLD2MmPy5MMhv6brMq9CkjAWwLHMmBEWStdJcdK6bTFzRCVzWg",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV",
+    "sol": "0.5",
+    "t": 1720922618,
+    "sig": "3EW9Lb9WeqX5Ltk8GB2f4mi3wVtzX8orfNBjNCU7kMKmut7BG9RVypG7Yp56QfF2k9hbQGSKFV9YbjWRc3PaWQoD",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": false
+   },
+   {
+    "dst": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+    "sol": "5",
+    "t": 1720922817,
+    "sig": "vBwvyXoZo6CX5j2gsD5mvVxPaxXcYRgKSq32y9zaPCrT5ZLStr8mrZBvEctZNqyxp6feD8qBHWJwUh4Cv9HN1Jj",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5",
+    "sol": "2",
+    "t": 1720923077,
+    "sig": "63f5Ajy4BND4ZxrkBdHft3pRricQM57MbrqpJaFgFqU8xbLLnUPimkryWkobxAf8fwjNgs8GX5NbY5NFgq1G9htj",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "AW63YBXXsGcLPpsDTSrpBMdQ9QXtxTiHsTbcVkY6UFv5",
+    "sol": "4",
+    "t": 1720923360,
+    "sig": "nuYyo3G4b83qFYdVw8GbW5YjabUc85C9SsPrYY2LJteSE7HRiGZNB67NpvMNHoGZpjAWsJX91grpuYBmxKSD8Rs",
+    "dans_le_groupe": true,
+    "a_achete_sur_le_marche": true
+   },
+   {
+    "dst": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+    "sol": "4",
+    "t": 1720924106,
+    "sig": "5LiTyoCxVPNULBHtKvAY8LkLweP9XvHgFaAacjxj5n93ucsmxUWt4DV9RBBDhq13wTuuoXH1rApcwdoYc1vmh782",
+    "dans_le_groupe": false,
+    "a_achete_sur_le_marche": false
+   }
+  ],
+  "financeurs": [
+   {
+    "src": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+    "label": "Raydium AMM v4 authority",
+    "sol": "22.513605525",
+    "t": 1720886126,
+    "sig": "4DDtLbJF8T9LvrbCgpWrrXq6EHrd1H2dPdm92h9jwwj7NhSZSTpiRdwXS3vE2zBKbArW9GE1oaaAjs5NsLccMVYh"
+   },
+   {
+    "src": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+    "label": "Raydium AMM v4 authority",
+    "sol": "36.558400913",
+    "t": 1719684555,
+    "sig": "3HjnJoeqtSDhST9AKbDyqncmMBqFdnH7K54Y7yvZzS2JhJubThuqs1QuNrc357LEJ577zP1JQG4gn85a1hAY48Jg"
+   },
+   {
+    "src": "6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB",
+    "label": "Jupiter, compte documenté",
+    "sol": "16.614576676",
+    "t": 1718844061,
+    "sig": "3j2BxXEVh2RFJTKuetFYq72nLaZaXZhPENWSnK1ryAwByNV6EXg8F4Rwd7TxbH6QLLfe4gvNnV4wDdViVBHXL7kN"
+   },
+   {
+    "src": "4EishudCwVJaoy6tvrxDvUGkHFa5EXSTVYbP9VnfrWi7",
+    "label": null,
+    "sol": "21.761207022",
+    "t": 1718745878,
+    "sig": "5UtuxfwigA6Yt3d7Kn9Pp4qUxPLdxc3T4WGucygXr5Rrsad3XAKcD38HcCZMHntxza4hFUsRLVnQB29UmwdVFUBG"
+   },
+   {
+    "src": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+    "label": "Jupiter, compte documenté",
+    "sol": "11.177416686",
+    "t": 1718743055,
+    "sig": "fQqhxaQY6b1YTk3pSaQyywKgJfkMzEHEnaYc9aYfq9i82UUpcc3A5n1DCs3PChVrr444FLqdH73wx676AWVE7oc"
+   },
+   {
+    "src": "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
+    "label": null,
+    "sol": "1.255324375",
+    "t": 1718313754,
+    "sig": "5yap7FGdUxxFKTGbhAQ5CsEfvLE2TXk6ihFpfUmKthBfhM14yjbJbLHWx7vPLW1rNGZsCcb4dy5RwWmEgm2qFBhy"
+   },
+   {
+    "src": "Fbyt3naoJnA6hCBDMk6LFN2TPzU2wQo6svE6noXPXktr",
+    "label": null,
+    "sol": "2",
+    "t": 1718312268,
+    "sig": "4hEceNqbQ7njWWFBzx54CNdSFSgRc6JScfokSvMJd8CMUtM4XZCF7WvpSU651BhmAYtnZVZUeYpx5P6FzCdh5mm1"
+   },
+   {
+    "src": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+    "label": "Jupiter, compte documenté",
+    "sol": "1.680005774",
+    "t": 1718126393,
+    "sig": "4zGZEPJE6bq1nCMgpJrun1RJuUdeDJ2RZf1MPjScgCohxra1JEFAMG9TddG6kJ2XpnD4Zmw4t1M9bgmU2V7pDBCQ"
+   },
+   {
+    "src": "6LXutJvKUw8Q5ue2gCgKHQdAN4suWW8awzFVC6XCguFx",
+    "label": "Jupiter, compte documenté",
+    "sol": "1.966756562",
+    "t": 1718126323,
+    "sig": "5YqYecfWqAt1LqD7XnQeo7s1DZVqFnsi1nC7PhStLjbsakSnKHwdWKgUGfCsTi3xBaRCdCqjmko947J8MREEki8B"
+   },
+   {
+    "src": "CapuXNQoDviLvU1PxFiizLgPNQCxrsag1uMeyk6zLVps",
+    "label": "Jupiter, compte documenté",
+    "sol": "11.159490738",
+    "t": 1716058923,
+    "sig": "4gtzqcK96wwHULJkMaXsNu6Tw4EeBCdTLQ7ocp6kAo8uZLuE5mJynpDbfPZE6oFJp4KCWfgb87YpKnJdbt5QgCCw"
+   },
+   {
+    "src": "2r8DCWwEeaUHNMoDzTPj7v2qnT5jtw4U4UiKu1aMXyVG",
+    "label": null,
+    "sol": "2.849932555",
+    "t": 1715525102,
+    "sig": "5oxzfQJnDubMDc4K6yrv1DdASzRt2zMzBEqqE7HXatAK3vjJpR4LnRGAZJLrwF33GGAQic6hPzKG93P6aK32RJW7"
+   },
+   {
+    "src": "9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8",
+    "label": "Jupiter, compte documenté",
+    "sol": "6.39036897",
+    "t": 1715451860,
+    "sig": "4uhfEncowF1hpKZfrpTpGE65sDfYXdS3sp4UpfoGSj2ZsjCpjzak8zwLWCrpL7FkZ12sZqjQjz4CP8JZLYoc5uDq"
+   }
+  ]
+ },
+ "ventes_24h": {
+  "groupe_sol": 4524.914100277,
+  "groupe_M": 48.80351164895,
+  "marche_sol": 190551.166877689,
+  "part_pct": 2.374645180305536,
+  "part_du_detenu_pct": 22.48631521171403,
+  "transferts_hors_groupe_M": 32.101796349994,
+  "autres_detenteurs_n": 110,
+  "autres_vendu_M": 224.95121603036603,
+  "autres_detenu_M": 643.5002393441308,
+  "autres_part_pct": 34.957440926461985
+ },
+ "premieres_60s": {
+  "acheteurs": 17,
+  "M": 310.824235752961,
+  "sol": 11.915840798
+ },
+ "slot_creation_et_suivant": [
+  [
+   "8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR",
+   277417695,
+   7.1059602649,
+   0.20123192
+  ],
+  [
+   "EYykLfeAjyXCH1QojDeRFgoXmv3MfS24gZa8AordnezX",
+   277417696,
+   5.268010081063,
+   0.15
+  ]
+ ],
+ "achats_fenetre": {
+  "borne_basse_a_envoi": {
+   "sol": 3.290551083,
+   "wallets": 4
+  },
+  "envoi_a_borne_haute": {
+   "sol": 145.439552458,
+   "wallets": 46
+  }
+ },
+ "premier_financeur": {
+  "dans_le_groupe": 11,
+  "g41": 10,
+  "n": 32
+ },
+ "gestes_du_jour": [
+  {
+   "src": "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb",
+   "dst": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+   "M": 9.0,
+   "t": 1721515280,
+   "sig": "4xQpXD9yRQpTtjH5HutQZRMioFDrj6tXcusVdhn3yWiuGnhH8e5qo1ArdfLsezQoCCVGiJexBadqCfG8JJxxeYnT"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV",
+   "M": 6.5,
+   "t": 1721548636,
+   "sig": "3veEUrS3QLEXT549REM6cwpvNbN88fYRmytscraZMmEfyJ19hHQ7J58vG8gjjpYgjxe3SY21sJ4zAx1fLzABvFpX"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a",
+   "M": 5.5,
+   "t": 1721549108,
+   "sig": "4dpeM7SmazH2Zcbg1KSYQat6koknDAVRaL4EfqFEcRpgwNJhoQ3VduTzo3XuRGXgdZM1HV2KfGoLvjh8jSmSnLTY"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV",
+   "M": 6.0,
+   "t": 1721549706,
+   "sig": "5WwzrXfzoGFbn1WDzgtNyLXLV4LazroRMfM92VJ7h2ak2mJGYPyif2GUZnAjh1vBCsyv6yDy9cgugL52xY454fJ6"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv",
+   "M": 6.5,
+   "t": 1721549767,
+   "sig": "5Y8xw5RNMKw8VkyGtXNXQqzxo8o5BR7bNMLvJLuQaP9dBHzm8QmoKvpaiNsbLcBFRXydE54sn2C3dqnp7xE4WoE3"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft",
+   "M": 4.5,
+   "t": 1721549824,
+   "sig": "4o48RsVcAk2vVxkGuDdJouKg8C1yrQVq5C4NrRiPPSdDbXb8YFhCfm8ZrnT7er9eZKm1oxYrGU8SAYtJZRoTz8D6"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT",
+   "M": 4.0,
+   "t": 1721549938,
+   "sig": "4nZfXnxLLbAq6x6wcnePaGC1MtKgwpG9SQ8iCPQTBYAKMkof2zhQSomVfLo1CRKSgr8MnxNoEHfxTxvgoq9UXjN6"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft",
+   "M": 6.5,
+   "t": 1721550242,
+   "sig": "4vrxTAL9rxMKNbCWKXdiS2i7K94ioiSpFjZBas9kLCic8FZiEoDANJpiRXyaL2T53UuJnKhRxSKH82WjjuZsiYcx"
+  },
+  {
+   "src": "ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft",
+   "dst": "CZsBW8yCGAiWwQ16VAokXE7h7qYL8spMA582X7F7g2jW",
+   "M": 5.0,
+   "t": 1721550314,
+   "sig": "2SchdeAaMz6ENtrGSUy53dCT6RnmYWR5V1EaM5NGRLLem85dz4anmwsSC3sWLkfHRTJxpmoz3AxcAnrU2xem9omt"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "HkFSNPjNFUVtdykP8kSyWCKhocY85k1S4MyjXHNqesvv",
+   "M": 6.5,
+   "t": 1721550451,
+   "sig": "38k1RSPdjmDa5NtTPhycgoBZrwMGyhdqTTqt5ASuijaKs6EmP8yTS9uAX8yHGohwyVbipGA16soFL78d9vAH4Fax"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "2mW45kXp4Wd4xRkF2mmh5rKdzjnjbJR2o53skWcxGa2d",
+   "M": 6.0,
+   "t": 1721550500,
+   "sig": "sybo7NWx8CnNFZUBMHVF55dM1xCkReCKcqCstgjpaxxVRLW5CiR9EgFsxf65fdeJbKTwXUQE6b3oDbi25apxyGX"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "4upmFYy6SpmCwdSRfG9akN2gRRn3DksLpDyN5YAmohbx",
+   "M": 6.0,
+   "t": 1721550638,
+   "sig": "5VLZXvLgbZhFq9utwU3ew3HoWnoNj8sS27P5KHyRxBB4EfiGdjXuNadxpUt1Z1AYn3XfGF4FPw3WoamfX6eTehaZ"
+  },
+  {
+   "src": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "dst": "EZXUvi4X5k3Aj99rGzNQoBtAzFqzYUjGhHNu8A1Ty8s4",
+   "M": 5.2,
+   "t": 1721550733,
+   "sig": "5LT1iXn8RFaf8yCfGFxHNebbXmedJ2zVQ5nx5RxYAA2MBkqLRci9gxqqfVLxtdt8pwVZMfCW6aJGMTxpBF4wJm7P"
+  },
+  {
+   "src": "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7",
+   "dst": "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p",
+   "M": 1.0,
+   "t": 1721550816,
+   "sig": "2epM63ZTNSNSmXDo87Xn7qrJKkRXLD1znE9awNj2u2QZkdS4VNNeAsBnkaBfJ1UK6YLh8UT9gQiStAHrZ6RcYa1R"
+  },
+  {
+   "src": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+   "dst": "Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB",
+   "M": 6.0,
+   "t": 1721560225,
+   "sig": "3hksjHdcYBFMVG7FEhHL7t5Y6UHnV1d22RsrXECePeoCmpHbiXtH8TCLVEUo5uniJ7Tv87yCkXziEwgZ7tNMrsre"
+  },
+  {
+   "src": "FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV",
+   "dst": "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae",
+   "M": 6.5,
+   "t": 1721571720,
+   "sig": "27eg3oXLNmEsXVHiGGKX2iEgkrnAHNdLjmUHL8iKGcKjYx6SuSQ79b4tod2fghPjcwHWwqaFv91uUoRaNeQej9yu"
+  },
+  {
+   "src": "HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a",
+   "dst": "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae",
+   "M": 5.5,
+   "t": 1721571832,
+   "sig": "3Bo2GkFUGiaFY1tD1gN8Wg6mYLVN6zTcj1WkxSJ9KpHVPBf7F16UXUJe7onS6owxNWaErmeJVWwHCWPBeYr6XTBu"
+  },
+  {
+   "src": "HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV",
+   "dst": "BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3",
+   "M": 6.0,
+   "t": 1721571861,
+   "sig": "4jCSn4tyzEJsdKru3FNnkBGY9F78r5NrUaQMe88n4KZ1UuKUrjuf1W3xqkQbWJmwZDMkXF16cSq5g8Zz2cGVv45K"
+  },
+  {
+   "src": "8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv",
+   "dst": "BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3",
+   "M": 6.5,
+   "t": 1721571885,
+   "sig": "2Suy76fcGaPbEyUg257C1RgWHCFBiGLbWFDZ81JMajd2yjpFVa62cN78qp1kG9v7urRB6Jh228on1GJmdw3AHfXN"
+  },
+  {
+   "src": "2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT",
+   "dst": "BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3",
+   "M": 1.5,
+   "t": 1721571944,
+   "sig": "5fCYXrqB3SowvK43ZrJNn8bmg9EzqvrJ69V3xiTxAHMNc9Rw47aXMs262SDna9xaCZJda5NFUQRUSSApr4WnzGDN"
+  }
+ ]
+}

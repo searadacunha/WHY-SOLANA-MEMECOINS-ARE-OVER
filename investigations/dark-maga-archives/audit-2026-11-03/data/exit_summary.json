@@ -1,0 +1,1228 @@
+{
+ "H3QsBrrivimFJmSpTXuvig2n1Bh7JuYxrriRSEszT6cc": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 11637.6,
+   "1:pool": 1709.1,
+   "1:Jupiter, compte documenté": 493.3
+  },
+  "wallets_non_etiquetes": {
+   "8YSi5yNRN2KMbGU7Q3i5w9W6fTRxnk1qatQ5YmzS5da7": 2840.0,
+   "AGG2FsrpP4wN6hjptovXH3sykfdMt6ESADJGLxMYKcJZ": 300.1,
+   "E1wDwfkh1ySipYTgqx6DtCQrri2L8KCwzECC3arUMXyK": 300.1,
+   "BZ2UcCujoCr4XYZE2s23xTWYJMgiFSQoYopYrr1B2QmA": 299.7,
+   "5QbApAquHTJ2waLG2VXNctdF1a1QUvsmwTHew4pmnwG5": 299.0,
+   "AjM8Qn62EhR4ikJ1rvyeezB1NyvrSsb4zwJiFUFs9ycs": 84.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "GXZvXsD6hxaLeFvQisWpdAwsayJxga7w9EeafhFZG2Ra": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 88.9,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 22.0
+  },
+  "wallets_non_etiquetes": {
+   "Co3zTr2M8huMY5os2wuvKGP4x3S3q4D9fzAoMZeGSMbb": 1530.3,
+   "8N4AvP9j5BditSQMk2WrTNxthhgpncGVzLKrYP4xdEqx": 499.1,
+   "42MSVeV4YbESE7mNW7DfQrfd8E4RG6njxXZLAWTmXemv": 359.8,
+   "9kqTVnRUkVTFD7na9BTWcoG9piL4XpVTtS9kqVCV56tV": 145.0,
+   "3mWkMcj37uTXRXokxSXRW7Rm5zdsDD6sUcRyWcH4A8Ci": 6.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "FTKTNFqeu9wzckDzmsaL1dTgB19BK6fE6DMTHdbETtd1": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 3579.0,
+   "1:pool": 2105.4
+  },
+  "wallets_non_etiquetes": {
+   "GPjzQLLrtLpPF8V11JFLnfeTcYiQFvAmnRLQNvxQtvpu": 357.2,
+   "B243jSEE4osUAQeREvsDCMRDgnizqCGAhdWEfMkym5sQ": 277.1,
+   "3Qvr8yqWvZqFwkp2wBtXgmoG8Fb1Jz6vB6bTczr2u8UE": 29.8,
+   "DeGFEx2SwmbS5bfnp2B1Xycdvp6Euef8j9xa2yz5Xmno": 11.7,
+   "9EfQn6fZyAK5npwYFZehdwHqaPEnrERGJJZa4DbY9Bed": 10.0,
+   "5uRb5MaSetEirZDKyEYx9QWCRdeANV9C7rA5gmvrVQh5": 10.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "9PrmF8sfoD2YShtWUghrGEYgxwabpnzog8gT1V6LEtdq": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "2:Coinbase 3": 795.6,
+   "2:Coinbase 1": 621.9,
+   "1:pool": 489.5,
+   "2:Coinbase 2": 279.7,
+   "1:Jupiter, compte documenté": 72.6,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 11.0,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 10.8,
+   "3:Coinbase 2": 2.8,
+   "3:OKX 16": 2.6,
+   "3:Coinbase 3": 0.9,
+   "3:Coinbase 1": 0.4,
+   "3:OKX 12": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "BGVS5SAobvJGpTZ21Q2d9tMwgWTf7zCJZnW31cmbJsjE": 26.4,
+   "6KpRyFM9Y6mnem43cavZiNAFKbcwhZcYxfBxvQsVPPUm": 25.9,
+   "3fLABkcqwVMAS1yK5suq5q1Ju8HabbysDTb65VVjFBYR": 22.7,
+   "5h2kMxs49Q6Dg1YCTiUQ1yk1VPwX3rs1JUAh1ZHUgQjP": 22.7,
+   "GCRJD52pGwcCSs4oswYxTBCPatxY1P6WpxCC9R9zty6r": 12.3,
+   "8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF": 8.6
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "F1DRDBNW1CX3BPoZPQafidvMeaepg6LS19J4vHqn7xMt": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 2668.1,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 547.2
+  },
+  "wallets_non_etiquetes": {
+   "DV2eie132mMH39QxBFAW1u278BMpyGsQ2uHxDHLddNzB": 2472.1,
+   "G8heVMjUEqAtvL7J8LDEHDNmrzxXbS91qbML8Tkvocjn": 851.0,
+   "44dxoDiSejSnTDiqD9Wzj11Z8TcH2CXigCMzimPWZYTT": 751.3,
+   "3NuK8pEoJ9m8nWA6Bu2UmK6FUgHUfEA3khkpqHsbAzuC": 708.3,
+   "32MyHT2MjaxwfVwdrU7A1uaaXUNUkAFQ3uk8AwL9QrZ1": 320.0,
+   "CxTKb1Btqfnz1DFxbMX4ATtcdYkBBidZUNHuzqKANKas": 300.0
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "6Lomz4sdWdAwCKmjc8wHFhEHAPDwa5KEmxi1ziEWXp9G": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 4183.1,
+   "1:Jupiter, compte documenté": 1602.1,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 1179.0,
+   "2:pool": 42.5,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 20.1,
+   "2:Jupiter, compte documenté": 6.3
+  },
+  "wallets_non_etiquetes": {
+   "DdgpAERmrg2weFfUEh4Ph1nrSs477BSnc62bxZtvDBWE": 715.6,
+   "6WwcmiRJFPDNdFmtgVQ8eY1zxMzLKGLrYuUtRy4iZmye": 274.1,
+   "DkH4HnXE31bTCqbgG93YkiDVyDgLHWx5a9qdLCXmM42": 133.8,
+   "3yFJJBA3GKdMZcbuRqmZ1h6JhzH5rTutnJ8bevbnMbr9": 119.0,
+   "FYkuC1aeHV5ZiaUh6wF7zuuvc3B5heHzwuerXLWwMU88": 92.2,
+   "Gj5t6KjTw3gWW7SrMHEi1ojCkaYHyvLwb17gktf96HNH": 82.3
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "CEzjbQqAa5741cJHDstH5Czt4xNiPgLHwax6av449Jyy": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 296.1,
+   "1:Jupiter, compte documenté": 113.3,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 108.3,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.1,
+   "2:Jupiter, compte documenté": 0.1,
+   "2:pool": 0.0,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "3:Jupiter, compte documenté": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "HpXPpVGZxKfYvCziMa89UZvFFNikZVb1MnozPEKtfWMD": 209.0,
+   "26m3aJX4nQ1aiBcvrC1Rw1qPxvXnoKxu1QektBfnnhAx": 209.0,
+   "9Q6ZxmjmyQ5aEfvDsA9esWTPVG5nAyn4rKhKc5ciMQEy": 209.0,
+   "Cay78SB4Y6RPtM3kb9WxaMYR7MCU4RyNNYuxqQ6sdmFx": 209.0,
+   "FGsdSE7e5uecSGkV98cSAMniJcjzWygfYscWzyiWXwuS": 209.0,
+   "GaPV6FC15q1ASm9CuhTy2wLBeUwbCTcK1e6quoshCAJW": 147.1
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "DKs3wSE35ckDixo9TCYTFpYtdzEHtnGBDZyWc2iHRKP5": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 1898.7,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 1.9
+  },
+  "wallets_non_etiquetes": {
+   "nm6ELoQFZf72GrqV2yi5259ZfHTvJYi3oZ65WvzdF7W": 300.0,
+   "531hkcfQxuUQ4qBrxLGK2d4ENbCykfqbZEHMQPo7s9g2": 186.0,
+   "DwFZqZE7T5kGCwy5rXuSfJCPvrhhZ4bThDtVwQqmEGVL": 128.8,
+   "Equ77pvMwUC3ncVvS57WuyLPRqsUUzXNE2aYWzW9dPjP": 8.1,
+   "BB5dnY55FXS1e1NXqZDwCzgdYJdMCj3B92PU6Q5Fb6DT": 3.8,
+   "2Vn21L9XPpZ6Tq5dST488Y91JaBUhsoMFyWKEkbQvouZ": 1.2
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "Go3fTCdm481k8ViaPYN6Y5jVN8Lfg1vRrUJF3ZM9D16b": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 5533.3,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 351.8,
+   "1:Jupiter, compte documenté": 196.0
+  },
+  "wallets_non_etiquetes": {
+   "HFNBAkywG5EaX9kVhMKyGGwdFqre7gZPsPRC8kQs3g2M": 798.9,
+   "3TxwCxCXSnXDk4S53T4ox8rb13nfHdjyyiWjmELJyH6b": 773.0,
+   "7XVZK4Z3zGtUeHowJuHfJxkroHJvfhtyXJYN4cdZHj4Q": 700.0,
+   "3JExSDThAXMzG3X4THJimDkuVTQbCjfqW4XzcbuitDF5": 73.0,
+   "8Djrt62w4nqh3dSkQYLANVZbpmwcXgb3wHVTiPeBwPS2": 72.0,
+   "7mkhCyofdLQTfjkyWNuyzrWZyS3qW5K38tZqxB5QMf4d": 61.8
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "FHXYk1x2J9LHrU4Y6CFQUrbrPumjxpQ6uG6bCcaALsx3": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 1257.4
+  },
+  "wallets_non_etiquetes": {
+   "6iKovK5UfivfBZ4zLwbSLSHpgfQhUHmKi5MFvuWePxZH": 513.0,
+   "47hEzz83VFR23rLTEeVm9A7eFzjJwjvdupPPmX3cePqF": 23.2,
+   "hqkgDgts4GvXoBvTgRrPsC5zCLenGqrij4i82uLhvDo": 14.9,
+   "B5tJYzjQtKtNDAKoHJ37ww6Dp5RVDKQs9zrnLuqSyZn2": 9.9,
+   "D64rh1zumpocuB51qjmtopKn7RTHk6Zt3Awdy1c1Qrqb": 7.2,
+   "CL44JRp1JzbVKVBscxwf9hfE4uK6sNuSMgLnuucg3vMb": 3.2
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "9cfRU5RKRjUKGumdVRAehiu9PtEY8vDd4wejkpdUP7vw": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 10777.7,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 244.4
+  },
+  "wallets_non_etiquetes": {
+   "7Gw3gL8mq7TSENSe9VZD9DgJiPQF9dHd6Auwk6PRkjhx": 1471.1,
+   "DUB4Wd6ZA2f6ePwDghiPpfWf7Z2eQtqnuaPpPdD6Ebw1": 29.7,
+   "3DMUfMxguNdSQYXWLQjYP4U7k6wa57QeLRBoLA6vTZ9S": 28.7,
+   "Gx7rWaEFERL4Ye7gJ9GRxjkJusv2sRHXvCSMUGywGUJH": 5.9,
+   "H7d4hzqCnMvoY8jBDESABt9AvWVMw7FEE2iSFyjn6J8t": 5.0,
+   "wHZNUbAopeMRQWRnVqu81xjPWbzEkPrdRacQXt27WSC": 4.4
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "F2kcbXTMKcZZ9ufCarAo4FmCf9M184sDD12TGiKMgYfQ": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 1170.2,
+   "1:Jupiter, compte documenté": 345.8,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 109.2
+  },
+  "wallets_non_etiquetes": {
+   "9WLoLokEhX5Nw74tcYqv1omohfuRWhszGXJKX2uDrCag": 75.9,
+   "H5F61pc4JThJk4EUTNxmA2wdumxLQvoTyPDQA2Zd5kPK": 56.5,
+   "Fzp33bnWQESUMndif51JTPL5KaHVqje9EF3ov64cezgF": 50.0,
+   "FaWfFz1JheHTCXx5adS3gV1YycbBWoZqPFpY7cZ82fNg": 23.0,
+   "CHEQ6VntRSq5NmhHz4PczNN1S6RpSr97zHv35r1pP7ib": 20.8,
+   "8BbL9WuNFCWKQrQawSNJtsqjSzJvwyue5K99MpEsv8Cb": 16.9
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "7Fa8XGm1xdzqx9sYQMrPFtVe4j5z37ktGn1FXBu4bzs1": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 11779.0,
+   "1:pool": 10990.7,
+   "2:Bybit 2": 8523.4,
+   "1:Jupiter, compte documenté": 4813.0
+  },
+  "wallets_non_etiquetes": {
+   "4CTUHtiHrPHFT4Zc1qNScrposmM7xfupU7EVDWCR7PZw": 1000.0,
+   "6whcmzXcVV8vYZE7ZFKUGHWs4vn3Ws7cDqAzFbaFMX8D": 653.1,
+   "CzEkye32k63yALuCPFE1oqMeLjrLZSFsiv9xyHAVqXkb": 250.0,
+   "GBi6c2BBuqwdQPtNph8XLDuQsujcE1NxuH7ZhdhSx3iy": 250.0,
+   "AW78XKXYs1UL6LYH9Pgv53jc51xzMeMYiVgxCdaVBXoU": 218.1,
+   "DUe21NsZ46rDFEQyLnssCJBakHaciYsX5xct9STvJU7h": 200.0
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "EEdq9Cw2GBXoVieSm2nRnCu81KRS5rNCzpKbKVeUXeD": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 373.5,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 90.7,
+   "1:pool": 13.9
+  },
+  "wallets_non_etiquetes": {
+   "6nMpK4xoxp4tZ6R3bKkv4WtUoaRmHJEr7pWvUud2kWj1": 607.7,
+   "7JwXdVGTdC7sJwfTHAdehgMrMzxZQpRWMfwTDuf6GVgv": 6.5,
+   "HBsgbpsM1j1YsNYqtCXcFU4mCRofwcor2qFwifNqddmH": 4.5,
+   "Cr8oGfjwRnrFyhVyFM4S3ygR2dKy4CgTpXgVwELbfsBg": 2.9,
+   "4yckLHXqKpmTLERvcyJEjvdVuP99RNFkhuTpg1j86tz3": 2.9,
+   "3LEa4cWCXsTdbKnCTh3w9hYoBpLJDCBZUHedUvGsUhfC": 2.3
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "ErNKPzqv3eXwaYC8adfgFpuPcyXYFNpwk68NTAbP9LGY": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 19902.3,
+   "1:Jupiter, compte documenté": 17522.2,
+   "1:pool": 1336.9
+  },
+  "wallets_non_etiquetes": {
+   "2gA5xjdh9oofnEMXmKyihMYCj4RTt6bcKog3GU9yqieL": 604.5,
+   "4azMb4WTEZ1xz3rSiitDMTL62hM1Gc5gKsZi6VcuWv3V": 532.2,
+   "6ZUeThQ9FovzaS8HejAfGW2VqCXwRYPKKyUNsozpfrSx": 521.0,
+   "BkYSQo68TvDn9zE5YYZmYVwKhxWMX51eGzv8Zn3wALW2": 329.8,
+   "5XHnYVcdJFrp9mkVoVZSgEK3HQBcE4cVDupX5bBJgiNq": 58.8,
+   "CCPM2SSMLhBdPZ9pjBy8TTXYUfhMM3q6naVPm4uzvfnF": 30.8
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "9CsCwjmi4uHqYGdrDPaKTphqUK9A6A1jzfAFpsWeCkFC": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 18.9,
+   "1:pool": 7.4
+  },
+  "wallets_non_etiquetes": {
+   "Eeu8Unxf4hgvfJgjBYXt8ALVCygLqLYsd2nFjFm5VTNY": 541.0,
+   "BJeFBB78qHoktepeCCUwzuTTrUp941tcfV6eNCmr6qXc": 6.5,
+   "7EykHrYLyXz5ezpQn9V9HGg8XccVjVi7HsT4eS7HvSmi": 3.8,
+   "2EGb9uJfpQ6Mwdbrrn9Kk6W9eARufv3ana7wTe8hTjDZ": 1.5,
+   "4YEXibkbMoSovpZXygNpSbwYjsFBYArrNqs6nBWzz1yL": 1.3,
+   "F8rHedrg6DfSQ9NPs9eAEepAaKwhTHgumP8ss678dYoD": 0.6
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "2bUqHhkdryVMR88q3BNxYzuvUxvgzJEMjNgFW5zujZjF": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 1523.5,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 870.8,
+   "1:Jupiter, compte documenté": 205.5
+  },
+  "wallets_non_etiquetes": {
+   "7XU5LMmUTu5o4NnKAxz2dNu39YYtq7msgQhS8dNPtpb3": 332.0,
+   "8XTqn7ybd96X5JvfhHpUUEcKDa8d6hiiWcf3aVtdYHku": 90.6,
+   "ALKLmSN4xJE7ohhi2jU4CFquadmwYhUM2SvpgBoEsGDE": 67.5,
+   "5aMogZUVSjoqxnpHvckWDgKTKYkDkxwRDEohLcbVLYxX": 54.8,
+   "27dfUniQy9ndTQbPsLZa6YAf6wyjnZZLbMnzu2SBCWVT": 30.0,
+   "B6kKy8HujCR4bQWtmUMXR845dXckC7scLvvZfqKdSssC": 21.4
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "53KqxbJvrsECBQ4AwNbiyhmRaKi4U7xGPRByMp6GfoC3": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 12852.9,
+   "1:pool": 8323.5,
+   "2:Binance 1": 8051.0,
+   "1:Jupiter, compte documenté": 3915.9
+  },
+  "wallets_non_etiquetes": {
+   "61pt2eDqiUVkwAoFbY2V1v3boxicoskEj77jYpEzMSjW": 1315.8,
+   "5TRWB66Y1AWSFM9objjWZmWn8bEG4V83EHf7WbLvCEsr": 190.0,
+   "6i9ktCx9fEUQMMX3616UHf2N1Se2SUCfYCgPyifZhzo2": 170.0,
+   "EAiYEwo7N2WLfFwNsnxVKxH4ZehVBTbVbzsd59yREqAv": 93.0,
+   "DkX6Zq912oMXhCDcgJdvgbBU5Jvd4B884VecYczCWuHu": 57.6,
+   "CqtmA1wxxQg9TnyuWNrX4DrbpvL5rQHwnaFLfQhecuEE": 41.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 28879.1
+  },
+  "wallets_non_etiquetes": {},
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "5EdLBiQGNM65tjUEVt5rgk35UCkgMCx2fdSxay2452R4": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 5204.7,
+   "1:Jupiter, compte documenté": 574.5,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 501.4,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 421.8,
+   "2:Jupiter, compte documenté": 366.7,
+   "2:pool": 102.5,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.1,
+   "3:Jupiter, compte documenté": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "GT4DQ5XBW6iyfJQQJaYFSYr75pUvDkUxqqGYuKWBfJyH": 428.6,
+   "5gttRefceswKm9MV9kNpGUV7EdMWpF9W9MckCiYLNL3G": 137.4,
+   "7k779cvcCTAhJkLP4MTNVgseLKzdvqUg55kVYLgnAgB9": 120.0,
+   "9U8yaiPbCco2Db6Hd43HWoXvDuQKZYJF6jDquFnfS6Z3": 98.8,
+   "FfQtSPNUSTDZwNBhJLgpVPG95ediXfeFnfZnoGPELKML": 70.0,
+   "8zxvpU1es6qzt71AE3UUJyNdgJPDtPiAW6nu5Q7Lbuac": 42.2
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "5cLnb3P9sAgVn93w9sXc5VmDi2oV65cz1VvD6TUBWfdB": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 1920.0,
+   "1:Jupiter, compte documenté": 1072.7,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 1019.8
+  },
+  "wallets_non_etiquetes": {
+   "EmuXdYDYSokhzhs1xBxB19vGfFgEYvjscQvvJM85yBgs": 1449.8,
+   "Hs4GqqPhh8gty7pghe1A8sBoYqE3u2oc8iP1ESsvXe9a": 267.2,
+   "8vowLomUZTBm3bjFBk5g3UwSHuKkFkGTpd2R8dQsTYwg": 135.7,
+   "6iUcnDLUsSSVk8sNLP6cp4svwPdmAsrBSWtsHUpGh2Lb": 59.4,
+   "ADSgGH9ZfS421c1t3zodJLjePYFyByhLjJNZ9xzbxjZT": 35.7,
+   "FiaZmaJwtYkj8YSq2GH68krY98QVqDWMcZVn9tjXE6mG": 15.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "8Jzeow7v4hSWzxPTVA1Kiyec7adbnkX5M13aZZRjvArZ": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 1244.9,
+   "1:Jupiter, compte documenté": 1122.6,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 478.0
+  },
+  "wallets_non_etiquetes": {
+   "EDQDTR11HnHs47Gimurm8pjNZFXEtXKBYQNEtabemF6k": 130.1,
+   "6qkh2JcHt3ctFeiL4HBn1e9NU5aPw25XNhtgEv6ZCJ4U": 112.4,
+   "rnp5dQ7kTMZhMpWGZkscafG5zinReVtkyvrBqBUDgUx": 100.0,
+   "FPYgx1nmcnET1832McAUvo9KEs6B9uabEhpwEmS3cmk3": 66.9,
+   "HnJ7eLj33s2gnsk6ZEJZx9pRp3qzQygkFuG94BW8wJJu": 50.0,
+   "2LnXtHGm9oLBohW5JzZNhX9PGxkHgs53puiwmztv78Nr": 50.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "4SZG7mj4ufaki3FTd65aAqt8ZmGWeubuXUnmWLz564ut": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 7167.7,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 1160.7,
+   "1:pool": 105.9
+  },
+  "wallets_non_etiquetes": {
+   "DZuhxrGP14SG88kLLb1KijCHeB8Xpe1VkCC3hwg92d5o": 786.2,
+   "5vi7rdXsNy98faZ7D6wupS7JVQVfbdr36frT3BihKPJk": 80.7,
+   "5sm1iSdKkPc3H5fsB46dLzXcvKodzwqKZzpZPXiQU4B4": 58.8,
+   "Bc9Wpo3vvvnfvqXQrxcxGEVYkkqJpqPwCk6Ly1sNx1Pw": 0.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "4GVoqTXYLRDyBZPVTeX6PeDsoJ4vJeP4gPdVPeqkeKXe": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 1959.6,
+   "1:pool": 1559.3,
+   "1:Jupiter, compte documenté": 1259.5,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.8,
+   "2:Jupiter, compte documenté": 0.8,
+   "3:Jupiter, compte documenté": 0.0,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "3:pool": 0.0,
+   "2:Jupiter DCA, exécutant": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "9oh45Urh9AuxLKJgAaZ9uUGrbungDvXjicwAtH3fmFTt": 411.5,
+   "3eBmbuDy2F1qL6tdtNny8U4LhYTryJXxZK2iD9WQG4XT": 204.0,
+   "G6B6QdZmg9sY27pCidm4Yew3hWcEGa2Bye9Qfujrk6fW": 176.7,
+   "BAaCcAHPEL2KLaVHeAiq7VTHura1S8bJw3avdWk51SWV": 166.7,
+   "8Xd6uAbzFkxR1AtTHNB5aXW8ugEQ7CQEDDwfH8agLxne": 117.6,
+   "idyXogwYRKmaCxWt2b9zGnrSNzzqaGVrANjKHiVmwqi": 94.1
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "7HzSjbeUFmTZ6yg6HqbA7VhMWynUofzy6mvV5HxVaPvF": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 324.8
+  },
+  "wallets_non_etiquetes": {
+   "HEkBdLbJvTpZQeqiiKx1nVCYss7p6tCUpseGbsdZW3Yb": 428.9,
+   "H6KCVi6Uia43iUTiYfckr8o6NP1pJhnKvEY5ToHHpaPs": 30.8,
+   "F4hJ3Ee3c5UuaorKAMfELBjYCjiiLH75haZTKqTywRP3": 5.9,
+   "Gte4sQ8amSAdgMQjNTSuH59h9FjPnJFdj4gU2xwSAdUL": 1.0,
+   "J7YvXsBAEoRXfLMdATtdMzPr4kPKSQXhnnYjSXU1YTYG": 0.8,
+   "4woxJRk5ifS5USdbPmWFhU5uEAoxHbTTZRDkCFwb1QdY": 0.5
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "FaQQATa15TpZRqbVSCs7VYtFq5rUp9e6zw5zSzdpfPYJ": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 39680.1,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 14309.6,
+   "1:pool": 12691.7,
+   "2:Coinbase 3": 2488.2,
+   "2:Coinbase 1": 1967.1,
+   "2:Coinbase 2": 1756.4,
+   "3:OKX 16": 443.3,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 237.2
+  },
+  "wallets_non_etiquetes": {
+   "6KpRyFM9Y6mnem43cavZiNAFKbcwhZcYxfBxvQsVPPUm": 6689.1,
+   "5h2kMxs49Q6Dg1YCTiUQ1yk1VPwX3rs1JUAh1ZHUgQjP": 5877.9,
+   "3fLABkcqwVMAS1yK5suq5q1Ju8HabbysDTb65VVjFBYR": 5877.9,
+   "EbLRcvrmZ9mJAz9ZHA2gmZxFeyQumaXR9T6kz5ZizfgN": 1269.0,
+   "BGVS5SAobvJGpTZ21Q2d9tMwgWTf7zCJZnW31cmbJsjE": 1232.3,
+   "EN4KcjbWi1WFxQtG3fL42oGa5Mg291w4KeNh5JyD4b1S": 882.4
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "9cnmZD7HsgV53UZagznTceNVBfthcdxZx6ZWw5wRajHF": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 1035.4,
+   "1:Jupiter, compte documenté": 913.5,
+   "1:pool": 638.7,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 9.0,
+   "3:Jupiter, compte documenté": 4.5,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 1.1,
+   "3:pool": 0.6
+  },
+  "wallets_non_etiquetes": {
+   "C35QHSLKGE4hwUbxu8daKCsvQLtcxShSaJobEG4pKkeY": 331.9,
+   "Gf7sXMoP8iRw4iiXmJ1nq4vxcRycbGXy5RL8a8LnTd3v": 223.2,
+   "2uF4Xh61rDwxnG9woyxsVQP7zuA6kLFpb3NvnRQeoiSd": 217.0,
+   "6fgrrBZ7gz3bTBSQdn9f74jkr9Vk4GksQAk4XLP9EwB1": 175.6,
+   "AZmU4Bv6TPHimgqBe5eRsRQ18KKKr2aemHdqmfbVKqvr": 130.6,
+   "BWFZkx1pMpvwxammwTrizvoWzZZGiFEYUYW6Ee51SHLy": 122.8
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "Ei5yGz8dPndr1aCeHZsfqJBcS3VBbz75VHEhxxJKLy3V": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:pool": 3498.4,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 2072.9,
+   "1:Jupiter, compte documenté": 791.5,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 10.5,
+   "2:pool": 3.7
+  },
+  "wallets_non_etiquetes": {
+   "DEuwaZcbpdop5jbSKCHngkzYSqnjwpd2GQmBVXbKqCyG": 624.8,
+   "G1fC4VgkodbFbsEwV8k8mzb2cMkngfqpiCNMGRZkCwvU": 482.0,
+   "8J3gfUpE6WsXYsFNKkUNN8Df1XE9WhjVKzfBtse3Ye1w": 276.6,
+   "4fcPMst7F3XFXA1LV4F98w1y1gaEf6Qmw3tPMD5Y1X8V": 128.1,
+   "E72DuqDL2fkCw2Q8tyW2zWXpkRgK1p6FBJys6h6wpgVG": 63.4,
+   "ASCpXDngrcH8MzVMnSk2E1LRSEiaSukDwwLh2NiLADnR": 61.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "6bW7RAdNLWm3543VrmGFHtL47sAmMabgLBynS9mzRjFE": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 2664.7,
+   "1:pool": 1311.8,
+   "1:Jupiter, compte documenté": 584.9
+  },
+  "wallets_non_etiquetes": {
+   "64Z9PZijYyfgJhMpCSH3wtuooZQdp4aZ2WBzCdR9hAeU": 150.0,
+   "FAqh648xeeaTqL7du49sztp9nfj5PjRQrfvaMccyd9cz": 88.5,
+   "4CThQWYFDnzWEjXPHxLwGL1ynHBEEsV2AspfUwoz6D3s": 80.0,
+   "FcjNXDrx2NGZru9dSftFN6u6ox63DTKJ2JhLsV39sad5": 59.3,
+   "Epmv5XYcBtv6Kv9LMvmJRbaZEnAvMeDZeJVGU4phc3W7": 39.0,
+   "9qKxzRejsV6Bp2zkefXWCbGvg61c3hHei7ShXJ4FythA": 38.3
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "3VNB9JhWTQHmb17U5X3eusg99t58y8G6x1YHQcWbL8nR": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 622.4,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 253.7,
+   "1:Jupiter, compte documenté": 109.7
+  },
+  "wallets_non_etiquetes": {
+   "6R9yHQT3A9XmRnirqJNeGkvyTV2rfF3ds3Jwiw8ESnzz": 550.1,
+   "HykfRTUskAEehqRe7pjpsAqQGjhAm7WDfuxL28ZyuNj2": 181.2,
+   "7k9VisT29MwfdBLQVJikYF9xzXP6MZxqy4Hotyv4JZbe": 134.4,
+   "DKkicv82iDFqqs8eBDR52daVRA3BsqRGprsRnfQcVAMf": 129.6,
+   "8LRK7Kh3U85ieWB3XBFzFnoxvFijxysoKY4zsYoS6nkV": 82.7,
+   "6UWsi9WKQbE5jLxLcycfr5NZ1DQGVNKUCkW1pzUaRVCE": 77.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "8GrFf2zNh8FGsWzEqtq2ASfFpckGqNuhA1pR2RGrrPB8": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 107.3,
+   "1:Jupiter, compte documenté": 23.3,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 8.9
+  },
+  "wallets_non_etiquetes": {
+   "ErKPoRg68WtgK7bVepf3PqPdx5ED2b8Paqkm54cwkJQh": 521.0,
+   "2AoLiH5kVBG2ot1qKoh4ro8F95KQb7HEBbJmkxrwYBec": 63.8,
+   "7bsRETk5hPmxHBHE6EZj8cVxa6zp46VdMGnZwwfumvgB": 24.4,
+   "CsVe97sDiaXkVfVjiwyYp4zKZXD7TckaRcLVgqbFuUay": 1.7,
+   "FALfVaay8UYn8LjahgovfAohpU9U11t9TjDAYhz9zKef": 1.6,
+   "ALDzqdKGfDzu8m74a4MCUW4U6jTyPfhQT9uzTSZrc9Ba": 0.9
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "G8FXw4ciLVjZwdNgDHtUADQngi1US9gqVc9rtBQoTUFa": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 1210.1,
+   "1:pool": 614.3,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 166.1,
+   "2:pool": 0.4,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "95k8a2X8mUmvz6Wz8Q3cfFVJfc7oJzBtecAHWTSbahyd": 641.0,
+   "FUSgbHfC3WoN4LNUL5syWzeGV5h3BK7poJWwojZKEkNM": 58.8,
+   "HxUMwKRqE6QSamoRoLvBnpCDTkHTrEWt2Q9QF7rEG9UV": 30.0,
+   "8xmofpxS7X6qFEaUmgVdffmPqqms1nhk2nW2rfY7yfxQ": 27.0,
+   "7W4JUP3bYu3T2ZmLn68EXW5HSVkErKDwjpjV931fgkaY": 25.0,
+   "DCyioDpe4721SBajuiuBUcCQxMQ1gW5biRL3fPqT43Bm": 15.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "AtGa4eaTSMjNa3VMLfbti6iLqLhqQ988qjBK6AGo8ypU": {
+  "groupe": "gagnants",
+  "frontieres": {},
+  "wallets_non_etiquetes": {
+   "GFqoEhQGeardvZAgUovEaDHcBGvmTA4nR6PbHnjz4xGQ": 852.4
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "4RDiixyNxHxN6gGMbH4ZmTVDQxdyeFQ3hksGQUBjqf9b": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 1367.4,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 203.1,
+   "1:Jupiter, compte documenté": 113.7
+  },
+  "wallets_non_etiquetes": {
+   "EWBCL4hKY6VdzZVcCY7pMPvRhG78koHY6nQnt8EW99Br": 1428.2,
+   "AFaYrFH7hUYnkv5mbvbnRHwX29M9JzUL3ySGtQz69AUv": 167.5,
+   "5NBjjSbRQRxCX7egBEZEUXr3oK1sTfd4XjkVzLv9YmNw": 48.2,
+   "4XP5Te8e16SKUSq8xBapwHpE1HCB4BU4EH2c9cMWMpiy": 40.9,
+   "BvraSQRky4RBUaYWX6TnFMrNYxjNp1qAdspZZSxqKADt": 28.2,
+   "BBfANo1u2p4gR1Wo71598tPJWbKqUZdfMsr8UnsuJMs7": 26.8
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "4tg39jDpd3DhuEyeZz4ELbsR3AU4Y8kdZiPpN6iu8eN8": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 705.1,
+   "1:pool": 484.6,
+   "1:Jupiter, compte documenté": 58.0,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.1,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "3:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "8hrCnY2WWXsPHUMskUNwW4xc9q2YABwFAEyDG6Tr7cGp": 297.2,
+   "H6fxtvWLFYSJ66mPJqoz7cg6tk32Pcgc9vXrywu4LEWk": 193.1,
+   "J93wt6iUco1jMtGiSqPNkvbyU3uKZ9oKd3T1YtpUtcBn": 173.8,
+   "DeNFmyYsMPyAcZx4NChYaU68zcqBQZuntQHwEyBrFE7f": 126.8,
+   "J3zpM9NucbV2GK3GzTNRFqQS4JfCqbVDmeWtNupsGwKD": 125.0,
+   "Gxa6FAQ1ThKv2GsNEJrH3vkJhQ1ifnZvWbf6LSUE1U7K": 100.0
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "7H3bQRRCPjUyDt2i6wqLyWhjLQWUWPfHQjC2guRkb8Vu": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 2532.7,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 796.7,
+   "1:Jupiter, compte documenté": 351.7,
+   "2:pool": 73.8,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 24.5,
+   "2:Jupiter, compte documenté": 13.1
+  },
+  "wallets_non_etiquetes": {
+   "GLxFx3bKssbkEMxnq1fZPbXeGqzx7fR4AN5x34Wrts4n": 317.3,
+   "ETw1EySarSfftNctFgKPheaCbQSS5YhHpFQ6ZMwGCHtU": 164.5,
+   "iMyvpMGPhFAxEU54X9Lwfg1itcBjC6VXMaYrN1BVzdd": 145.9,
+   "4g2Bb3Ww3C4etMHjA96DaWxwAFuKsMnxGVLfad3QBj7o": 107.9,
+   "AjpHgYAM8BK5cJo2knzATeTWB5Yk8sVqWNJVjbNRTRRN": 107.9,
+   "Hmd7r12FavNMKout8LudrTiS372d39uPB92UqVziA7Zv": 84.0
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "3w3FPZbJRCuMwyPEpUEUba6wGcZZBha6AqwxZHrVdjw8": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 967.7,
+   "1:pool": 208.5,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 54.2
+  },
+  "wallets_non_etiquetes": {
+   "6wTVWXQPCmmAJra4wFMoy6kae5s2FguHyhcXyhTGmgTt": 94.5,
+   "GUU6mpX6PSRbHh5UUEmSjcPbHmnNMMxTaEe6fE9Zn5d6": 60.4,
+   "2KkbViJEMZ6hfb65Kc3MKd3BA6xjWUVpxmcQs99RY4sd": 50.0,
+   "7nsAMGeKs2HrD6tbX3U9uj9H5n1tmVKpfPo3broTG92u": 40.0,
+   "8nF3n9EeBX6iakdAsiCk4ZkQZfnJtg6oXNkQEevmV2f9": 35.8,
+   "4r1g28Ln6buPDbDEg3PxZwMaG8As38m57zDXtL9GKtDo": 35.5
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "BEdodwDQrzVERnDr4qqc8PhJDt5pw9F5NrPFkxU7kffk": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 512.7,
+   "1:Jupiter, compte documenté": 1.8
+  },
+  "wallets_non_etiquetes": {
+   "5DQixfjyvnDzZLE6hf4YCGEB5oUjrzCJc6AADkBbZFRn": 16.0,
+   "GUeDQipgkdcGqGuuSRAULYso23UxXbiHXdj5p6dSh57r": 5.5,
+   "5D2zKog251d6KPCyFyLMt3KroWwXXPWSgTPyhV22K2gR": 4.0,
+   "FM5cJojwypeyxvM9nckgr9cizDX5NWqBpvCPpbD4yLcu": 2.5,
+   "4GgCVGZ67KCJwBXvVcrMRKq6n97JFwr42RabcWvdiyPt": 1.8,
+   "6aXEnGtq4yJuZag1qQisuwkEdo4h7J7KTeRydPxtY7pS": 0.8
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "7dY2yLDbFxUCdBUMLiNJVz9Mq1PfetrDjr9GXAMnMM4J": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "1:pool": 797.9,
+   "1:Jupiter, compte documenté": 629.0,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 612.3
+  },
+  "wallets_non_etiquetes": {
+   "2SRNB5zRSWTZJa8mW3SFygaFoGU8RHk38cKeDFSd99Jm": 189.4,
+   "HfGz35oA68BwHw7NjdsxRX4cmsVLn4FBypk8PKsEX3Wc": 28.5,
+   "4p6MZsm9ibuWAhxyPfj14mJeE3XHtSAGHyDeDNm5v6GH": 18.6,
+   "3JBpq4tUrNitMeLtgLB2Ra8MoKFMi2As1hAKZ5NfuYft": 18.0,
+   "6RUDRRLDNLDsNSUqmAUGQxAkQxzusceWhxrs8Q4xSzBQ": 16.0,
+   "9iBYhYh3aFv2ptwX6TxTL5FgooffrK4s5NKPoNgR55mv": 11.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S": {
+  "groupe": "gagnants",
+  "frontieres": {
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 82190.9,
+   "2:pool": 22150.2,
+   "1:pool": 2275.7,
+   "1:Jupiter, compte documenté": 25.1,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 2.7
+  },
+  "wallets_non_etiquetes": {
+   "FyC5nr3WJAir6cntnwwQRuurq4JUCWvsH2VS5p4vYZ8k": 11.8,
+   "GLnfR5wZ9GS5iSrnTPHk9GpdDWWL9pVcSHy8tSg5HMWL": 7.4,
+   "GAirGD53HHm4BumeKi9tVyjxX4pg4L4Y8sPQQgTd7TXe": 7.3,
+   "3USthKPKE632BXhrtkRjpkM2AnUKe3mn5TV2AhEqkswd": 4.9,
+   "8B9Ta7bfKeFa3aS5P7fV48SJztEWQksARMyo3daGzZdZ": 4.4,
+   "EUGD6CmLLyPUPvSDVtqHhAagmyVHvmwRjqX1BdxJ3eht": 4.4
+  },
+  "tronque": true,
+  "part_non_tracee": 0.0
+ },
+ "2BLSXbea4abffYCbs6pkCvPDChe9D4VNsfxJTAauQZPT": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:pool": 60.9,
+   "2:pool": 5.1,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.7,
+   "2:Jupiter, compte documenté": 0.6,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "9Yq93ECYbYXyiTvnBeaez1WXCBKUxUtJeJDKy6oDSaXv": 1.0,
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 0.4,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 0.3,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 0.2,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 0.2,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 0.2
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "2mW45kXp4Wd4xRkF2mmh5rKdzjnjbJR2o53skWcxGa2d": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 2.5,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.8,
+   "2:Jupiter, compte documenté": 0.6,
+   "3:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 20.9,
+   "EcNRBhxrWVTjxHxziHmMYQcetxj8C5HJxqEe2KB4DHES": 0.8,
+   "5uBQKQqL2yEdwgFqLvtaTQVjDbFamaCZoh2JFg6yYx4j": 0.4,
+   "F1ksfgNKLHZzKMK3FBBK1fkqGAUYPEmPuabY82eJoS81": 0.3,
+   "CrD1XoU94XAuWAHaCNoPhxzGLMjLPBDxbkozcMgejcEa": 0.1,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 0.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "35nAuv6jGTVMnr7qdiRAV5PbZ3QgTJcLzBFzxGFm6Xw8": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 223.0,
+   "2:Jupiter, compte documenté": 13.3,
+   "1:pool": 2.0,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.2,
+   "2:pool": 0.2,
+   "3:pool": 0.1,
+   "3:Jupiter, compte documenté": 0.0,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "4Tqy4SPNJjD1RPPqqiyf7faReBXF5XqesoTchZn1e9DF": 230.9,
+   "7zycfr97z815o7Bo9MWN47WJR8yv5WF1FcVGj3jL6pK7": 200.1,
+   "7TQBJhqbhGFsKdgGuXsFAU4mHDm2zxsXz8YTb7EAo4Tv": 12.2,
+   "ASWgowZA74nBJM4UGZk7eAKnGqp2kvi5jzT7zwkrxj4W": 5.8,
+   "4MRFnwDxbqZnqU2Mk7Evopf26XJeSEDFTiaCAdg2NTvd": 1.7,
+   "By6Dao4QMNeBxmdUrqsoQA8dCGbHz7xWj57CdHV5M47r": 1.4
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "4wComYHQbydc9DZHsDu3t2MaTLNe7Y3ukdymrkqh9ftC": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 0.8,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.5,
+   "2:Jupiter, compte documenté": 0.2,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "DEuwaZcbpdop5jbSKCHngkzYSqnjwpd2GQmBVXbKqCyG": 0.1,
+   "G1fC4VgkodbFbsEwV8k8mzb2cMkngfqpiCNMGRZkCwvU": 0.1,
+   "8J3gfUpE6WsXYsFNKkUNN8Df1XE9WhjVKzfBtse3Ye1w": 0.1,
+   "4fcPMst7F3XFXA1LV4F98w1y1gaEf6Qmw3tPMD5Y1X8V": 0.0,
+   "E72DuqDL2fkCw2Q8tyW2zWXpkRgK1p6FBJys6h6wpgVG": 0.0,
+   "ASCpXDngrcH8MzVMnSk2E1LRSEiaSukDwwLh2NiLADnR": 0.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd": {
+  "groupe": "groupe_lancement",
+  "frontieres": {},
+  "wallets_non_etiquetes": {
+   "8SaiGWJnpcMNbnqa84op76MuRVkJPx4uZN77mZDb9g5F": 117.1,
+   "DMJmb8aJMzzNur1hAwQoArPEX8dLfbuuuYZnGn6jd8DL": 41.2,
+   "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL": 0.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "74qFhHypY1zi8oS2KahqmwLfV8zMVbBiJ8uDdki8xPEb": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:pool": 3.5
+  },
+  "wallets_non_etiquetes": {
+   "By6Dao4QMNeBxmdUrqsoQA8dCGbHz7xWj57CdHV5M47r": 4.0,
+   "7TQBJhqbhGFsKdgGuXsFAU4mHDm2zxsXz8YTb7EAo4Tv": 0.2
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:Jupiter, compte documenté": 2.0,
+   "2:pool": 0.2
+  },
+  "wallets_non_etiquetes": {
+   "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL": 31.7,
+   "Caw4RrwkmxqtbLSFzgSs6id3XiFxWQxs2t1mrn5a3mME": 7.1,
+   "8SaiGWJnpcMNbnqa84op76MuRVkJPx4uZN77mZDb9g5F": 1.3,
+   "5u1e8jpBD4msQPyfeB8QbvK4MQ35fHPVmYfXmxKfizaf": 1.0,
+   "HHndPeYJNcGwpJtYthngFATbE2VnrYaFDwTFm6vTc6n4": 0.1,
+   "Gw6itV7VbmFrzTo3mcPGhFt7sxMAx3MmjSWJfGvdVVhW": 0.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "7mdCAs8CWYJxkWz2gfj3sRhDBmUi6Q9qvRGuKiv2Bazu": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:pool": 268.3,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 47.0,
+   "1:Jupiter, compte documenté": 15.0
+  },
+  "wallets_non_etiquetes": {
+   "HpGn9G3k7kPyPs4DzLf1BDFvXT3sSessQXhuLR1fFPX2": 37.7,
+   "5NXVcaPSMrRkbkXf3H8TDAVQSXMLMV1Er8EjYSr3E1z5": 37.2,
+   "7EykHrYLyXz5ezpQn9V9HGg8XccVjVi7HsT4eS7HvSmi": 18.7,
+   "95kugCugVisN3t8x5N8ySMGeVb1R3TgZJQAU3avDpaBx": 11.4,
+   "Crfs4B6TvKsTo7jLhGdq2wviUzqJAZ1HqrSC4gTJCqhM": 9.9,
+   "3T2zRnDGP2WomHKANXwKBWdiKscG5mirzCkdjE56ZVGp": 9.8
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "8xjM4fGgPCqY4okN8Dsj4FXSPDp19d3sJYuTVGs2jkUv": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 0.3,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "2:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 0.0,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 0.0,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 0.0,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 0.0,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 0.0,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 0.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "9u5JKgWdLzj4xUiA4sFnaaJeKAJF8zBXExatxeSZHMkP": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:pool": 4.5,
+   "1:Jupiter, compte documenté": 2.0,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 0.6
+  },
+  "wallets_non_etiquetes": {
+   "8UztgNnSY3uxcX2VMWa1Gpdr2Q8XzXvKrsFnKTVrFfJE": 9.8,
+   "Cbz7atNyux4JNHJ3nEyuALTcrFmEmwHDZMnZBncxLMwW": 9.1,
+   "68vjNkkEusgjReLtiTQM2vo9WD8TJfKvpwk6EwqFcq5j": 3.8,
+   "F8rHedrg6DfSQ9NPs9eAEepAaKwhTHgumP8ss678dYoD": 2.1,
+   "Af4MwWdoYDqmrGT2W27cygRGcby4d9QqhyirAiyMSgYo": 2.0,
+   "AS5DsvP9gLyG1uDYJkJoiQCDaV1yTmVx6EQT7cYGNGo1": 1.2
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "ADnZ9NdL9rHg7CL6CnAjEhPTuLsJnvLXrY9kbkhML5Ft": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 7.2,
+   "1:pool": 6.0,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 1.0,
+   "2:Jupiter, compte documenté": 0.9,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 0.5,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 0.4,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 0.3,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 0.3,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 0.2,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 0.2
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "Akp46DicpTMb9aDtZozTViYydsYH5NhcZACWokpzLaNB": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 352.6,
+   "1:pool": 6.5,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 2.9,
+   "2:Jupiter, compte documenté": 0.2,
+   "2:pool": 0.1,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "J2EuNwCSDfFGUhmpWdnoEgZKA17b4dgE9PQVY3jMFiQ3": 147.1,
+   "7SEoKiBLaGhZxr5V8JYGdiV55ZhkgC727ftSYDST148i": 84.6,
+   "72Pgt5MregKZXqkJcYUVvf1vJBH7xun3L3SQfRUBba5Y": 50.1,
+   "By6Dao4QMNeBxmdUrqsoQA8dCGbHz7xWj57CdHV5M47r": 45.0,
+   "B1KEP1nunxUGrCoWZPZzoFJZ2wvLAXuVyNQrycYKRJ91": 37.7,
+   "EoSZGjPxNy8ZadR6wQQkvBtbriMR2oEesco5Tv8oExXr": 5.9
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:Jupiter, compte documenté": 69.7,
+   "2:pool": 1.1,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.4,
+   "3:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "72Pgt5MregKZXqkJcYUVvf1vJBH7xun3L3SQfRUBba5Y": 100.0,
+   "ASWgowZA74nBJM4UGZk7eAKnGqp2kvi5jzT7zwkrxj4W": 38.5,
+   "2UycxkDJSjg1SrarL2SgqhXr3tP7fK49RXT6s8qKSiQB": 28.2,
+   "7zycfr97z815o7Bo9MWN47WJR8yv5WF1FcVGj3jL6pK7": 20.0,
+   "J2EuNwCSDfFGUhmpWdnoEgZKA17b4dgE9PQVY3jMFiQ3": 19.8,
+   "83mQ1eNN31ZYFviUXrUz6SX4ELag2o8CShP314rs6KwJ": 14.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "BuBXTWECG8Xk6wMgyvrK6LQdJBk1exhDaSqNa9nFnjx3": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 0.3
+  },
+  "wallets_non_etiquetes": {
+   "RBsneDCLZHmbTd3iuNyF2bJkiAoap2yiLuPQSkcAmaz": 31.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 2540.3,
+   "1:pool": 1614.7,
+   "1:Jupiter, compte documenté": 917.2,
+   "2:Jupiter, compte documenté": 0.2,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "2:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "RBsneDCLZHmbTd3iuNyF2bJkiAoap2yiLuPQSkcAmaz": 1955.8,
+   "iF6mYJa5M7djrWygs7TnGdLxeJXBNmhK5TgDT2WFjDH": 215.9,
+   "7NiNjWfWaDuWJgFRCVrBjaC22MZgC7vX86scmRBWqH2c": 214.2,
+   "ERm6ztBisNcxRYyaxzbxKbj7XZ7Aj2MfqoWeUytTwkjg": 195.1,
+   "3BonquueLFJrCoojra5VsGhpS5qTctd98AcMjj56goyr": 191.5,
+   "ASSdDoEX19g9kyS51dJVc7RTsvZ66NLqJBbEt8QsJ3vv": 161.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "C7i9beNHXYonZYB5riXE6kaLpFWLj9BPzh2FSBoUUePK": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 339.2,
+   "2:Jupiter, compte documenté": 84.5,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 33.6,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 27.0,
+   "1:pool": 10.6,
+   "2:pool": 9.4
+  },
+  "wallets_non_etiquetes": {
+   "7cQawZsQ631QnBsi1iuv7fnhrybp1RVDigwaVwnYKkcn": 62.6,
+   "2zuLHY2T2RHeYkbhrYxzSyGgNAqY6NpRtWTND61tzfvB": 58.8,
+   "As8WcdqYiiNGkVtRmauksTB7F7ePxz857MLzMqoEABeN": 4.2,
+   "AW7VtkUiTfptS6azYtkk2ehHL59EcJxx3FrU3THkrL7z": 3.6,
+   "6PsW2dHTC4JRhKGHx9YKyknfTpYu7n3EZPBiqGz5ypM8": 1.9,
+   "6ZUeThQ9FovzaS8HejAfGW2VqCXwRYPKKyUNsozpfrSx": 1.8
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "EZXUvi4X5k3Aj99rGzNQoBtAzFqzYUjGhHNu8A1Ty8s4": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:pool": 111.8,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 35.2,
+   "1:Jupiter, compte documenté": 27.4,
+   "2:Jupiter, compte documenté": 2.0,
+   "2:pool": 0.7,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.3,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.2,
+   "3:Jupiter, compte documenté": 0.1,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 54.6,
+   "EcNRBhxrWVTjxHxziHmMYQcetxj8C5HJxqEe2KB4DHES": 36.5,
+   "5uBQKQqL2yEdwgFqLvtaTQVjDbFamaCZoh2JFg6yYx4j": 17.7,
+   "F1ksfgNKLHZzKMK3FBBK1fkqGAUYPEmPuabY82eJoS81": 11.4,
+   "CrD1XoU94XAuWAHaCNoPhxzGLMjLPBDxbkozcMgejcEa": 5.6,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 4.5
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "FjuV7mJUyjMbDg41RybRRrTJu8UTPK6suURavt6ZRBkV": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 0.3,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "2:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 0.0,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 0.0,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 0.0,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 0.0,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 0.0,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 0.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "GFpqfjEQFhXRbWEJCwUqKuNjSNTCgqAsANMbVyTGmi1p": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:pool": 420.6,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 57.4,
+   "1:Jupiter, compte documenté": 52.5,
+   "2:pool": 0.5,
+   "3:pool": 0.0,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "3:Jupiter, compte documenté": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 30.2,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 24.4,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 19.1,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 15.9,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 12.4,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 9.8
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "GPMYCuusSYfgdXXYHLyCBhBdhP9fJeXrSGUou6XAxHgm": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:Jupiter, compte documenté": 324.0,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 6.0,
+   "1:pool": 4.0,
+   "2:pool": 1.4,
+   "2:Jupiter, compte documenté": 0.1,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "3:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "7TQBJhqbhGFsKdgGuXsFAU4mHDm2zxsXz8YTb7EAo4Tv": 295.4,
+   "7zycfr97z815o7Bo9MWN47WJR8yv5WF1FcVGj3jL6pK7": 111.4,
+   "4MRFnwDxbqZnqU2Mk7Evopf26XJeSEDFTiaCAdg2NTvd": 40.8,
+   "ASWgowZA74nBJM4UGZk7eAKnGqp2kvi5jzT7zwkrxj4W": 35.9,
+   "By6Dao4QMNeBxmdUrqsoQA8dCGbHz7xWj57CdHV5M47r": 33.0,
+   "6wnawwKbYo4Q4kc8F4jMqsX4hMKu64mGZKtikywq6UVu": 6.5
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "Gcyg2jeLfSY9gxxHf5za5QU74ijtxBb1dB2mdGSPZH3m": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 330.0,
+   "2:pool": 2.8,
+   "1:pool": 2.0,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 1.7,
+   "2:Jupiter, compte documenté": 0.6,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "6o6v8hH2HAA72iY8tPGNTpBKhqnCyiiDPrnK5KP2TXTX": 355.6,
+   "DEuwaZcbpdop5jbSKCHngkzYSqnjwpd2GQmBVXbKqCyG": 0.5,
+   "G1fC4VgkodbFbsEwV8k8mzb2cMkngfqpiCNMGRZkCwvU": 0.4,
+   "8J3gfUpE6WsXYsFNKkUNN8Df1XE9WhjVKzfBtse3Ye1w": 0.2,
+   "4fcPMst7F3XFXA1LV4F98w1y1gaEf6Qmw3tPMD5Y1X8V": 0.1,
+   "E72DuqDL2fkCw2Q8tyW2zWXpkRgK1p6FBJys6h6wpgVG": 0.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "HGBiExZRtD2TZdQLWHE9azkTSmE2z7ygKqZMtehJDKYU": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 1165.3,
+   "1:pool": 435.3,
+   "2:pool": 0.4,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.2,
+   "2:Jupiter, compte documenté": 0.1,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "CrhSeZDWSe5pJVsNkNDY7s95Sj6BRkyCB5GEeu22uToc": 918.2,
+   "BZfsQNeC1EE4bhVPPhDQDKFaNtWwTwssF6Am6PD6cExJ": 10.4,
+   "9EhRYxK7PwRvBUxdPQ8kR4LzjRCQ5i935y94kXNgStPN": 4.8,
+   "8rNJ1v4LjPNwXzpAqGZf4Tst9nXa7xpazRF2VxwuXCiS": 4.2,
+   "DEuwaZcbpdop5jbSKCHngkzYSqnjwpd2GQmBVXbKqCyG": 0.1,
+   "G1fC4VgkodbFbsEwV8k8mzb2cMkngfqpiCNMGRZkCwvU": 0.1
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "HKXb8LfyzxYUgL1hhP8gtnXMCPnbJm6vNWMbVsmvy6WV": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 0.3,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "2:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 0.0,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 0.0,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 0.0,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 0.0,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 0.0,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 0.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "HkrGvxapoqp6625TKs8v8tEyu6eDwuPxmPinRaGH6i4a": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 0.3,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 0.0,
+   "2:Jupiter, compte documenté": 0.0,
+   "3:pool": 0.0
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 0.0,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 0.0,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 0.0,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 0.0,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 0.0,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 0.0
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ },
+ "NxtXcmEW3gQvrCdBEm5GYT3zaqMre3QiPUhnwViNsD7": {
+  "groupe": "groupe_lancement",
+  "frontieres": {
+   "2:pool": 24.1,
+   "2:service non nommé (vu par ≥ 15 wallets tracés)": 3.3,
+   "2:Jupiter, compte documenté": 3.0,
+   "3:pool": 0.6,
+   "1:service non nommé (vu par ≥ 15 wallets tracés)": 0.4,
+   "3:service non nommé (vu par ≥ 15 wallets tracés)": 0.2,
+   "3:Jupiter, compte documenté": 0.1
+  },
+  "wallets_non_etiquetes": {
+   "AQVgyg8P5Yh5YcAqAMQRRGzDegy1R58gN4Qh87QsJAF1": 5.0,
+   "4ZeeNAHJJbLdoyaK7kjR3veLxCZmgjuBjr2AGS33Wu6f": 1.4,
+   "6WQMrmnezBZEo1iiZjBiaiGiyDcffhETRN4fP8BKaSog": 1.1,
+   "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c": 0.9,
+   "BEgrtDs3yxHPxegpjVdzJS3d9UermeoWah5rYB2B3YMJ": 0.7,
+   "ApJQVcapkJkzDKZKeTWL615PeVr6nUECchqzgz1NoXK3": 0.6
+  },
+  "tronque": false,
+  "part_non_tracee": 0.0
+ }
+}

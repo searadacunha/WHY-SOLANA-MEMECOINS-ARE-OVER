@@ -1,0 +1,7 @@
+wallets du résumé 65 tronqués 14
+somme du résumé [('service non nommé (vu par ≥ 15 wallets tracés)', 175427), ('Bybit 2', 8523), ('Binance 1', 8051), ('Coinbase 3', 3285), ('Coinbase 1', 2589), ('Coinbase 2', 2039), ('OKX 16', 446), ('OKX 12', 0)]
+lignes (1099547, 955, 5001, 3, 'DQyrAcCrDXQ7NeoqGgDCZwBvWDcYmFCjSb9JtteuvPpz,HXz1MFnu9ANWfCBesnrzMZMPoFbUyyqPDKT67sqgT4rk,7MNeJP9gi5kBY1DVzJA1kzdeCr6oscXEZW51XMnmByC7')
+assets [('USDC', 92379, 720094812.0), ('USDT', 43766, 214985286.0), ('SOL', 963402, 2265944964.0)]
+USD 170.0
+toutes lignes wallets atteignant une frontière 63 [('service', 175427), ('Bybit 2', 8523), ('Binance 1', 8051), ('Coinbase 3', 3285), ('Coinbase 1', 2589), ('Coinbase 2', 2039), ('OKX 16', 446), ('OKX 12', 0)]
+sans décimales fausses wallets atteignant une frontière 63 [('service', 175427), ('Bybit 2', 8523), ('Binance 1', 8051), ('Coinbase 3', 3285), ('Coinbase 1', 2589), ('Coinbase 2', 2039), ('OKX 16', 446), ('OKX 12', 0)]

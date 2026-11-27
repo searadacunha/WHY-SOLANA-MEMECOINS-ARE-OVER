@@ -1,0 +1,74 @@
+{
+ "s51_hypothese_relais_pur_prorata": {
+  "m2_usdc": 99981.823743,
+  "lo_bnb": 157.3402980930148,
+  "lo_eth": 28.868263944139542,
+  "lo_sol": 442.56220806512454,
+  "marked_bonk_share": 0.5481483486966369,
+  "lo_sale_sol": 471.13701095546435,
+  "lo_converted_sol": 471.1270107554643,
+  "deposit_usdc": 182548.799464,
+  "marked_deposit_usdc_min": 100027.9329182806,
+  "share": 0.5479517433803056
+ },
+ "s51_hypothese_relais_pur_strict": {
+  "m2_usdc": 99981.823743,
+  "lo_bnb": 157.3402980930148,
+  "lo_eth": 28.868263944139542,
+  "lo_sol": 442.56220806512454,
+  "marked_bonk_share": 0.5481483486966369,
+  "lo_sale_sol": 468.10070838839255,
+  "lo_converted_sol": 468.09070818839257,
+  "deposit_usdc": 182548.799464,
+  "marked_deposit_usdc_min": 99383.2764613909,
+  "share": 0.54442032351459
+ },
+ "pire_cas_propre_a_o2_prorata": {
+  "m2_usdc": 0.0,
+  "lo_bnb": 0.0,
+  "lo_eth": 0.0,
+  "lo_sol": 0.0,
+  "marked_bonk_share": 0.0,
+  "lo_sale_sol": 0.0,
+  "lo_converted_sol": 0.0,
+  "deposit_usdc": 182548.799464,
+  "marked_deposit_usdc_min": 0.0,
+  "share": 0.0
+ },
+ "pire_cas_propre_a_o2_strict": {
+  "m2_usdc": 0.0,
+  "lo_bnb": 0.0,
+  "lo_eth": 0.0,
+  "lo_sol": 0.0,
+  "marked_bonk_share": 0.0,
+  "lo_sale_sol": 0.0,
+  "lo_converted_sol": 0.0,
+  "deposit_usdc": 182548.799464,
+  "marked_deposit_usdc_min": 0.0,
+  "share": 0.0
+ },
+ "allocation_du_minimum_commun_prorata": {
+  "m2_usdc": 981.812853,
+  "lo_bnb": 1.5233803587851908,
+  "lo_eth": 0.0,
+  "lo_sol": 0.0,
+  "marked_bonk_share": 0.0,
+  "lo_sale_sol": 0.0,
+  "lo_converted_sol": 0.0,
+  "deposit_usdc": 182548.799464,
+  "marked_deposit_usdc_min": 0.0,
+  "share": 0.0
+ },
+ "allocation_du_minimum_commun_strict": {
+  "m2_usdc": 981.812853,
+  "lo_bnb": 1.5233803587851908,
+  "lo_eth": 0.0,
+  "lo_sol": 0.0,
+  "marked_bonk_share": 0.0,
+  "lo_sale_sol": 0.0,
+  "lo_converted_sol": 0.0,
+  "deposit_usdc": 182548.799464,
+  "marked_deposit_usdc_min": 0.0,
+  "share": 0.0
+ }
+}

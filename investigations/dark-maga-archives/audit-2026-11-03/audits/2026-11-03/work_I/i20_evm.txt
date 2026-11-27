@@ -1,0 +1,10 @@
+1 0x2d86499a410a9ac2139833ba8d6942b8a8700a7b is_contract False is_verified False name None public_tags [] private_tags [] watchlist [] ens afk.eth has_token_transfers True balance 4766014726854414258 metadata null
+   compteurs {'transactions_count': '21519', 'token_transfers_count': '15213', 'gas_usage_count': '2523904713', 'validations_count': '0'}
+1 0xb947bf7f409e998b28f8e218802fc9575c3c8c57 is_contract False is_verified False name None public_tags [] private_tags [] watchlist [] ens None has_token_transfers True balance 5280427320623487 metadata null
+   compteurs {'transactions_count': '0', 'token_transfers_count': '0', 'gas_usage_count': '0', 'validations_count': '0'}
+1 0xb29826d809aa04d2ead6f2310d8965a45b87fa67 is_contract False is_verified False name None public_tags [] private_tags [] watchlist [] ens None has_token_transfers True balance 2856008949960136 metadata null
+   compteurs {'transactions_count': '544', 'token_transfers_count': '641', 'gas_usage_count': '67944773', 'validations_count': '0'}
+1 0x86f99097c563e84dd5190f3e85f6a2988f1c47a5 is_contract False is_verified False name None public_tags [] private_tags [] watchlist [] ens None has_token_transfers True balance 58827948476207874 metadata null
+   compteurs {'transactions_count': '0', 'token_transfers_count': '0', 'gas_usage_count': '0', 'validations_count': '0'}
+échec https://base.blockscout.com/api/v2/addresses/0xb29826d809aa04d2ead6f2310d8965a45b87fa67 <HTTPError 403: 'Forbidden'>
+échec https://base.blockscout.com/api/v2/addresses/0xe2f040200a9b3af83fb40d3092613832a05e7647 <HTTPError 403: 'Forbidden'>

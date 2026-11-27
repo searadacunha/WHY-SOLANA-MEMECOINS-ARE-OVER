@@ -1,0 +1,8 @@
+4ToQp55myv dans link_edges []
+CpoD6tWAsM dans link_edges [('sol_direct', 1), ('token_direct', 1)]
+9nX7k7FQ4z dans link_edges [('token_direct', 2)]
+5V97uEb4ZN dans link_edges [('funder_commun', 84)]
+AD65fgYti9 dans link_edges []
+425DZohsnq dans link_edges []
+degré le plus élevé en token_direct et sol_direct [('GoGYn8i7NmEHaGMv1szDoYJuFFKtbLg4kk3G3Aqryk9n', 29), ('FMZA3spnZbB1eXyaCLxLHN1XxKb8Drtgr2GVfjVGkvQa', 24), ('337k8URshvaagCFPVvwgdFkRG5qYdwztzDmnFVxRQHgU', 24), ('8vTm7U8e93bESmtVG8HCMupsfAxZrsXvHEJLfzv5TTJ6', 21), ('BfRDRBPKM37MpCxrWKL7unfvUAdkfaktQ73Y9HHdz2E2', 18), ('GhY9fKMUE3726rwcfVsRgjC1TjYUVxtCBEXSsm1wuB7P', 17), ('5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd', 17), ('dQyiUnrBuhhbpRfkkBVhvoNnJXHwkx3axAtmxYLzc8i', 16), ('41BdWFWRZ6BfnrGk9Pmbd1FRvXVHoPmGaDuonD2quW3K', 16), ('H1k7BQUybBqPWFBPA1ZyMg6jUdioLWwKFLrnksjDQ8xw', 16), ('4SpEEMV2t6G6MLA9W8Dg6wP9H8M1966PhN9LkHzGcqgL', 16), ('Er3Aq5XU1ohoBvdLPxAJJQv5HqgwXeuYxBnc9Bk4fLAF', 16), ('A3uYhhnzBH4xGcQjwRgNjA8cyfAVgZdTuDoC5sJ5L5i4', 16), ('6J1UASvjqNxWjHdMwo5jXctd8DX2dnVNUqwhKJhyz8x5', 15), ('ErXg9C54TAbF3RHHNggpHnL5L1RLGBqFmWco7VGjMkiq', 15)]
+garde : fini, code 0, pic 49 Mo

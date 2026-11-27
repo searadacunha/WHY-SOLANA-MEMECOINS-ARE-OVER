@@ -1,0 +1,3 @@
+lignes lues 1000
+absents du propre 1 [(1, '8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR')] slot différent 1 montant du premier achat différent 1
+garde : fini, code 0, pic 46 Mo

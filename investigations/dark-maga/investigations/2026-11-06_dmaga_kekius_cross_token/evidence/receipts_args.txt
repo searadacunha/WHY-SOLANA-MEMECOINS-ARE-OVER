@@ -1,0 +1,12 @@
+Z5mfqc9pbTs3qWWDb6MSoG7gv639WMF4Lau2yvCJQtn5Ysz8HMvVr3GTGgdFe5gpgCjZxkvzVMNfeYodA8zrr6c=XC78 : 3oqARBND finance Go5 (70,06 SOL), 2 min avant la création
+xRkRxexfgPdSUHMdtTSoCBgqGpiUU4WxP26QxiqEkhAyNjoFtgy7NpeEG9PDnmTXLAfPpm5DgfVTFBMLBMpVrBC=XC78 : Go5 et deux wallets co-signent un retour vers 3oqARBND (11,9165 SOL), frais 6,96 % vers C6UEzXJc
+5kMh8aNjmKBbwJE7E6SuD7ju1ULqu9k4DzbwczyQgnG9xkL6HdrXtiQodg9ubRdXNdUWr4RXfmhsgLNuyDLed3c7=XC78 : Go5 renvoie 1,9757 SOL à 3oqARBND, frais vers C6UEzXJc
+HdL6WFe5g6eNb84xq6MQ6U6YPcxQBizQFouRH92aAWbQuZtdz9dC2CiKBxLQZMHoixr8UpauBSc5yaAmA79QrY4=XC78 : FBwXQAEb (service probable, non étiqueté) finance 3oqARBND, 86,082 SOL
+5XENanVAEbxsLrc9npAcjRrYRHErgUbT34q3adFDXeuFqvwsPrJdpmkQ9jwQbwYPbPUxF4Y8MsueC2YzJueWNX1U=DZwQ66i2 : premier mouvement KM (14/12/2024)
+5ZxEY11s2dwphb3ytyf4SosscTZX9iKfmPcMFkzgPyB2DtoZU4wkmJMT9QdgaQuLZXAvxiqM5Y4KQp4Vox9KwbTB=DMJmb8aJ : premier mouvement KM (14/12/2024)
+4DWwAWbHNGTGfzawAQDfB3GkUSxM5vt7pfX3GSdhmkn6Xm224k1kFn1BUBnyJU7PTHNesXzHXSk49NMps7XQ8QmC=5QhJJc → DMJmb8aJ 7 000 USDC (20/01/2025)
+4dChb1EMrLFYNpDx9iWAtKzXde1VeGoxGF6LQ8kTDpE6FX8WMrFr7y2VYTJyqbtoJM1sY4yKxoDMs24Nu1EgiAyV=DQmMnaki → FJkb8WnW 1,474847595 SOL (11/07/2024)
+3kXEwKY5A9Givucjcd59n77qRWwoj4J8sgBPTtxMm8Ey5SLVGuAACFhuU2nueM6gBB2iwT6wFYXAPV9nceQLsxvn=DQmMnaki → FJkb8WnW 1 SOL (10/07/2024)
+meMfnP6CTuwsCquuMzwqVYLUovQL3mc9MfjYNGRYscgxtdfyv5NYMCUJ2K2RL5WuXnpJuTNL6jgmJ8rTrNdmiWp=FJkb8WnW : premier achat DMAGA
+5xqzEckQ4aC7KEPiPRRPPvigz7TihYxvt9aSFYRNJ1H54e1swR5uceJ6yPLhVaXxdBfvW8ktyDPPMbcCAzCvPd3Z=DQmMnaki : achat XC78 Raydium, 1 s après l'initialisation
+3UrcoNZAHDPDwRY2MNdTVcExXFJTRjr4wM6XS7fEAUnYBW4zFq9D2Wm2gvAHKCPV4YHpFTZt5m7wtofTJM549qfy=XC78 : 3oqARBND finance les 16 acheteurs groupés (70,472 SOL), 1 s avant Go5

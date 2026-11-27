@@ -1,0 +1,52 @@
+2000 lus, 1.47 Go, 27 s, 0 différents, 0 manquants
+4000 lus, 1.79 Go, 44 s, 0 différents, 0 manquants
+6000 lus, 1.83 Go, 64 s, 0 différents, 0 manquants
+8000 lus, 1.87 Go, 87 s, 0 différents, 0 manquants
+10000 lus, 1.91 Go, 107 s, 0 différents, 0 manquants
+12000 lus, 1.94 Go, 128 s, 0 différents, 0 manquants
+14000 lus, 3.48 Go, 160 s, 0 différents, 0 manquants
+16000 lus, 5.04 Go, 193 s, 0 différents, 0 manquants
+18000 lus, 5.88 Go, 218 s, 0 différents, 0 manquants
+20000 lus, 6.03 Go, 230 s, 0 différents, 0 manquants
+22000 lus, 6.18 Go, 244 s, 0 différents, 0 manquants
+24000 lus, 6.34 Go, 257 s, 0 différents, 0 manquants
+26000 lus, 6.49 Go, 270 s, 0 différents, 0 manquants
+28000 lus, 6.64 Go, 295 s, 0 différents, 0 manquants
+30000 lus, 6.79 Go, 307 s, 0 différents, 0 manquants
+32000 lus, 6.94 Go, 315 s, 0 différents, 0 manquants
+hors manifeste : 16548 fichiers
+ctrl_tx 500/16548, 362 s
+ctrl_tx 1000/16548, 371 s
+ctrl_tx 1500/16548, 379 s
+ctrl_tx 2000/16548, 388 s
+ctrl_tx 2500/16548, 398 s
+ctrl_tx 3000/16548, 406 s
+ctrl_tx 3500/16548, 416 s
+ctrl_tx 4000/16548, 424 s
+ctrl_tx 4500/16548, 434 s
+ctrl_tx 5000/16548, 442 s
+ctrl_tx 5500/16548, 451 s
+ctrl_tx 6000/16548, 462 s
+ctrl_tx 6500/16548, 473 s
+ctrl_tx 7000/16548, 482 s
+ctrl_tx 7500/16548, 489 s
+ctrl_tx 8000/16548, 498 s
+ctrl_tx 8500/16548, 506 s
+ctrl_tx 9000/16548, 516 s
+ctrl_tx 9500/16548, 524 s
+ctrl_tx 10000/16548, 533 s
+ctrl_tx 10500/16548, 543 s
+ctrl_tx 11000/16548, 551 s
+ctrl_tx 11500/16548, 559 s
+ctrl_tx 12000/16548, 567 s
+ctrl_tx 12500/16548, 586 s
+ctrl_tx 13000/16548, 620 s
+ctrl_tx 13500/16548, 631 s
+ctrl_tx 14000/16548, 640 s
+ctrl_tx 14500/16548, 649 s
+ctrl_tx 15000/16548, 657 s
+ctrl_tx 15500/16548, 666 s
+ctrl_tx 16000/16548, 675 s
+ctrl_tx 16500/16548, 683 s
+FINI {'manifeste_lignes': 33033, 'conformes': 33033, 'differents': 0, 'manquants': 0, 'octets_relus': 7076282910, 'ctrl_tx_haches': 16548, 'duree_s': 685}
+garde : fini, code 0, pic 43 Mo

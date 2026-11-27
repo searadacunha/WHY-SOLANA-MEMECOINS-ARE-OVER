@@ -1,0 +1,8 @@
+venues 86
+en-tête [(71682, 788319.1919526194, 783934.5849817048, 97097.1113531268)]
+H3 entrées étiquetées [('Jupiter, compte documenté', 31.02, 8), ('KuCoin 2', 8.01, 1), ('Binance 1', 5.82, 2), ('Coinbase 1', 0.83, 1)] sorties étiquetées [('Jupiter, compte documenté', 'USDC', 3999.15, 4), ('Jupiter, compte documenté', 'SOL', 469.8, 28)]
+GX entrées étiquetées [('MEXC 1', 6.9, 1)] sorties étiquetées []
+P9 entrées étiquetées [('Coinbase 3', 59.22, 17), ('Jupiter, compte documenté', 35.21, 3), ('Coinbase 1', 29.4, 13), ('Coinbase 2', 17.35, 9)] sorties étiquetées [('Jupiter, compte documenté', 'SOL', 72.61, 4)]
+Q entrées étiquetées [('Coinbase 1', 7.65, 1), ('Coinbase 2', 1.05, 2)] sorties étiquetées []
+groupe edges n 40 33 ['n', 'members', 'edges', 'moved_M', 'first_edge', 'bought_sol', 'bought_M', 'first_buy', 'realized_sol', 'net_sol', 'proceeds_usd', 'cost_usd']
+gel M6 p 0.15566037735849056

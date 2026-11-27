@@ -1,0 +1,27 @@
+lignes, signatures [(919783, 796883)]
+par kind [('swap', 606736, 602979), ('internal', 133117, 131488), ('transfer', 92781, 47175), ('fee_share', 66717, 64071), ('lp_remove', 11654, 11305), ('lp_add', 4795, 4790), ('swap_other', 3982, 3356), ('mint_supply', 1, 1)]
+par source [('pool', 748872, 681703), ('mint', 158584, 104085), ('venue', 12157, 10927), ('curve', 170, 168)]
+signatures à plus d'une source [(0,)]
+doublons exacts (signature,kind,owner,token_delta) [(5903, 5903)]
+block_time nul, tx_index nul [(0, 0, 1720922725, 1793661329)]
+swap par venue (top) [('raydium', 544310, 637995.0, 638787.0), ('9UsmwVmb', 27198, 16993.0, 11081.0), ('Eqe7fgb5', 10479, 6278.0, 6736.0), ('D55ba7tz', 7369, 890.0, 498.0), ('5Q544fKr+9UsmwVmb', 5861, 69363.0, 71073.0), ('5Q544fKr+Eqe7fgb5', 2722, 38593.0, 40731.0), ('7J3RfFgs', 1798, 0.0, 0.0), ('7UsfbqGu', 1590, 1051.0, 776.0), ('5Q544fKr+GpMZbSM2', 1140, 50.0, 148.0), ('5Q544fKr+D55ba7tz', 433, 2240.0, 2330.0), ('CUc52YZe', 349, 0.0, 0.0), ('5Q544fKr+7UsfbqGu', 343, 4954.0, 4125.0), ('5Q544fKr+7J3RfFgs', 294, 1951.0, 1599.0), ('FvMop2PX', 275, 76.0, 34.0), ('D2r7Vt8B', 247, 5.0, 2.0)]
+swap total SOL 
+doublons par kind/source [('swap', 'pool', 3174, 3174, 6699.87, 2, 2), ('internal', 'pool', 1159, 1159, 4.69, 2, 2), ('fee_share', 'pool', 558, 558, 0.0, 2, 2), ('internal', 'venue', 470, 470, 6.86, 2, 2), ('swap', 'venue', 452, 452, 62.91, 2, 2), ('lp_remove', 'pool', 56, 56, 2.37, 2, 2), ('lp_remove', 'venue', 15, 15, 0.08, 2, 2), ('transfer', 'pool', 12, 12, 0.0, 2, 2), ('lp_add', 'pool', 5, 5, 1.85, 2, 2), ('swap_other', 'pool', 2, 2, 0.0, 2, 2)]
+exemples [('4YrMzRFRgmNZcGjEHBjYAQstroDTMM8TqF8JoXaXW2Z4Uxq8NeLsxQVVEfACofqKzmfAaK5tMnwbPaJhL3ve9X66', 'swap', 'GyhmtpsSS5YftjkRkFuqqAvV5hu1vR9EDfWnBMxcXihT', -1525053059537, 'pool', 2, 1721794473, 79604746865), ('2NUYsFcjSFcD6tMX47w5jeqSH3tPxnWyXv9AsmvzMBBQo8961DTt9nn39CMups8fzZLdSMwHb8oNbfrYRjQGhAb5', 'swap', '6bKNmmyckNZNtcgPbxZU9arsQwGEFosvZtLGsXixhxED', -1363166527825, 'pool', 2, 1721789508, 72828236977), ('584J22xQYCnAcxWdp8Zavs6CDgvqch9XFRz5LbhhDEerYzvmycjdpfXBBNEtgJXifWE4VWK4CWLe1TbDX3b1WNkL', 'swap', '5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx', 1238737780705, 'pool', 2, 1721780905, -76283998659), ('3cNkD1E7gaw3hT94Y91BrtwLVZMYFHSrRjuxdL6MTYQ4tccMGnrhQmDfpXb8zutbUJUjnvbnYRLjLfLr5ABmw3qh', 'swap', '5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx', -1238737780705, 'pool', 2, 1721780905, 76405505318), ('3PpasfMYQFTsPsCDXfwDZ49Y3TpHn3obGjMJEHN838Fgc3mFvyaDsAkKcAc4eyaZ53vHUj9qTtKFR7FSKHBfLLMy', 'swap', '6bKNmmyckNZNtcgPbxZU9arsQwGEFosvZtLGsXixhxED', -1022374895869, 'pool', 2, 1721789560, 52715811835), ('5E7jGGRthKCA92KoVgeUWS8ouX1MNvF3taQZHdbwwgaWUGhNEwK65CynqsWeNrZkxsShr788tW3E8WREEwvr1TYn', 'swap', '25mYnjJ2MXHZH6NvTTdA63JvjgRVcuiaj6MRiEQNs1Dq', -1006268227037, 'pool', 2, 1721792572, 52987286834)]
+échelle par signature, swaps :
+  ('a <1%', 1, 0.0, 7.1, 992.9)
+  ('c 50-99%', 2219, 8299.0, 165.4, 167.7)
+  ('d 99-101%', 596615, 1547117.0, 47698.4, 47710.7)
+  ('e 101-200%', 1032, 5731.0, 207.2, 193.5)
+  ('f >200%', 3112, 12439.0, 227.4, 113.6)
+mêmes tranches, par fenêtre 21/07 avant S et 24 h après la borne haute :
+  avant_S_21h [('50-101%', 1664, 2061.9), ('plus de 101%', 4, 13.1)]
+  24h_apres_musk [('50-101%', 60637, 383278.6), ('plus de 101%', 88, 1669.5)]
+multi-bénéficiaires [(1, 606472, 1573136.0), (2, 264, 450.0)]
+bénéficiaire non signataire [(False, 108793, 226960.0), (True, 497943, 1346626.0)]
+top non signataires par SOL [('5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx', 2110, 66338.0), ('AD65fgYti96iSSzSPaNazV9Bs29m7JbNomGjG4Cp5WFS', 1474, 33775.0), ('BmanDqQELF7QY5uRPw8vg3eMjR74WZnszKmNbLJKkay3', 1323, 25878.0), ('4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S', 1936, 20363.0), ('8aHVf4T3t4Z2kjnNojLh87zswhH21EU2iFnVoadN3MXx', 1077, 12616.0), ('CnZzdTH1e6ZT3mtgaXqggexCWfubm375UMuFpAycDd1r', 36677, 5355.0), ('AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy', 1105, 4980.0), ('Bya5eBy9KgqaXfnLKuvFYBaqzYqxip3JVimhtToKRxLp', 5211, 4450.0), ('CH7MJuK5Kh2e7cribybdQLPzSxLqL4AgWwKZgaNoHA7J', 280, 2370.0), ('9mH9Q5KPQPjwENTfcVDByskRyDaZcynxHkLooRbWFV8E', 13, 854.0), ('5xyUFj7a8sP9y7DS93MnVvAfBAW3Sq3hbcfyuhyawSD9', 1088, 775.0), ('2PF9meafUQg5sCaohLhqt8hdQQmmNeQ21SkcWMsrF7yE', 49, 742.0), ('2WmdevZEvxwP6RL6hUtuhzHU7Uf3KKGfsjDff7wLVLyy', 35, 673.0), ('ADw57JeDjTeEjSYiAFJgLCnsT19bXSvx39CRnhTWXLfy', 60, 562.0), ('425DZohsnqJjyMtMe2XfHsEuiAf9xBRAqsGSGsH8PKdc', 2034, 554.0), ('E4iKzxtNKXZB3pFofNaEkXFB1ekdNeeshmVkgYSDLgHS', 188, 546.0), ('225o8JR2Ezam5q1EBb5bKDS4KoqbFDxncYKGYtyhRmTQ', 431, 481.0), ('AojsMucuraCTZh94UwsMXcfRQASWKtC375tJ5iC5dTpE', 54, 456.0), ('AzWs3s1WaqnbeiCazrc7PBKb6MDrQeq5AxgFwzBSBjkA', 24, 447.0), ('EKDB7EyLPD7a2Mqo7Kh8Y4aR7gD26VErY3yj41eZjwCJ', 475, 430.0), ('94cW9n4vXENhDnzKCpXMFwxP9czqQmeLDzRKYZTXhW6s', 163, 415.0), ('DPMvRJtwxxZWN52Whf7RLeTUiRzk8DLbwFrzTBK6L3Ak', 2, 414.0), ('AmLZB4eJfhrrhSeGyVpbFU6mZ7mixjGnpeBDXQxNw32R', 242, 414.0), ('4FaACTjBtk2mFe5PNvdDknamvkk996WeUSomvtjPTQbz', 47, 411.0), ('HQgt6F81iPVCGZmFZRDVyiX7YmWM9edH7zpo2sXBwqgE', 175, 405.0)]
+lignes usdc [(3152, 567202.0, 6251.0)]
+lignes usdc ET sol [(550, 345394.0, 6251.0)]
+sens incohérent swap [(0, 0, 0)]
+internal [(6243.0, 0.0)]
+garde : fini, code 0, pic 473 Mo

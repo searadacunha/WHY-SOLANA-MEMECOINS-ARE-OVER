@@ -1,0 +1,317 @@
+{
+ "source": "repo data/collector.json @643934a (wallets_de_l_enquete, read-only copy)",
+ "address": "9W9b3zgHH9mCEHDhsdbnbEPHStm9vvXS4aia4DWHBxpL",
+ "expediteurs_total": 48,
+ "wallets": [
+  {
+   "wallet": "B252jsFK2BKMfHRFzrHcxyVayPvC32h4ZXU8jmsm4Gsp",
+   "sol": 16.0,
+   "n": 1,
+   "first": 1719605182,
+   "sig": "XiARYj61RFsHw6HcMfy66aiuA2Miiirc26jDGfW584HPr8caZ9nVZU7ETwJbnNXf1S1931QaPsnx78nGByYTwo2",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 24.89456584386861
+  },
+  {
+   "wallet": "EGtyQEgMKGKXjppDqj9sYy97e9m7nvu1US4SfFXNakMy",
+   "sol": 7.9,
+   "n": 1,
+   "first": 1721700846,
+   "sig": "2mC7gPb89CVz5aZ2sn86v3XmFxYFxsWrTE5Nt2mF6WQdZz3R5k3joi9xMCUwUXg2DZrunuZ1DJdS8q5fNZ1Ubozg",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 158.82688498127902
+  },
+  {
+   "wallet": "G41vRrsHShLEvwMj58ruhqJycGfAtWXxtLD56uFExL8E",
+   "sol": 8.0,
+   "n": 1,
+   "first": 1721700907,
+   "sig": "4e3Pg7TvkWucWVKUM5Mymc88jApjREYNsUGk9gSH9gqGWCSEBUQHPdaboYRoMTCP6hPEhw693BGh7iHnZsr3fgZN",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 30.25052296673891
+  },
+  {
+   "wallet": "C73Yv9iHmTaf8SU2XFnGLt7QXUDqbeWNtUYza9WJhkae",
+   "sol": 8.0,
+   "n": 1,
+   "first": 1721700977,
+   "sig": "25u4vvqJkg7CTmCnEZQSRwjXG6tbjBYMq4tLtZEQqWYg6r8HfqDAuUutacKtYs1PQgce8ikjHq9vREX7PtyGrGt6",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 1686.0519199153048
+  },
+  {
+   "wallet": "AtZjv3DuV9cLn3Jxm72TMSdTN4aM6CrBaGyxUC4c2wDk",
+   "sol": 8.0,
+   "n": 1,
+   "first": 1721701010,
+   "sig": "KJDdVPyYmAUHioiv1Cf6ihJLLX6jhgieTqnUp7hobUWGEVbd5ysM2SXZY8ewBd8Mx7YBnm8gjFGYqXVJ9ZT9u73",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 327.33280036
+  },
+  {
+   "wallet": "6ZMaqHjPYpPdYor9qNGJP7bmunaFCuWcDVjDkR5H3b1J",
+   "sol": 95.6006806,
+   "n": 6,
+   "first": 1721784344,
+   "sig": "43n9B2PWjk7g4wjD3AGVCMKVSKecXR6jE6tmRZEhFnSvXjuBdjGGhLzDJ3hvQjpDw9b9cYosSPSxFZVdXAgKe1sd",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 124.490254033
+  },
+  {
+   "wallet": "AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93",
+   "sol": 66.766950263,
+   "n": 4,
+   "first": 1721784370,
+   "sig": "45cbQaFCauisAfjqGdAd1WjQF573bANt6rJ3unYLWpD9VqKQdkqAEmYQejBmc1tXLTjKmJEJPQgHC7VpMbGcWLtu",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 78.98756583288191
+  },
+  {
+   "wallet": "7udH6KquEj4qECfrfoNHci2ut3fo8NS21aVu9tQiJQp5",
+   "sol": 52.488,
+   "n": 4,
+   "first": 1722799698,
+   "sig": "2gQ9KZKDWkMYQ9EuWCUKKqrFVUpAqiQnuaspqutMGBQMkGn5mbBvaRqMd2xVTNv3TXB5VaJsgnaUr6kUmNu4R31K",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 37.947812031
+  },
+  {
+   "wallet": "5s3ogzsq8cvwHtS1B6MhwUUp9CyzugJ6y3WqLPM9Ee3C",
+   "sol": 37.71,
+   "n": 2,
+   "first": 1723008118,
+   "sig": "51itiLqSnnG2X1z1usBVasyLmeKgESkwvXh4d4NabFKUxaHwrcRbyeuAEKTGDxKw2bnMaDJVXX7uE5R3825QYAZ1",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 37.689734404
+  },
+  {
+   "wallet": "Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd",
+   "sol": 40.765,
+   "n": 2,
+   "first": 1723517257,
+   "sig": "4h9suR6hmjcuAAQseUtmNby1KpAVsNN4TcFV2qKVdq9ixfFEaLCriMff79i1oZMWCBpRdD5DexUsBdhQ7UhBkose",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 8.915525449
+  },
+  {
+   "wallet": "HMVYeTjsoaM1txP9NUcbkcowVj2F1JeGrZPx6ivJackF",
+   "sol": 3.258,
+   "n": 1,
+   "first": 1723570010,
+   "sig": "4U8xMJu7GsaeGtmaqhtS1P7ydUtcJBXruJwat7SK9MtWtD9WBfiAG5Krt3Gm7e9ZNK1Q4QrxeF6m3XsKwdmWbEGp",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE",
+   "sol": 31.71,
+   "n": 3,
+   "first": 1723570047,
+   "sig": "44Sj6LVzdd9B7dLPzm3EqJ4BpKFRV9MdEzfQ88YiCCDAXYiXJUK7huCAgRJsTQEFR2VeHYCH6hYHPsVspCK2erX1",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 35.276921190198564
+  },
+  {
+   "wallet": "9XtmxHeJBPEgdegnBJB7zDSDjrDW3VrWBPvgLDayYCpE",
+   "sol": 61.33,
+   "n": 2,
+   "first": 1723829127,
+   "sig": "3PXKDqSLXYWvQRebZoQ55nVzjx1YWCZf8DkggWyRCb4N5vLVvR7wqmZsy1v27DJ4u3HKWXSrHEQeHQyEjk6uZT6X",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "HR3oD1C3DX5CfKyZ13xBQF2pJFTWWYfgxadFiYuvJNeM",
+   "sol": 7.333,
+   "n": 2,
+   "first": 1724606245,
+   "sig": "2j5Y7m2EEcJmvAbV9Qdj33DyXLFnVUHygU6TAvyoMYC9H2C2kz2GKoUK8UTfPVnYN92DbpHST1PYBeKimvS2xhgC",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 1.448786827
+  },
+  {
+   "wallet": "6ty9DM4s2mNvsMpMrcaXBDVguFHapfwK9g7WdD9DBLgM",
+   "sol": 29.4111,
+   "n": 2,
+   "first": 1725977087,
+   "sig": "3bD61r7nKY3MJeiT8R2NTdgGNr1KpLBFkP8X6cCvjfS3LXufNGdGrYeNDYxgSub5YuaiGWEN9Up3z4YRXXKxT1Hb",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 50.309554941084414
+  },
+  {
+   "wallet": "EEpSRR12vTrH3Wbf3Ke4vT4RkMfPTqFv5wfE948cr3Wa",
+   "sol": 8.022,
+   "n": 3,
+   "first": 1727012723,
+   "sig": "5WPLBXNdNYq7tThyysq5VTbL3vYjAxG8kXru1uAsqHPhvp42GwUMdgoGBANKc6JFMhF2ZVyR22Fd4sGus7ufJPDm",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 25.173632539
+  },
+  {
+   "wallet": "Cv3p9Wu1Ftib8Xm9vwWnR7d9tCYSMrHbFRLpT1pqQ5Cd",
+   "sol": 6.917999999999999,
+   "n": 2,
+   "first": 1727611731,
+   "sig": "2qwYyqigP6adLVPd4RQfjHo7FMBqTZiqvSyZsccRwAHfpHPFm9nCJJkMLP3MWNsYANDmwiyeffNRtvGmRJTgD1n9",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "HQzyBQN8XVcGBRyAaRat96tkrfdzma9aLmesPiL8wqwA",
+   "sol": 35.94,
+   "n": 1,
+   "first": 1727611847,
+   "sig": "2JWSwDNmVg1doTiLD31YAc2Z9xEw3K8oJLDryGEjaUv3Qn1iMUWsjGrSLn2MqyyFNPwhVAwL8DrPTSmEWZvMW8ap",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 6.63347202
+  },
+  {
+   "wallet": "D8syomxNoztm1v7kKzkHyDZiGNqtH3S1wnpMKZ2cRgmW",
+   "sol": 28.485,
+   "n": 1,
+   "first": 1727611915,
+   "sig": "3sudX68NiLnVAZschVfGqZ4DAqjyiFU3uZE1zcBeB9gqo2PMFSSYttTGWhqQ47ZBmi1bRHDbJbgatrUuHwCkPWsV",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 43.830590135118285
+  },
+  {
+   "wallet": "DDcEfNQf5L7TgSN6vR3FVhBBHNV8zu4vrWoYf4mK6EUX",
+   "sol": 1.0,
+   "n": 1,
+   "first": 1727612073,
+   "sig": "2i6AYeTvuJBRsZ8SaZsoSjjt3gC6vJ2tdH2NjGWDqCR67We2zrHCZ7pjQFLvLSKULosphoxRHXdTg5HZY3261ZxZ",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "2k3AwMQcFL5bRe2e3i2LUEhf26n2XxUbmGbJQSCBmRDY",
+   "sol": 10.085,
+   "n": 1,
+   "first": 1735273201,
+   "sig": "3a2J53WgLajU2rw7EFb8pDo5cLkaMMH7Ey9mtrh7znXPxBBARonuVcaqc9mpjhAp4KayYK38MzmefoyYAzrZLJUv",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "C7qEaB6aqkqRxW3BvVKiShjumPUNXRKR9pWYToNqD1QN",
+   "sol": 7.417451985,
+   "n": 1,
+   "first": 1735276899,
+   "sig": "4VTyhR35ffV3WBDivVmV9xTtBeAJ8LnoJudHJTnUh5JkMc1MYuxw1Dg1o5un3jZ6f2meJJTiqwjxsEQT6E6BoYNv",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "A9PkAtBdN5AdopmmNqcwCEohiTneuwQLG7EYhkHWZFJ9",
+   "sol": 0.013,
+   "n": 1,
+   "first": 1735644239,
+   "sig": "5yars5Rc6unNcfERyHJSX2e8KsiHdnhWXG18icCX9N9BxeSornvFHCmx96n5EqdGgkqXJXHCpE9dBUdKBDFoBj58",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 9.800855623535695
+  },
+  {
+   "wallet": "8SaiGWJnpcMNbnqa84op76MuRVkJPx4uZN77mZDb9g5F",
+   "sol": 36.795,
+   "n": 5,
+   "first": 1737833120,
+   "sig": "4JUkkuFGT4EvtbZm4TPzrYZie3g5bydzRAqJiJSjyh2Qmf2eTmM3hCRW87u158Z6odmKZm1wQjTGsNUsoyMfw7gJ",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 4.013663393
+  },
+  {
+   "wallet": "8YLEuUtZ4eFMJbf46oNb1CeG6dYFWGyxnQSh9hrgzBzR",
+   "sol": 0.593,
+   "n": 1,
+   "first": 1737907884,
+   "sig": "65aNPjoC8nb4yUu3oD5HGzSvyC9DLJZEK1LrkDD8hEXPzdv8Y4FJRgJEXZXXbDuHtYi8UNU7XYdmycKwNi2BS3g2",
+   "groupe": false,
+   "createur": true,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "4pKFTQxsc69nzioRwPuAwUm49MRP4KzBmvrfjRCpEe5g",
+   "sol": 0.1,
+   "n": 1,
+   "first": 1737908039,
+   "sig": "pqvUAXC3n51dFM1XsEjRo6ebiBhzwMAmquPZmDYB8N22wYUBNM2Kn9qYkUR6YJUHW6MdgczW21KAPhJUeFk5TRW",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 7.736422973740649
+  },
+  {
+   "wallet": "5QhJJcFZu2ashyKyWSTGHcsyo6ZBCbpVuJqeutvQHScd",
+   "sol": 0.125,
+   "n": 1,
+   "first": 1737908074,
+   "sig": "1Ae21aJQzoAv6aa6pxkUVAXaCYHXXah5sUopKdEBJ1n5rgtDkfveDvxvdJHW6awLo1PjTJ7ERBWNhp3EEEsTMmi",
+   "groupe": true,
+   "createur": false,
+   "realise_dmaga": 74.17074246375562
+  },
+  {
+   "wallet": "9PoYaK2NZziWAswo5eNCaLbdqh6t28pq89qMnS5C3m5n",
+   "sol": 0.141,
+   "n": 1,
+   "first": 1737911599,
+   "sig": "WQ44rsdxJorCnxxnh6QZExQ97Hb9y7cPLvxXsEAcqgxjU7PykSjNAXzZZwsr9cNucvzC1HyiJp8nEP3EAimFKrH",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 7.390323211
+  },
+  {
+   "wallet": "ERMtiLodeVKQ8sK1MBPgBHyJS6DT8j61z8aQJiKYqbCH",
+   "sol": 0.109,
+   "n": 1,
+   "first": 1737911762,
+   "sig": "36b2qawqdK2zuSRt1mXriKA1zBdJh8ZFBFnJyBsntiLmxcGoryz29d3LtyzCb6bnNX2m7KGmjpX9Rr53kDNj8kfG",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "HqwpWyvbCbGSbGuK1xFRptPdMYd8MHERqNJ3uACRCAmZ",
+   "sol": 0.276,
+   "n": 1,
+   "first": 1737911795,
+   "sig": "V9VJtMmbGG4Kdv8bWf8QQ3MJuQqRjvwae9matym1wM4zR8JV5n4HbrxNFz4ATd27A8xqewR1NoBv8yUxo79TBZA",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  },
+  {
+   "wallet": "GoPCTrS3Ffz5wgWSP6Ef3U6NvZzJkUA3Qy8ZJ3rLMXHC",
+   "sol": 0.9685,
+   "n": 1,
+   "first": 1748402303,
+   "sig": "2VZ65QxrfNd7ubhe8T3vfSZfgwtwwPLLBge8UDsTkppECpELTpbcQ1RAvA3Z5eveTobGmD2meXqpxTcnr4mwqCuK",
+   "groupe": false,
+   "createur": false,
+   "realise_dmaga": 0.0
+  }
+ ]
+}

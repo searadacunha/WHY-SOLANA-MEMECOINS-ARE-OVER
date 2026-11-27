@@ -1,0 +1,151 @@
+{{config(
+        tags = ['static'],
+        schema = 'cex_solana',
+        alias = 'addresses'
+        , post_hook='{{ hide_spells() }}'
+    )
+}}
+
+SELECT blockchain, address, cex_name, distinct_name, added_by, added_date
+FROM (VALUES
+    ('solana', '5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9', 'Binance', 'Binance 1', 'hildobby', date '2024-04-19')
+    , ('solana', '9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM', 'Binance', 'Binance 2', 'hildobby', date '2024-04-19')
+    , ('solana', 'Amf2mf2Ciap5wYAEKDtGoQHfHPWaKbyFYhutMK46hTRF', 'Binance', 'Binance 3', 'hildobby', date '2024-04-19')
+    , ('solana', '2ojv9BAiHUrvsm9gxDe7fJSzbNZSJcxZvf8dqmWGHG8S', 'Binance', 'Binance 4', 'hildobby', date '2024-04-19')
+    , ('solana', 'DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy', 'Binance', 'Binance 5', 'hildobby', date '2024-04-19')
+    , ('solana', 'G9RCBaYb8aBRxoe8QBC2ucGrVqjuZFysRhY8d56cnNT1', 'Binance', 'Binance 8', 'hildobby', date '2025-07-07')
+    , ('solana', 'HXsKP7wrBWaQ8T2Vtjry3Nj3oUgwYcqq9vrHDM12G664', 'Binance', 'Binance 9', 'hildobby', date '2024-04-19')
+    , ('solana', 'Edbef6Xi35u6iYEmeGAFmThCZrgj6MxzYAgAmZFYPmFF', 'Binance', 'Binance 17', 'hildobby', date '2025-07-07')
+    , ('solana', '3gd3dqgtJ4jWfBfLYTX67DALFetjc5iS72sCgRhCkW2u', 'Binance', 'Binance 18', 'hildobby', date '2024-04-19')
+    , ('solana', '3yFwqXBfZY4jBVUafQ1YEXw189y2dN3V5KQq9uzBDy1E', 'Binance', 'Binance 19', 'hildobby', date '2024-04-19')
+    , ('solana', '6QJzieMYfp7yr3EdrePaQoG3Ghxs2wM98xSLRu8Xh56U', 'Binance', 'Binance 20', 'hildobby', date '2024-04-19')
+    , ('solana', 'GBrURzmtWujJRTA3Bkvo7ZgWuZYLMMwPCwre7BejJXnK', 'Binance', 'Binance 21', 'hildobby', date '2025-07-07')
+    , ('solana', '6oCa9Tz8VXVp63WiFyruE5PD6yXz3pCsv6oGzUGvg9TP', 'Binance', 'Binance 22', 'hildobby', date '2025-07-07')
+    , ('solana', 'GK35nWN6ZHSGZrRTf8kTQd8RkFCighChPEb41XwSFVAC', 'Binance', 'Binance 23', 'hildobby', date '2025-07-07')
+    , ('solana', 'EPauhjQjjTBCpeBtszS3xGRASLpEJFM1cspSiFRXZa9Z', 'Binance', 'Binance 24', 'hildobby', date '2025-07-07')
+
+    , ('solana', 'H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS', 'Coinbase', 'Coinbase 1', 'hildobby', date '2024-04-19')
+    , ('solana', '2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm', 'Coinbase', 'Coinbase 2', 'hildobby', date '2024-04-19')
+    , ('solana', 'GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE', 'Coinbase', 'Coinbase 3', 'hildobby', date '2024-04-19')
+
+    , ('solana', '6FEVkH17P9y8Q9aCkDdPcMDjvj7SVxrTETaYEm8f51Jy', 'Crypto.com', 'Crypto.com 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS', 'Crypto.com', 'Crypto.com 2', 'hildobby', date '2024-04-19')
+
+    , ('solana', 'FWznbcNXWQuHTawe9RxvQ2LdCENssh12dsznf4RiouN5', 'Kraken', 'Kraken 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'krakeNd6ednDPEXxHAmoBs1qKVM8kLg79PvWF2mhXV1', 'Kraken', 'Kraken 2', 'hildobby', date '2024-04-19')
+
+    , ('solana', 'ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ', 'MEXC', 'MEXC 1', 'hildobby', date '2024-04-19')
+
+
+    , ('solana', '57vSaRTqN9iXaemgh4AoDsZ63mcaoshfMK8NP3Z5QNbs', 'KuCoin', 'KuCoin 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6', 'KuCoin', 'KuCoin 2', 'hildobby', date '2024-04-19')
+    , ('solana', 'HVh6wHNBAsG3pq1Bj5oCzRjoWKVogEDHwUHkRz3ekFgt', 'KuCoin', 'KuCoin 3', 'hildobby', date '2024-04-19')
+    , ('solana', 'EkUy8BB574iEVAQE9dywEiMhp9f2mFBuFu6TBKAkQxFY', 'KuCoin', 'KuCoin 5', 'hildobby', date '2024-04-19')
+
+    , ('solana', '6b4aypBhH337qSzzkbeoHWzTLt4DjG2aG8GkrrTQJfQA', 'FTX', 'FTX 1', 'hildobby', date '2024-04-19')
+    , ('solana', '6wEMcwrcF5AP9jpHWQcPxHXciWA2g217Qq81CTWjbgBw', 'FTX', 'FTX 2', 'hildobby', date '2024-04-19')
+    , ('solana', '9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX', 'FTX', 'FTX 3', 'hildobby', date '2024-04-19')
+    , ('solana', '6ZRCB7AAqGre6c72PRz3MHLC73VMYvJ8bi9KHf1HFpNk', 'FTX', 'FTX 4', 'hildobby', date '2024-04-19')
+
+    , ('solana', 'JBpj7yp4Afvb71TmanVwJZXGeX4kqbGFvjCFCRo3EbTM', 'FTX US', 'FTX US 1', 'hildobby', date '2024-04-19')
+
+    , ('solana', 'FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a', 'Bitfinex', 'Bitfinex 9', 'hildobby', date '2024-04-19')
+    , ('solana', 'J4rzLDLhLWFpjSgCMCcxTU84bQ8AH5vhgjwq7SjYVk8Q', 'Bitfinex', 'Bitfinex 10', 'hildobby', date '2024-04-19')
+    , ('solana', 'FyJBKcfcEBzGN74uNxZ95GxnCxeuJJujQCELpPv14ZfN', 'Bitfinex', 'Bitfinex 11', 'hildobby', date '2024-04-19')
+    , ('solana', 'GnCRxKqUEPouYMvTb5nJMGrDB3VkTXZnDTaDuVZdnWA3', 'Bitfinex', 'Bitfinex 12', 'hildobby', date '2024-04-19')
+
+    , ('solana', '4DgunMfBb19GaMZ1Z48oqcymZ4eBA4v5SUdRnapzj66G', 'Coinsquare', 'Coinsquare 2', 'hildobby', date '2024-04-19')
+
+    , ('solana', 'Cet3t77x2BBVSmiEFm8ZPoDSngbpso2RuWPL79Ky7SpA', 'Swissborg', 'Swissborg 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'Fe7SEekiKygziaEGKxsDsgLVzrCfNvVBvAYsaJBwFA8s', 'Swissborg', 'Swissborg 2', 'hildobby', date '2024-04-19')
+    , ('solana', '2XxP4kS2vfkiMvpLpGNxry3fPUYimsuAmSbqL1KnuwZ8', 'Swissborg', 'Swissborg 3', 'hildobby', date '2024-04-19')
+    , ('solana', '9qoUcyhKSWMbk6tqGUYQUpeosPcdUnJszG4eQKwfe4gL', 'Swissborg', 'Swissborg 4', 'hildobby', date '2024-04-19')
+    , ('solana', '2E1UKoiiZPwsp4vn6tUh5k61kG2UqYpT7oBrFaJUJXXd', 'Swissborg', 'Swissborg 5', 'hildobby', date '2024-04-19')
+
+    , ('solana', '7SRyi7urg28j1XtioKbcJLtkL9Pqu39Y4CTAXwmu2Hts', 'CoinList', 'CoinList 1', 'hildobby', date '2024-04-19')
+
+    , ('solana', '821dTn3JEhhqg11Q24ijxRBYXfKWngGMibTqHS8hWjZb', 'Rollbit', 'Rollbit 1', 'hildobby', date '2024-04-19')
+
+    , ('solana', '6iVBAsquJRaLsXbojb18kqTW1d5iVLspVjCtsReZBKhY', 'AscendEX', 'AscendEX 1', 'hildobby', date '2024-04-19')
+    
+    , ('solana', 'EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm', 'Backpack', 'Backpack 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3', 'Backpack', 'Backpack 2', 'hildobby', date '2024-04-19')
+    , ('solana', 'JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN', 'Backpack', 'Backpack 3', 'hildobby', date '2024-04-19')
+    , ('solana', 'hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux', 'Backpack', 'Backpack 4', 'hildobby', date '2024-04-19')
+    , ('solana', 'jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL', 'Backpack', 'Backpack 5', 'hildobby', date '2024-04-19')
+    , ('solana', 'mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6', 'Backpack', 'Backpack 6', 'hildobby', date '2024-04-19')
+    , ('solana', 'rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof', 'Backpack', 'Backpack 7', 'hildobby', date '2024-04-19')
+    , ('solana', 'BbHG9GvPActFGogv3iNrpDAj4qpXr8t3jF16uGxXcKci', 'Backpack', 'Backpack 8', 'hildobby', date '2024-04-19')
+    , ('solana', '43DbAvKxhXh1oSxkJSqGosNw3HpBnmsWiak6tB5wpecN', 'Backpack', 'Backpack 9', 'hildobby', date '2024-04-19')
+
+
+    , ('solana', 'A77HErqtfN1hLLpvZ9pCtu66FEtM8BveoaKbbMoZ4RiR', 'Bitget', 'Bitget 1', 'hildobby', date '2024-04-19')
+
+    , ('solana', 'E1EfU3iKUS16mB2vdgj6mi3ssV32dm2Pxh7W74XxKuYu', 'Bitstamp', 'Bitstamp 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'ETZY5TjMKdV2KdHVmUNTN56pWhMc8TyjrXtQ7YexDCmG', 'Bitstamp', 'Bitstamp 2', 'hildobby', date '2024-04-19')
+    , ('solana', 'HBxZShcE86UMmF93KUM8eWJKqeEXi5cqWCLYLMMhqMYm', 'Bitstamp', 'Bitstamp 3', 'hildobby', date '2024-04-19')
+    , ('solana', 'i57ExrKB2i4mSgjSuq2xz617mQXmu33WG2WEYypmdvX', 'Bitstamp', 'Bitstamp 5', 'hildobby', date '2024-04-19')
+
+    , ('solana', '42brAgAVNzMBP7aaktPvAmBSPEkehnFQejiZc53EpJFd', 'Bybit', 'Bybit 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'AC5RDfQFmDS1deWZos921JfqscXdByf8BKHs5ACWjtW2', 'Bybit', 'Bybit 2', 'hildobby', date '2024-04-19')
+
+    , ('solana', '3Nvb6UeEMVLf9DsehhqT8B5SNHrNLEpHdf42nXi9aLK8', 'CoinDCX', 'CoinDCX 2', 'hildobby', date '2024-04-19')
+    , ('solana', '4E73T5Zubx3kPtheJ5DB6QMEaadMQowhUcdRV6f9rvVt', 'CoinDCX', 'CoinDCX 3', 'hildobby', date '2024-04-19')
+    , ('solana', '5bjZPeHbdGUCduyY8i2dZkkgLWkG3u1P2sbt1Jb5kFxW', 'CoinDCX', 'CoinDCX 4', 'hildobby', date '2024-04-19')
+    , ('solana', '6XuYJv4PyauP2WKdgd4fZYvjK7uBdVkEySoy89fXV9XT', 'CoinDCX', 'CoinDCX 5', 'hildobby', date '2024-04-19')
+    , ('solana', '6fuHoq5Tr2j6dFTGWHmLUhVBUj8XvDBgdGGzgfSwe5DN', 'CoinDCX', 'CoinDCX 6', 'hildobby', date '2024-04-19')
+    , ('solana', '6p8LxMvHUZtdiik28TQy483WaCaDGsAUFm3PKjpUpLB', 'CoinDCX', 'CoinDCX 7', 'hildobby', date '2024-04-19')
+    , ('solana', '8W4u11KJYhmCY9rs2MCVHmMrgpeHLgsbkwAarbNvzr2Y', 'CoinDCX', 'CoinDCX 8', 'hildobby', date '2024-04-19')
+    , ('solana', '8nFGjbJNdarBouEC856Qmhrm8fptuEUnZrpNKgougsLi', 'CoinDCX', 'CoinDCX 9', 'hildobby', date '2024-04-19')
+    , ('solana', '8zSWFy8wvHEuFJ7CZ81wy2wn4fPaju6jc6tbtbv5x9f8', 'CoinDCX', 'CoinDCX 10', 'hildobby', date '2024-04-19')
+    , ('solana', '92qQCjprXoJ5GYji5it8PJTneBFxzSJ6mYosQWxYKxx4', 'CoinDCX', 'CoinDCX 11', 'hildobby', date '2024-04-19')
+    , ('solana', '9buzBcTujdQLyf1XkyLaSrGNbkyNxg8qML3bpKWCz9P6', 'CoinDCX', 'CoinDCX 12', 'hildobby', date '2024-04-19')
+    , ('solana', 'AjCHG7CYJST379Eh7xLqhRaUyBzurFKjsX7z8DTrfGZp', 'CoinDCX', 'CoinDCX 13', 'hildobby', date '2024-04-19')
+    , ('solana', 'Bq6NnW55ToJrAM7NxUYDmSMbKKCQ6f742ZemLiypqjzY', 'CoinDCX', 'CoinDCX 14', 'hildobby', date '2024-04-19')
+    , ('solana', 'EUXVDPCwXe9sJt3VucYfveB1kk5piSWJqhWQEsFtE2CR', 'CoinDCX', 'CoinDCX 15', 'hildobby', date '2024-04-19')
+    , ('solana', 'EhZLSqyWrazhqR5bmyyEfFRa3ycWu9KPgQgQ7G1R9zC9', 'CoinDCX', 'CoinDCX 16', 'hildobby', date '2024-04-19')
+    , ('solana', 'HwgxMWxaq5cDbdVmoH24Gy8F9m9DkU7Mwgdbgh4mh2m7', 'CoinDCX', 'CoinDCX 17', 'hildobby', date '2024-04-19')
+
+    , ('solana', 'CLNEVwuSAiGsvPtE74yLhda4beNfd8qfZXVKkUcAJZDL', 'Gate.io', 'Gate.io 1', 'hildobby', date '2024-04-19')
+    , ('solana', 'u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w', 'Gate.io', 'Gate.io 6', 'hildobby', date '2024-04-19')
+    , ('solana', 'HiRpdAZifEsZGdzQ5Xo5wcnaH3D2Jj9SoNsUzcYNK78J', 'Gate.io', 'Gate.io 7', 'hildobby', date '2024-04-19')
+
+    , ('solana', '5bJcc9eb2XE7mqcET2xDuAdMGuXWybb4YPmAHLjKLhQG', 'HTX', 'HTX 1', 'hildobby', date '2024-04-19')
+    , ('solana', '88xTWZMeKfiTgbfEmPLdsUCQcZinwUfk25EBQZ21XMAZ', 'HTX', 'HTX 2', 'hildobby', date '2024-04-19')
+    , ('solana', '8NBEbxLknGv5aRYefFrW2qFXoDZyi9fSHJNiJRvEcMBE', 'HTX', 'HTX 3', 'hildobby', date '2024-04-19')
+    , ('solana', 'BY4StcU9Y2BpgH8quZzorg31EGE4L1rjomN8FNsCBEcx', 'HTX', 'HTX 4', 'hildobby', date '2024-04-19')
+
+    
+
+    , ('solana', '51AASorYCLPcUHnuQQaau6DfsfFRixzh4HsoQwsc5Ara', 'LAToken', 'LAToken 2', 'hildobby', date '2024-04-19')
+
+
+    , ('solana', '6Attw9NcFspCAreufvQ3mW8aqXEk6MDceeoC8obw45cJ', 'OKX', 'OKX 3', 'hildobby', date '2024-04-19')
+    , ('solana', '6NnzUC7mrM7ZgKdcMq1jPAdqh9TMgdsaVR1DNq6kce3A', 'OKX', 'OKX 4', 'hildobby', date '2024-04-19')
+    , ('solana', '7CtzEcGeYpMfR1aEi1Gbt8GRHDPH9uDB6GNTsBABqSmo', 'OKX', 'OKX 5', 'hildobby', date '2024-04-19')
+    , ('solana', '7fGw3UURsxk1szQ4buxQyEkiF4P6z7vx7sN1MHEguTJg', 'OKX', 'OKX 6', 'hildobby', date '2024-04-19')
+    , ('solana', '7o9ukGhWvc71yYcjinKnrxMn2kFMyQD1iCG3romrzg7r', 'OKX', 'OKX 7', 'hildobby', date '2024-04-19')
+    , ('solana', '8dUc88Nss8uhqzzFvUQhepkwZaVrfzpoCfKjCXGkdzAG', 'OKX', 'OKX 8', 'hildobby', date '2024-04-19')
+    , ('solana', '945SJTwsBSqwEEgtKMnhcLDnJowP6YpJUTEykMVK5k6q', 'OKX', 'OKX 9', 'hildobby', date '2024-04-19')
+    , ('solana', '9un5wqE3q4oCjyrDkwsdD48KteCJitQX5978Vh7KKxHo', 'OKX', 'OKX 10', 'hildobby', date '2024-04-19')
+    , ('solana', 'APJmXrtC9TUAg5gcjbcsVUiVzeDv85xLZRLad1GiQTNE', 'OKX', 'OKX 11', 'hildobby', date '2024-04-19')
+    , ('solana', 'BEaiMhcc4Kao7B4hoq6r9m8neUpfimUMwhzugKxtkZw6', 'OKX', 'OKX 12', 'hildobby', date '2024-04-19')
+    , ('solana', 'BWZqi67kXsvf5crjd19Fb3gmf3DCipGE8eWWJT2YHDXQ', 'OKX', 'OKX 14', 'hildobby', date '2024-04-19')
+    , ('solana', 'BhJrLQEyFyrcf1746pHATzAZQpC1uk3SJf2AHHK7LW3K', 'OKX', 'OKX 15', 'hildobby', date '2024-04-19')
+    , ('solana', 'CE8joA143dBjsCFTeBxBs3kNGNU87WH6Q7GMMfxPzSr2', 'OKX', 'OKX 16', 'hildobby', date '2024-04-19')
+    , ('solana', 'CGZAHxBannZzYK3rzVdG1e3uNjMxrmaXDhLEZxQBbueq', 'OKX', 'OKX 17', 'hildobby', date '2024-04-19')
+    , ('solana', 'CeGyfZdtbjzC5FeVXCBdYE1v397yxxqYgmMcUwtouJUu', 'OKX', 'OKX 18', 'hildobby', date '2024-04-19')
+    , ('solana', 'EBVigEhxvkWUwreG98kTh5FbZEjnXTXC5ANZtLz4YpHQ', 'OKX', 'OKX 19', 'hildobby', date '2024-04-19')
+    , ('solana', 'FJS2rTjAQmFFRmVqtnkceGvLJrMwUPgCUfLjciuMYkSC', 'OKX', 'OKX 20', 'hildobby', date '2024-04-19')
+    , ('solana', 'FefAbVt2EgXMGxeJb6sB1k5pQJhiGPxw4mB1zeUohZLk', 'OKX', 'OKX 21', 'hildobby', date '2024-04-19')
+    , ('solana', 'GcFZHQVJ2icPGLrA9qPLq88b7eqBXSUcdL1utUtUfcSD', 'OKX', 'OKX 22', 'hildobby', date '2024-04-19')
+    , ('solana', 'HnLezgQkNVWMp2AV6mcHM1Ljst32kfsoVnYUkvXuQpjg', 'OKX', 'OKX 23', 'hildobby', date '2024-04-19')
+    , ('solana', '44DwSkZbY2PVo9wfFP21D7HG7xf5rw8QaF6xSLGSfm7P', 'OKX', 'OKX 30', 'hildobby', date '2024-04-19')
+    , ('solana', '5URmUviWsAtcciFXqgM7f1jmhvBULdQDT47dqDkrJUi', 'OKX', 'OKX 31', 'hildobby', date '2024-04-19')
+    , ('solana', '5kiqH41rz2wPoNH5FuDJ3x8dB3EEe3XGoSWy2485tAp9', 'OKX', 'OKX 32', 'hildobby', date '2024-04-19')
+    , ('solana', '5VCwKtCXgCJ6kit5FybXjvriW3xELsFDhYrPSqtJNmcD', 'OKX', 'OKX 33', 'hildobby', date '2024-04-19')
+    
+    , ('solana', '28nYGHJyUVcVdxZtzKByBXEj127XnrUkrE3VaGuWj1ZU', 'Ceffu', 'Ceffu 1', 'hildobby', date '2025-07-07')
+    , ('solana', '5SDrsMNTYdhmApjfqYHDvjoW92f2S42vcc7zNDVcQ9Ej', 'Ceffu', 'Ceffu 2', 'hildobby', date '2025-07-07')
+    , ('solana', 'BZ3kabSsMzbuJUguYxtmkRtzw7ACqw1DUMH8PcbvXiUr', 'Ceffu', 'Ceffu 3', 'hildobby', date '2025-07-07')
+    ) AS x (blockchain, address, cex_name, distinct_name, added_by, added_date)

@@ -1,0 +1,26 @@
+k=139 : plus petit p = 1/140 = 0.00714, seuil Holm 1er = 0.00714, c max par rang Holm = [0, 0, 0, 0, 1, 2, 6]
+k=211 : plus petit p = 1/212 = 0.00472, seuil Holm 1er = 0.00714, c max par rang Holm = [0, 0, 1, 1, 2, 4, 9]
+k=245 : plus petit p = 1/246 = 0.00407, seuil Holm 1er = 0.00714, c max par rang Holm = [0, 1, 1, 2, 3, 5, 11]
+k=500 : plus petit p = 1/501 = 0.00200, seuil Holm 1er = 0.00714, c max par rang Holm = [2, 3, 4, 5, 7, 11, 24]
+k=1000 : plus petit p = 1/1001 = 0.00100, seuil Holm 1er = 0.00714, c max par rang Holm = [6, 7, 9, 11, 15, 24, 49]
+
+Puissance = P(au plus c0 comparateurs au-dessus de la cible sur au moins une mesure), q = quantile vrai de la cible chez les pairs, comparateurs iid, mesures indépendantes. c0 = 0 pour k = 139 et 211.
+q      k=211,m=1  k=211,m=3  k=211,m=7  k=139,m=1  k=500,m=1
+0.5    0.0000     0.0000     0.0000     0.0000     0.0000    
+0.9    0.0000     0.0000     0.0000     0.0000     0.0000    
+0.95   0.0000     0.0001     0.0001     0.0008     0.0000    
+0.975  0.0048     0.0143     0.0330     0.0296     0.0003    
+0.99   0.1200     0.3184     0.5912     0.2473     0.1234    
+0.995  0.3473     0.7219     0.9495     0.4982     0.5435    
+0.9975 0.5897     0.9309     0.9980     0.7061     0.8687    
+0.999  0.8097     0.9931     1.0000     0.8702     0.9857    
+0.9995 0.8999     0.9990     1.0000     0.9328     0.9978    
+0.9999 0.9791     1.0000     1.0000     0.9862     1.0000    
+
+puissance 50% sur 1 mesure, k=211 : quantile vrai 0.99672, soit z = 2.72, facteur 15.2^sigma sur une loi log-normale
+puissance 80% sur 1 mesure, k=211 : quantile vrai 0.99894, soit z = 3.07, facteur 21.6^sigma sur une loi log-normale
+puissance 90% sur 1 mesure, k=211 : quantile vrai 0.99950, soit z = 3.29, facteur 26.9^sigma sur une loi log-normale
+
+sous le nul, k=211, 1 mesures indépendantes : P(min p = 1/212) = 0.0047
+sous le nul, k=211, 7 mesures indépendantes : P(min p = 1/212) = 0.0326
+seuil nominal 0,05 ; la discrétisation rend le test Holm conservateur : seul p = 1/212 ouvre la première marche.

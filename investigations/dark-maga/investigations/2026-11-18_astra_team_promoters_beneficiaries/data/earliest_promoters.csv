@@ -1,0 +1,13 @@
+rank,account,x_id,utc_from_snowflake,type,content,source,level,level_origin
+1,@DarkMagaCoin,1812312706826854843,2024-07-14T02:26:35Z,post (supprimé),« We are live Patriots! ca: 7D7B…pump » + lien Telegram,Wayback 20240714022635 (rapport d’origine) ; texte corroboré par le RT archivé de @kikisknees 1812317575411351639,A (heure) / A (texte via RT archivé),rapport d’origine + snowflake recalculé
+2,@Murray_Gothbard,1812313940841341353,2024-07-14T02:31:29Z,post original (handle @ChristienPhoto à l’époque),"« What is happening?!?! Trump rises up. » + image Trump yeux laser avec texte « $DMAGA » (media 3_1812313858226163712, 02:31:09)",X API v2 get/search (ax03) + image GSah2h0WkAAPiNc.jpg (SHA-256 770c5644…),A,vérification indépendante (NOUVEAU)
+3,@adamjia7,1812314544204882062,2024-07-14T02:33:53Z,post,"« $DMAGA (fdv: $97,451) CA: 7D7B…pump this message was sent 30seconds ago in vip group »",X API v2 (ax01),A,vérification indépendante (connu pass 4)
+4,@Official67Token,1812317124964057194,2024-07-14T02:44:08Z,RT de Murray 02:41:55,"RT « He will rise, higher and stronger $DMAGA »",X API v2 (ax01),A,vérification indépendante
+5,@SpecialBea99061,1812317549280862582,2024-07-14T02:45:49Z,RT de Murray + réponse 1812317568968929454 (02:45:54),RT puis « @ChristienPhoto @pattyice $DMAGA »,X API v2 (ax01),A,vérification indépendante
+6,@kikisknees,1812317575411351639,2024-07-14T02:45:55Z,RT de DMC,RT « We are live Patriots! ca: 7D7B…pump »,Wayback (repo evidence/x_wayback/recovered.jsonl) ; introuvable via API (Not Found),A (archive),rapport d’origine / dépôt
+7,@BoredNap66757,1812317595237798163,2024-07-14T02:46:00Z,RT de Murray,RT « He will rise… $DMAGA »,X API v2 (ax01),A,vérification indépendante
+8,@Jacwin_n,1812317662124646608,2024-07-14T02:46:16Z,RT de Murray,RT « He will rise… $DMAGA »,X API v2 (ax01),A,vérification indépendante
+9,@eseleo,1812317732911607909,2024-07-14T02:46:33Z,réponse à DMC,« @DarkMagaCoin $DMAGA💯 »,X API v2 (ax01),A,vérification indépendante
+10,@CryptoOnlyCoims,1812318131890594282,2024-07-14T02:48:08Z,réponse à DMC + vidéo,« @DarkMagaCoin $DMAGA Time. Libtards on notice. »,X API v2 (ax01/ax02),A,vérification indépendante
+11,@Fudrap96,1812318541779194152,2024-07-14T02:49:46Z,RT de Murray + réponse 1812318667713224939 (02:50:16),RT puis « We are $DMAGA »,X API v2 (ax01),A,vérification indépendante
+12,@DarkMagaCoin,1812321235688157500,2024-07-14T03:00:28Z,post vidéo,« Dark MAGA patriots in control. $DMAGA »,X API v2 (ax02),A,vérification indépendante

@@ -1,0 +1,28 @@
+communs 27 A 58 B 62
+écart minimal par wallet commun, <= 1 jour
+       35 s AFDkwJXJPCkZUjGo4mrrRZY53xU1vMSvXsyQiKdEZN93 2024-08-23T20:42:04
+       36 s 7udH6KquEj4qECfrfoNHci2ut3fo8NS21aVu9tQiJQp5 2024-08-04T19:28:18
+       44 s Gmc1EGGV4TQfS3Hs8qvNV6u9MMWoS6AJ6f6WLHS9VRjd 2024-08-13T02:47:37
+       44 s HBsgbpsM1j1YsNYqtCXcFU4mCRofwcor2qFwifNqddmH 2024-07-30T17:53:48
+       66 s A9PkAtBdN5AdopmmNqcwCEohiTneuwQLG7EYhkHWZFJ9 2024-12-31T11:23:59
+       72 s 8SaiGWJnpcMNbnqa84op76MuRVkJPx4uZN77mZDb9g5F 2025-08-26T09:02:28
+       93 s 7FGoCB63x3FAJNF25MMZG8pheR4rRtJbApQuynJRxLdE 2024-09-10T14:03:51
+      377 s 6ty9DM4s2mNvsMpMrcaXBDVguFHapfwK9g7WdD9DBLgM 2024-09-10T14:04:47
+jours des écarts <= 15 min [('2024-07-30', 1), ('2024-08-04', 1), ('2024-08-13', 1), ('2024-08-23', 1), ('2024-09-10', 2), ('2024-12-31', 1), ('2025-08-26', 1)]
+fenêtre 60 s : obs, moyenne, tirages>=obs, P (4, 0.141, 0, 0.0002)
+fenêtre 180 s : obs, moyenne, tirages>=obs, P (7, 0.658, 0, 0.0002)
+fenêtre 300 s : obs, moyenne, tirages>=obs, P (7, 1.071, 0, 0.0002)
+fenêtre 600 s : obs, moyenne, tirages>=obs, P (8, 1.58, 0, 0.0002)
+fenêtre 900 s : obs, moyenne, tirages>=obs, P (8, 1.597, 0, 0.0002)
+fenêtre 1800 s : obs, moyenne, tirages>=obs, P (8, 1.617, 0, 0.0002)
+fenêtre 3600 s : obs, moyenne, tirages>=obs, P (8, 1.689, 0, 0.0002)
+fenêtre 7200 s : obs, moyenne, tirages>=obs, P (8, 2.528, 1, 0.0004)
+fenêtre 21600 s : obs, moyenne, tirages>=obs, P (8, 2.494, 1, 0.0004)
+fenêtre 86400 s : obs, moyenne, tirages>=obs, P (8, 2.773, 3, 0.0008)
+sans le 26/01/2025, 900 s : (8, 0.902, 0, 0.0002)
+le 26/01/2025 seul, 900 s : (0, 0.809, 5000, 1.0) wallets communs actifs des deux côtés ce jour 0
+ce jour, wallets vers 9W9b 9 vers Caw4 5
+événements, wallets différents, W=900: obs 73 (même wallet 11), décalage circulaire moyenne 0.2, P 0.00050
+   sans le 26/01/2025 : obs 22, moyenne 0.2, P 0.00050
+événements, wallets différents, W=3600: obs 80 (même wallet 13), décalage circulaire moyenne 1.0, P 0.00050
+   sans le 26/01/2025 : obs 29, moyenne 0.8, P 0.00150

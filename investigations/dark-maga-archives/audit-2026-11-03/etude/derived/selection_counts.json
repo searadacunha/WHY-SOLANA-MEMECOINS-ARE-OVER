@@ -1,0 +1,11 @@
+{
+ "retenu_superset": 141,
+ "swaps_manquants": 0,
+ "parse": {
+  "ruptures": 0,
+  "tx": 35448,
+  "sens_opposes_ignores": 0,
+  "parts_de_frais": 0,
+  "swaps": 35448
+ }
+}

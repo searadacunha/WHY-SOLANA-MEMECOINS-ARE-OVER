@@ -1,0 +1,5 @@
+share_rt_24 DMAGA 0.0514 médiane 0.0348 p90 0.1946 rang p 0.4057
+M1 DMAGA 39.8669 médiane 3.7546 p90 163.0889 rang p 0.1698
+M1_sans_rt DMAGA 36.9467 médiane 3.7379 p90 156.3557 rang p 0.1604
+M2 DMAGA 9.3706 médiane 1.4635 p90 64.5647 rang p 0.184
+M2_sans_rt DMAGA 8.8893 médiane 1.4623 p90 64.3139 rang p 0.1792

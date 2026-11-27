@@ -1,0 +1,142 @@
+{
+ "data": [
+  {
+   "id": "1474749663039401987",
+   "username": "kikisknees",
+   "created_at": "2021-12-25T14:31:45.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 22886,
+    "following_count": 2747,
+    "like_count": 521225,
+    "listed_count": 62,
+    "media_count": 7662,
+    "tweet_count": 45331
+   }
+  },
+  {
+   "id": "1538705932799987712",
+   "username": "Aristos_Revenge",
+   "created_at": "2022-06-20T02:11:03.000Z",
+   "protected": true,
+   "public_metrics": {
+    "followers_count": 140027,
+    "following_count": 2169,
+    "like_count": 108120,
+    "listed_count": 505,
+    "media_count": 313,
+    "tweet_count": 17699
+   }
+  },
+  {
+   "id": "1267156833946472449",
+   "username": "Esoviz",
+   "created_at": "2020-05-31T18:11:59.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 10271,
+    "following_count": 479,
+    "like_count": 64113,
+    "listed_count": 44,
+    "media_count": 453,
+    "tweet_count": 1932
+   }
+  },
+  {
+   "id": "770680913571221505",
+   "username": "Murray_Gothbard",
+   "created_at": "2016-08-30T17:53:43.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 530,
+    "following_count": 705,
+    "like_count": 5772,
+    "listed_count": 13,
+    "media_count": 3599,
+    "tweet_count": 14722
+   }
+  },
+  {
+   "id": "1800564812889325568",
+   "username": "DarkMagaCoin",
+   "created_at": "2024-06-11T16:25:03.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 13881,
+    "following_count": 504,
+    "like_count": 19915,
+    "listed_count": 66,
+    "media_count": 2424,
+    "tweet_count": 4948
+   }
+  },
+  {
+   "id": "1768480743422881792",
+   "username": "ChoupetteJoe",
+   "created_at": "2024-03-15T03:35:02.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 674,
+    "following_count": 498,
+    "like_count": 24131,
+    "listed_count": 7,
+    "media_count": 471,
+    "tweet_count": 5954
+   }
+  },
+  {
+   "id": "1800752995090468864",
+   "username": "KILLARYonSOL",
+   "created_at": "2024-06-12T04:52:41.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 231,
+    "following_count": 144,
+    "like_count": 1840,
+    "listed_count": 2,
+    "media_count": 855,
+    "tweet_count": 1501
+   }
+  },
+  {
+   "id": "1540495309440155648",
+   "username": "FrankButcher81",
+   "created_at": "2022-06-25T00:41:44.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 1154,
+    "following_count": 3406,
+    "like_count": 72927,
+    "listed_count": 11,
+    "media_count": 6356,
+    "tweet_count": 49017
+   }
+  },
+  {
+   "id": "1802573570893303808",
+   "username": "Fudrap96",
+   "created_at": "2024-06-17T05:28:27.000Z",
+   "protected": false,
+   "public_metrics": {
+    "followers_count": 23,
+    "following_count": 85,
+    "like_count": 772,
+    "listed_count": 0,
+    "media_count": 348,
+    "tweet_count": 943
+   }
+  }
+ ],
+ "errors": [
+  {
+   "detail": "Could not find user with usernames: [ChristienPhoto].",
+   "parameter": "usernames",
+   "resource_id": "ChristienPhoto",
+   "resource_type": "user",
+   "title": "Not Found Error",
+   "type": "https://api.x.com/2/problems/resource-not-found",
+   "value": "ChristienPhoto"
+  }
+ ],
+ "_note": "minimised for publication: name, location, description, url, entities removed (AGENTS.md: no unnecessary personal data)"
+}

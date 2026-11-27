@@ -1,0 +1,17 @@
+seuil somme 0 SOL, 0 USD: 9W9b 83 Caw4 120 communs 38 part de 9W9b 0.458 part de Caw4 0.317
+seuil somme 0.001 SOL, 0.1 USD: 9W9b 48 Caw4 55 communs 27 part de 9W9b 0.562 part de Caw4 0.491
+seuil somme 0.01 SOL, 1 USD: 9W9b 48 Caw4 55 communs 27 part de 9W9b 0.562 part de Caw4 0.491
+seuil somme 0.05 SOL, 5 USD: 9W9b 46 Caw4 54 communs 25 part de 9W9b 0.543 part de Caw4 0.463
+seuil somme 0.1 SOL, 10 USD: 9W9b 46 Caw4 54 communs 25 part de 9W9b 0.543 part de Caw4 0.463
+seuil somme 0.5 SOL, 50 USD: 9W9b 40 Caw4 54 communs 22 part de 9W9b 0.550 part de Caw4 0.407
+seuil somme 1 SOL, 100 USD: 9W9b 38 Caw4 54 communs 22 part de 9W9b 0.579 part de Caw4 0.407
+seuil somme 5 SOL, 500 USD: 9W9b 31 Caw4 52 communs 19 part de 9W9b 0.613 part de Caw4 0.365
+
+expéditeurs avec routage (programme hors BASIC) ou signataire différent, seuil 0,01/1
+('Caw4', 'USDC', '5NmoD59DK5BvkCGsKVRq2xs9VN5s33TS4sr2sRazJsqg') 1130.8374 n 4 routed 4 signer!=cp 4 2026-03-18T03:23:24Z 2026-04-06T03:16:16Z
+('Caw4', 'USDC', 'B252jsFK2BKMfHRFzrHcxyVayPvC32h4ZXU8jmsm4Gsp') 5519.5402 n 5 routed 1 signer!=cp 0 2024-07-02T18:10:13Z 2025-01-26T16:09:25Z
+
+SOL 9W9b par expéditeurs communs 678.179 sur 956.521 ; USDC Caw4 par communs 420561.5 sur 590933.95
+communs 27
+réunion 76
+expéditeurs Caw4 seuil 0,01/1 hors USDC (SOL seul): [('59L2oxymiQQ9Hvhh92nt8Y7nDYjsauFkdb3SybdnsG6h', 0.02592), ('5TZe3ddwQ4nhGaFh5hs9veNnwpYyXBPpEtrGvbbyEfcP', 7.65), ('F5h42EJqpUvS38eJdyPn7YS7MYsCZnWEQHBBqmuE75s3', 14.95), ('F5YUSLQ37FduBA2p9XMdSPnz43dWuzGG9Tdq4mVoq2HM', 13.0)]

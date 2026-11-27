@@ -1,0 +1,8 @@
+1R_1w_3h: détection 0.0283, rapport de vraisemblance du non significatif 0.995
+2R_1w_3h: détection 0.0330, rapport de vraisemblance du non significatif 0.990
+2R_25w_3h_sync: détection 0.1132, rapport de vraisemblance du non significatif 0.908
+controle_fort_18w_740SOL_3h_sync: détection 0.0708, rapport de vraisemblance du non significatif 0.952
+fenêtre avatar 0 : début 2024-07-21 16:23:20, SOL 229.28
+fenêtre avatar 1 : début 2024-07-21 13:23:20, SOL 386.85
+fenêtre avatar 2 : début 2024-07-21 10:23:20, SOL 54.35
+fenêtre avatar 3 : début 2024-07-21 07:23:20, SOL 6.06

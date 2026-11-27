@@ -1,0 +1,421 @@
+=== 13:49:42 scripts/ana_70_audit_facts.py
+verrou obtenu après 1 s
+{
+"lignes": {
+"avant": 919783,
+"avant_sig": 796883,
+"doublees": 5903,
+"doublees_pool": 4966,
+"doublees_venue": 937,
+"unique_avant": 913880,
+"apres": 913880,
+"apres_sig": 796883,
+"doublees_avant_musk": 0,
+"swap_other_avant": 3982,
+"swap_other_apres": 1983,
+"pool_doublon_de": 1721779211,
+"pool_doublon_a": 1721799386
+},
+"soldes": {
+"total_M": 999.76121147384,
+"pools_M": 61.99635237643,
+"hors_pools_M": 937.76485909741,
+"hid_M": 84.771137013687,
+"hid_n": 8
+},
+"perimetres": {
+"groupe": {
+"avec_solde": 33,
+"M": 217.036500598045,
+"pct": 23.144021498837205,
+"taille": 33
+},
+"serie15": {
+"avec_solde": 14,
+"M": 61.356670112434,
+"pct": 6.542863012748125,
+"taille": 15
+},
+"expediteurs48": {
+"avec_solde": 20,
+"M": 92.078531309053,
+"pct": 9.818935996138492,
+"taille": 48
+},
+"union": {
+"avec_solde": 50,
+"M": 266.697261652338,
+"pct": 28.43967323631978,
+"taille": 79
+},
+"groupe_serie": 2,
+"groupe_expediteurs": 4,
+"serie_expediteurs": 13,
+"createur_dans_groupe": false,
+"aretes_createur_groupe": 0,
+"coeur_n": 29,
+"coeur_M": 166.1108207299,
+"coeur_pct": 17.7134831955401,
+"coeur_sans_faibles_M": 149.7108207299,
+"coeur_sans_faibles_pct": 15.964643937926539,
+"faibles4_n": 4,
+"faibles4_M": 50.925679868145004
+},
+"expediteurs": {
+"touchent_dmaga": 31,
+"hors_serie_groupe_touchent": 16,
+"hors_serie_groupe": 33
+},
+"ventes24": {
+"marche_sol": 190546.466673811,
+"groupe_sol": 4524.914100277,
+"groupe_M": 48.80351164895,
+"part_pct": 2.3747037556057244,
+"transferts_n": 34,
+"transferts_M": 32.101796349994,
+"destinataires": 16,
+"destinataires_vendeurs": 3,
+"dest_vente_sol": 973.326374763,
+"dest_plafonne_sol": 973.326374763,
+"part_elargie_pct": 2.8855116397682785,
+"groupe_sortie_pct": 37.277281828636696,
+"groupe_swap_pct": 22.48631521171403,
+"autres_n": 110,
+"autres_M": 643.600239344131,
+"autres_swap_M": 224.951216030366,
+"autres_transfert_M": 43.993591072358,
+"autres_edges_M": 56.304487284584,
+"autres_internes_M": 6.47,
+"autres_swap_pct": 34.95200938079287,
+"autres_sortie_bas_pct": 40.78227307221052,
+"autres_sortie_haut_pct": 43.70037270364709,
+"cachees_autres": 0,
+"cachees_groupe": 0
+},
+"angles_morts": {
+"acheteurs_hors_m6": 76,
+"achat_brut_M": 845.724901027964,
+"solde_S_M": 158.877014599687,
+"deja_sortis_M": 69.09442638077,
+"stock_M": 89.78258821891698,
+"transferts_recus_M": 114.955444187342,
+"wallets_recus": 35,
+"recus_groupe_M": 110.2,
+"nets_M": 76.298663509484,
+"nets_wallets": 28,
+"achats_heure_S_sol": 2762.246206362,
+"achats_heure_S_n": 826
+},
+"ruptures": {
+"n": 27196,
+"comptes": 1168,
+"entrees_M": 1508.535755645513,
+"sorties_M": 1336.939675621364,
+"total_M": 2845.475431266877,
+"avant_low_n": 5,
+"avant_low_M": 84.736865243824,
+"cheval_n": 15,
+"cheval_M": 1.010058810415,
+"h24_n": 243,
+"h24_M": 3.984146467645,
+"h24_sorties_M": 1.831010176553,
+"ensuite_M": 2756.754419555408,
+"traces": [
+21919,
+42,
+2168.86586752479
+],
+"non_traces": [
+5277,
+1122,
+676.609563742087
+],
+"non_traces_1M": {
+"apres": [
+102,
+274.442688371927
+]
+},
+"nommes": 0,
+"compense_AtZjv3Du_M": 84.536865243824
+},
+"residuels": {
+"somme_flux_M": 906.4586109917474,
+"somme_soldes_M": 739.2571010113625,
+"ancien_flux_M": 937.1396512443516,
+"wallets_partiels_rupture": 502,
+"wallets_avec_rupture": 1163,
+"7gEQ6syD": [
+122.27909346334,
+0.0
+],
+"HGs9NdwD": [
+34.348825652494995,
+0.036848079424
+],
+"pools_fin_M": 432.175894442776,
+"offre_hors_pools_fin_M": 567.824105557224
+},
+"fonds": {
+"parts": {
+"pool": {
+"n": 41715,
+"wallets": 334,
+"sol": 291438.62324222055,
+"pct": 22.13748062541271
+},
+"echange": {
+"n": 2209,
+"wallets": 186,
+"sol": 194881.4069733119,
+"pct": 14.803059811119327
+},
+"sans_etiquette": {
+"n": 16936,
+"wallets": 392,
+"sol": 558722.5287544818,
+"pct": 42.44018523586029
+},
+"jupiter": {
+"n": 7064,
+"wallets": 205,
+"sol": 270546.91479846643,
+"pct": 20.5505605879783
+},
+"service": {
+"n": 33,
+"wallets": 10,
+"sol": 904.6123185499998,
+"pct": 0.06871373962937785
+}
+},
+"total_sol": 1316494.0860870306,
+"premier_financeur": {
+"echange": 189,
+"sans_etiquette": 184,
+"jupiter": 114,
+"service": 4
+},
+"cles_doublees_apres_k08": 0,
+"plus_de_100k_sol": 3,
+"sortie_plus_de_100k": 1
+},
+"sorties": {
+"wallets": 65,
+"tronques": 12,
+"service_non_nomme_sol": 93521.6,
+"hot_presume_sol": 25765.7,
+"echanges": {
+"Coinbase 3": 3284.1,
+"Coinbase 1": 2589.2999999999997,
+"Coinbase 2": 2037.6000000000001,
+"Bybit 2": 8523.4,
+"Binance 1": 8051.0
+},
+"echanges_sol": 24485.399999999998,
+"service_avant_sol": 175427.1,
+"sortis_de_la_liste": [
+[
+"4ToQp55myvfpeprgKuqGbDqyji9Ezm7CZg7QbcTpL33S",
+82193.59999999999
+],
+[
+"7dY2yLDbFxUCdBUMLiNJVz9Mq1PfetrDjr9GXAMnMM4J",
+612.3
+]
+],
+"entres_dans_la_liste": [
+[
+"7uRDe43iDncwEESfHvyxqYw3tzaVZgvCQn67x3xYyQeY",
+1145.8
+],
+[
+"BBcYhznjGjWVNVhaVGC5oBdkipydkjmqsiNciadXBXbY",
+0.7
+]
+]
+},
+"cohortes_tous": {
+"wallets": 71706,
+"apres_musk": 53960,
+"apres_musk_realise_pos": 18247,
+"apres_musk_plus_01": 9816,
+"apres_musk_poussiere": 876,
+"avant_visuel": 1645,
+"avant_musk": 77,
+"fenetre": 18
+},
+"cohortes_rapports": {
+"wallets": 71682,
+"apres_musk": 53956,
+"apres_musk_realise_pos": 18247,
+"apres_musk_plus_01": 9816,
+"apres_musk_poussiere": 876,
+"avant_visuel": 1645,
+"avant_musk": 77,
+"fenetre": 18
+},
+"deja_acheteurs": {
+"acheteurs": 184,
+"deja": 107,
+"dans_6h": 51
+},
+"sommet": {
+"capitalisation_sol": 631363.6344070145,
+"t": 1721638906,
+"heure": "09:01:46"
+},
+"totaux": {
+"wallets": 71706,
+"realise": 97163.12689221205,
+"achete": 788489.3260996883,
+"vendu": 784000.7734228747,
+"avant": {
+"wallets": 71706,
+"realise": 100128.34515383246,
+"achete": 790223.124394038,
+"vendu": 785853.8200931353
+}
+},
+"groupe": {
+"realise": 5469.823394159433,
+"realise_avant": 5593.99515525452,
+"achete_sol_avant_musk": 158.53931498,
+"achete_M_avant_musk": 359.78892884232
+},
+"wallets": {
+"H3": {
+"apres": 5490.857501978003,
+"avant": 5490.857501978003
+},
+"GX": {
+"apres": 2540.1018791340052,
+"avant": 2540.1018791340052
+},
+"P9": {
+"apres": 1747.8044769645671,
+"avant": 1747.8044769645671
+},
+"Q": {
+"apres": 74.17074246375562,
+"avant": 74.17074246375562
+},
+"C": {
+"apres": 0.0,
+"avant": 0.0
+},
+"ET8ZG5zA": {
+"apres": 203.632332354,
+"avant": 359.140285007
+},
+"Akp46Dic": {
+"apres": 268.704904648,
+"avant": 364.491401232
+},
+"C7i9beNH": {
+"apres": 378.0059738709999,
+"avant": 404.54612845899993
+},
+"5FzhCSWL": {
+"apres": 187.90619123800042,
+"avant": 144.5770238061237
+},
+"DswkYbBh": {
+"apres": 4.410889210000084,
+"avant": 93.61341513555085
+}
+},
+"top100": {
+"communs": 97,
+"top10_identique": true,
+"entrants": [
+[
+"7uRDe43iDncwEESfHvyxqYw3tzaVZgvCQn67x3xYyQeY",
+16
+],
+[
+"BBcYhznjGjWVNVhaVGC5oBdkipydkjmqsiNciadXBXbY",
+32
+],
+[
+"CQQqZgro3PwGgD23vtWCeneQzVBYQ9Yn4bqBdyYpYeDR",
+94
+]
+],
+"sortants": [
+[
+"D4zVhwuUsFbcaty7wJhNEZ7VEwPHXQ5d2heXPxM5yWhL",
+98
+],
+[
+"9Q2iQTt6wPSCF3PddwWgMJceFmgtKa9Dqz3MSyhYp35D",
+99
+],
+[
+"CtXRQVs2iNvufASRLGatP8xjaKQFen9QxKtHojwgaxGw",
+100
+]
+]
+},
+"habp": {
+"aretes_avec_groupe": 1,
+"wallets": 34,
+"aretes": 41,
+"solde_T_M": 0.0
+},
+"hx": {
+"M_vers_createur": 7.397559349597001,
+"qty_jetons": 7397559.349597001
+},
+"labels": {
+"noeuds": {
+"cex": 2,
+"router": 18,
+"venue": 30,
+"wallet": 23811,
+"hub": 41,
+"service": 4
+},
+"noeuds_avant": {
+"cex": 12,
+"router": 18,
+"venue": 30,
+"wallet": 23811,
+"hub": 41
+},
+"etiquettes": 158
+},
+"groupe_inchange": {
+"membres_identiques": true,
+"aretes_identiques": true
+}
+}
+garde : fini, code 0, pic 428 Mo
+=== 13:49:56 scripts/rep_65_social_links.py
+verrou obtenu après 4 s
+Counter({'interaction_sociale': 29, 'declaration_publique': 18, 'mention_tierce': 3})
+wallet revendiqué par un compte du noyau : 0 ligne, aucune adresse publiée trouvée (docs/SOCIAL_FINDINGS.md, point 6)
+garde : fini, code 0, pic 97 Mo
+=== 13:50:10 scripts/rep_70_reports.py
+verrou obtenu après 4 s
+TOP_TRADERS 100 EARLY_BUYERS 1000 6 h avant visuel 25 visuel à Musk 25
+garde : fini, code 0, pic 0 Mo
+=== 13:50:17 scripts/rep_72_links.py
+verrou obtenu après 4 s
+COORDINATION et ATTRIBUTION écrits 5 virements de préparation, 5 lignes de lien
+garde : fini, code 0, pic 0 Mo
+=== 13:50:23 scripts/rep_75_timeline.py
+lignes 37 sommet 22/07 09:01 631364
+garde : fini, code 0, pic 840 Mo
+=== 13:50:46 scripts/rep_80_viz.py
+viz/index.html 116 Ko posts 170 noeuds 98 arêtes 199
+garde : fini, code 0, pic 141 Mo
+=== 13:50:52 scripts/rep_90_case.py
+CASE_REPORT 24275 ; butler 3.91 h ; comparaisons 33 ; n05 13 ; rang 33
+garde : fini, code 0, pic 0 Mo
+=== 13:50:54 scripts/chk_90_selfcheck.py
+lignes de trades doublées : 0 (groupes 0)
+références vérifiées: 1707, absentes des données: 7
+docs/CASE_REPORT.md ['3GMsedVPsXjWR7HYUvwm1YUpvBC2bTgSkXixm4gMXnPk']
+reports/TOP_TRADERS.md ['45wPVSFEiEyqRiMWjkqdrZLddb5fqiuP3haKU9DAFWMP', '5YBiKeEKz9PrDcdLkdQL89gVW7re3S3KVpUcbEhHBigz', 'ChXs7eqjAKr8qrsGHcnp7sBKzrDU2JE2RjMqX59ATSeH', 'E6YoRP3adE5XYneSseLee15wJshDxCsmyD2WtLvAmfLi', 'sra4HHgwsn5Ts6V1TUdLykK1gRJwDQhgscuvXDHxSCx', 'vpeNALD89BZ4KxNUFjdLmFXBCwtyqBDQ85ouNoax38b']
+garde : fini, code 1, pic 674 Mo

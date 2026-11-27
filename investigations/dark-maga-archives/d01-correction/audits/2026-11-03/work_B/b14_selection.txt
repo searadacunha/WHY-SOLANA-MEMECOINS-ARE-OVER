@@ -1,0 +1,120 @@
+position dans selection.jsonl par statut :                    min    max  count
+status                              
+hors_bande         277  13897    453
+pas_de_pic         213  13912  12809
+reporte_budget    2167  13918    278
+retenu_superset      0   2215    245
+tronque_sans_pic   520  13919    135
+les 213 principaux viennent d'abord : True  ; superset : 523
+collectés 245 dont principaux 213 hors principaux 32 reportés 278
+positions des collectés hors principaux : 234 2215 reportés : 2167 13918
+
+== 245 collectés / 278 reportés : n 245 contre 278
+created    médianes 07-16 / 07-22 ; quartiles 06-27-07-31 / 07-09-08-10 ; MW p 5.30e-05 ; KS p 1.67e-05
+S20        médianes 07-29 / 08-06 ; quartiles 07-16-08-18 / 07-24-08-28 ; MW p 1.55e-05 ; KS p 3.85e-03
+age_s20    médianes 9.522 / 12.19 ; quartiles 5.892-19.9 / 6.257-24.86 ; MW p 3.75e-02 ; KS p 1.28e-01
+fdv        médianes 2.33e+05 / 3.493e+04 ; quartiles 1.288e+05-4.998e+05 / 2.084e+04-6.047e+04 ; MW p 1.86e-58 ; KS p 3.11e-87
+fdv_s20    médianes 2.325e+05 / 3.254e+04 ; quartiles 1.294e+05-4.859e+05 / 1.961e+04-5.284e+04 ; MW p 9.42e-65 ; KS p 1.06e-98
+fdv_s10    médianes 2.383e+05 / 3.505e+04 ; quartiles 1.323e+05-5.268e+05 / 2.092e+04-6.164e+04 ; MW p 2.44e-57 ; KS p 1.77e-83
+hist_sum   médianes 5.824e+04 / 2.715e+04 ; quartiles 2.02e+04-1.5e+05 / 1.012e+04-8.097e+04 ; MW p 2.50e-07 ; KS p 1.94e-05
+nS20       médianes 1200 / 995 ; quartiles 677.8-6074 / 636.5-3128 ; MW p 1.59e-01 ; KS p 2.01e-01
+med20      médianes 11 / 1 ; quartiles 2.125-30.38 / 0-6 ; MW p 3.53e-21 ; KS p 3.04e-17
+ratio      médianes 111.7 / 159.8 ; quartiles 48-292.4 / 113.3-485 ; MW p 1.06e-07 ; KS p 4.98e-11
+pages      médianes 60 / 28.5 ; quartiles 22-150 / 12-82.5 ; MW p 2.96e-07 ; KS p 2.88e-05
+truncated  médianes 0 / 0 ; quartiles 0-1 / 0-0 ; MW p 2.39e-04 ; KS p 2.31e-02
+
+== 32 collectés hors principaux / 278 reportés (hors principaux des deux côtés) : n 32 contre 278
+created    médianes 06-18 / 07-22 ; quartiles 06-17-06-19 / 07-09-08-10 ; MW p 2.20e-20 ; KS p 3.41e-40
+S20        médianes 07-09 / 08-06 ; quartiles 07-01-07-22 / 07-24-08-28 ; MW p 4.05e-11 ; KS p 1.73e-09
+age_s20    médianes 21.12 / 12.19 ; quartiles 8.768-31.93 / 6.257-24.86 ; MW p 1.07e-01 ; KS p 1.14e-01
+fdv        médianes 4.887e+04 / 3.493e+04 ; quartiles 2.934e+04-7.279e+04 / 2.084e+04-6.047e+04 ; MW p 1.72e-01 ; KS p 9.38e-02
+fdv_s20    médianes 4.839e+04 / 3.254e+04 ; quartiles 2.465e+04-6.328e+04 / 1.961e+04-5.284e+04 ; MW p 1.80e-01 ; KS p 1.13e-01
+fdv_s10    médianes 4.943e+04 / 3.505e+04 ; quartiles 2.934e+04-8.136e+04 / 2.092e+04-6.164e+04 ; MW p 1.46e-01 ; KS p 1.13e-01
+hist_sum   médianes 1.328e+04 / 2.715e+04 ; quartiles 8746-3.237e+04 / 1.012e+04-8.097e+04 ; MW p 3.07e-02 ; KS p 2.29e-02
+nS20       médianes 802 / 995 ; quartiles 597-1488 / 636.5-3128 ; MW p 1.78e-01 ; KS p 1.89e-01
+med20      médianes 2 / 1 ; quartiles 0-6 / 0-6 ; MW p 6.30e-01 ; KS p 9.89e-01
+ratio      médianes 156.2 / 159.8 ; quartiles 103.4-297.6 / 113.3-485 ; MW p 3.23e-01 ; KS p 4.40e-01
+pages      médianes 15 / 28.5 ; quartiles 10-34.25 / 12-82.5 ; MW p 2.98e-02 ; KS p 2.57e-02
+truncated  médianes 0 / 0 ; quartiles 0-0 / 0-0 ; MW p 2.20e-01 ; KS p 9.89e-01
+
+== 213 principaux / 278 reportés : n 213 contre 278
+created    médianes 07-21 / 07-22 ; quartiles 07-06-08-04 / 07-09-08-10 ; MW p 1.05e-01 ; KS p 1.94e-01
+S20        médianes 07-30 / 08-06 ; quartiles 07-21-08-21 / 07-24-08-28 ; MW p 4.50e-03 ; KS p 6.27e-02
+age_s20    médianes 8.962 / 12.19 ; quartiles 5.796-19.06 / 6.257-24.86 ; MW p 5.96e-03 ; KS p 2.69e-02
+fdv        médianes 2.701e+05 / 3.493e+04 ; quartiles 1.524e+05-5.513e+05 / 2.084e+04-6.047e+04 ; MW p 5.76e-68 ; KS p 4.80e-116
+fdv_s20    médianes 2.701e+05 / 3.254e+04 ; quartiles 1.524e+05-5.513e+05 / 1.961e+04-5.284e+04 ; MW p 1.39e-74 ; KS p 7.32e-134
+fdv_s10    médianes 2.807e+05 / 3.505e+04 ; quartiles 1.527e+05-5.518e+05 / 2.092e+04-6.164e+04 ; MW p 2.02e-66 ; KS p 3.80e-109
+hist_sum   médianes 6.702e+04 / 2.715e+04 ; quartiles 2.834e+04-1.5e+05 / 1.012e+04-8.097e+04 ; MW p 1.77e-10 ; KS p 4.93e-08
+nS20       médianes 1305 / 995 ; quartiles 684-7425 / 636.5-3128 ; MW p 5.27e-02 ; KS p 4.90e-02
+med20      médianes 14 / 1 ; quartiles 3-34 / 0-6 ; MW p 1.44e-24 ; KS p 1.26e-20
+ratio      médianes 105.6 / 159.8 ; quartiles 44.09-270.4 / 113.3-485 ; MW p 2.81e-08 ; KS p 1.02e-12
+pages      médianes 69 / 28.5 ; quartiles 30-150 / 12-82.5 ; MW p 2.16e-10 ; KS p 8.77e-08
+truncated  médianes 0 / 0 ; quartiles 0-1 / 0-0 ; MW p 1.59e-05 ; KS p 3.52e-03
+
+== R2 hors bande principale : collectés / reportés : n 29 contre 258
+created    médianes 06-18 / 07-22 ; quartiles 06-18-06-19 / 07-09-08-10 ; MW p 1.17e-18 ; KS p 1.87e-37
+S20        médianes 07-09 / 08-06 ; quartiles 07-01-07-22 / 07-24-08-28 ; MW p 4.33e-11 ; KS p 1.88e-09
+age_s20    médianes 21.12 / 12.1 ; quartiles 8.768-31.93 / 6.25-24.46 ; MW p 1.03e-01 ; KS p 1.07e-01
+fdv        médianes 4.839e+04 / 3.26e+04 ; quartiles 2.465e+04-6.328e+04 / 1.98e+04-5.289e+04 ; MW p 1.90e-01 ; KS p 1.16e-01
+fdv_s20    médianes 4.839e+04 / 3.26e+04 ; quartiles 2.465e+04-6.328e+04 / 1.98e+04-5.289e+04 ; MW p 1.90e-01 ; KS p 1.16e-01
+fdv_s10    médianes 4.934e+04 / 3.26e+04 ; quartiles 2.465e+04-6.993e+04 / 1.98e+04-5.302e+04 ; MW p 1.48e-01 ; KS p 1.06e-01
+hist_sum   médianes 1.264e+04 / 2.424e+04 ; quartiles 8110-3.101e+04 / 9273-7.737e+04 ; MW p 5.15e-02 ; KS p 2.72e-02
+nS20       médianes 802 / 1002 ; quartiles 597-1488 / 636.2-3138 ; MW p 1.73e-01 ; KS p 1.84e-01
+med20      médianes 2 / 1 ; quartiles 0-6 / 0-6 ; MW p 6.46e-01 ; KS p 9.91e-01
+ratio      médianes 156.2 / 159.9 ; quartiles 103.4-297.6 / 113.2-485.6 ; MW p 3.19e-01 ; KS p 4.31e-01
+pages      médianes 14 / 25.5 ; quartiles 10-33 / 11-78.5 ; MW p 5.00e-02 ; KS p 3.85e-02
+truncated  médianes 0 / 0 ; quartiles 0-0 / 0-0 ; MW p 3.35e-01 ; KS p 1.00e+00
+R2 : fdv sous 100 k$ collectés 29 au-dessus de 10 M$ collectés 0  ; reportés 255 3
+Spearman position / created chez les 310 non principaux : +1.000 (p 0.00e+00)
+Spearman position / hist_sum chez les 310 non principaux : +0.178 (p 1.62e-03)
+Spearman position / nS20 chez les 288 non principaux : +0.196 (p 8.16e-04)
+Spearman position / fdv chez les 310 non principaux : -0.061 (p 2.85e-01)
+Spearman position / age_s20 chez les 288 non principaux : -0.061 (p 3.05e-01)
+Spearman position selection / position activity (non principaux) : 1.0  ; activity / created : 0.9995
+
+S10 différent de S20 chez les collectés : 23 sur 242
+R1_10x: k réel 212, reportés admissibles 19, K théorique maximal 231, part de pairs déjà dans le principal 209/212
+R2_bande_large: k réel 240, reportés admissibles 258, K théorique maximal 498, part de pairs déjà dans le principal 211/240
+          variante mesure    k    c  p_reel  reportes    K  p_si_tous_reportes_sous_D  p_si_tous_au_dessus  centile_reel  centile_min  centile_max  k_requis_pour_holm_1re
+0           R1_10x     M1  212   34  0.1643        19  231                     0.1509               0.2328        0.8396       0.7706       0.8528                    4899
+1           R1_10x     M2  212   38  0.1831        19  231                     0.1681               0.2500        0.8208       0.7532       0.8355                    5459
+2           R1_10x     M3  212   51  0.2441        19  231                     0.2241               0.3060        0.7594       0.6970       0.7792                    7279
+3           R1_10x     M4  212  112  0.5305        19  231                     0.4871               0.5690        0.4717       0.4329       0.5152                   15819
+4           R1_10x     M5  212   54  0.2582        19  231                     0.2371               0.3190        0.7453       0.6840       0.7662                    7699
+5           R1_10x     M6  212   33  0.1596        19  231                     0.1466               0.2284        0.8443       0.7749       0.8571                    4759
+6           R1_10x     M7  212   42  0.2019        19  231                     0.1853               0.2672        0.8019       0.7359       0.8182                    6019
+7   R2_bande_large     M1  240   49  0.2075       258  498                     0.1002               0.6172        0.7958       0.3835       0.9016                    6999
+8   R2_bande_large     M2  240   51  0.2158       258  498                     0.1042               0.6212        0.7875       0.3795       0.8976                    7279
+9   R2_bande_large     M3  240   67  0.2822       258  498                     0.1363               0.6533        0.7208       0.3474       0.8655                    9519
+10  R2_bande_large     M4  240  133  0.5560       258  498                     0.2685               0.7856        0.4458       0.2149       0.7329                   18759
+11  R2_bande_large     M5  240   67  0.2822       258  498                     0.1363               0.6533        0.7208       0.3474       0.8655                    9519
+12  R2_bande_large     M6  240   33  0.1411       258  498                     0.0681               0.5852        0.8625       0.4157       0.9337                    4759
+13  R2_bande_large     M7  240   44  0.1867       258  498                     0.0902               0.6072        0.8167       0.3936       0.9116                    6299
+
+R2 : pairs ajoutés au principal 29  ; date de création min/max 2024-06-15 00:59:56 2024-06-23 23:17:57  ; fdv min/max 10324.4 94497.53
+M1: médiane ajoutés 17.255, principal 3.755, MW p 0.000 ; ajoutés >= DMAGA 14/29 ; p extrapolé si les 258 reportés ressemblent aux 29 : 0.350
+M2: médiane ajoutés 7.773, principal 1.464, MW p 0.003 ; ajoutés >= DMAGA 13/29 ; p extrapolé si les 258 reportés ressemblent aux 29 : 0.336
+M3: médiane ajoutés 0.761, principal 0.450, MW p 0.001 ; ajoutés >= DMAGA 17/29 ; p extrapolé si les 258 reportés ressemblent aux 29 : 0.439
+M4: médiane ajoutés 0.403, principal 0.347, MW p 0.294 ; ajoutés >= DMAGA 18/29 ; p extrapolé si les 258 reportés ressemblent aux 29 : 0.589
+M5: médiane ajoutés 325.403, principal 176.327, MW p 0.103 ; ajoutés >= DMAGA 12/29 ; p extrapolé si les 258 reportés ressemblent aux 29 : 0.350
+M6: médiane ajoutés 0.047, principal 0.075, MW p 0.011 ; ajoutés >= DMAGA 1/29 ; p extrapolé si les 258 reportés ressemblent aux 29 : 0.086
+M7: médiane ajoutés 0.099, principal 0.074, MW p 0.091 ; ajoutés >= DMAGA 7/29 ; p extrapolé si les 258 reportés ressemblent aux 29 : 0.215
+Spearman mesure / date de création sur R2 : {'M1': np.float64(-0.134), 'M2': np.float64(-0.102), 'M3': np.float64(-0.164), 'M4': np.float64(0.033), 'M5': np.float64(-0.077), 'M6': np.float64(0.061), 'M7': np.float64(-0.118)}
+
+Tronqués : population principale 63 sur 211  ; DMAGA tronqué True
+M1: médiane tronqués 2.047, non tronqués 4.584, MW p 0.067 ; pairs tronqués >= DMAGA 8/63 ; non tronqués 27/148
+M2: médiane tronqués 1.120, non tronqués 1.834, MW p 0.037 ; pairs tronqués >= DMAGA 9/63 ; non tronqués 29/148
+M3: médiane tronqués 0.386, non tronqués 0.471, MW p 0.066 ; pairs tronqués >= DMAGA 8/63 ; non tronqués 42/148
+M4: médiane tronqués 0.307, non tronqués 0.353, MW p 0.382 ; pairs tronqués >= DMAGA 31/63 ; non tronqués 84/148
+M5: médiane tronqués 131.493, non tronqués 183.015, MW p 0.912 ; pairs tronqués >= DMAGA 19/63 ; non tronqués 36/148
+M6: médiane tronqués 0.071, non tronqués 0.078, MW p 0.193 ; pairs tronqués >= DMAGA 6/63 ; non tronqués 26/148
+M7: médiane tronqués 0.067, non tronqués 0.081, MW p 0.056 ; pairs tronqués >= DMAGA 8/63 ; non tronqués 29/148
+135 tronque_sans_pic : couverture médiane 1.63 n'atteignent pas 96 h 127 max horaire médian 44960.0
+Tronqués avec S20 (113) dans la bande principale : 64
+Sur M6, k nécessaire pour p <= 0,05/7 à c=32 constant : 4619 ; sur M1 : 5039
+DMAGA signatures sur [24 h, 96 h) : 7995 ; heures du 21/07 de 12:00 à 20:00 : {'12:00': 36, '13:00': 119, '14:00': 269, '15:00': 112, '16:00': 296, '17:00': 289, '18:00': 95, '19:00': 1719, '20:00': 2463}
+médiane 72 h avant 13:00..19:00 : {'13:00': (119, 7.0, 17.0), '14:00': (269, 7.0, 38.4), '15:00': (112, 7.0, 16.0), '16:00': (296, 7.0, 42.3), '17:00': (289, 7.0, 41.3), '18:00': (95, 7.5, 12.7), '19:00': (1719, 8.0, 214.9)}
+curseur incomplet 5jG2h6zF statut reporte_budget main False fdv_s20 98457.56503951403 fdv_s10 98457.56503951403 pos 2312
+curseur incomplet 8deVHU54 statut reporte_budget main False fdv_s20 nan fdv_s10 196455.76243702316 pos 2207
+curseur incomplet EUr4qeHV statut reporte_budget main False fdv_s20 52599.7910379823 fdv_s10 52599.7910379823 pos 2374
+curseur incomplet acaDbR5Q statut reporte_budget main False fdv_s20 37732.70326980212 fdv_s10 37732.70326980212 pos 2167

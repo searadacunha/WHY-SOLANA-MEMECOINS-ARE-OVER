@@ -1,0 +1,40 @@
+échantillon 236
+appels Helius 276 stats {'requests': 279, 'http_429': 3, 'ok': 276}
+{
+"seed": 20261103,
+"appels": 276,
+"comptes": {
+"full_pool": {
+"n": 110,
+"identiques": 110
+},
+"full_mint": {
+"n": 45,
+"identiques": 45
+},
+"full_venue": {
+"n": 20,
+"identiques": 20
+},
+"full_curve": {
+"n": 1,
+"identiques": 1
+},
+"ctrl_tx": {
+"n": 60,
+"identiques": 60
+}
+},
+"failed_ecarts": [],
+"failed_ok": 40,
+"public": {
+"url": "https://api.mainnet-beta.solana.com",
+"n": 12,
+"trouvees": 12,
+"vides": 0,
+"identiques": 12,
+"erreurs": []
+}
+}
+écarts 0 []
+garde : fini, code 0, pic 122 Mo

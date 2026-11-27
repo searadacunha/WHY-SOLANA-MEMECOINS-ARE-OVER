@@ -1,0 +1,19 @@
+08:32:52 lignes=100000 tid=100000 doublons=0 err=0 sansmint=758 loc=full_mint/t1721638331/p000000.jsonl 37s
+08:33:44 lignes=200000 tid=200000 doublons=0 err=0 sansmint=1047 loc=full_mint/t1722060000/p000002.jsonl 89s
+08:34:26 lignes=300000 tid=300000 doublons=0 err=0 sansmint=1052 loc=full_mint/t1723528800/p000000.jsonl 131s
+08:34:58 lignes=400000 tid=400000 doublons=0 err=0 sansmint=1078 loc=full_mint/t1728259200/p000004.jsonl 163s
+08:35:24 lignes=500000 tid=500000 doublons=0 err=0 sansmint=1088 loc=full_mint/t1730764800/p000002.jsonl 189s
+08:35:50 lignes=600000 tid=600000 doublons=0 err=0 sansmint=1215 loc=full_mint/t1736899200/p000010.jsonl 215s
+08:36:46 lignes=900000 tid=804088 doublons=95912 err=0 sansmint=1266 loc=full_pool/t1721650906/p000005.jsonl 271s
+08:36:59 lignes=1000000 tid=900260 doublons=99740 err=0 sansmint=1266 loc=full_pool/t1721659893/p000005.jsonl 284s
+08:37:16 lignes=1100000 tid=977468 doublons=122532 err=0 sansmint=1266 loc=full_pool/t1721743905/p000016.jsonl 301s
+08:37:32 lignes=1200000 tid=1075017 doublons=124983 err=0 sansmint=1266 loc=full_pool/t1721746232/p000006.jsonl 317s
+08:37:46 lignes=1300000 tid=1172197 doublons=127803 err=0 sansmint=1266 loc=full_pool/t1721750969/p000017.jsonl 332s
+08:38:03 lignes=1400000 tid=1264649 doublons=135351 err=0 sansmint=1266 loc=full_pool/t1721769484/p000002.jsonl 348s
+08:39:07 lignes=1700000 tid=1419356 doublons=280644 err=0 sansmint=1266 loc=full_pool/t1723356000/p000006.jsonl 412s
+08:39:27 lignes=1800000 tid=1517230 doublons=282770 err=0 sansmint=1266 loc=full_pool/t1723377600/p000089.jsonl 432s
+08:39:44 lignes=1900000 tid=1615477 doublons=284523 err=0 sansmint=1266 loc=full_pool/t1723399200/p000064.jsonl 449s
+08:40:40 lignes=2100000 tid=1721562 doublons=378438 err=0 sansmint=1266 loc=full_pool/t1728259200/p000002.jsonl 505s
+08:42:10 lignes=2400000 tid=1800433 doublons=599449 err=118 sansmint=9077 loc=full_venue/6BpwyUJ3vszvfHB24gvV8B4abXC2BTR1hnXwKJUrxbLo/p000007.jsonl 595s
+FIN lignes=2699114 tid=1842450 doublons=856546 err=118 sansmint=40060 682s
+garde : fini, code 0, pic 177 Mo

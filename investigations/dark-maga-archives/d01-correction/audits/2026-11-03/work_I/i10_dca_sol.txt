@@ -1,0 +1,23 @@
+ordres avec exécution 46 USDC 218621.81 SOL natif reçu 213.1565
+ordres sans USDC 19 jetons M vendus 12.24 ; ordres en USDC, jetons M 36.331
+exemples [('2G79JsewZX8r5GGan3St9T7rUpbGSx2kSr1MNshNrbmjzh6ZZCwKnBy1ZXCvd4BY2Nqxv14Kx63HM96K6zDQJ2Vz', 0.148587882, False, '5w2evcxF'), ('1E7v8MDmMTAWw2tAihgjYsMreTRZcVEueTVmjgPWfTVoZq6Npb9vnLPa3g3pVUTF3LefMxNh8ANvsiShu3pJqZj', 0.543821557, False, '5w2evcxF'), ('4cBC6sJT6UEwyZbekDfZHHhVg2SXULSGiPyRMrG1bm3h4oBghrJCADEUmkGN8MWSF4oju5YrfWRQYTAxX2nQteJu', 0.369568492, False, '5w2evcxF'), ('4CsUzDkmDkECowhji5XXhN614cAsF9Bm7j5zkxj1HtmgU7o2cHCXt1CXbx6SvjkbvvsLcXLU7tZkYFNmamW6hpdM', 0.242728719, False, '5w2evcxF'), ('3dTqUqLkE7x4LzBaWKFc88Dzq2jojvZoh9q6o1mEtfbD6jUoJMxYrsLmoENjmBm4yu4zKVrVEDZ4eEXXBfLXdrwE', 0.23769034, False, '5w2evcxF'), ('31jwtn6aKAz7cudz1DPQp4jBngRh8UfS6EYuuiXLKHY739Sx74cD5svM1q33UyYn4NUBk5cJoeu9WXCJLbHos4TA', 0.252453435, False, '5w2evcxF')]
+sans USDC :
+  5w2evcxFzf 4pKFTQxsc6 vendu M 2.0 SOL 8.64 fills 56 {}
+  tivNQcSM38 EEpSRR12vT vendu M 0.013 SOL 0.558 fills 7 {}
+  DMYG5tXAcd EEpSRR12vT vendu M 0.2 SOL 5.286 fills 30 {}
+  2GfuXF3rsj 7udH6KquEj vendu M 0.41 SOL 23.18 fills 17 {}
+  2zpF3EAS3K 6ZMaqHjPYp vendu M 0.457 SOL 22.033 fills 184 {}
+  6DzdNx5etJ 7FGoCB63x3 vendu M 0.004 SOL 0.476 fills 1 {}
+  A7vkoGebaP 7FGoCB63x3 vendu M 0.071 SOL 8.35 fills 18 {}
+  J3Fk12uRm4 7FGoCB63x3 vendu M 0.021 SOL 1.02 fills 8 {}
+  5AQtphEJSd 9XtmxHeJBP vendu M 0.033 SOL 1.753 fills 28 {}
+  GgVbUC7MYs 9XtmxHeJBP vendu M 0.017 SOL 0.826 fills 18 {}
+  8hJQnDt9JJ 9XtmxHeJBP vendu M 0.165 SOL 7.558 fills 4 {}
+  FthjLvh4x6 9XtmxHeJBP vendu M 1.069 SOL 51.191 fills 33 {}
+  74xqewaWJ6 Gmc1EGGV4T vendu M 0.015 SOL 0.719 fills 21 {}
+  CmBZXPgV4e D8syomxNoz vendu M 2.941 SOL 28.502 fills 5 {}
+  63EFgSMEMj D8syomxNoz vendu M 0.021 SOL 0.723 fills 1 {}
+  81BWYNN4n7 HQzyBQN8XV vendu M 3.75 SOL 35.948 fills 6 {}
+  5SJCrviaM8 Cv3p9Wu1Ft vendu M 0.698 SOL 6.685 fills 3 {}
+  FfFercnQ3R 9PoYaK2NZz vendu M 0.221 SOL 8.298 fills 21 {}
+  2JK8srGqtP 5QhJJcFZu2 vendu M 0.137 SOL 1.408 fills 1 {}
