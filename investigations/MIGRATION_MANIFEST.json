@@ -993,5 +993,11 @@
     "investigations/dark-maga/investigations/2026-11-06_historical_replay/data/ledger_7GVC_20240713_20240725.csv",
     "investigations/dark-maga/investigations/2026-11-06_historical_replay/evidence/x_hist/1818184433498755544.fx.json"
   ],
-  "note": "Initial redaction counts include matches subsequently restored after review. Frozen evidence is unchanged except for listed files; use source snapshot for byte-identical reproduction of those files."
+  "note": "Initial redaction counts include matches subsequently restored after review. Frozen evidence is unchanged except for listed files; use source snapshot for byte-identical reproduction of those files.",
+  "test_adaptations": [
+    {
+      "path": "investigations/dark-maga/investigations/2026-11-18_astra_team_promoters_beneficiaries/tests/test_astra_offline.py",
+      "reason": "Verify both the frozen original checksum and the documented redacted derivative for the Yandex web capture; all other original checksum tests remain unchanged."
+    }
+  ]
 }

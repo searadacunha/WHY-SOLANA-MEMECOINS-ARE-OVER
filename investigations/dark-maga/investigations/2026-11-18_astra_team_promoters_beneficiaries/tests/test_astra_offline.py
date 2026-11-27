@@ -85,7 +85,18 @@ class Integrity(unittest.TestCase):
         for line in open(p):
             h, f = line.strip().split(None, 1)
             if f.startswith('tests/') or f == 'SHA256SUMS.txt': continue
-            self.assertEqual(hashlib.sha256(open(os.path.join(ROOT, f), 'rb').read()).hexdigest(), h, f)
+            actual = hashlib.sha256(open(os.path.join(ROOT, f), 'rb').read()).hexdigest()
+            migration = os.path.abspath(os.path.join(ROOT, '../../..', 'MIGRATION_MANIFEST.json'))
+            if f == 'evidence/web/yandex_result.html' and os.path.exists(migration):
+                # Preserve the frozen source checksum; verify the documented redacted derivative separately.
+                with open(migration) as stream:
+                    records = json.load(stream)['modified_files']
+                rel = 'investigations/dark-maga/investigations/2026-11-18_astra_team_promoters_beneficiaries/' + f
+                record = next(row for row in records if row['path'] == rel)
+                self.assertEqual(record['original_sha256'], h, f)
+                self.assertEqual(actual, record['published_sha256'], f)
+            else:
+                self.assertEqual(actual, h, f)
     def test_images(self):
         d = json.load(open(os.path.join(ROOT, 'data/image_comparison.json')))
         self.assertEqual(d['phash_distance']['token|pfp'], 0); self.assertGreater(d['phash_distance']['token|murray_0231'], 20)
